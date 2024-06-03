@@ -21,7 +21,7 @@ export const VerseView = (props: VerseViewProps) => {
   
   const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
 
-  const [search, setSearch] = useState<Annotation[] | undefined>();
+  const [search, setSearch] = useState<Annotation[]>([]);
 
   useEffect(() => {
     Promise.all([

@@ -1,0 +1,10 @@
+.openseadragon {
+  height: 100%;
+  width: 100%;
+}
+
+.openseadragon-canvas {
+  outline: none;
+  height: 100%;
+  width: 100%;
+}

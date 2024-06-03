@@ -1,0 +1,86 @@
+import { useEffect, useMemo } from 'react';
+import {
+  OpenSeadragonAnnotator, 
+  OpenSeadragonViewer, 
+  PointerSelectAction, 
+  W3CImageFormat, 
+  useAnnotator
+} from '@annotorious/react';
+import type {
+  AnnotationState,
+  DrawingStyleExpression,
+  DrawingStyle,
+  ImageAnnotation,
+  W3CImageAnnotation,
+  Annotation
+} from '@annotorious/react';
+
+import './AnnotatedImage.css';
+import '@annotorious/react/annotorious-react.css';
+
+interface AnnotatedImageProps {
+
+  annotations: W3CImageAnnotation[];
+
+  imageManifest: string;
+
+  searchResults: Annotation[];
+
+}
+
+const BASE_STYLE: DrawingStyleExpression<ImageAnnotation> = (a: ImageAnnotation, state?: AnnotationState) => ({
+  fill: state?.selected ? '#ff0000' : '#ffffff',
+  fillOpacity: (state?.hovered || state?.selected) ? 0.25 : 0.1,
+  stroke: state?.selected ? '#ff0000' : '#ffffff',
+  strokeOpacity: (state?.hovered || state?.selected) ? 0.9 : 0.35,
+  strokeWidth: (state?.hovered || state?.selected) ? 1 : 0
+} as DrawingStyle);
+
+export const AnnotatedImage = (props: AnnotatedImageProps) => {
+
+  const anno = useAnnotator();
+
+  const options = useMemo(() => ({
+    prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@3.1/build/openseadragon/images/',
+    tileSources: props.imageManifest,
+    gestureSettingsMouse: {
+      clickToZoom: false
+    },
+    maxZoomLevel: 4,
+    minZoomLevel: 0.25
+  }), [props.imageManifest]);
+
+  useEffect(() => {
+    if (!anno || !props.annotations) return;
+
+    anno.setAnnotations(props.annotations);
+  }, [anno, props.annotations]);
+
+  const style = useMemo(() => {
+    if (props.searchResults.length === 0) {
+      return BASE_STYLE;
+    } else {
+      const highlighted = new Set(props.searchResults.map(a => a.id));
+
+      const style: DrawingStyleExpression<ImageAnnotation> = (a, _) => ({
+        fill: highlighted.has(a.id) ? '#ffff00' : '#ffffff',
+        fillOpacity: highlighted.has(a.id) ? 0.25 : 0.1,
+        strokeOpacity: highlighted.has(a.id) ? 0.9 : 0.1
+      });
+
+      return style;
+    }
+  }, [props.searchResults]);
+
+  return (
+    <OpenSeadragonAnnotator 
+      adapter={W3CImageFormat(props.imageManifest)}
+      drawingEnabled={false}
+      pointerSelectAction={PointerSelectAction.SELECT}
+      style={style}>
+            
+      <OpenSeadragonViewer className="openseadragon" options={options} />
+    </OpenSeadragonAnnotator>
+  )
+
+}

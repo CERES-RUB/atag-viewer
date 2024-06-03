@@ -11,7 +11,7 @@ interface PageHeaderProps {
 
   isRelatedVersesOpen: boolean;
 
-  onSearch(hits?: Annotation[]): void;
+  onSearch(hits: Annotation[]): void;
 
   onToggleRelatedImages(): void;
 
@@ -21,7 +21,7 @@ interface PageHeaderProps {
 
 export const PageHeader = (props: PageHeaderProps) => {
 
-  const [searchHits, setSearchHits] = useState<Annotation[] | undefined>(undefined);
+  const [searchHits, setSearchHits] = useState<Annotation[]>([]);
 
   useEffect(() => {
     props.onSearch(searchHits);

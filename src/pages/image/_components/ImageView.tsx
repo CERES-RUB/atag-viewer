@@ -1,11 +1,12 @@
 import { useState } from 'react';
-import type { Annotation } from '@annotorious/react';
+import { Annotorious, type Annotation } from '@annotorious/react';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import type { ImageMetadata } from 'src/Types';
 
 import './ImageView.css';
+import { AnnotatedImage } from './AnnotatedImage';
 
 interface ImageViewProps {
 
@@ -19,10 +20,10 @@ export const ImageView = (props: ImageViewProps) => {
   
   const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
 
-  const [search, setSearch] = useState<Annotation[] | undefined>();
-  
+  const [search, setSearch] = useState<Annotation[]>([]);
+
   return (
-    <>
+    <Annotorious>
       <PageHeader 
         isRelatedImagesOpen={isRelatedImagesOpen}
         isRelatedVersesOpen={isRelatedVersesOpen}
@@ -32,6 +33,10 @@ export const ImageView = (props: ImageViewProps) => {
 
       <div className="view-wrapper">
         <main>
+          <AnnotatedImage 
+            annotations={[]} 
+            imageManifest={props.image.manifest}
+            searchResults={[]} />
         </main>
 
         <div className="drawer-wrapper">
@@ -42,7 +47,7 @@ export const ImageView = (props: ImageViewProps) => {
             open={isRelatedImagesOpen} />
         </div>
       </div>
-    </>
+    </Annotorious>
   )
 
 }
