@@ -1,9 +1,10 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Annotorious } from '@annotorious/react';
-import type { W3CImageAnnotation, Annotation } from '@annotorious/react';
+import type { Annotation } from '@annotorious/react';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
+import { useAnnotations } from '@lib/hooks';
 import { AnnotatedImage } from './AnnotatedImage';
 import type { ImageMetadata } from 'src/Types';
 
@@ -21,15 +22,9 @@ export const ImageView = (props: ImageViewProps) => {
   
   const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
 
-  const [annotations, setAnnotations] = useState<W3CImageAnnotation[]>([]);
+  const annotations = useAnnotations(`annotations/image/${props.image.slug}.json`);
 
   const [search, setSearch] = useState<Annotation[]>([]);
-
-  useEffect(() => {
-    fetch(`../../annotations/image/${props.image.slug}.json`)
-    .then((response) => response.json())
-    .then(setAnnotations);
-  }, []);
 
   return (
     <Annotorious>

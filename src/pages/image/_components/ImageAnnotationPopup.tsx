@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import OpenSeadragon from 'openseadragon';
 import { useSelection, useViewer, type ImageAnnotation } from '@annotorious/react';
 import { AnnotationPopup } from '@components/AnnotationPopup';
-import { toClientRects } from '@lib/util';
+import { toClientRects } from '@lib/utils';
 import {
   useFloating,
   arrow,
