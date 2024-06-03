@@ -1,8 +1,10 @@
 import { useEffect, useState } from 'react';
-import type { Annotation } from '@annotorious/react';
+import { Annotorious, type Annotation } from '@annotorious/react';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
+import { useAnnotations } from '@lib/hooks';
+import { AnnotatedVerse } from './AnnotatedVerse';
 import type { VerseMetadata } from 'src/Types';
 
 import './VerseView.css';
@@ -17,6 +19,8 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [verse, setVerse] = useState<string>();
 
+  const annotations = useAnnotations(`annotations/verse/${props.verse.slug}.json`);
+
   const [isRelatedImagesOpen, setRelatedImagesOpen] = useState(false);
   
   const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
@@ -24,18 +28,13 @@ export const VerseView = (props: VerseViewProps) => {
   const [search, setSearch] = useState<Annotation[]>([]);
 
   useEffect(() => {
-    Promise.all([
-      fetch(`../../verses/${props.verse.slug}.txt`).then(res => res.text()),
-      fetch(`../../annotations/${props.verse.slug}.json`).then(res => res.json())
-    ]).then(([verse, annotations]) => {
-      setVerse(verse);
-
-      // TODO annotations
-    });
+    fetch(`../../verses/${props.verse.slug}.txt`)
+      .then(res => res.text())
+      .then(setVerse);
   }, []);
 
   return (
-    <>
+    <Annotorious>
       <PageHeader 
         isRelatedImagesOpen={isRelatedImagesOpen}
         isRelatedVersesOpen={isRelatedVersesOpen}
@@ -47,7 +46,12 @@ export const VerseView = (props: VerseViewProps) => {
         <main>
           <div className="page">
             <h1>{props.verse.title}</h1>
-            {verse && <div>{verse}</div>}
+            {(verse && annotations.length > 0) && (
+              <AnnotatedVerse
+                annotations={annotations}
+                verse={verse} 
+                searchResults={search} />
+            )}
           </div>
         </main>
 
@@ -57,7 +61,7 @@ export const VerseView = (props: VerseViewProps) => {
         <RelatedImages
           open={isRelatedImagesOpen} />
       </div>
-    </>
+    </Annotorious>
   )
 
 }

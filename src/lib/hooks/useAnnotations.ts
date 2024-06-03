@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
-import type { W3CAnnotation, W3CImageAnnotation } from '@annotorious/react';
+import type { W3CAnnotation } from '@annotorious/react';
 
 export const useAnnotations = (path: string) => {
 
-  const [annotations, setAnnotations] = useState<W3CImageAnnotation[]>([]);
+  const [annotations, setAnnotations] = useState<W3CAnnotation[]>([]);
 
   useEffect(() => {
     fetch(`../../${path}`)
@@ -17,7 +17,10 @@ export const useAnnotations = (path: string) => {
           });
 
         setAnnotations(filtered);
-      });
+      })
+      .catch(error => {
+        console.log('Error fetching annotations', error);
+      })
   }, []);
 
   return annotations;

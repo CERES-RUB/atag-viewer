@@ -28,7 +28,7 @@
     "@astrojs/check": "^0.5.10",
     "@astrojs/react": "^3.3.0",
     "@floating-ui/react": "^0.26.12",
-    "@recogito/react-text-annotator": "^3.0.0-rc.23",
+    "@recogito/react-text-annotator": "3.0.0-rc.23",
     "astro": "^4.6.3",
     "fuse.js": "^7.0.0",
     "lucide-react": "^0.372.0",
