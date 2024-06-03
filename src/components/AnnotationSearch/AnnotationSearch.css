@@ -1,0 +1,51 @@
+.annotation-search {
+  color: #fff;
+  font-family: Manrope, Arial, Helvetica, sans-serif;
+  font-size: 0.725rem;
+  position: relative;
+}
+
+.annotation-search .collapsible {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  right: 8px;
+  top: 0;
+}
+
+.annotation-search .collapsible .actions {
+  align-items: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.25);
+  display: flex;
+  gap: 0.5rem;
+  padding-left: 0.75rem;
+}
+
+.annotation-search input {
+  background-color: #3c3c3c;
+  border: none;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 0.825rem;
+  outline: none;
+  padding: 0.5rem 0.125rem 0.5rem 36px;
+  width: 340px;
+}
+
+.annotation-search input::placeholder {
+  color: #fff;
+  opacity: 1;
+}
+
+.annotation-search input::-ms-input-placeholder { /* Edge 12 -18 */
+  color: #fff;
+}
+
+.annotation-search > svg {
+  color: #fff;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+}

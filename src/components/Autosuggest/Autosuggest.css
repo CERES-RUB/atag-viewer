@@ -1,0 +1,27 @@
+.react-autosuggest {
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2), 0 4px 6px -4px rgba(0, 0, 0, 0.2);
+  color: #000;
+  font-size: 0.825rem;
+  margin-top: 0.25rem;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  z-index: 30;
+}
+
+.react-autosuggest ul {
+  list-style-type: none;
+  line-height: 180%;
+  margin: 0; 
+  padding: 0;
+}
+
+.react-autosuggest .react-autosuggest__suggestions-list li {
+  padding: 0.5rem 0.75rem;
+}
+
+.react-autosuggest .react-autosuggest__suggestion--highlighted {
+  background-color: var(--gray-100);
+}

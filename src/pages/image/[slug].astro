@@ -1,0 +1,12 @@
+---
+import Layout from '@layouts/Layout.astro';
+import { ImageView } from './_components/ImageView';
+
+export function getStaticPaths() {
+  return [
+    {params: {slug: 'canto-1'}}
+  ];
+}
+
+const { slug } = Astro.params;
+---

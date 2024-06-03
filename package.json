@@ -1,0 +1,41 @@
+{
+  "name": "diga-viewer",
+  "version": "0.1.0",
+  "description": "A bespoke frontend for visualizing annotated interlinked annotated texts and images",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build-snippets": "node scripts/buildSnippets.js",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "author": "Rainer Simon",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@types/openseadragon": "^3.0.10",
+    "@types/react": "^18.2.79",
+    "@types/react-autosuggest": "^10.1.11",
+    "@types/react-dom": "^18.2.25",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.10"
+  },
+  "dependencies": {
+    "@annotorious/react": "^3.0.0-rc.23",
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/react": "^3.3.0",
+    "@floating-ui/react": "^0.26.12",
+    "@recogito/react-text-annotator": "^3.0.0-rc.23",
+    "astro": "^4.6.3",
+    "fuse.js": "^7.0.0",
+    "lucide-react": "^0.372.0",
+    "openseadragon": "^4.1.1",
+    "react": "^18.2.0",
+    "react-autosuggest": "^10.1.0",
+    "react-dom": "^18.2.0",
+    "react-spring": "^9.7.3"
+  }
+}
