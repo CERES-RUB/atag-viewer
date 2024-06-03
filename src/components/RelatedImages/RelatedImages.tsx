@@ -1,5 +1,7 @@
 import { animated, easings, useTransition } from 'react-spring';
 
+import './RelatedImages.css';
+
 interface RelatedImagesProps {
 
   open?: boolean;
@@ -19,7 +21,9 @@ export const RelatedImages = (props: RelatedImagesProps) => {
   });
 
   return transition((style, open) => open && (
-    <animated.aside style={style}>
+    <animated.aside 
+      style={style}
+      className="related related-images">
       Images
     </animated.aside>
   ))

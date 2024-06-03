@@ -1,5 +1,7 @@
 import { animated, easings, useTransition } from 'react-spring';
 
+import './RelatedVerses.css';
+
 interface RelatedVersesProps {
 
   open?: boolean;
@@ -19,7 +21,9 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
   });
 
   return transition((style, open) => open && (
-    <animated.aside style={style}>
+    <animated.aside 
+      style={style}
+      className="related related-verses">
       Verses
     </animated.aside>
   ))
