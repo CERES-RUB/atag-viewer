@@ -92,7 +92,7 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
     }
   }, [selected, viewer]);
 
-  return selected && isOpen && (
+  return (selected && isOpen) && (
     <div
       className="image-annotation-popup"
       ref={refs.setFloating}

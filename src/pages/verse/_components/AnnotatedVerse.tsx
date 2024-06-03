@@ -1,11 +1,11 @@
 import { useCallback, useEffect } from 'react';
 import { useAnnotator } from '@annotorious/react';
 import type { Annotation, W3CAnnotation } from '@annotorious/react';
-import { W3CTextFormat } from '@recogito/text-annotator';
-import { TextAnnotator } from '@recogito/react-text-annotator';
+import { TextAnnotator, W3CTextFormat, type HighlightStyle } from '@recogito/react-text-annotator';
 
 import './AnnotatedVerse.css';
 import '@recogito/react-text-annotator/react-text-annotator.css';
+import { VerseAnnotationPopup } from './VerseAnnotationPopup';
 
 const VERSE_TAGS = new Set([
   'first meditation',
@@ -55,6 +55,8 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
       <div className="annotated-text">
         {props.verse}
       </div>
+
+      <VerseAnnotationPopup />
     </TextAnnotator>
   )
 
