@@ -2,20 +2,17 @@ import { useCallback, useEffect } from 'react';
 import { useAnnotator } from '@annotorious/react';
 import type { Annotation, W3CAnnotation } from '@annotorious/react';
 import { TextAnnotator, W3CTextFormat, type HighlightStyle } from '@recogito/react-text-annotator';
+import { VerseAnnotationPopup } from './VerseAnnotationPopup';
+import type { ThesaurusTerm } from 'src/Types';
 
 import './AnnotatedVerse.css';
 import '@recogito/react-text-annotator/react-text-annotator.css';
-import { VerseAnnotationPopup } from './VerseAnnotationPopup';
-
-const VERSE_TAGS = new Set([
-  'first meditation',
-  'encounter with a mendicant',
-  'the bodhisattva watching sleeping women'
-]);
 
 interface AnnotatedVerseProps {
 
   verse: string;
+
+  narrativeTerms: ThesaurusTerm[];
 
   annotations: W3CAnnotation[];
 
@@ -27,8 +24,10 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const anno = useAnnotator();
 
+  const narrative = new Set(props.narrativeTerms.map(t => t.prefLabel));
+
   const style = useCallback((a: Annotation) => {
-    const isSection = a.bodies.find(b => b.value && VERSE_TAGS.has(b.value));
+    const isSection = a.bodies.find(b => b.value && narrative.has(b.value));
 
     return isSection ? {
       fill: '#000',

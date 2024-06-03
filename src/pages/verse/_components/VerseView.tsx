@@ -4,6 +4,7 @@ import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import { useAnnotations } from '@lib/hooks';
+import { useNarrativeTerms } from '../_hooks';
 import { AnnotatedVerse } from './AnnotatedVerse';
 import type { VerseMetadata } from 'src/Types';
 
@@ -16,6 +17,8 @@ interface VerseViewProps {
 }
 
 export const VerseView = (props: VerseViewProps) => {
+
+  const narrativeTerms = useNarrativeTerms();
 
   const [verse, setVerse] = useState<string>();
 
@@ -46,9 +49,10 @@ export const VerseView = (props: VerseViewProps) => {
         <main>
           <div className="page">
             <h1>{props.verse.title}</h1>
-            {(verse && annotations.length > 0) && (
+            {(verse && annotations.length > 0 && narrativeTerms.length > 0) && (
               <AnnotatedVerse
                 annotations={annotations}
+                narrativeTerms={narrativeTerms}
                 verse={verse} 
                 searchResults={search} />
             )}

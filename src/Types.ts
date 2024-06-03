@@ -15,3 +15,15 @@ export interface VerseMetadata {
   title: string;
 
 }
+
+export interface ThesaurusTerm {
+
+  uri: string;
+
+  localname: string;
+
+  prefLabel: string;
+
+  lang: string;
+
+}
