@@ -75,7 +75,7 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
     if (selected) {
       const setPosition = () => { 
         const rect = getAnnotationDomRect(viewer, selected);
-
+        
         refs.setReference({
           getBoundingClientRect: () => rect,
           getClientRects: () => toClientRects(rect)
