@@ -13,7 +13,7 @@ const { slug } = Astro.params;
 
 const image = listImages().find(i => i.slug === slug)!;
 ---
-<Layout title="Verse">			
+<Layout title={`Image | ${image.title}`}>			
 	<ImageView
 		client:only="react" 
     image={image} />

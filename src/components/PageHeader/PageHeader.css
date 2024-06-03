@@ -1,0 +1,58 @@
+header {
+  align-items: center;
+  font-family: Manrope;
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+header .header-left {
+  align-items: center;
+  display: flex;
+  gap: 1.25rem;
+  font-size: 0.825rem;
+  padding-left: 0.25rem;
+} 
+
+header .header-right {
+  align-items: center;
+  display: flex;
+  gap: 0.75rem;
+}
+
+header a {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  gap: 0.25rem;
+  text-decoration: none;
+}
+
+header a + a:before {
+  content: '·';
+  padding-right: 0.75rem;
+}
+
+header button {
+  all: unset;
+  align-items: center;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  justify-content: center;
+  outline: none;
+  width: 34px;
+}
+
+header button:hover {
+  background-color: #3c3c3c;
+}
+
+header button.active {
+  background-color: #fff;
+  color: #000;
+}

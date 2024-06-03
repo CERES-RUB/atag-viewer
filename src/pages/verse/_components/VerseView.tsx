@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { BookOpenText, ChevronLeft, Image } from 'lucide-react';
-import { AnnotationSearch } from '@components/AnnotationSearch';
+import type { Annotation } from '@annotorious/react';
+import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import type { VerseMetadata } from 'src/Types';
@@ -17,11 +17,11 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [verse, setVerse] = useState<string>();
 
-  const [search, setSearch] = useState<string[]>([]);
+  const [isRelatedImagesOpen, setRelatedImagesOpen] = useState(false);
+  
+  const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
 
-  const [relatedVersesOpen, setRelatedVersesOpen] = useState(false);
-
-  const [relatedImagesOpen, setRelatedImagesOpen] = useState(false);
+  const [search, setSearch] = useState<Annotation[] | undefined>();
 
   useEffect(() => {
     Promise.all([
@@ -36,33 +36,12 @@ export const VerseView = (props: VerseViewProps) => {
 
   return (
     <>
-      <header>
-        <div className="header-left">
-          <a href="../..">
-            <ChevronLeft />
-            <span>Home</span>
-          </a>
-
-          <a href="../../about">About</a>
-        </div>
-
-        <div className="header-right">
-          <AnnotationSearch 
-            onSearch={hits => setSearch(hits.map(a => a.id))}/>
-
-          <button 
-            className={relatedVersesOpen ? 'toggle active' : 'toggle'}
-            onClick={() => setRelatedVersesOpen(open => !open)}>
-            <BookOpenText size={18} />
-          </button>
-
-          <button 
-            className={relatedImagesOpen ? 'toggle active' : 'toggle'}
-            onClick={() => setRelatedImagesOpen(open => !open)}>
-            <Image size={18} />
-          </button>
-        </div>
-      </header>
+      <PageHeader 
+        isRelatedImagesOpen={isRelatedImagesOpen}
+        isRelatedVersesOpen={isRelatedVersesOpen}
+        onToggleRelatedImages={() => setRelatedImagesOpen(open => !open)}
+        onToggleRelatedVerses={() => setRelatedVersesOpen(open => !open)}
+        onSearch={setSearch} />
 
       <div className="flex-wrapper">
         <main>
@@ -73,10 +52,10 @@ export const VerseView = (props: VerseViewProps) => {
         </main>
 
         <RelatedVerses 
-          open={relatedVersesOpen} />
+          open={isRelatedVersesOpen} />
 
         <RelatedImages
-          open={relatedImagesOpen} />
+          open={isRelatedImagesOpen} />
       </div>
     </>
   )
