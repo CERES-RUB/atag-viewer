@@ -45,7 +45,7 @@ export const ImageView = (props: ImageViewProps) => {
           <AnnotatedImage 
             annotations={annotations} 
             imageManifest={props.image.manifest}
-            searchResults={[]} />
+            searchResults={search} />
         </main>
 
         <div className="drawer-wrapper">

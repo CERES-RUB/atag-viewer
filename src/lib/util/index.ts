@@ -1,2 +1,2 @@
-export * from './listImages';
-export * from './listVerses';
+export * from './domUtils';
+export * from './fsUtils';
