@@ -1,12 +1,20 @@
 ---
 import Layout from '@layouts/Layout.astro';
+import { listImages } from '@lib/util';
 import { ImageView } from './_components/ImageView';
 
 export function getStaticPaths() {
-  return [
-    {params: {slug: 'canto-1'}}
-  ];
+  return listImages().map(v => (
+    { params: { slug: v.slug }}
+  ));
 }
 
 const { slug } = Astro.params;
+
+const image = listImages().find(i => i.slug === slug)!;
 ---
+<Layout title="Verse">			
+	<ImageView
+		client:only="react" 
+    image={image} />
+</Layout>

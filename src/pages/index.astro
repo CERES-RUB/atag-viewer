@@ -1,18 +1,6 @@
 ---
-import fs from 'fs';
 import Layout from '@layouts/Layout.astro';
-import type { ImageMetadata } from '../Types';
-
-const images = fs.readdirSync('./public/images').reduce<ImageMetadata[]>((all, path) => {
-	const json = fs.readFileSync(`./public/images/${path}`);
-
-	const image = {
-		slug: path,
-		...JSON.parse(json.toString())[0] 
-	} as ImageMetadata;
-
-	return [...all, image]; 
-}, []);
+import { listImages, listVerses } from '@lib/util';
 ---
 <Layout title="Annotated Content Browser">
 	<main>
@@ -22,16 +10,18 @@ const images = fs.readdirSync('./public/images').reduce<ImageMetadata[]>((all, p
 			<li>
 				<h2>Verses</h2>
 				<ul>
-					<li>
-						<a href="verse/canto-5">Canto 5</a>
-					</li>
+					{listVerses().map(meta => (
+						<li>
+							<a href={`verse/${meta.slug}`}>{meta.title}</a>
+						</li>
+					))}
 				</ul>
 			</li>
 
 			<li>
 				<h2>Images</h2>
 				<ul>
-					{images.map(meta => (
+					{listImages().map(meta => (
 						<li>
 							<a href={`image/${meta.slug}`}>{meta.title}</a>
 						</li>

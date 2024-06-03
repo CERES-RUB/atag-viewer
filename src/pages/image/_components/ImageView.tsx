@@ -1,9 +1,17 @@
+import type { ImageMetadata } from 'src/Types';
+
 import './ImageView.css';
 
-export const ImageView = () => {
+interface ImageViewProps {
+
+  image: ImageMetadata;
+
+}
+
+export const ImageView = (props: ImageViewProps) => {
   
   return (
-    <div></div>
+    <div>Ok</div>
   )
 
 }

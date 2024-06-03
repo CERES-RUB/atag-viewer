@@ -7,3 +7,11 @@ export interface ImageMetadata {
   manifest: string;
 
 }
+
+export interface VerseMetadata {
+
+  slug: string;
+
+  title: string;
+
+}

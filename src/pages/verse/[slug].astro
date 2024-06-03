@@ -1,6 +1,7 @@
 ---
 import Layout from '@layouts/Layout.astro';
 import { VerseView } from './_components/VerseView';
+import { listVerses } from '@lib/util';
 
 export function getStaticPaths() {
   return [
@@ -9,9 +10,11 @@ export function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
+
+const verse = listVerses().find(i => i.slug === slug)!;
 ---
 <Layout title="Verse">			
 	<VerseView
 		client:only="react" 
-    slug={slug} />
+    verse={verse} />
 </Layout>

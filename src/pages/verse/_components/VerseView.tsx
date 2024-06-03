@@ -3,12 +3,13 @@ import { BookOpenText, ChevronLeft, Image } from 'lucide-react';
 import { AnnotationSearch } from '@components/AnnotationSearch';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
+import type { VerseMetadata } from 'src/Types';
 
 import './VerseView.css';
 
 interface VerseViewProps {
 
-  slug: string;
+  verse: VerseMetadata;
 
 }
 
@@ -24,8 +25,8 @@ export const VerseView = (props: VerseViewProps) => {
 
   useEffect(() => {
     Promise.all([
-      fetch(`../../verses/${props.slug}.txt`).then(res => res.text()),
-      fetch(`../../annotations/${props.slug}.json`).then(res => res.json())
+      fetch(`../../verses/${props.verse.slug}.txt`).then(res => res.text()),
+      fetch(`../../annotations/${props.verse.slug}.json`).then(res => res.json())
     ]).then(([verse, annotations]) => {
       setVerse(verse);
 
@@ -66,6 +67,7 @@ export const VerseView = (props: VerseViewProps) => {
       <div className="flex-wrapper">
         <main>
           <div className="page">
+            <h1>{props.verse.title}</h1>
             {verse && <div>{verse}</div>}
           </div>
         </main>
