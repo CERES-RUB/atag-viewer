@@ -1,0 +1,25 @@
+.annotation-popup {
+  background: #fff;
+  border-radius: var(--border-radius);
+  line-height: 160%;
+  padding: 5px 15px;
+}
+
+.annotation-popup .tags {
+  padding: 0.25rem 0;
+}
+
+.annotation-popup .related {
+  color: var(--text-muted-foreground);
+  font-size: 15px;
+}
+
+.annotation-popup .related button {
+  all: unset;
+  cursor: pointer;
+}
+
+.annotation-popup .related button:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}

@@ -45,6 +45,8 @@ export const ImageView = (props: ImageViewProps) => {
           <AnnotatedImage 
             annotations={annotations} 
             imageManifest={props.image.manifest}
+            isRelatedImagesOpen={isRelatedImagesOpen}
+            isRelatedVersesOpen={isRelatedVersesOpen}
             searchResults={search} />
         </main>
 

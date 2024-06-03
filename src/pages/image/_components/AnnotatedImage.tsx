@@ -17,8 +17,13 @@ import type {
 
 import './AnnotatedImage.css';
 import '@annotorious/react/annotorious-react.css';
+import { ImageAnnotationPopup } from './ImageAnnotationPopup';
 
 interface AnnotatedImageProps {
+
+  isRelatedImagesOpen: boolean;
+  
+  isRelatedVersesOpen: boolean;
 
   annotations: W3CImageAnnotation[];
 
@@ -72,6 +77,12 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
     }
   }, [props.searchResults]);
 
+  const marginRight = useMemo(() => (
+    (props.isRelatedImagesOpen && props.isRelatedVersesOpen) ? 600 :
+    (props.isRelatedImagesOpen || props.isRelatedVersesOpen) ? 300 :
+    0
+  ), [props.isRelatedImagesOpen, props.isRelatedVersesOpen])
+
   return (
     <OpenSeadragonAnnotator 
       adapter={W3CImageFormat(props.imageManifest)}
@@ -80,6 +91,9 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
       style={style}>
             
       <OpenSeadragonViewer className="openseadragon" options={options} />
+
+      <ImageAnnotationPopup 
+        marginRight={marginRight}/>
     </OpenSeadragonAnnotator>
   )
 

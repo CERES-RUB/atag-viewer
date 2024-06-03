@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { useSelection, useViewer, type ImageAnnotation } from '@annotorious/react';
 import OpenSeadragon from 'openseadragon';
+import { useSelection, useViewer, type ImageAnnotation } from '@annotorious/react';
+import { AnnotationPopup } from '@components/AnnotationPopup';
 import { toClientRects } from '@lib/util';
 import {
   useFloating,
@@ -14,13 +15,10 @@ import {
 } from '@floating-ui/react';
 
 import './ImageAnnotationPopup.css';
-import { AnnotationPopup } from '@components/AnnotationPopup';
 
 const getAnnotationDomRect = (viewer: OpenSeadragon.Viewer, annotation: ImageAnnotation) => {
-  // Annotation bounds (image coordinates)
   const { minX, minY, maxX, maxY } = annotation.target.selector.geometry.bounds;
 
-  // Annotation bounding client rect corners
   const topLeft = viewer.viewport.imageToWindowCoordinates(new OpenSeadragon.Point(minX, minY));
   const bottomRight = viewer.viewport.imageToWindowCoordinates(new OpenSeadragon.Point(maxX, maxY));
 
@@ -32,7 +30,13 @@ const getAnnotationDomRect = (viewer: OpenSeadragon.Viewer, annotation: ImageAnn
   );
 }
 
-export const ImageAnnotationPopup = () => {
+interface ImageAnnotationPopupProps {
+
+  marginRight: number;
+
+}
+
+export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
 
   const selection = useSelection();
 
@@ -57,7 +61,7 @@ export const ImageAnnotationPopup = () => {
       shift({ 
         crossAxis: true,
         boundary: viewer?.element,
-        padding: { right: 285, left: 5, top: 10, bottom: 10 }
+        padding: { right: props.marginRight + 5, left: 5, top: 10, bottom: 10 }
       }),
       arrow({
         element: arrowRef,
@@ -90,10 +94,13 @@ export const ImageAnnotationPopup = () => {
 
   return selected && isOpen && (
     <div
-      className="annotation-popup image-annotation-popup"
+      className="image-annotation-popup"
       ref={refs.setFloating}
       style={floatingStyles}>
-      <FloatingArrow ref={arrowRef} context={context} />
+      <FloatingArrow 
+        ref={arrowRef} 
+        context={context} 
+        fill="#fff" />
 
       <AnnotationPopup 
         annotation={selected} />
