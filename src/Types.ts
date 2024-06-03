@@ -27,3 +27,35 @@ export interface ThesaurusTerm {
   lang: string;
 
 }
+
+export interface RelatedImageAnnotation {
+
+  type: 'IMAGE';
+
+  id: string;
+
+  thumbnail: string;
+
+  image: string;
+  
+  slug: string;
+
+  tags: string[];
+
+}
+
+export interface RelatedVerseAnnotation {
+
+  type: 'VERSE';
+
+  id: string;
+
+  snippet?: string;
+
+  verse: string;
+
+  slug: string;
+
+  tags: string[];
+
+}
