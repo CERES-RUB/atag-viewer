@@ -1,2 +1,2 @@
 export * from './useAnnotations';
-export * from './useRelatedAnnotations';
+export * from './useRelated';

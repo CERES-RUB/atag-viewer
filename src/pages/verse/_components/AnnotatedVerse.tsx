@@ -6,7 +6,7 @@ import type { HighlightStyle, TextAnnotation } from '@recogito/react-text-annota
 import { useRelated } from '@lib/hooks';
 import { useNarrativeTerms } from '../_hooks';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
-import type { RelatedAnnotation } from 'src/Types';
+import type { Selected } from 'src/Types';
 
 import './AnnotatedVerse.css';
 import '@recogito/react-text-annotator/react-text-annotator.css';
@@ -19,7 +19,7 @@ interface AnnotatedVerseProps {
 
   searchResults: Annotation[];
 
-  onSelect(annotation?: TextAnnotation, related?: RelatedAnnotation[]): void;
+  onSelect(selected: Selected): void;
 
 }
 
@@ -34,7 +34,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
       ? selection.selected[0].annotation as TextAnnotation : undefined
   ), [selection.selected.map(s => s.annotation.id).join(',')]);
 
-  const related = useRelated(selected);
+  const { images, verses } = useRelated(selected);
 
   const narrative = useNarrativeTerms();
 
@@ -58,8 +58,12 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   }, [anno, props.annotations]);
 
   useEffect(() => {
-    props.onSelect(selected, related);
-  }, [selected, related]);
+    props.onSelect({ 
+      annotation: selected, 
+      relatedImages: images, 
+      relatedVerses: verses
+    });
+  }, [selected, images, verses]);
 
   return narrative && (
     <TextAnnotator
@@ -73,7 +77,8 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
       <VerseAnnotationPopup 
         annotation={selected} 
-        related={related} />
+        relatedImages={images} 
+        relatedVerses={verses} />
     </TextAnnotator>
   )
 

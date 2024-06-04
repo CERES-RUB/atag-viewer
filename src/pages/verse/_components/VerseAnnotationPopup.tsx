@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import type { TextAnnotation, TextSelector } from '@recogito/react-text-annotator';
 import { AnnotationPopup } from '@components/AnnotationPopup';
 import { getClosestRect, toClientRects } from '@lib/utils';
-import type { RelatedAnnotation } from 'src/Types';
+import type { RelatedImageAnnotation, RelatedVerseAnnotation } from 'src/Types';
 import {
   autoUpdate,
   flip,
@@ -18,7 +18,9 @@ interface VerseAnnotationPopup {
 
   annotation?: TextAnnotation;
 
-  related?: RelatedAnnotation[];
+  relatedImages?: RelatedImageAnnotation[];
+
+  relatedVerses?: RelatedVerseAnnotation[];
 
 }
 
@@ -90,7 +92,8 @@ export const VerseAnnotationPopup = (props: VerseAnnotationPopup) => {
       
       <AnnotationPopup 
         annotation={props.annotation} 
-        related={props.related || []} />
+        relatedImages={props.relatedImages || []} 
+        relatedVerses={props.relatedVerses || []}/>
     </div>
   )
 

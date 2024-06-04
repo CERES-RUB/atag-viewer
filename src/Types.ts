@@ -1,3 +1,5 @@
+import type { Annotation } from "@annotorious/react";
+
 export interface ImageMetadata {
 
   slug: string;
@@ -61,3 +63,13 @@ export interface RelatedVerseAnnotation {
 }
 
 export type RelatedAnnotation = RelatedImageAnnotation | RelatedVerseAnnotation;
+
+export interface Selected {
+
+  annotation?: Annotation;
+
+  relatedImages?: RelatedImageAnnotation[];
+
+  relatedVerses?: RelatedVerseAnnotation[];
+
+}

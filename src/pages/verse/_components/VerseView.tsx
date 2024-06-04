@@ -1,12 +1,11 @@
 import { useEffect, useState } from 'react';
 import { Annotorious, type Annotation } from '@annotorious/react';
-import type { TextAnnotation } from '@recogito/react-text-annotator';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import { useAnnotations } from '@lib/hooks';
 import { AnnotatedVerse } from './AnnotatedVerse';
-import type { RelatedAnnotation, VerseMetadata } from 'src/Types';
+import type { Selected, VerseMetadata } from 'src/Types';
 
 import './VerseView.css';
 
@@ -34,8 +33,8 @@ export const VerseView = (props: VerseViewProps) => {
       .then(setVerse);
   }, []);
 
-  const onSelect = (annotation?: TextAnnotation, related?: RelatedAnnotation[]) => {
-    console.log('select', annotation, related);
+  const onSelect = (selected?: Selected) => {
+    console.log('select', selected);
   }
 
   return (

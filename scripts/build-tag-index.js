@@ -56,6 +56,7 @@ const buildTagIndex = () => {
       const thumbnail = image.manifest.replace('info.json', path);
 
       return {
+        type: 'IMAGE',
         id, 
         image: image.title,
         slug: image.slug,
