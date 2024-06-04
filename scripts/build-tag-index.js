@@ -10,6 +10,40 @@ const listVerses = () => {
   return JSON.parse(json.toString());
 }
 
+const findWhitespaceBefore = (text, index) => {
+  while (index > 0 && !/\s/.test(text[index])) {
+    index--;
+  }
+  return index;
+}
+
+const findWhitespaceAfter = (text, index) => {
+  while (index < text.length && !/\s/.test(text[index])) {
+    index++;
+  }
+  return index;
+}
+
+const extractSnippet = (txtFilePath, annotation, contextSize = 20) => {
+  const text = fs.readFileSync(txtFilePath, 'utf-8');
+
+  const selector = annotation.target.selector.find(s => s.type === 'TextPositionSelector');
+
+  if (selector) {
+    const { start, end } = selector;
+
+    // Find the nearest whitespace before and after the desired context
+    const prefixStart = findWhitespaceBefore(text, start - contextSize);
+    const suffixEnd = findWhitespaceAfter(text, end + contextSize);
+
+    const snippet = text.substring(start, end);
+    const prefix = text.substring(prefixStart, start);
+    const suffix = text.substring(end, suffixEnd);
+
+    return `${prefix} ${snippet} ${suffix}`.replaceAll(/\s+/g, ' ').trim()
+  }
+}
+
 const parseFragmentSelector = (fragment) => {
   const regex = /^(xywh)=(pixel|percent)?:?(.+?),(.+?),(.+?),(.+)*/g;
 
@@ -75,7 +109,7 @@ const buildTagIndex = () => {
       const bodies = Array.isArray(a.body) ? a.body : [a.body];
       const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
 
-      const snippet = /* TODO */ a.target.selector.find(s => s.type === 'TextQuoteSelector')?.exact || '';
+      const snippet = extractSnippet(`./public/verses/${verse.slug}.txt`, a);
 
       return {
         type: 'VERSE',

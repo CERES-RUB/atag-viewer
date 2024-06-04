@@ -27,12 +27,20 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
     <animated.aside 
       style={style}
       className="related related-verses">
-      Verses
+      <h3>Verses ({props.related ? props.related.length : 0})</h3>
       
       <ul>
         {(props.related || []).map(r => (
           <li key={r.id}>
-            {r.snippet}
+            <ul className="taglist">
+              {r.tags.map(t => (
+                <li>{t}</li>
+              ))}
+            </ul>
+
+            <p className="snippet-preview">{r.snippet}</p>
+
+            <a href="#">{r.verse}</a>
           </li>
         ))}
       </ul>

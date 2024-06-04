@@ -1,4 +1,50 @@
 .related.related-verses {
   box-sizing: border-box;
+  overflow-y: auto;
   padding: 10px 20px;
+}
+
+.related.related-verses h3 {
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem 0;
+  padding: 0;
+}
+
+.related.related-verses ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.related.related-verses > ul > li {
+  padding: 0 0 1.75rem 0;
+}
+
+.related.related-verses ul.taglist li {
+  background-color: var(--gray-300);
+  border-radius: 2px;
+  display: inline-block;
+  font-family: Manrope;
+  font-size: 13px;
+  line-height: 140%;
+  padding: 0 0.25rem;
+  white-space: nowrap;
+}
+
+.related.related-verses ul.taglist li + li {
+  margin-left: 0.25rem;
+}
+
+.related.related-verses ul .snippet-preview {
+  color: var(--text-muted-foreground);
+  font-style: italic;
+  line-height: 160%;
+  margin: 0;
+  padding: 0;
+}
+
+.related.related-verses a {
+  font-style: italic;
+  font-size: 0.875rem;
 }
