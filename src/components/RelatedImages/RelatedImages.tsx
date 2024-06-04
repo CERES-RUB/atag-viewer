@@ -2,6 +2,7 @@ import { animated, easings, useTransition } from 'react-spring';
 import type { RelatedImageAnnotation } from 'src/Types';
 
 import './RelatedImages.css';
+import { Thumbnail } from './Thumbnail';
 
 interface RelatedImagesProps {
 
@@ -28,7 +29,18 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       style={style}
       className="related related-images">
       Images
-      {props.related && (<span>{JSON.stringify(props.related)}</span>)}
+
+      <ul>
+        {(props.related || []).map(r => (
+          <li key={r.id}>
+            <Thumbnail src={r.thumbnail} />
+            {r.tags.map(t => (
+              <span>{t}</span>
+            ))}
+            <a href="#">{r.image}</a>
+          </li>
+        ))}
+      </ul>
     </animated.aside>
   ))
 

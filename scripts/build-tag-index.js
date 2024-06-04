@@ -37,22 +37,19 @@ const parseFragmentSelector = (fragment) => {
 }
 
 const buildTagIndex = () => {
-  return listImages().reduce((all, image) => {
+  const relatedImages = listImages().reduce((all, image) => {
     const str = fs.readFileSync(`./public/annotations/image/${image.slug}.json`);
-
     const w3c = JSON.parse(str.toString());
 
     const related = w3c.map(a => {
       const { id } = a;
 
       const bodies = Array.isArray(a.body) ? a.body : [a.body];
-
       const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
 
       const { x, y, w, h } = parseFragmentSelector(a.target.selector[0].value);
 
-      const path = `${x},${y},${x},${h}/full/0/default.jpg`;
-
+      const path = `${x},${y},${w},${h}/full/0/default.jpg`;
       const thumbnail = image.manifest.replace('info.json', path);
 
       return {
@@ -67,6 +64,33 @@ const buildTagIndex = () => {
 
     return [...all, ...related];
   }, []);
+
+  const relatedVerses = listVerses().reduce((all, verse) => {
+    const str = fs.readFileSync(`./public/annotations/verse/${verse.slug}.json`);
+    const w3c = JSON.parse(str.toString());
+
+    const related = w3c.map(a => {
+      const { id } = a;
+
+      const bodies = Array.isArray(a.body) ? a.body : [a.body];
+      const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
+
+      const snippet = /* TODO */ a.target.selector.find(s => s.type === 'TextQuoteSelector')?.exact || '';
+
+      return {
+        type: 'VERSE',
+        id, 
+        verse: verse.title,
+        slug: verse.slug,
+        snippet,
+        tags
+      };
+    });
+
+    return [...all, ...related];
+  }, []);
+
+  return [...relatedImages, ...relatedVerses];
 }
 
 const annotations = buildTagIndex();

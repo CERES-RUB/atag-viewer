@@ -39,13 +39,13 @@ export const AnnotationPopup = (props: AnnotationPopupProps) => {
           <div className="related">
             {verses > 0 && (
               <button onClick={props.onClickVerses}>
-                {verses} other verse{verses > 1 && 's'}
+                <span>{verses} other verse{verses > 1 && 's'}</span>
               </button> 
             )}
 
             {images > 0 && (
               <button onClick={props.onClickImages}>
-                {images} image{images > 1 && 's'}
+                <span>{images} image{images > 1 && 's'}</span>
               </button> 
             )}
           </div>
@@ -53,13 +53,13 @@ export const AnnotationPopup = (props: AnnotationPopupProps) => {
           <div className="related">
             {images > 0 && ( 
               <button onClick={props.onClickImages}>
-                {images} other image{images > 1 && 's'}
+                <span>{images} other image{images > 1 && 's'}</span>
               </button>
             )}
 
             {verses > 0 && (
               <button onClick={props.onClickVerses}>
-                {verses} verse{verses > 1 && 's'}
+                <span>{verses} verse{verses > 1 && 's'}</span>
               </button> 
             )}
           </div>

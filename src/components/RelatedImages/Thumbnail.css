@@ -1,0 +1,17 @@
+.thumbnail-wrapper {
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.thumbnail-wrapper .react-loading-skeleton {
+  border-radius: 4px;
+  height: 100%;
+}
+
+.thumbnail-wrapper img {
+  border-radius: 4px;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}

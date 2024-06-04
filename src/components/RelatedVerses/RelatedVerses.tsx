@@ -28,6 +28,14 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
       style={style}
       className="related related-verses">
       Verses
+      
+      <ul>
+        {(props.related || []).map(r => (
+          <li key={r.id}>
+            {r.snippet}
+          </li>
+        ))}
+      </ul>
     </animated.aside>
   ))
 

@@ -74,6 +74,14 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
     anno.setAnnotations(props.annotations);
   }, [anno, props.annotations]);
 
+  useEffect(() => {
+    props.onSelect({ 
+      annotation: selected, 
+      relatedImages: images, 
+      relatedVerses: verses
+    });
+  }, [selected, images, verses]);
+
   const style = useMemo(() => {
     if (props.searchResults.length === 0) {
       return BASE_STYLE;

@@ -19,7 +19,12 @@
   cursor: pointer;
 }
 
-.annotation-popup .related button:hover {
+.annotation-popup .related button + button::before {
+  content: '·';
+  padding: 0 0.25rem;
+}
+
+.annotation-popup .related button span:hover {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
