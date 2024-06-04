@@ -1,9 +1,12 @@
-import { useCallback, useEffect } from 'react';
-import { useAnnotator } from '@annotorious/react';
+import { useCallback, useEffect, useMemo } from 'react';
+import { useAnnotator, useSelection } from '@annotorious/react';
 import type { Annotation, W3CAnnotation } from '@annotorious/react';
-import { TextAnnotator, W3CTextFormat, type HighlightStyle } from '@recogito/react-text-annotator';
+import { TextAnnotator, W3CTextFormat } from '@recogito/react-text-annotator';
+import type { HighlightStyle, TextAnnotation } from '@recogito/react-text-annotator';
+import { useRelated } from '@lib/hooks';
+import { useNarrativeTerms } from '../_hooks';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
-import type { ThesaurusTerm } from 'src/Types';
+import type { RelatedAnnotation } from 'src/Types';
 
 import './AnnotatedVerse.css';
 import '@recogito/react-text-annotator/react-text-annotator.css';
@@ -12,11 +15,11 @@ interface AnnotatedVerseProps {
 
   verse: string;
 
-  narrativeTerms: ThesaurusTerm[];
-
   annotations: W3CAnnotation[];
 
   searchResults: Annotation[];
+
+  onSelect(annotation?: TextAnnotation, related?: RelatedAnnotation[]): void;
 
 }
 
@@ -24,10 +27,19 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const anno = useAnnotator();
 
-  const narrative = new Set(props.narrativeTerms.map(t => t.prefLabel));
+  const selection = useSelection();
+
+  const selected: TextAnnotation | undefined = useMemo(() => (
+    selection.selected.length > 0 
+      ? selection.selected[0].annotation as TextAnnotation : undefined
+  ), [selection.selected.map(s => s.annotation.id).join(',')]);
+
+  const related = useRelated(selected);
+
+  const narrative = useNarrativeTerms();
 
   const style = useCallback((a: Annotation) => {
-    const isSection = a.bodies.find(b => b.value && narrative.has(b.value));
+    const isSection = a.bodies.find(b => b.value && narrative!.has(b.value));
 
     return isSection ? {
       fill: '#000',
@@ -38,14 +50,18 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
       underlineThickness: 2,
       underlineColor: '#e05252'
     } as HighlightStyle;
-  }, []);
+  }, [narrative]);
 
   useEffect(() => {
     if (!anno) return;
     anno.setAnnotations(props.annotations);
-  }, [anno, props.annotations])
+  }, [anno, props.annotations]);
 
-  return (
+  useEffect(() => {
+    props.onSelect(selected, related);
+  }, [selected, related]);
+
+  return narrative && (
     <TextAnnotator
       adapter={container => W3CTextFormat('5db80aa5-8a27-4539-aeb3-bddf3abc0098', container)}
       annotationEnabled={false}
@@ -55,7 +71,9 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
         {props.verse}
       </div>
 
-      <VerseAnnotationPopup />
+      <VerseAnnotationPopup 
+        annotation={selected} 
+        related={related} />
     </TextAnnotator>
   )
 

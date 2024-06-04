@@ -1,8 +1,8 @@
-import { useEffect, useMemo, useState } from 'react';
-import { useSelection } from '@annotorious/react';
+import { useEffect, useState } from 'react';
 import type { TextAnnotation, TextSelector } from '@recogito/react-text-annotator';
 import { AnnotationPopup } from '@components/AnnotationPopup';
 import { getClosestRect, toClientRects } from '@lib/utils';
+import type { RelatedAnnotation } from 'src/Types';
 import {
   autoUpdate,
   flip,
@@ -14,14 +14,15 @@ import {
 
 import './VerseAnnotationPopup.css';
 
-export const VerseAnnotationPopup = () => {
+interface VerseAnnotationPopup {
 
-  const selection = useSelection();
+  annotation?: TextAnnotation;
 
-  const selected: TextAnnotation | undefined = useMemo(() => (
-    selection.selected.length > 0 
-      ? selection.selected[0].annotation as TextAnnotation : undefined
-  ), [selection.selected.map(s => s.annotation.id).join(',')]);
+  related?: RelatedAnnotation[];
+
+}
+
+export const VerseAnnotationPopup = (props: VerseAnnotationPopup) => {
   
   const [mousePos, setMousePos] = useState<{ x: number, y: number } | undefined>();
 
@@ -43,8 +44,8 @@ export const VerseAnnotationPopup = () => {
   });
 
   useEffect(() => {
-    if (selected) {
-      const selector = selected.target.selector as (TextSelector | TextSelector[]);
+    if (props.annotation) {
+      const selector = props.annotation.target.selector as (TextSelector | TextSelector[]);
       const range = Array.isArray(selector) ? selector[0].range : selector.range; 
 
       if (range && !range.collapsed) {
@@ -66,7 +67,7 @@ export const VerseAnnotationPopup = () => {
     } else {
       setIsOpen(false);
     }
-  }, [selected, mousePos]);
+  }, [props.annotation, mousePos]);
 
   useEffect(() => {
     const onPointerUp = (event: PointerEvent) => {
@@ -81,14 +82,15 @@ export const VerseAnnotationPopup = () => {
     }
   }, []);
 
-  return (selected && isOpen) && (
+  return (props.annotation && isOpen) && (
     <div
       className="text-annotation-popup not-annotatable"
       ref={refs.setFloating}
       style={floatingStyles}>
       
       <AnnotationPopup 
-        annotation={selected} />
+        annotation={props.annotation} 
+        related={props.related || []} />
     </div>
   )
 

@@ -59,3 +59,5 @@ export interface RelatedVerseAnnotation {
   tags: string[];
 
 }
+
+export type RelatedAnnotation = RelatedImageAnnotation | RelatedVerseAnnotation;

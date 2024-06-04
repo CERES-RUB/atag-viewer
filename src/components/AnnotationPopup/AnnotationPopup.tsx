@@ -1,11 +1,14 @@
 import { useMemo } from 'react';
 import type { Annotation } from '@annotorious/react';
+import type { RelatedAnnotation } from 'src/Types';
 
 import './AnnotationPopup.css';
 
 interface AnnotationPopupProps {
 
   annotation: Annotation;
+
+  related: RelatedAnnotation[];
 
 }
 
