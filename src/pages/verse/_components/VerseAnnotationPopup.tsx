@@ -22,6 +22,10 @@ interface VerseAnnotationPopup {
 
   relatedVerses?: RelatedVerseAnnotation[];
 
+  onClickImages(): void;
+
+  onClickVerses(): void;
+
 }
 
 export const VerseAnnotationPopup = (props: VerseAnnotationPopup) => {
@@ -91,9 +95,12 @@ export const VerseAnnotationPopup = (props: VerseAnnotationPopup) => {
       style={floatingStyles}>
       
       <AnnotationPopup 
+        type="VERSE"
         annotation={props.annotation} 
         relatedImages={props.relatedImages || []} 
-        relatedVerses={props.relatedVerses || []}/>
+        relatedVerses={props.relatedVerses || []} 
+        onClickImages={props.onClickImages} 
+        onClickVerses={props.onClickVerses} />
     </div>
   )
 

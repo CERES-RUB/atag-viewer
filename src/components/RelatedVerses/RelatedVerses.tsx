@@ -1,10 +1,13 @@
 import { animated, easings, useTransition } from 'react-spring';
+import type { RelatedVerseAnnotation } from 'src/Types';
 
 import './RelatedVerses.css';
 
 interface RelatedVersesProps {
 
   open?: boolean;
+
+  related?: RelatedVerseAnnotation[];
 
 }
 

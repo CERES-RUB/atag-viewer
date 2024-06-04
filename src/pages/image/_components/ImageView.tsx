@@ -6,7 +6,7 @@ import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import { useAnnotations } from '@lib/hooks';
 import { AnnotatedImage } from './AnnotatedImage';
-import type { ImageMetadata } from 'src/Types';
+import type { ImageMetadata, Selected } from 'src/Types';
 
 import './ImageView.css';
 
@@ -20,19 +20,21 @@ export const ImageView = (props: ImageViewProps) => {
 
   const annotations = useAnnotations(`annotations/image/${props.image.slug}.json`);
 
-  const [isRelatedImagesOpen, setRelatedImagesOpen] = useState(false);
+  const [selected, setSelected] = useState<Selected | undefined>();
+
+  const [isRelatedImagesPanelOpen, setRelatedImagesPanelOpen] = useState(false);
   
-  const [isRelatedVersesOpen, setRelatedVersesOpen] = useState(false);
+  const [isRelatedVersesPanelOpen, setRelatedVersesPanelOpen] = useState(false);
 
   const [search, setSearch] = useState<Annotation[]>([]);
 
   return (
     <Annotorious>
       <PageHeader 
-        isRelatedImagesOpen={isRelatedImagesOpen}
-        isRelatedVersesOpen={isRelatedVersesOpen}
-        onToggleRelatedImages={() => setRelatedImagesOpen(open => !open)}
-        onToggleRelatedVerses={() => setRelatedVersesOpen(open => !open)}
+        isRelatedImagesOpen={isRelatedImagesPanelOpen}
+        isRelatedVersesOpen={isRelatedVersesPanelOpen}
+        onToggleRelatedImages={() => setRelatedImagesPanelOpen(open => !open)}
+        onToggleRelatedVerses={() => setRelatedVersesPanelOpen(open => !open)}
         onSearch={setSearch} />
 
       <div className="view-wrapper">
@@ -40,17 +42,22 @@ export const ImageView = (props: ImageViewProps) => {
           <AnnotatedImage 
             annotations={annotations as W3CImageAnnotation[]} 
             imageManifest={props.image.manifest}
-            isRelatedImagesOpen={isRelatedImagesOpen}
-            isRelatedVersesOpen={isRelatedVersesOpen}
-            searchResults={search} />
+            isRelatedImagesOpen={isRelatedImagesPanelOpen}
+            isRelatedVersesOpen={isRelatedVersesPanelOpen}
+            searchResults={search} 
+            onSelect={setSelected} 
+            onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
+            onOpenRelatedVerses={() => setRelatedVersesPanelOpen(true)} />
         </main>
 
         <div className="drawer-wrapper">
           <RelatedVerses 
-            open={isRelatedVersesOpen} />
+            open={isRelatedVersesPanelOpen} 
+            related={selected?.relatedVerses} />
 
           <RelatedImages
-            open={isRelatedImagesOpen} />
+            open={isRelatedImagesPanelOpen} 
+            related={selected?.relatedImages} />
         </div>
       </div>
     </Annotorious>

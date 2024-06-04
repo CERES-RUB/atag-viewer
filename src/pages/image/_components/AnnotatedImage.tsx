@@ -1,10 +1,14 @@
 import { useEffect, useMemo } from 'react';
+import { useRelated, useSelected } from '@lib/hooks';
+import { ImageAnnotationPopup } from './ImageAnnotationPopup';
+import type { Selected } from 'src/Types';
 import {
   OpenSeadragonAnnotator, 
   OpenSeadragonViewer, 
   PointerSelectAction, 
   W3CImageFormat, 
-  useAnnotator
+  useAnnotator,
+  useSelection
 } from '@annotorious/react';
 import type {
   AnnotationState,
@@ -17,7 +21,6 @@ import type {
 
 import './AnnotatedImage.css';
 import '@annotorious/react/annotorious-react.css';
-import { ImageAnnotationPopup } from './ImageAnnotationPopup';
 
 interface AnnotatedImageProps {
 
@@ -30,6 +33,12 @@ interface AnnotatedImageProps {
   imageManifest: string;
 
   searchResults: Annotation[];
+
+  onSelect(selected: Selected): void;
+
+  onOpenRelatedImages(): void;
+
+  onOpenRelatedVerses(): void;
 
 }
 
@@ -44,6 +53,10 @@ const BASE_STYLE: DrawingStyleExpression<ImageAnnotation> = (a: ImageAnnotation,
 export const AnnotatedImage = (props: AnnotatedImageProps) => {
 
   const anno = useAnnotator();
+
+  const selected = useSelected<ImageAnnotation>();
+
+  const { images, verses } = useRelated(selected);
 
   const options = useMemo(() => ({
     prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@3.1/build/openseadragon/images/',
@@ -93,7 +106,12 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
       <OpenSeadragonViewer className="openseadragon" options={options} />
 
       <ImageAnnotationPopup 
-        marginRight={marginRight}/>
+        marginRight={marginRight}
+        annotation={selected} 
+        relatedImages={images} 
+        relatedVerses={verses} 
+        onClickImages={props.onOpenRelatedImages}
+        onClickVerses={props.onOpenRelatedVerses} />
     </OpenSeadragonAnnotator>
   )
 

@@ -21,6 +21,8 @@ export const VerseView = (props: VerseViewProps) => {
 
   const annotations = useAnnotations(`annotations/verse/${props.verse.slug}.json`);
 
+  const [selected, setSelected] = useState<Selected | undefined>();
+
   const [isRelatedImagesPanelOpen, setRelatedImagesPanelOpen] = useState(false);
   
   const [isRelatedVersesPanelOpen, setRelatedVersesPanelOpen] = useState(false);
@@ -32,10 +34,6 @@ export const VerseView = (props: VerseViewProps) => {
       .then(res => res.text())
       .then(setVerse);
   }, []);
-
-  const onSelect = (selected?: Selected) => {
-    console.log('select', selected);
-  }
 
   return (
     <Annotorious>
@@ -55,16 +53,20 @@ export const VerseView = (props: VerseViewProps) => {
                 annotations={annotations}
                 verse={verse} 
                 searchResults={search} 
-                onSelect={onSelect} />
+                onSelect={setSelected} 
+                onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
+                onOpenRelatedVerses={() => setRelatedVersesPanelOpen(true)} />
             )}
           </div>
         </main>
 
         <RelatedVerses 
-          open={isRelatedVersesPanelOpen} />
+          open={isRelatedVersesPanelOpen} 
+          related={selected?.relatedVerses} />
 
         <RelatedImages
-          open={isRelatedImagesPanelOpen} />
+          open={isRelatedImagesPanelOpen} 
+          related={selected?.relatedImages} />
       </div>
     </Annotorious>
   )

@@ -1,10 +1,13 @@
 import { animated, easings, useTransition } from 'react-spring';
+import type { RelatedImageAnnotation } from 'src/Types';
 
 import './RelatedImages.css';
 
 interface RelatedImagesProps {
 
   open?: boolean;
+
+  related?: RelatedImageAnnotation[];
 
 }
 
@@ -25,6 +28,7 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       style={style}
       className="related related-images">
       Images
+      {props.related && (<span>{JSON.stringify(props.related)}</span>)}
     </animated.aside>
   ))
 

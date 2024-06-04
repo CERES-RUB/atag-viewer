@@ -1,8 +1,10 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import OpenSeadragon from 'openseadragon';
-import { useSelection, useViewer, type ImageAnnotation } from '@annotorious/react';
+import { useViewer } from '@annotorious/react';
+import type { ImageAnnotation } from '@annotorious/react';
 import { AnnotationPopup } from '@components/AnnotationPopup';
 import { toClientRects } from '@lib/utils';
+import type { RelatedImageAnnotation, RelatedVerseAnnotation } from 'src/Types';
 import {
   useFloating,
   arrow,
@@ -34,16 +36,19 @@ interface ImageAnnotationPopupProps {
 
   marginRight: number;
 
+  annotation?: ImageAnnotation;
+
+  relatedImages?: RelatedImageAnnotation[];
+
+  relatedVerses?: RelatedVerseAnnotation[];
+
+  onClickImages(): void;
+
+  onClickVerses(): void;
+
 }
 
 export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
-
-  const selection = useSelection();
-
-  const selected: ImageAnnotation | undefined = useMemo(() => (
-    selection.selected.length > 0 
-      ? selection.selected[0].annotation as ImageAnnotation : undefined
-  ), [selection.selected.map(s => s.annotation.id).join(',')]);
 
   const [isOpen, setIsOpen] = useState(false);
 
@@ -72,9 +77,11 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
   });
 
   useEffect(() => {
-    if (selected) {
+    const { annotation } = props;
+
+    if (annotation) {
       const setPosition = () => { 
-        const rect = getAnnotationDomRect(viewer, selected);
+        const rect = getAnnotationDomRect(viewer, annotation);
         
         refs.setReference({
           getBoundingClientRect: () => rect,
@@ -90,9 +97,9 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
     } else {
       setIsOpen(false);
     }
-  }, [selected, viewer]);
+  }, [props.annotation, viewer]);
 
-  return (selected && isOpen) && (
+  return (props.annotation && isOpen) && (
     <div
       className="image-annotation-popup"
       ref={refs.setFloating}
@@ -103,7 +110,12 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
         fill="#fff" />
 
       <AnnotationPopup 
-        annotation={selected} />
+        type="IMAGE"
+        annotation={props.annotation}
+        relatedImages={props.relatedImages || []} 
+        relatedVerses={props.relatedVerses || []}
+        onClickImages={props.onClickImages}
+        onClickVerses={props.onClickVerses} />
     </div>
   )
 

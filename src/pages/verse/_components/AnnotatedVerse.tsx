@@ -3,7 +3,7 @@ import { useAnnotator, useSelection } from '@annotorious/react';
 import type { Annotation, W3CAnnotation } from '@annotorious/react';
 import { TextAnnotator, W3CTextFormat } from '@recogito/react-text-annotator';
 import type { HighlightStyle, TextAnnotation } from '@recogito/react-text-annotator';
-import { useRelated } from '@lib/hooks';
+import { useRelated, useSelected } from '@lib/hooks';
 import { useNarrativeTerms } from '../_hooks';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
 import type { Selected } from 'src/Types';
@@ -21,18 +21,17 @@ interface AnnotatedVerseProps {
 
   onSelect(selected: Selected): void;
 
+  onOpenRelatedImages(): void;
+
+  onOpenRelatedVerses(): void;
+
 }
 
 export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const anno = useAnnotator();
 
-  const selection = useSelection();
-
-  const selected: TextAnnotation | undefined = useMemo(() => (
-    selection.selected.length > 0 
-      ? selection.selected[0].annotation as TextAnnotation : undefined
-  ), [selection.selected.map(s => s.annotation.id).join(',')]);
+  const selected = useSelected<TextAnnotation>();
 
   const { images, verses } = useRelated(selected);
 
@@ -78,7 +77,9 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
       <VerseAnnotationPopup 
         annotation={selected} 
         relatedImages={images} 
-        relatedVerses={verses} />
+        relatedVerses={verses} 
+        onClickImages={props.onOpenRelatedImages}
+        onClickVerses={props.onOpenRelatedVerses} />
     </TextAnnotator>
   )
 

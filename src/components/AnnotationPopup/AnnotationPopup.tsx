@@ -12,9 +12,19 @@ interface AnnotationPopupProps {
 
   relatedVerses: RelatedVerseAnnotation[];
 
+  type: 'IMAGE' | 'VERSE';
+
+  onClickImages(): void;
+
+  onClickVerses(): void;
+
 }
 
 export const AnnotationPopup = (props: AnnotationPopupProps) => {
+
+  const images = props.relatedImages.length;
+
+  const verses = props.relatedVerses.length;
 
   const tags = useMemo(() => (
     props.annotation.bodies.filter(b => b.purpose === 'tagging')
@@ -25,9 +35,35 @@ export const AnnotationPopup = (props: AnnotationPopupProps) => {
       <div className="tags">
         <div>{tags.map(t => t.value).join(' · ')}</div>
         
-        <div className="related">
-          <button>4 other verses</button> · <button>2 images</button>
-        </div>
+        {props.type === 'VERSE' ? (
+          <div className="related">
+            {verses > 0 && (
+              <button onClick={props.onClickVerses}>
+                {verses} other verse{verses > 1 && 's'}
+              </button> 
+            )}
+
+            {images > 0 && (
+              <button onClick={props.onClickImages}>
+                {images} image{images > 1 && 's'}
+              </button> 
+            )}
+          </div>
+        ) : (
+          <div className="related">
+            {images > 0 && ( 
+              <button onClick={props.onClickImages}>
+                {images} other image{images > 1 && 's'}
+              </button>
+            )}
+
+            {verses > 0 && (
+              <button onClick={props.onClickVerses}>
+                {verses} verse{verses > 1 && 's'}
+              </button> 
+            )}
+          </div>
+        )}
       </div>
     </div>
   )
