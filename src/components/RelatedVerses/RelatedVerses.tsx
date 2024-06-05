@@ -1,4 +1,5 @@
 import { animated, easings, useTransition } from 'react-spring';
+import { X } from 'lucide-react';
 import type { RelatedVerseAnnotation } from 'src/Types';
 
 import './RelatedVerses.css';
@@ -8,6 +9,8 @@ interface RelatedVersesProps {
   open?: boolean;
 
   related?: RelatedVerseAnnotation[];
+
+  onClose(): void;
 
 }
 
@@ -27,23 +30,31 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
     <animated.aside 
       style={style}
       className="related related-verses">
-      <h3>Verses ({props.related ? props.related.length : 0})</h3>
-      
-      <ul>
-        {(props.related || []).map(r => (
-          <li key={r.id}>
-            <ul className="taglist">
-              {r.tags.map(t => (
-                <li key={t}>{t}</li>
-              ))}
-            </ul>
+      <button 
+        onClick={props.onClose}
+        className="close">
+        <X size={20} strokeWidth={1.5} />
+      </button>
 
-            <p className="snippet-preview">{r.snippet}</p>
+      <div className="related-verses-wrapper">
+        <h3>Verses ({props.related ? props.related.length : 0})</h3>
+        
+        <ul>
+          {(props.related || []).map(r => (
+            <li key={r.id}>
+              <ul className="taglist">
+                {r.tags.map(t => (
+                  <li key={t}>{t}</li>
+                ))}
+              </ul>
 
-            <a href={`/verse/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.verse}</a>
-          </li>
-        ))}
-      </ul>
+              <p className="snippet-preview">{r.snippet}</p>
+
+              <a href={`/verse/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.verse}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
     </animated.aside>
   ))
 

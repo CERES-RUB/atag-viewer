@@ -1,7 +1,29 @@
 .related.related-images {
   box-sizing: border-box;
   overflow-y: auto;
+  overflow-x: hidden;
   padding: 10px 20px;
+  position: relative;
+}
+
+.related.related-images button.close {
+  all: unset;
+  color: var(--text-muted-foreground);
+  cursor: pointer;
+  position: absolute;
+  right: 0.75rem;
+  top: 0.75rem;
+}
+
+.related.related-images button.close:hover {
+  color: inherit;
+}
+
+.related.related-images h3 {
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin: 0 0 1rem 0;
+  padding: 0;
 }
 
 .related.related-images ul {

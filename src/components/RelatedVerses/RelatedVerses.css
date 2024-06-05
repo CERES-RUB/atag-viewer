@@ -1,7 +1,27 @@
 .related.related-verses {
   box-sizing: border-box;
   overflow-y: auto;
-  padding: 10px 20px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.related-verses-wrapper {
+  box-sizing: border-box;
+  padding: 10px 30px 10px 20px;
+  width: 300px;
+}
+
+.related.related-verses button.close {
+  all: unset;
+  color: var(--text-muted-foreground);
+  cursor: pointer;
+  position: absolute;
+  right: 0.75rem;
+  top: 0.75rem;
+}
+
+.related.related-verses button.close:hover {
+  color: inherit;
 }
 
 .related.related-verses h3 {
@@ -17,7 +37,7 @@
   padding: 0;
 }
 
-.related.related-verses > ul > li {
+.related-verses-wrapper > ul > li {
   padding: 0 0 1.75rem 0;
 }
 
@@ -41,7 +61,9 @@
   font-style: italic;
   line-height: 160%;
   margin: 0;
+  overflow: hidden;
   padding: 0;
+  text-overflow: ellipsis;
 }
 
 .related.related-verses a {

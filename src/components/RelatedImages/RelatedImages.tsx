@@ -1,14 +1,17 @@
 import { animated, easings, useTransition } from 'react-spring';
+import { X } from 'lucide-react';
+import { Thumbnail } from './Thumbnail';
 import type { RelatedImageAnnotation } from 'src/Types';
 
 import './RelatedImages.css';
-import { Thumbnail } from './Thumbnail';
 
 interface RelatedImagesProps {
 
   open?: boolean;
 
   related?: RelatedImageAnnotation[];
+
+  onClose(): void;
 
 }
 
@@ -28,7 +31,13 @@ export const RelatedImages = (props: RelatedImagesProps) => {
     <animated.aside 
       style={style}
       className="related related-images">
-      Images
+      <button 
+        onClick={props.onClose}
+        className="close">
+        <X size={20} strokeWidth={1.5} />
+      </button>
+
+      <h3>Images ({props.related ? props.related.length : 0})</h3>
 
       <ul>
         {(props.related || []).map(r => (
