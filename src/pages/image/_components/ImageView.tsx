@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Annotorious } from '@annotorious/react';
 import type { Annotation, W3CImageAnnotation } from '@annotorious/react';
+import { AnnotoriousHash } from '@components/AnnotoriousHash';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
@@ -30,6 +31,9 @@ export const ImageView = (props: ImageViewProps) => {
 
   return (
     <Annotorious>
+      <AnnotoriousHash 
+        loaded={Boolean(annotations)} />
+
       <PageHeader 
         isRelatedImagesOpen={isRelatedImagesPanelOpen}
         isRelatedVersesOpen={isRelatedVersesPanelOpen}

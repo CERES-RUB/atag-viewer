@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useSelected } from '@lib/hooks';
 import { useAnnotator } from '@annotorious/react';
+import type { RecogitoTextAnnotator, TextAnnotation } from '@recogito/react-text-annotator';
 
 // App-specific - annotation IDs are actually Recogito URIs, but 
 // we're shortening to just the UUID that follows this prefix
@@ -41,17 +42,25 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
   useEffect(() => {
     if (!anno || !props.loaded) return;
 
+    // Select the annotation with the given UUID and bring it into view
+    const select = (uuid: string) => {
+      const uri = `https://recogito.pelagios.org/annotation/${uuid}`;
+
+      anno.setSelected(uri);
+
+      // When in text mode, scroll to the selected annotation
+      if ('scrollIntoView' in anno) {
+        // TODO remove with next release of @recogito/text-annotator
+        const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${hash}`);
+        (anno as RecogitoTextAnnotator).scrollIntoView(a as TextAnnotation);
+      }
+    }
+
     const hash = window.location.hash.substring(1);
     if (hash) {
       setTimeout(() => { 
-        anno.setSelected(`https://recogito.pelagios.org/annotation/${hash}`);
+        select(hash);
         setMounted(true);
-
-        // TODO clean up
-        const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${hash}`);
-        // @ts-ignore
-        anno.scrollIntoView(a);
-        // /TODO
       });
     } else {
       setMounted(true);
@@ -59,14 +68,7 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
 
     const onHashChange = () => {
       const hash = window.location.hash.substring(1);
-      
-      anno.setSelected(`https://recogito.pelagios.org/annotation/${hash}`);
-
-      // TODO clean up
-      const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${hash}`);
-      // @ts-ignore
-      anno.scrollIntoView(a);
-      // /TODO
+      select(hash);
     }
 
     window.addEventListener('hashchange', onHashChange);
