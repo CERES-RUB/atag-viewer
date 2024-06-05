@@ -59,7 +59,14 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
 
     const onHashChange = () => {
       const hash = window.location.hash.substring(1);
-      console.log('hash changed!', hash);
+      
+      anno.setSelected(`https://recogito.pelagios.org/annotation/${hash}`);
+
+      // TODO clean up
+      const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${hash}`);
+      // @ts-ignore
+      anno.scrollIntoView(a);
+      // /TODO
     }
 
     window.addEventListener('hashchange', onHashChange);
