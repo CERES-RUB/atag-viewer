@@ -35,9 +35,9 @@ export const RelatedImages = (props: RelatedImagesProps) => {
           <li key={r.id}>
             <Thumbnail src={r.thumbnail} />
             {r.tags.map(t => (
-              <span>{t}</span>
+              <span key={t}>{t}</span>
             ))}
-            <a href="#">{r.image}</a>
+            <a href={`/image/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.image}</a>
           </li>
         ))}
       </ul>

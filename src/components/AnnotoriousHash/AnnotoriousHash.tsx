@@ -24,18 +24,11 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
   useEffect(() => {
     if (!mounted) return;
 
-    const setHash = (hash?: string) => {
-      if (history.pushState)
-        history.pushState(undefined, document.title, hash ? `#${hash}` : window.location.pathname);
-      else
-        location.hash = hash ? `#${hash}` : '';
-    }
-
     if (selected) {
       const id = selected.id.substring(selected.id.lastIndexOf('/') + 1);
-      setHash(id);
+      location.hash = `#${id}`;
     } else {
-      setHash(undefined);
+      location.hash = '';
     }
   }, [selected, mounted]);
 
@@ -51,7 +44,7 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
       // When in text mode, scroll to the selected annotation
       if ('scrollIntoView' in anno) {
         // TODO remove with next release of @recogito/text-annotator
-        const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${hash}`);
+        const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${uuid}`);
         (anno as RecogitoTextAnnotator).scrollIntoView(a as TextAnnotation);
       }
     }
@@ -68,7 +61,8 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
 
     const onHashChange = () => {
       const hash = window.location.hash.substring(1);
-      select(hash);
+      if (hash)
+        select(hash);
     }
 
     window.addEventListener('hashchange', onHashChange);
