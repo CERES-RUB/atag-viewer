@@ -101,7 +101,11 @@ const buildTagIndex = () => {
 
   const relatedVerses = listVerses().reduce((all, verse) => {
     const str = fs.readFileSync(`./public/annotations/verse/${verse.slug}.json`);
-    const w3c = JSON.parse(str.toString());
+    const w3c = JSON.parse(str.toString()).slice().sort((a, b) => {
+      const startA = a.target.selector[0].start;
+      const startB = b.target.selector[0].end;
+      return startA - startB;
+    });
 
     const related = w3c.map(a => {
       const { id } = a;
