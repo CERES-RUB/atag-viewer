@@ -1,14 +1,14 @@
 import { useEffect, useState } from 'react';
 import { Annotorious, type Annotation } from '@annotorious/react';
+import { AnnotoriousHash } from '@components/AnnotoriousHash';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
-import { useAnnotations } from '@lib/hooks';
+import { useAnnotations, useLocalStoreState } from '@lib/hooks';
 import { AnnotatedVerse } from './AnnotatedVerse';
 import type { Selected, VerseMetadata } from 'src/Types';
 
 import './VerseView.css';
-import { AnnotoriousHash } from '@components/AnnotoriousHash';
 
 interface VerseViewProps {
 
@@ -24,9 +24,9 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [selected, setSelected] = useState<Selected | undefined>();
 
-  const [isRelatedImagesPanelOpen, setRelatedImagesPanelOpen] = useState(false);
+  const [isRelatedImagesPanelOpen, setRelatedImagesPanelOpen] = useLocalStoreState('diga.images.open', false);
   
-  const [isRelatedVersesPanelOpen, setRelatedVersesPanelOpen] = useState(false);
+  const [isRelatedVersesPanelOpen, setRelatedVersesPanelOpen] = useLocalStoreState('diga.verses.open', false);
 
   const [search, setSearch] = useState<Annotation[]>([]);
 
