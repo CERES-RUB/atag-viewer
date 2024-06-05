@@ -1,3 +1,4 @@
+import { useLayoutEffect, useState } from 'react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
 import type { RelatedVerseAnnotation } from 'src/Types';
@@ -16,8 +17,10 @@ interface RelatedVersesProps {
 
 export const RelatedVerses = (props: RelatedVersesProps) => {
 
+  const [mounted, setMounted] = useState(false);
+
   const transition = useTransition([props.open], {
-    from: { width: 0 },
+    from: { width: mounted ? 0 : 300 },
     enter: { width: 300 },
     leave: { width: 0 },
     config:{
@@ -25,6 +28,10 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
       easing: easings.easeInCubic
     }
   });
+
+  useLayoutEffect(() => {
+    setTimeout(() => setMounted(true), 10);
+  }, []);
 
   return transition((style, open) => open && (
     <animated.aside 

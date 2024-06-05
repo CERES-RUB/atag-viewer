@@ -1,3 +1,4 @@
+import { useLayoutEffect, useState } from 'react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
 import { Thumbnail } from './Thumbnail';
@@ -17,8 +18,10 @@ interface RelatedImagesProps {
 
 export const RelatedImages = (props: RelatedImagesProps) => {
 
+  const [mounted, setMounted] = useState(false);
+
   const transition = useTransition([props.open], {
-    from: { width: 0 },
+    from: { width: mounted ? 0 : 300 },
     enter: { width: 300 },
     leave: { width: 0 },
     config:{
@@ -26,6 +29,10 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       easing: easings.easeInCubic
     }
   });
+
+  useLayoutEffect(() => {
+    setTimeout(() => setMounted(true), 1);
+  }, []);
 
   return transition((style, open) => open && (
     <animated.aside 
