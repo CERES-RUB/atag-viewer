@@ -8,6 +8,7 @@ import { AnnotatedVerse } from './AnnotatedVerse';
 import type { Selected, VerseMetadata } from 'src/Types';
 
 import './VerseView.css';
+import { AnnotoriousHash } from '@components/AnnotoriousHash';
 
 interface VerseViewProps {
 
@@ -37,6 +38,9 @@ export const VerseView = (props: VerseViewProps) => {
 
   return (
     <Annotorious>
+      <AnnotoriousHash 
+        loaded={Boolean(annotations)} />
+
       <PageHeader 
         isRelatedImagesOpen={isRelatedImagesPanelOpen}
         isRelatedVersesOpen={isRelatedVersesPanelOpen}

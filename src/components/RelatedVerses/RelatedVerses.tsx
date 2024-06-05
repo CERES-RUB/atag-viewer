@@ -34,7 +34,7 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
           <li key={r.id}>
             <ul className="taglist">
               {r.tags.map(t => (
-                <li>{t}</li>
+                <li key={t}>{t}</li>
               ))}
             </ul>
 
