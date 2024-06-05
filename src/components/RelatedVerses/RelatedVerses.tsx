@@ -40,7 +40,7 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
 
             <p className="snippet-preview">{r.snippet}</p>
 
-            <a href="#">{r.verse}</a>
+            <a href={`/verse/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.verse}</a>
           </li>
         ))}
       </ul>
