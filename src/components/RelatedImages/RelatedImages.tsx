@@ -1,8 +1,8 @@
-import { useLayoutEffect, useState } from 'react';
+import { useLayoutEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
-import { getTags } from '@lib/utils';
+import { getTags, groupByOverlap } from '@lib/utils';
 import { Thumbnail } from './Thumbnail';
 import type { RelatedImageAnnotation } from 'src/Types';
 
@@ -22,9 +22,14 @@ interface RelatedImagesProps {
 
 export const RelatedImages = (props: RelatedImagesProps) => {
 
-  const tags = props.annotation ? getTags(props.annotation) : [];
-
   const [mounted, setMounted] = useState(false);
+
+  const sorted = useMemo(() => {
+    if (!props.annotation) return [];
+
+    const tags = props.annotation ? getTags(props.annotation) : [];
+    return groupByOverlap(new Set(tags), props.related || []);
+  }, [props.annotation, props.related]);
 
   const transition = useTransition([props.open], {
     from: { width: mounted ? 0 : 300 },
