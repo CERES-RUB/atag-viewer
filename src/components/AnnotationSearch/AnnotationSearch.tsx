@@ -12,7 +12,7 @@ interface AnnotationSearchProps {
 
   onClear(): void;
 
-  onHighlightAnnotation(a: Annotation): void;
+  onHighlightResult(a: Annotation): void;
 
   onSearch(hits: Annotation[]): void;
 
@@ -22,7 +22,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
 
   const annotations = useAnnotations<Annotation>();
 
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(true);
 
   const { search, getSuggestions } = useTagSearch(annotations);
 
@@ -61,7 +61,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
     if (!highlightedIdx || !hits) return;
 
     const annotation = hits[highlightedIdx - 1];
-    props.onHighlightAnnotation(annotation);
+    props.onHighlightResult(annotation);
   }, [hits, highlightedIdx]);
 
   const onStep = (inc: number) => () => {

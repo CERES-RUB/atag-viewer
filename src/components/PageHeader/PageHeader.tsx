@@ -11,6 +11,10 @@ interface PageHeaderProps {
 
   isRelatedVersesOpen: boolean;
 
+  onClearSearch(): void;
+
+  onHighlightSearchResult(a: Annotation): void;
+
   onSearch(hits: Annotation[]): void;
 
   onToggleRelatedImages(): void;
@@ -39,8 +43,10 @@ export const PageHeader = (props: PageHeaderProps) => {
       </div>
 
       <div className="header-right">
-        <AnnotationSearch 
-          onSearch={setSearchHits} />
+        <AnnotationSearch
+          onClear={props.onClearSearch} 
+          onHighlightResult={props.onHighlightSearchResult}
+          onSearch={setSearchHits}  />
 
         <button 
           className={props.isRelatedVersesOpen ? 'toggle active' : 'toggle'}

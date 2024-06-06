@@ -29,6 +29,14 @@ export const ImageView = (props: ImageViewProps) => {
 
   const [search, setSearch] = useState<Annotation[]>([]);
 
+  const onHighlightSearchResult = (a: Annotation) => {
+    // TODO
+  }
+
+  const onClearSearch = () => {
+    // TODO
+  }
+
   return (
     <Annotorious>
       <AnnotoriousHash 
@@ -39,6 +47,8 @@ export const ImageView = (props: ImageViewProps) => {
         isRelatedVersesOpen={isRelatedVersesPanelOpen}
         onToggleRelatedImages={() => setRelatedImagesPanelOpen(open => !open)}
         onToggleRelatedVerses={() => setRelatedVersesPanelOpen(open => !open)}
+        onClearSearch={onClearSearch}
+        onHighlightSearchResult={onHighlightSearchResult}
         onSearch={setSearch} />
 
       <div className="view-wrapper">
