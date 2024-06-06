@@ -1,4 +1,5 @@
 .thumbnail-wrapper {
+  flex: 0 0 auto;
   height: 80px;
   position: relative;
   width: 80px;
@@ -7,6 +8,7 @@
 .thumbnail-wrapper .react-loading-skeleton {
   border-radius: 4px;
   height: 100%;
+  line-height: inherit;
 }
 
 .thumbnail-wrapper img {

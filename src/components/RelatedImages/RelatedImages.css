@@ -2,8 +2,13 @@
   box-sizing: border-box;
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 10px 20px;
   position: relative;
+}
+
+.related-images-wrapper {
+  box-sizing: border-box;
+  padding: 10px 30px 10px 20px;
+  width: 300px;
 }
 
 .related.related-images button.close {
@@ -30,4 +35,51 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.related.related-images > ul > li {
+  overflow: hidden;
+}
+
+.related.related-images .preview {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.related.related-images .taglist-wrapper {
+  overflow: hidden;
+}
+
+.related.related-images ul.taglist {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+  padding: 1px 0;
+}
+
+.related.related-images ul.taglist li {
+  background-color: var(--gray-300);
+  border-radius: 2px;
+  display: inline-block;
+  font-family: Manrope;
+  font-size: 13px;
+  line-height: 140%;
+  overflow: hidden;
+  padding: 0 0.25rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.related.related-images ul.taglist li:not(.common) {
+  background-color: var(--gray-100);
+  color: var(--gray-400);
+}
+
+.related.related-images a {
+  display: block;
+  font-style: italic;
+  font-size: 0.875rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }

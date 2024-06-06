@@ -24,12 +24,11 @@ export const RelatedImages = (props: RelatedImagesProps) => {
 
   const [mounted, setMounted] = useState(false);
 
-  const sorted = useMemo(() => {
-    if (!props.annotation) return [];
+  const tags: Set<string> = useMemo(() =>
+    props.annotation ? new Set(getTags(props.annotation)) : new Set(), [props.annotation]);
 
-    const tags = props.annotation ? getTags(props.annotation) : [];
-    return groupByOverlap(new Set(tags), props.related || []);
-  }, [props.annotation, props.related]);
+  const grouped = useMemo(() =>
+    groupByOverlap<RelatedImageAnnotation>(tags, props.related || []), [tags, props.related]);
 
   const transition = useTransition([props.open], {
     from: { width: mounted ? 0 : 300 },
@@ -55,19 +54,33 @@ export const RelatedImages = (props: RelatedImagesProps) => {
         <X size={20} strokeWidth={1.5} />
       </button>
 
-      <h3>Images ({props.related ? props.related.length : 0})</h3>
+      <div className="related-verses-wrapper">
+        <h3>Images ({props.related ? props.related.length : 0})</h3>
 
-      <ul>
-        {(props.related || []).map(r => (
-          <li key={r.id}>
-            <Thumbnail src={r.thumbnail} />
-            {r.tags.map(t => (
-              <span key={t}>{t}</span>
-            ))}
-            <a href={`/image/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.image}</a>
-          </li>
-        ))}
-      </ul>
+        <ul>
+          {(grouped.map(group => group.related.map(({ annotation }) => (
+            <li key={annotation.id}>
+              <div className="preview">
+                <Thumbnail src={annotation.thumbnail} />
+
+                <div className="taglist-wrapper">
+                  <ul className="taglist">
+                    {annotation.tags.map(t => (
+                      <li 
+                        key={t}
+                        className={tags.has(t) ? 'common' : undefined}>{t}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
+              <a href={`/image/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`}>
+                {annotation.image}
+              </a>
+            </li>
+          ))))}
+        </ul>
+      </div>
     </animated.aside>
   ))
 
