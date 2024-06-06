@@ -1,4 +1,4 @@
-import type { Annotation } from "@annotorious/react";
+import type { Annotation } from '@annotorious/react';
 
 export interface ImageMetadata {
 

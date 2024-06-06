@@ -65,11 +65,13 @@ export const VerseView = (props: VerseViewProps) => {
         </main>
 
         <RelatedVerses 
+          annotation={selected?.annotation}
           open={isRelatedVersesPanelOpen} 
           related={selected?.relatedVerses} 
           onClose={() => setRelatedVersesPanelOpen(false)} />
 
         <RelatedImages
+          annotation={selected?.annotation}
           open={isRelatedImagesPanelOpen} 
           related={selected?.relatedImages} 
           onClose={() => setRelatedImagesPanelOpen(false)} />

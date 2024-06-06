@@ -1,12 +1,16 @@
 import { useLayoutEffect, useState } from 'react';
+import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
+import { getTags } from '@lib/utils';
 import { Thumbnail } from './Thumbnail';
 import type { RelatedImageAnnotation } from 'src/Types';
 
 import './RelatedImages.css';
 
 interface RelatedImagesProps {
+
+  annotation?: Annotation;
 
   open?: boolean;
 
@@ -17,6 +21,8 @@ interface RelatedImagesProps {
 }
 
 export const RelatedImages = (props: RelatedImagesProps) => {
+
+  const tags = props.annotation ? getTags(props.annotation) : [];
 
   const [mounted, setMounted] = useState(false);
 

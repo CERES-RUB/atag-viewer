@@ -1,11 +1,15 @@
 import { useLayoutEffect, useState } from 'react';
+import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
+import { getTags } from '@lib/utils';
 import type { RelatedVerseAnnotation } from 'src/Types';
 
 import './RelatedVerses.css';
 
 interface RelatedVersesProps {
+
+  annotation?: Annotation;
 
   open?: boolean;
 
@@ -16,6 +20,8 @@ interface RelatedVersesProps {
 }
 
 export const RelatedVerses = (props: RelatedVersesProps) => {
+
+  const tags = props.annotation ? getTags(props.annotation) : [];
 
   const [mounted, setMounted] = useState(false);
 
