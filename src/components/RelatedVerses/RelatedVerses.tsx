@@ -23,12 +23,11 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
 
   const [mounted, setMounted] = useState(false);
 
-  const sorted = useMemo(() => {
-    if (!props.annotation) return [];
+  const tags: Set<string> = useMemo(() =>
+    props.annotation ? new Set(getTags(props.annotation)) : new Set(), [props.annotation]);
 
-    const tags = props.annotation ? getTags(props.annotation) : [];
-    return groupByOverlap(new Set(tags), props.related || []);
-  }, [props.annotation, props.related]);
+  const grouped = useMemo(() =>
+    groupByOverlap<RelatedVerseAnnotation>(tags, props.related || []), [tags, props.related]);
 
   const transition = useTransition([props.open], {
     from: { width: mounted ? 0 : 300 },
@@ -58,19 +57,23 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
         <h3>Verses ({props.related ? props.related.length : 0})</h3>
         
         <ul>
-          {(props.related || []).map(r => (
-            <li key={r.id}>
+          {(grouped.map(group => group.related.map(({ annotation }) => (
+            <li key={annotation.id}>
               <ul className="taglist">
-                {r.tags.map(t => (
-                  <li key={t}>{t}</li>
+                {annotation.tags.map(t => (
+                  <li 
+                    key={t}
+                    className={tags.has(t) ? 'common' : undefined}>{t}</li>
                 ))}
               </ul>
 
-              <p className="snippet-preview">{r.snippet}</p>
+              <p className="snippet-preview">{annotation.snippet}</p>
 
-              <a href={`/verse/${r.slug}#${r.id.substring(r.id.lastIndexOf('/') + 1)}`}>{r.verse}</a>
+              <a href={`/verse/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`}>
+                {annotation.verse}
+              </a>
             </li>
-          ))}
+          ))))}
         </ul>
       </div>
     </animated.aside>

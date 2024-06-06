@@ -10,7 +10,7 @@ export const computeJaccardScore = (reference: Set<string>, related: Set<string>
   return intersection.length / union.size;
 }
 
-export const groupByOverlap = (reference: Set<string>, related: RelatedAnnotation[]) => {
+export const groupByOverlap = <T extends RelatedAnnotation>(reference: Set<string>, related: T[]) => {
   // Shorthand
   const equal = (a: Set<string>, b: Set<string>) =>
     a.size === b.size && [...a].every(value => b.has(value));
@@ -25,7 +25,7 @@ export const groupByOverlap = (reference: Set<string>, related: RelatedAnnotatio
       group.related.sort((a, b) => b.score - a.score));
   };
 
-  const grouped: RelatedAnnotationGroup[] = [];
+  const grouped: RelatedAnnotationGroup<T>[] = [];
 
   related.forEach(r => {
     const tags = new Set(r.tags);

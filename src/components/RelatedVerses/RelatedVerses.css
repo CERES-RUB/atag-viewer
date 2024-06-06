@@ -52,6 +52,11 @@
   white-space: nowrap;
 }
 
+.related.related-verses ul.taglist li:not(.common) {
+  background-color: var(--gray-100);
+  color: var(--gray-400);
+}
+
 .related.related-verses ul.taglist li + li {
   margin-left: 0.25rem;
 }

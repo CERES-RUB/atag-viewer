@@ -75,26 +75,29 @@ const buildTagIndex = () => {
     const str = fs.readFileSync(`./public/annotations/image/${image.slug}.json`);
     const w3c = JSON.parse(str.toString());
 
-    const related = w3c.map(a => {
-      const { id } = a;
+    const related = w3c.reduce((all, annotation) => {
+      const { id } = annotation;
 
-      const bodies = Array.isArray(a.body) ? a.body : [a.body];
+      const bodies = Array.isArray(annotation.body) ? annotation.body : [annotation.body];
       const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
 
-      const { x, y, w, h } = parseFragmentSelector(a.target.selector[0].value);
+      const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
+      if (w > 0 && h > 0) {
+        const path = `${x},${y},${w},${h}/full/0/default.jpg`;
+        const thumbnail = image.manifest.replace('info.json', path);
 
-      const path = `${x},${y},${w},${h}/full/0/default.jpg`;
-      const thumbnail = image.manifest.replace('info.json', path);
-
-      return {
-        type: 'IMAGE',
-        id, 
-        image: image.title,
-        slug: image.slug,
-        thumbnail,
-        tags
-      };
-    });
+        return [...all, {
+          type: 'IMAGE',
+          id, 
+          image: image.title,
+          slug: image.slug,
+          thumbnail,
+          tags
+        }];
+      } else {
+        return all;
+      }
+    }, []);
 
     return [...all, ...related];
   }, []);

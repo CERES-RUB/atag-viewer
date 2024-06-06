@@ -64,11 +64,11 @@ export interface RelatedVerseAnnotation {
 
 export type RelatedAnnotation = RelatedImageAnnotation | RelatedVerseAnnotation;
 
-export interface RelatedAnnotationGroup {
+export interface RelatedAnnotationGroup<T extends RelatedAnnotation = RelatedAnnotation> {
 
   common: Set<string>;
   
-  related: { annotation: RelatedAnnotation, score: number }[];
+  related: { annotation: T, score: number }[];
 
 }
 
