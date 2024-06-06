@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useSelected } from '@lib/hooks';
 import { useAnnotator } from '@annotorious/react';
-import type { RecogitoTextAnnotator, TextAnnotation } from '@recogito/react-text-annotator';
+import type { Annotation, RecogitoTextAnnotator, TextAnnotation } from '@recogito/react-text-annotator';
 
 // App-specific - annotation IDs are actually Recogito URIs, but 
 // we're shortening to just the UUID that follows this prefix
@@ -38,6 +38,9 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
     // Select the annotation with the given UUID and bring it into view
     const select = (uuid: string) => {
       const uri = `https://recogito.pelagios.org/annotation/${uuid}`;
+
+      const current = (anno.getSelected() as Annotation[] || []).map(a => a.id);
+      if (current.includes(uri)) return;
 
       anno.setSelected(uri);
 
