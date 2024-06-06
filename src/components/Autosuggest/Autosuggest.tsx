@@ -16,7 +16,11 @@ interface AutosuggestProps {
 
   getSuggestions: (query: string) => string[];
 
+  onBlur?(): void;
+
   onChange(value: string): void;
+
+  onFocus?(): void;
 
   onSelect?(selected: string): void;
 
@@ -55,7 +59,9 @@ export const Autosuggest = <T extends { id: string }>(props: AutosuggestProps) =
         disabled: props.disabled,
         placeholder: props.placeholder,
         value: props.value || '',
-        onChange: (_, { newValue }) => props.onChange && props.onChange(newValue)
+        onBlur: props.onBlur,
+        onChange: (_, { newValue }) => props.onChange && props.onChange(newValue),
+        onFocus: props.onFocus
       }} />
   )
   
