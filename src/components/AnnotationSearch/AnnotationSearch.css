@@ -5,14 +5,28 @@
   display: flex;
   font-family: Manrope, Arial, Helvetica, sans-serif;
   font-size: 0.725rem;
-  overflow: hidden;
+  padding-right: 8px;
   position: relative;
+}
+
+.annotation-search .searchbox-wrapper {
+  position: relative;
+}
+
+.annotation-search .result-count {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  position: absolute;
+  right: 0.675rem;
+  top: 0;
 }
 
 .annotation-search .collapsible {
   align-items: center;
   display: flex;
   gap: 1rem;
+  overflow: hidden;
 }
 
 .annotation-search .collapsible .actions {
@@ -20,7 +34,12 @@
   border-left: 1px solid rgba(255, 255, 255, 0.25);
   display: flex;
   gap: 0.5rem;
-  padding-left: 0.75rem;
+  padding-left: 0.5rem;
+}
+
+.annotation-search .collapsible .actions button {
+  height: auto;
+  width: auto;
 }
 
 .annotation-search input {

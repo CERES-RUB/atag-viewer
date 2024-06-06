@@ -47,7 +47,10 @@ export const Autosuggest = <T extends { id: string }>(props: AutosuggestProps) =
       onSuggestionsClearRequested={() => setSuggestions([])}
       getSuggestionValue={suggestion => suggestion}
       renderSuggestionsContainer={({ containerProps, children }) => Children.toArray(children).length > 0 ? (
-        <div {...containerProps} className="react-autosuggest">
+        <div 
+        {...containerProps} 
+        key={containerProps.key}
+        className="react-autosuggest">
           {children}
         </div>
       ) : null}

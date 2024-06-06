@@ -10,62 +10,111 @@ import './AnnotationSearch.css';
 
 interface AnnotationSearchProps {
 
+  onClear(): void;
+
+  onHighlightAnnotation(a: Annotation): void;
+
   onSearch(hits: Annotation[]): void;
 
 }
 
 export const AnnotationSearch = (props: AnnotationSearchProps) => {
 
-  const [isCollapsed, setIsCollapsed] = useState(false);
-
   const annotations = useAnnotations<Annotation>();
+
+  const [isCollapsed, setIsCollapsed] = useState(false);
 
   const { search, getSuggestions } = useTagSearch(annotations);
 
   const [query, setQuery] = useState('');
 
-  const [hits, setHits] = useState<Annotation[]>([]);
+  const [hits, setHits] = useState<Annotation[] |  undefined>();
+
+  const [highlightedIdx, setHighlightedIdx] = useState(0);
 
   const transition = useTransition([isCollapsed], {
     from: { maxWidth: 0, opacity: 0 },
-    enter: { maxWidth: 300, opacity: 1 },
+    enter: { maxWidth: 120, opacity: 1 },
     leave: { maxWidth: 0, opacity: 1 },
     config:{
-      duration: 150,
-      easing: easings.easeInCubic
+      duration: 250,
+      easing: easings.easeInOutCubic
     }
   });
 
   useEffect(() => {
+    if (!query) return;
+
     const hits = search(query);
+
     setHits(hits);
+
+    if (hits.length > 0)
+      setHighlightedIdx(1);
+    else
+      setHighlightedIdx(0);
 
     props.onSearch(hits);
   }, [query]);
+
+  useEffect(() => {
+    if (!highlightedIdx || !hits) return;
+
+    const annotation = hits[highlightedIdx - 1];
+    props.onHighlightAnnotation(annotation);
+  }, [hits, highlightedIdx]);
+
+  const onStep = (inc: number) => () => {
+    if (!hits) return;
+
+    const nextIndex = 
+      Math.min(Math.max(1, highlightedIdx + inc), hits.length);
+
+    setHighlightedIdx(nextIndex);
+  }
+
+  const onClearSearch = () => {
+    setQuery('');
+    setHits(undefined);
+    setHighlightedIdx(0);
+    setIsCollapsed(true);
+
+    props.onClear();
+  }
 
   return (
     <div className="annotation-search">
       <Search size={20} />
       
-      <Autosuggest 
-        placeholder="Search"
-        value={query} 
-        onBlur={() => setIsCollapsed(true)}
-        onChange={setQuery}
-        onFocus={() => setIsCollapsed(false)}
-        getSuggestions={getSuggestions} />  
+      <div className="searchbox-wrapper">
+        <Autosuggest 
+          placeholder="Search"
+          value={query} 
+          onChange={setQuery}
+          onFocus={() => setIsCollapsed(false)}
+          getSuggestions={getSuggestions} />  
 
+        {hits && (
+          <div className="result-count">
+            {highlightedIdx}/{hits.length}
+          </div>
+        )}
+      </div>
 
       {transition((style, collapsed) => !collapsed && (    
         <animated.div style={style} className="collapsible">
-          <div className="result-count">
-            1/{hits.length}
-          </div>
-
           <div className="actions">
-            <ChevronUp size={18}  />
-            <ChevronDown size={18} />
-            <X size={18} strokeWidth={2.2} />
+            <button onClick={onStep(-1)}>
+              <ChevronUp size={18}  />
+            </button>
+
+            <button onClick={onStep(1)}>
+              <ChevronDown size={18} />
+            </button>
+            
+            <button onClick={onClearSearch}>
+              <X size={18} strokeWidth={2.2} />
+            </button>
           </div>
         </animated.div>
       ))}
