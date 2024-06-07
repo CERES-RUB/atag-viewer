@@ -134,7 +134,9 @@ const buildTagIndex = () => {
   return [...relatedImages, ...relatedVerses];
 }
 
-const annotations = buildTagIndex();
+console.log('Building tag index...');
 
+const annotations = buildTagIndex();
 fs.writeFileSync(`public/tag-index.json`, JSON.stringify(annotations, null, 2));
 
+console.log(`Done (${annotations.length} anntoations).`);
