@@ -16,13 +16,13 @@ interface AutosuggestProps {
 
   getSuggestions: (query: string) => string[];
 
-  onBlur?(): void;
-
   onChange(value: string): void;
 
   onFocus?(): void;
 
   onSelect?(selected: string): void;
+
+  onKeyDown?(event: React.KeyboardEvent): void;
 
 }
 
@@ -37,20 +37,20 @@ export const Autosuggest = <T extends { id: string }>(props: AutosuggestProps) =
     <div data-highlighted={isHighlighted ? 'true' : undefined}>
       {suggestion}
     </div>
-  )
+  );
 
   return (
     <ReactAutosuggest
-      suggestions={suggestions} 
+      suggestions={suggestions}
       onSuggestionSelected={(_, arg) => props.onSelect && props.onSelect(arg.suggestion)}
       onSuggestionsFetchRequested={onGetSuggestions}
       onSuggestionsClearRequested={() => setSuggestions([])}
       getSuggestionValue={suggestion => suggestion}
       renderSuggestionsContainer={({ containerProps, children }) => Children.toArray(children).length > 0 ? (
         <div 
-        {...containerProps} 
-        key={containerProps.key}
-        className="react-autosuggest">
+          {...containerProps} 
+          key={containerProps.key}
+          className="react-autosuggest">
           {children}
         </div>
       ) : null}
@@ -62,9 +62,9 @@ export const Autosuggest = <T extends { id: string }>(props: AutosuggestProps) =
         disabled: props.disabled,
         placeholder: props.placeholder,
         value: props.value || '',
-        onBlur: props.onBlur,
         onChange: (_, { newValue }) => props.onChange && props.onChange(newValue),
-        onFocus: props.onFocus
+        onFocus: props.onFocus,
+        onKeyDown: props.onKeyDown
       }} />
   )
   

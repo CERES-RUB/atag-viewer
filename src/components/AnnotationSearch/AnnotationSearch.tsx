@@ -34,6 +34,10 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
 
   const [highlightedIdx, setHighlightedIdx] = useState(0);
 
+  // The first enter on the autocomplete closes the suggestions panel,
+  // but we want to skip to next for all subsequent Enter events
+  const [shouldStepOnEnter, setShouldStepOnEnter] = useState(false);
+
   const transition = useTransition([isCollapsed], {
     from: { maxWidth: 0, opacity: 0 },
     enter: { maxWidth: 120, opacity: 1 },
@@ -69,7 +73,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
     props.onHighlightResult(annotation);
   }, [hits, highlightedIdx]);
 
-  const onStep = (inc: number) => () => {
+  const onStep = (inc: number) => {
     if (!hits) return;
 
     const nextIndex = 
@@ -87,6 +91,19 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
     props.onClear();
   }
 
+  const onKeyDown = (evt: React.KeyboardEvent) => {
+    if (evt.key === 'Enter') {
+      if (shouldStepOnEnter) {
+        onStep(1);
+      } else {
+        setShouldStepOnEnter(true);
+      }
+    } else {
+      // Any other key: reset
+      setShouldStepOnEnter(false);
+    }
+  }
+
   return (
     <div className="annotation-search">
       <Search size={20} />
@@ -97,6 +114,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
           value={query} 
           onChange={setQuery}
           onFocus={() => setIsCollapsed(false)}
+          onKeyDown={onKeyDown}
           getSuggestions={getSuggestions} />  
 
         {hits && (
@@ -109,11 +127,11 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
       {transition((style, collapsed) => !collapsed && (    
         <animated.div style={style} className="collapsible">
           <div className="actions">
-            <button onClick={onStep(-1)}>
+            <button onClick={() => onStep(-1)}>
               <ChevronUp size={18}  />
             </button>
 
-            <button onClick={onStep(1)}>
+            <button onClick={() => onStep(1)}>
               <ChevronDown size={18} />
             </button>
             
