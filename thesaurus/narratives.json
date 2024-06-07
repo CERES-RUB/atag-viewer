@@ -1,0 +1,2042 @@
+[
+  {
+    "uri": "https://w3id.org/diga/terms/3807465985",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3807465985",
+    "prefLabel": "adoration of the alms-bowl",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3069328208",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3069328208",
+    "prefLabel": "adoration of the bodhi tree",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/995460596",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "995460596",
+    "prefLabel": "adoration of the chakra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1068058568",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1068058568",
+    "prefLabel": "adoration of the fire altar",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/555685707",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "555685707",
+    "prefLabel": "adoration of the kamandalu",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1698576696",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1698576696",
+    "prefLabel": "adoration of the relics ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1460388024",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1460388024",
+    "prefLabel": "adoration of the seat",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1389065188",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1389065188",
+    "prefLabel": "adoration of the stūpa",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2026225651",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2026225651",
+    "prefLabel": "adoration of the triratna",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1567534107",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1567534107",
+    "prefLabel": "adoration of the turban",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4279689539",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4279689539",
+    "prefLabel": "adoration of the vihara model",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/069441103",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "069441103",
+    "prefLabel": "appearance of the earth goddess bhūmī devī",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2958621720",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2958621720",
+    "prefLabel": "archery competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3352972921",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3352972921",
+    "prefLabel": "arrival of the elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2911129201",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2911129201",
+    "prefLabel": "attack by mara’s army",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1668611395",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1668611395",
+    "prefLabel": "attempt to measure the buddha",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2916871565",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2916871565",
+    "prefLabel": "avīci hell",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2280003638",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2280003638",
+    "prefLabel": "awakening",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3684696223",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3684696223",
+    "prefLabel": "banquet scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4139484426",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4139484426",
+    "prefLabel": "bath in the river",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2547728185",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2547728185",
+    "prefLabel": "bathing scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4132643010",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4132643010",
+    "prefLabel": "battle scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/86855196",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "86855196",
+    "prefLabel": "birth cycle",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3480877264",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3480877264",
+    "prefLabel": "birth of the infant from the pyre",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3452258354",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3452258354",
+    "prefLabel": "bodhisattva in tuṣita heaven",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1011267637",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1011267637",
+    "prefLabel": "bodhisattva maitreya with donor(s) and/or devotee(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3178008765",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3178008765",
+    "prefLabel": "bodhisattva under arches",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/76890827",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "76890827",
+    "prefLabel": "bodhisattva with donor(s) and/or devotee(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2041165953",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2041165953",
+    "prefLabel": "bodhisattva śākyamuni in tuṣita heaven",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2303716973",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2303716973",
+    "prefLabel": "bridal procession",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2369491511",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2369491511",
+    "prefLabel": "buddha and ascetic(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/200590997",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "200590997",
+    "prefLabel": "buddha and bodhisattva",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/118071661",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "118071661",
+    "prefLabel": "buddha and bodhisattva maitreya",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4113520297",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4113520297",
+    "prefLabel": "buddha and bodhisattva under arches",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3367379633",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3367379633",
+    "prefLabel": "buddha and bodhisattva(s) with donor(s) and/or devotee(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2045740374",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2045740374",
+    "prefLabel": "buddha and deities in devotion",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/970796730",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "970796730",
+    "prefLabel": "buddha and devotee(s) under arches",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/371664302",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "371664302",
+    "prefLabel": "buddha and monks",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2450594398",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2450594398",
+    "prefLabel": "buddha and naga in devotion",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3362981804",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3362981804",
+    "prefLabel": "buddha and putto feeding a lion",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2361678210",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2361678210",
+    "prefLabel": "buddha and vajrapani",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/9120800481",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9120800481",
+    "prefLabel": "buddha in a cave",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1067017892",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1067017892",
+    "prefLabel": "buddha in meditation",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3105536196",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3105536196",
+    "prefLabel": "buddha in the śākhyas' house",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3160937770",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3160937770",
+    "prefLabel": "buddha performing a miracle before ascetics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1773695413",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1773695413",
+    "prefLabel": "buddha thanking the bodhi tree",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1357192035",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1357192035",
+    "prefLabel": "buddha under arches",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3418962237",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3418962237",
+    "prefLabel": "buddha with donor(s) and/or devotee(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/62916888",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "62916888",
+    "prefLabel": "buddha(s) of the past",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1542174825",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1542174825",
+    "prefLabel": "buddha’s birth",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1682384564",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1682384564",
+    "prefLabel": "buddha’s death",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3504809170",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3504809170",
+    "prefLabel": "buddha’s obsequies",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3330337162",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3330337162",
+    "prefLabel": "buddhist paradise",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4205862209",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4205862209",
+    "prefLabel": "buddhist triade",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2025957890",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2025957890",
+    "prefLabel": "candraprabha jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2763289937",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2763289937",
+    "prefLabel": "chandaka and kaṇṭhaka return ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2912783977",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2912783977",
+    "prefLabel": "competitions",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/460001005",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "460001005",
+    "prefLabel": "consolation of ānanda",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3390397875",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3390397875",
+    "prefLabel": "conversion of anāthapiṇḍika",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1192325552",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1192325552",
+    "prefLabel": "conversion of aṅgulimāla",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/992117762",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "992117762",
+    "prefLabel": "conversion of bimbisāra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1317830262",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1317830262",
+    "prefLabel": "conversion of rāhula",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/25304485",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "25304485",
+    "prefLabel": "conversion of the nāga apalāla",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2299793420",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2299793420",
+    "prefLabel": "conversion of ugrasena",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/737765743",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "737765743",
+    "prefLabel": "conversion of ānanda",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4000126777",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4000126777",
+    "prefLabel": "cremation of the buddha",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/9459176676",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9459176676",
+    "prefLabel": "cutting a bundle of reeds",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3704017620",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3704017620",
+    "prefLabel": "cutting of the hair",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3623041667",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3623041667",
+    "prefLabel": "defeat of māra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/373985903",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "373985903",
+    "prefLabel": "departure from kapilavastu",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2299309310",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2299309310",
+    "prefLabel": "descent from the trāyastriṃśa heaven",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2539047041",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2539047041",
+    "prefLabel": "devadatta kills the elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1738770333",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1738770333",
+    "prefLabel": "devadatta’s attempts to murder the buddha",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1242267548",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1242267548",
+    "prefLabel": "dispute of the relics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/68533147",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "68533147",
+    "prefLabel": "distribution of the relics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2497796804",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2497796804",
+    "prefLabel": "dream of yaśodharā",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3483299088",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3483299088",
+    "prefLabel": "dīpaṃkara legend",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1381127838",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1381127838",
+    "prefLabel": "emission of water and fire",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1727287719",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1727287719",
+    "prefLabel": "encounter of a funerary procession",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4195094482",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4195094482",
+    "prefLabel": "encounter with a drum-player",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3047770676",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3047770676",
+    "prefLabel": "encounter with a mendicant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1358247127",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1358247127",
+    "prefLabel": "encounter with a sick man",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3968629930",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3968629930",
+    "prefLabel": "encounter with an old man",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/537991175",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "537991175",
+    "prefLabel": "encounter with the skull-tapper",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1932246324",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1932246324",
+    "prefLabel": "enshrinement of the relics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2131712883",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2131712883",
+    "prefLabel": "episode from the rāmāyaṇa",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2101537796",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2101537796",
+    "prefLabel": "erotic scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1216411304",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1216411304",
+    "prefLabel": "exchange of clothes with a hunter",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1076034328",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1076034328",
+    "prefLabel": "farewell to kaṇṭhaka and caṇḍaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1552063970",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1552063970",
+    "prefLabel": "fencing competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2137379094",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2137379094",
+    "prefLabel": "first bath",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1470505571",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1470505571",
+    "prefLabel": "first meditation",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1641391203",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1641391203",
+    "prefLabel": "first sermon",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1444102995",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1444102995",
+    "prefLabel": "four encounters",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3450847079",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3450847079",
+    "prefLabel": "generic scenes",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/966828572",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "966828572",
+    "prefLabel": "generic scenes with buddha and/or bodhisattva(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3020495255",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3020495255",
+    "prefLabel": "gift of the courtesan",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2891138109",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2891138109",
+    "prefLabel": "gods entreat the buddha to preach",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2629481206",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2629481206",
+    "prefLabel": "great departure",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3009319215",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3009319215",
+    "prefLabel": "guarding the relics ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2745386623",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2745386623",
+    "prefLabel": "hastī jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/49457987",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "49457987",
+    "prefLabel": "hunting scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1890705632",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1890705632",
+    "prefLabel": "hymn of the nāga kālika",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3895783439",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3895783439",
+    "prefLabel": "instigation to be born",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/700532296",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "700532296",
+    "prefLabel": "interpretation of māyā’s dream",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/733432465",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "733432465",
+    "prefLabel": "intervention of ānanda",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/799152257",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "799152257",
+    "prefLabel": "invitation of śrigupta and grahadatta",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1762203371",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1762203371",
+    "prefLabel": "kinnāra kinnāri",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/724064907",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "724064907",
+    "prefLabel": "lassoed humped bull",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/833126424",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "833126424",
+    "prefLabel": "last existence",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4208824949",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4208824949",
+    "prefLabel": "lion hunt",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1207424595",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1207424595",
+    "prefLabel": "maitrakanyaka jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2598707406",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2598707406",
+    "prefLabel": "marriage of the bodhisattva",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/9875544241",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9875544241",
+    "prefLabel": "meeting with the five ascetics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/742584637",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "742584637",
+    "prefLabel": "meeting with the grass-cutter",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3497062202",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3497062202",
+    "prefLabel": "miracle of sankasya",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2495320895",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2495320895",
+    "prefLabel": "miracle of śrāvasti",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1511806174",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1511806174",
+    "prefLabel": "miracle scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/308635358",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "308635358",
+    "prefLabel": "monk offering a seat to the buddha",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2148290242",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2148290242",
+    "prefLabel": "monkey offering honey",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1868891223",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1868891223",
+    "prefLabel": "multiplication of buddha’s image",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/715314803",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "715314803",
+    "prefLabel": "mundane scenes",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/950146588",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "950146588",
+    "prefLabel": "music competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1807394921",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1807394921",
+    "prefLabel": "māra’s assault",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2541474748",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2541474748",
+    "prefLabel": "māyā’s dream",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3421375637",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3421375637",
+    "prefLabel": "nanda removes the elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3467439175",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3467439175",
+    "prefLabel": "naḷapāna jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2781326045",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2781326045",
+    "prefLabel": "nursling of the dead woman",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2282157799",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2282157799",
+    "prefLabel": "offering of a cloth",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1858730767",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1858730767",
+    "prefLabel": "offering of dust",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1863675497",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1863675497",
+    "prefLabel": "offering of flowers",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4059881290",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4059881290",
+    "prefLabel": "offering of the four bowls",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1912925100",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1912925100",
+    "prefLabel": "offering of the milkmaid(s)",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/274525215",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "274525215",
+    "prefLabel": "offering of the two merchants",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1540169115",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1540169115",
+    "prefLabel": "offering scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/383795758",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "383795758",
+    "prefLabel": "ornaments of bodhisattva śākyamuni",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/31464669",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "31464669",
+    "prefLabel": "other narratives",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/558303909",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "558303909",
+    "prefLabel": "other scenes",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/673639674",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "673639674",
+    "prefLabel": "pastoral scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1684770525",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1684770525",
+    "prefLabel": "path to enligthenment",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3042226176",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3042226176",
+    "prefLabel": "preaching in the trāyastriṃśa heaven",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2220524088",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2220524088",
+    "prefLabel": "predication",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2457077768",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2457077768",
+    "prefLabel": "predication scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/503776940",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "503776940",
+    "prefLabel": "preparation for the great departure",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4091187645",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4091187645",
+    "prefLabel": "preparation of the seat of enlightenment",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1901189198",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1901189198",
+    "prefLabel": "presentation of the buddha image",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1903940520",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1903940520",
+    "prefLabel": "presentation of yaśodharā",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/140176674",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "140176674",
+    "prefLabel": "presentation to the temple",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1115524268",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1115524268",
+    "prefLabel": "previous births",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/322692987",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "322692987",
+    "prefLabel": "princely life",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3267183245",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3267183245",
+    "prefLabel": "prosternation of the humped-back bull",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1713162891",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1713162891",
+    "prefLabel": "protection of the nāga king",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4084501634",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4084501634",
+    "prefLabel": "renunciation to princely life",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1530430915",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1530430915",
+    "prefLabel": "return to kapilavastu",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1729169804",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1729169804",
+    "prefLabel": "revelry scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/846409897",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "846409897",
+    "prefLabel": "riding competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3523848199",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3523848199",
+    "prefLabel": "ruru jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1608909719",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1608909719",
+    "prefLabel": "scenes of adoration",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2788664484",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2788664484",
+    "prefLabel": "self-mortification",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/434773717",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "434773717",
+    "prefLabel": "seven steps",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/570017902",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "570017902",
+    "prefLabel": "siddhārtha and the dead elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3995440451",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3995440451",
+    "prefLabel": "siddhārtha in school",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2721284326",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2721284326",
+    "prefLabel": "siddhārtha in the women's quarter/chambers",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1036243806",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1036243806",
+    "prefLabel": "siddhārtha rides to school on a ram",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2975999413",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2975999413",
+    "prefLabel": "siddhārtha’s horoscope",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1687164115",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1687164115",
+    "prefLabel": "simultaneous births",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2103963975",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2103963975",
+    "prefLabel": "story of a bird and a monk",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1845018047",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1845018047",
+    "prefLabel": "story of hārītī's youngest son",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4136290256",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4136290256",
+    "prefLabel": "story of paṭikaputra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1301883780",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1301883780",
+    "prefLabel": "story of the dog",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4098337457",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4098337457",
+    "prefLabel": "story of the infant hanging from a tree",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2537376800",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2537376800",
+    "prefLabel": "story of the white elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2615296136",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2615296136",
+    "prefLabel": "story of āṭavika",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2661822784",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2661822784",
+    "prefLabel": "sumangala and the mendicant ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2461743327",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2461743327",
+    "prefLabel": "taming of the elephant",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2242482981",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2242482981",
+    "prefLabel": "temptation of māra’s daughters",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1245465292",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1245465292",
+    "prefLabel": "the bodhisattva watching sleeping women ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/188715043",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "188715043",
+    "prefLabel": "the great renunciation",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1408741571",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1408741571",
+    "prefLabel": "the parinirvāṇa cycle",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3122147496",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3122147496",
+    "prefLabel": "transportation of the relics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1044957954",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1044957954",
+    "prefLabel": "trojan horse",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3468655690",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3468655690",
+    "prefLabel": "tug of war competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/8761253475",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "8761253475",
+    "prefLabel": "unidentified scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2911044352",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2911044352",
+    "prefLabel": "visit of bimbisāra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/584905566",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "584905566",
+    "prefLabel": "visit of elāpatra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2897730138",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2897730138",
+    "prefLabel": "visit of indra",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3640972033",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3640972033",
+    "prefLabel": "visit of the ascetics",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1247725996",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1247725996",
+    "prefLabel": "visit to the ascetic ",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3881357712",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3881357712",
+    "prefLabel": "viśvantara jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2465739096",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2465739096",
+    "prefLabel": "vyāghrī jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2814722451",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2814722451",
+    "prefLabel": "washing of the garment",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1294853938",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1294853938",
+    "prefLabel": "wedding",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1284241234",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1284241234",
+    "prefLabel": "worship of the bowl in tuṣita heaven",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3648769682",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3648769682",
+    "prefLabel": "worship of the nun",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/638908362",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "638908362",
+    "prefLabel": "wrestling competition",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3152594652",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3152594652",
+    "prefLabel": "wrestling scene",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3250141891",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3250141891",
+    "prefLabel": "yaśodharā holding siddhārtha gautama back",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/340839401",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "340839401",
+    "prefLabel": "yaśodharā performing homa",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3414604390",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3414604390",
+    "prefLabel": "śaśa jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1280003135",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1280003135",
+    "prefLabel": "śibi's gift of eyes",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/028677063",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "028677063",
+    "prefLabel": "śibi's gift of flesh",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2444087111",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2444087111",
+    "prefLabel": "śyāma jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2095227443",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2095227443",
+    "prefLabel": "ṛśyaśṛṅga jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2748280388",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2748280388",
+    "prefLabel": "ṣaḍdanta jātaka",
+    "lang": "en",
+    "vocab": "thesaurus"
+  }
+]
