@@ -1,8 +1,8 @@
-import { useCallback, useEffect, useMemo } from 'react';
-import { useAnnotator, useSelection } from '@annotorious/react';
-import type { Annotation, W3CAnnotation } from '@annotorious/react';
+import { useCallback, useEffect } from 'react';
+import { useAnnotator } from '@annotorious/react';
+import type { Annotation } from '@annotorious/react';
 import { TextAnnotator, W3CTextFormat } from '@recogito/react-text-annotator';
-import type { HighlightStyle, TextAnnotation } from '@recogito/react-text-annotator';
+import type { HighlightStyle, RecogitoTextAnnotator, TextAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
 import { useRelated, useSelected } from '@lib/hooks';
 import { useNarrativeTerms } from '../_hooks';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
@@ -15,7 +15,9 @@ interface AnnotatedVerseProps {
 
   verse: string;
 
-  annotations: W3CAnnotation[];
+  annotations: W3CTextAnnotation[];
+
+  highlightedSearchResult?: TextAnnotation;
 
   searchResults: Annotation[];
 
@@ -29,7 +31,9 @@ interface AnnotatedVerseProps {
 
 export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
-  const anno = useAnnotator();
+  const { searchResults, highlightedSearchResult } = props;
+
+  const anno = useAnnotator<RecogitoTextAnnotator<W3CTextAnnotation>>();
 
   const selected = useSelected<TextAnnotation>();
 
@@ -40,21 +44,44 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   const style = useCallback((a: Annotation) => {
     const isSection = a.bodies.find(b => b.value && narrative!.has(b.value));
 
-    return isSection ? {
+    const baseStyle: HighlightStyle = isSection ? {
       fill: '#000',
       fillOpacity: 0.05
-    } as HighlightStyle : {
+    } : {
       fill: '#ff5e5e',
       fillOpacity: 0.4,
       underlineThickness: 2,
       underlineColor: '#e05252'
-    } as HighlightStyle;
-  }, [narrative]);
+    };
+
+    if (searchResults.length === 0) {
+      return baseStyle;
+    } else if (a.id === highlightedSearchResult?.id) {
+      return {
+        ...baseStyle,
+        fill: '#ff9100',
+        underlineColor: '#ca852b'
+      } as HighlightStyle;
+    } else {  
+      const resultIds = new Set(searchResults.map(a => a.id));
+
+      return resultIds.has(a.id) ? {
+        ...baseStyle,
+        fill: '#fff800',
+        underlineColor: '#caca2b'
+      } as HighlightStyle : baseStyle;
+    }
+  }, [narrative, searchResults, highlightedSearchResult]);
 
   useEffect(() => {
     if (!anno) return;
-    anno.setAnnotations(props.annotations);
+      anno.setAnnotations(props.annotations);
   }, [anno, props.annotations]);
+
+  useEffect(() => {
+    if (props.highlightedSearchResult)
+      anno.scrollIntoView(props.highlightedSearchResult);
+  }, [props.highlightedSearchResult]);
 
   useEffect(() => {
     props.onSelect({ 

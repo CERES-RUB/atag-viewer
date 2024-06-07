@@ -11,6 +11,8 @@ interface PageHeaderProps {
 
   isRelatedVersesOpen: boolean;
 
+  searchSorter?(a: Annotation, b: Annotation): number;
+
   onClearSearch(): void;
 
   onHighlightSearchResult(a: Annotation): void;
@@ -44,6 +46,7 @@ export const PageHeader = (props: PageHeaderProps) => {
 
       <div className="header-right">
         <AnnotationSearch
+          sorter={props.searchSorter}
           onClear={props.onClearSearch} 
           onHighlightResult={props.onHighlightSearchResult}
           onSearch={setSearchHits}  />

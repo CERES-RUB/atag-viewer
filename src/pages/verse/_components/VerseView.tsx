@@ -1,5 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Annotorious, type Annotation } from '@annotorious/react';
+import type { W3CTextAnnotation, TextAnnotation } from '@recogito/react-text-annotator';
 import { AnnotoriousHash } from '@components/AnnotoriousHash';
 import { PageHeader } from '@components/PageHeader';
 import { RelatedImages } from '@components/RelatedImages';
@@ -20,7 +21,7 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [verse, setVerse] = useState<string>();
 
-  const annotations = useAnnotations(`annotations/verse/${props.verse.slug}.json`);
+  const annotations = useAnnotations<W3CTextAnnotation>(`annotations/verse/${props.verse.slug}.json`);
 
   const [selected, setSelected] = useState<Selected | undefined>();
 
@@ -30,19 +31,19 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [search, setSearch] = useState<Annotation[]>([]);
 
+  const [highlightedSearchResult, setHighlightedSearchResult] = useState<TextAnnotation | undefined>();
+
+  const searchResultSorter = useCallback((a: TextAnnotation, b: TextAnnotation) => {
+    const startA = a.target.selector[0].start;
+    const startB = b.target.selector[0].start;
+    return startA - startB;
+  }, []);
+
   useEffect(() => {
     fetch(`../../verses/${props.verse.slug}.txt`)
       .then(res => res.text())
       .then(setVerse);
   }, []);
-
-  const onHighlightSearchResult = (a: Annotation) => {
-    // TODO
-  }
-
-  const onClearSearch = () => {
-    // TODO
-  }
 
   return (
     <Annotorious>
@@ -52,10 +53,11 @@ export const VerseView = (props: VerseViewProps) => {
       <PageHeader 
         isRelatedImagesOpen={isRelatedImagesPanelOpen}
         isRelatedVersesOpen={isRelatedVersesPanelOpen}
+        searchSorter={searchResultSorter}
         onToggleRelatedImages={() => setRelatedImagesPanelOpen(open => !open)}
         onToggleRelatedVerses={() => setRelatedVersesPanelOpen(open => !open)}
-        onClearSearch={onClearSearch}
-        onHighlightSearchResult={onHighlightSearchResult}
+        onClearSearch={() => setSearch([])}
+        onHighlightSearchResult={a => setHighlightedSearchResult(a as TextAnnotation)}
         onSearch={setSearch} />
 
       <div className="flex-wrapper">
@@ -67,6 +69,7 @@ export const VerseView = (props: VerseViewProps) => {
                 annotations={annotations}
                 verse={verse} 
                 searchResults={search} 
+                highlightedSearchResult={highlightedSearchResult}
                 onSelect={setSelected} 
                 onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
                 onOpenRelatedVerses={() => setRelatedVersesPanelOpen(true)} />

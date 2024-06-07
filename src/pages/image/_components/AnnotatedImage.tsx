@@ -42,7 +42,7 @@ interface AnnotatedImageProps {
 
 }
 
-const BASE_STYLE: DrawingStyleExpression<ImageAnnotation> = (a: ImageAnnotation, state?: AnnotationState) => ({
+const BASE_STYLE: DrawingStyleExpression<ImageAnnotation> = (_: ImageAnnotation, state?: AnnotationState) => ({
   fill: state?.selected ? '#ff0000' : '#ffffff',
   fillOpacity: (state?.hovered || state?.selected) ? 0.25 : 0.1,
   stroke: state?.selected ? '#ff0000' : '#ffffff',

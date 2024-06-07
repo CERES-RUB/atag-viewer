@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 import type { W3CAnnotation } from '@annotorious/react';
 
-export const useAnnotations = (path: string) => {
+export const useAnnotations = <T extends W3CAnnotation = W3CAnnotation>(path: string) => {
 
-  const [annotations, setAnnotations] = useState<W3CAnnotation[] | undefined>();
+  const [annotations, setAnnotations] = useState<T[] | undefined>();
 
   useEffect(() => {
     fetch(`../../${path}`)

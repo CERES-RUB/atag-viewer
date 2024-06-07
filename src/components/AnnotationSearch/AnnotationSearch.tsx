@@ -10,6 +10,8 @@ import './AnnotationSearch.css';
 
 interface AnnotationSearchProps {
 
+  sorter?(a: Annotation, b: Annotation): number;
+
   onClear(): void;
 
   onHighlightResult(a: Annotation): void;
@@ -47,6 +49,9 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
 
     const hits = search(query);
 
+    if (props.sorter)
+      hits.sort(props.sorter);
+
     setHits(hits);
 
     if (hits.length > 0)
@@ -55,7 +60,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
       setHighlightedIdx(0);
 
     props.onSearch(hits);
-  }, [query]);
+  }, [query, props.sorter]);
 
   useEffect(() => {
     if (!highlightedIdx || !hits) return;
