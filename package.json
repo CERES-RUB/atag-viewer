@@ -9,7 +9,7 @@
     "start": "astro dev",
     "build-index": "node scripts/build-tag-index.js",
     "build": "astro build",
-    "deploy": "gh-pages -d dist --nojekyll",
+    "deploy": "gh-pages -d dist --nojekyll -m 'Deployment' --cname 'diga.rainersimon.io'",
     "postinstall": "node scripts/build-tag-index.js",
     "predeploy": "npm run build",
     "preview": "astro preview",
