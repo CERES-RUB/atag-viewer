@@ -7,8 +7,7 @@ import {
   OpenSeadragonViewer, 
   PointerSelectAction, 
   W3CImageFormat, 
-  useAnnotator,
-  useSelection
+  useAnnotator
 } from '@annotorious/react';
 import type {
   AnnotationState,
@@ -29,6 +28,8 @@ interface AnnotatedImageProps {
   isRelatedVersesOpen: boolean;
 
   annotations: W3CImageAnnotation[];
+
+  highlightedSearchResult?: Annotation;
 
   imageManifest: string;
 

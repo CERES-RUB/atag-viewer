@@ -29,13 +29,7 @@ export const ImageView = (props: ImageViewProps) => {
 
   const [search, setSearch] = useState<Annotation[]>([]);
 
-  const onHighlightSearchResult = (a: Annotation) => {
-    // TODO
-  }
-
-  const onClearSearch = () => {
-    // TODO
-  }
+  const [highlightedSearchResult, setHighlightedSearchResult] = useState<Annotation | undefined>();
 
   return (
     <Annotorious>
@@ -47,14 +41,15 @@ export const ImageView = (props: ImageViewProps) => {
         isRelatedVersesOpen={isRelatedVersesPanelOpen}
         onToggleRelatedImages={() => setRelatedImagesPanelOpen(open => !open)}
         onToggleRelatedVerses={() => setRelatedVersesPanelOpen(open => !open)}
-        onClearSearch={onClearSearch}
-        onHighlightSearchResult={onHighlightSearchResult}
+        onClearSearch={() => setSearch([])}
+        onHighlightSearchResult={setHighlightedSearchResult}
         onSearch={setSearch} />
 
       <div className="view-wrapper">
         <main>
           <AnnotatedImage 
             annotations={annotations as W3CImageAnnotation[]} 
+            highlightedSearchResult={highlightedSearchResult}
             imageManifest={props.image.manifest}
             isRelatedImagesOpen={isRelatedImagesPanelOpen}
             isRelatedVersesOpen={isRelatedVersesPanelOpen}

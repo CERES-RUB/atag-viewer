@@ -13,13 +13,13 @@ import '@recogito/react-text-annotator/react-text-annotator.css';
 
 interface AnnotatedVerseProps {
 
-  verse: string;
-
   annotations: W3CTextAnnotation[];
 
   highlightedSearchResult?: TextAnnotation;
 
   searchResults: Annotation[];
+
+  verse: string;
 
   onSelect(selected: Selected): void;
 

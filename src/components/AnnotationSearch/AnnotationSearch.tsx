@@ -49,21 +49,26 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
   });
 
   useEffect(() => {
-    if (!query) return;
+    if (query) {
+      const hits = search(query);
 
-    const hits = search(query);
+      if (props.sorter)
+        hits.sort(props.sorter);
 
-    if (props.sorter)
-      hits.sort(props.sorter);
+      setHits(hits);
 
-    setHits(hits);
+      if (hits.length > 0)
+        setHighlightedIdx(1);
+      else
+        setHighlightedIdx(0);
 
-    if (hits.length > 0)
+      props.onSearch(hits);
+    } else {
+      setHits(undefined);
       setHighlightedIdx(1);
-    else
-      setHighlightedIdx(0);
 
-    props.onSearch(hits);
+      props.onSearch([]);
+    }
   }, [query, props.sorter]);
 
   useEffect(() => {
@@ -85,7 +90,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
   const onClearSearch = () => {
     setQuery('');
     setHits(undefined);
-    setHighlightedIdx(0);
+    setHighlightedIdx(1);
     setIsCollapsed(true);
 
     props.onClear();
@@ -104,6 +109,11 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
     }
   }
 
+  const onBlur = () => {
+    // Close the search input on blur - if there's no query!
+    if (!query) setIsCollapsed(true);
+  }
+
   return (
     <div className="annotation-search">
       <Search size={20} />
@@ -114,6 +124,7 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
           value={query} 
           onChange={setQuery}
           onFocus={() => setIsCollapsed(false)}
+          onBlur={onBlur}
           onKeyDown={onKeyDown}
           getSuggestions={getSuggestions} />  
 
