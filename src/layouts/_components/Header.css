@@ -1,0 +1,31 @@
+header {
+  align-items: center;
+  font-family: Manrope;
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  position: sticky;
+  top: 0;
+}
+
+header .header-left {
+  align-items: center;
+  display: flex;
+  gap: 1.25rem;
+  font-size: 0.825rem;
+  padding-left: 0.25rem;
+} 
+
+header a {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  gap: 0.25rem;
+  text-decoration: none;
+}
+
+header a + a:before {
+  content: '·';
+  padding-right: 0.75rem;
+}

@@ -1,0 +1,35 @@
+---
+import Layout from '@layouts/Layout.astro';
+import { Header } from './_components/Header';
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+<Layout title={title}>
+	<Header />
+
+  <main>
+		<slot />
+	</main>
+</Layout>
+
+<style>
+  :global(html, body) {
+    min-height: 100%;
+    background-color: #fff;
+  }
+
+  :global(body) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex-grow: 1;
+    max-width: 80ch;
+    padding: 30px 80px 80px 80px;
+  }
+</style>
