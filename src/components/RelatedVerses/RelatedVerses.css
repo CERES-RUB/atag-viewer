@@ -1,5 +1,6 @@
 .related.related-verses {
   box-sizing: border-box;
+  flex: 0 0 auto;
   overflow-y: auto;
   overflow-x: hidden;
   position: relative;
