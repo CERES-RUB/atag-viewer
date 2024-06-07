@@ -9,7 +9,7 @@
     "start": "astro dev",
     "build-index": "node scripts/build-tag-index.js",
     "build": "astro build",
-    "deploy": "gh-pages --nojekyll",
+    "deploy": "gh-pages -d dist --nojekyll",
     "postinstall": "node scripts/build-tag-index.js",
     "predeploy": "npm run build",
     "preview": "astro preview",
