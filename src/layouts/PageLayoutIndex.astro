@@ -12,9 +12,7 @@ import Layout from '@layouts/Layout.astro';
     </div>
   </header>
 
-  <main>
-		<slot />
-	</main>
+	<slot />
 </Layout>
 
 <style>
@@ -26,12 +24,6 @@ import Layout from '@layouts/Layout.astro';
   :global(body) {
     display: flex;
     flex-direction: column;
-  }
-
-  main {
-    flex-grow: 1;
-    max-width: 80ch;
-    padding: 30px 80px 80px 80px;
   }
 
   header {

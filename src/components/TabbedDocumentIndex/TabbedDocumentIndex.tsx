@@ -30,7 +30,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
       <Tabs.Content className="tabs-content" value="verses">
         <ul>
 					{verses.map(meta => (
-						<li>
+						<li key={meta.slug}>
 							<a href={`verse/${meta.slug}`}>{meta.title}</a>
 						</li>
 					))}
@@ -40,7 +40,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
       <Tabs.Content className="tabs-content" value="images">
         <ul>
           {images.map(meta => (
-						<li>
+						<li key={meta.slug}>
 							<a href={`image/${meta.slug}`}>{meta.title}</a>
 						</li>
 					))}
