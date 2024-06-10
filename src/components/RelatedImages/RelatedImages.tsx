@@ -49,7 +49,7 @@ export const RelatedImages = (props: RelatedImagesProps) => {
   const getLink = (annotation: RelatedImageAnnotation) => 
     annotation.slug === props.currentSlug
       ? `#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`
-      : `/image/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
+      : `/image/${annotation.slug}/#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
 
   return transition((style, open) => open && (
     <animated.aside 

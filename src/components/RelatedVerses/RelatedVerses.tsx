@@ -48,7 +48,7 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
   const getLink = (annotation: RelatedVerseAnnotation) => 
     annotation.slug === props.currentSlug
       ? `#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`
-      : `/image/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
+      : `/verse/${annotation.slug}/#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
 
   return transition((style, open) => open && (
     <animated.aside 
