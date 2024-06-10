@@ -62,12 +62,14 @@ export const ImageView = (props: ImageViewProps) => {
         <div className="drawer-wrapper">
           <RelatedVerses 
             annotation={selected?.annotation}
+            currentSlug={props.image.slug}
             open={isRelatedVersesPanelOpen} 
             related={selected?.relatedVerses} 
             onClose={() => setRelatedVersesPanelOpen(false)} />
 
           <RelatedImages
-             annotation={selected?.annotation}
+            annotation={selected?.annotation}
+            currentSlug={props.image.slug}
             open={isRelatedImagesPanelOpen} 
             related={selected?.relatedImages} 
             onClose={() => setRelatedImagesPanelOpen(false)} />

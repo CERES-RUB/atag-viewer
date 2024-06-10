@@ -11,6 +11,8 @@ interface RelatedVersesProps {
 
   annotation?: Annotation;
 
+  currentSlug: string;
+
   open?: boolean;
 
   related?: RelatedVerseAnnotation[];
@@ -43,6 +45,11 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
     setTimeout(() => setMounted(true), 10);
   }, []);
 
+  const getLink = (annotation: RelatedVerseAnnotation) => 
+    annotation.slug === props.currentSlug
+      ? `#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`
+      : `/image/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
+
   return transition((style, open) => open && (
     <animated.aside 
       style={style}
@@ -69,7 +76,7 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
 
               <p className="snippet-preview">{annotation.snippet}</p>
 
-              <a href={`/verse/${annotation.slug}#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`}>
+              <a href={getLink(annotation)}>
                 {annotation.verse}
               </a>
             </li>
