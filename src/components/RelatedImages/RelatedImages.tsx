@@ -62,31 +62,39 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       </button>
 
       <div className="related-verses-wrapper">
-        <h3>Images ({props.related ? props.related.length : 0})</h3>
+        <h3>
+          Images {props.annotation && `(${props.related ? props.related.length : 0})`}
+        </h3>
 
-        <ul>
-          {(grouped.map(group => group.related.map(({ annotation }) => (
-            <li key={annotation.id}>
-              <div className="preview">
-                <Thumbnail src={annotation.thumbnail} />
+        {props.annotation ? (
+          <ul>
+            {(grouped.map(group => group.related.map(({ annotation }) => (
+              <li key={annotation.id}>
+                <div className="preview">
+                  <Thumbnail src={annotation.thumbnail} />
 
-                <div className="taglist-wrapper">
-                  <ul className="taglist">
-                    {annotation.tags.map(t => (
-                      <li 
-                        key={t}
-                        className={tags.has(t) ? 'common' : undefined}>{t}</li>
-                    ))}
-                  </ul>
+                  <div className="taglist-wrapper">
+                    <ul className="taglist">
+                      {annotation.tags.map(t => (
+                        <li 
+                          key={t}
+                          className={tags.has(t) ? 'common' : undefined}>{t}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
-              </div>
 
-              <a href={getLink(annotation)}>
-                {annotation.image}
-              </a>
-            </li>
-          ))))}
-        </ul>
+                <a href={getLink(annotation)}>
+                  {annotation.image}
+                </a>
+              </li>
+            ))))}
+          </ul>
+        ) : (
+          <div className="no-selection">
+            No annotation selected.
+          </div>
+        )}
       </div>
     </animated.aside>
   ))
