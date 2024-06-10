@@ -61,27 +61,35 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
       </button>
 
       <div className="related-verses-wrapper">
-        <h3>Verses ({props.related ? props.related.length : 0})</h3>
+        <h3>
+          Verses {props.annotation && `(${props.related ? props.related.length : 0})`}
+        </h3>
         
-        <ul>
-          {(grouped.map(group => group.related.map(({ annotation }) => (
-            <li key={annotation.id}>
-              <ul className="taglist">
-                {annotation.tags.map(t => (
-                  <li 
-                    key={t}
-                    className={tags.has(t) ? 'common' : undefined}>{t}</li>
-                ))}
-              </ul>
+        {props.annotation ? (
+          <ul>
+            {(grouped.map(group => group.related.map(({ annotation }) => (
+              <li key={annotation.id}>
+                <ul className="taglist">
+                  {annotation.tags.map(t => (
+                    <li 
+                      key={t}
+                      className={tags.has(t) ? 'common' : undefined}>{t}</li>
+                  ))}
+                </ul>
 
-              <p className="snippet-preview">{annotation.snippet}</p>
+                <p className="snippet-preview">{annotation.snippet}</p>
 
-              <a href={getLink(annotation)}>
-                {annotation.verse}
-              </a>
-            </li>
-          ))))}
-        </ul>
+                <a href={getLink(annotation)}>
+                  {annotation.verse}
+                </a>
+              </li>
+            ))))}
+          </ul>
+        ) : (
+          <div className="no-selection">
+            No annotation selected.
+          </div>
+        )}
       </div>
     </animated.aside>
   ))
