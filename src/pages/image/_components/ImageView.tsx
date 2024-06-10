@@ -45,35 +45,31 @@ export const ImageView = (props: ImageViewProps) => {
         onHighlightSearchResult={setHighlightedSearchResult}
         onSearch={setSearch} />
 
-      <div className="view-wrapper">
+      <div className="flex-wrapper">
         <main>
           <AnnotatedImage 
             annotations={annotations as W3CImageAnnotation[]} 
             highlightedSearchResult={highlightedSearchResult}
             imageManifest={props.image.manifest}
-            isRelatedImagesOpen={isRelatedImagesPanelOpen}
-            isRelatedVersesOpen={isRelatedVersesPanelOpen}
             searchResults={search} 
             onSelect={setSelected} 
             onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
             onOpenRelatedVerses={() => setRelatedVersesPanelOpen(true)} />
         </main>
 
-        <div className="drawer-wrapper">
-          <RelatedVerses 
-            annotation={selected?.annotation}
-            currentSlug={props.image.slug}
-            open={isRelatedVersesPanelOpen} 
-            related={selected?.relatedVerses} 
-            onClose={() => setRelatedVersesPanelOpen(false)} />
+        <RelatedVerses 
+          annotation={selected?.annotation}
+          currentSlug={props.image.slug}
+          open={isRelatedVersesPanelOpen} 
+          related={selected?.relatedVerses} 
+          onClose={() => setRelatedVersesPanelOpen(false)} />
 
-          <RelatedImages
-            annotation={selected?.annotation}
-            currentSlug={props.image.slug}
-            open={isRelatedImagesPanelOpen} 
-            related={selected?.relatedImages} 
-            onClose={() => setRelatedImagesPanelOpen(false)} />
-        </div>
+        <RelatedImages
+          annotation={selected?.annotation}
+          currentSlug={props.image.slug}
+          open={isRelatedImagesPanelOpen} 
+          related={selected?.relatedImages} 
+          onClose={() => setRelatedImagesPanelOpen(false)} />
       </div>
     </Annotorious>
   )

@@ -34,8 +34,6 @@ const getAnnotationDomRect = (viewer: OpenSeadragon.Viewer, annotation: ImageAnn
 
 interface ImageAnnotationPopupProps {
 
-  marginRight: number;
-
   annotation?: ImageAnnotation;
 
   relatedImages?: RelatedImageAnnotation[];
@@ -66,7 +64,7 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
       shift({ 
         crossAxis: true,
         boundary: viewer?.element,
-        padding: { right: props.marginRight + 5, left: 5, top: 10, bottom: 10 }
+        padding: { right: 5, left: 5, top: 10, bottom: 10 }
       }),
       arrow({
         element: arrowRef,

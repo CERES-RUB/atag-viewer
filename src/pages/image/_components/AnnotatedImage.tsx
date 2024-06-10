@@ -23,10 +23,6 @@ import '@annotorious/react/annotorious-react.css';
 
 interface AnnotatedImageProps {
 
-  isRelatedImagesOpen: boolean;
-  
-  isRelatedVersesOpen: boolean;
-
   annotations: W3CImageAnnotation[];
 
   highlightedSearchResult?: Annotation;
@@ -66,7 +62,8 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
       clickToZoom: false
     },
     maxZoomLevel: 4,
-    minZoomLevel: 0.25
+    minZoomLevel: 0.25,
+    preserveImageSizeOnResize: true
   }), [props.imageManifest]);
 
   useEffect(() => {
@@ -99,12 +96,6 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
     }
   }, [props.searchResults]);
 
-  const marginRight = useMemo(() => (
-    (props.isRelatedImagesOpen && props.isRelatedVersesOpen) ? 600 :
-    (props.isRelatedImagesOpen || props.isRelatedVersesOpen) ? 300 :
-    0
-  ), [props.isRelatedImagesOpen, props.isRelatedVersesOpen])
-
   return (
     <OpenSeadragonAnnotator 
       adapter={W3CImageFormat(props.imageManifest)}
@@ -114,8 +105,7 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
             
       <OpenSeadragonViewer className="openseadragon" options={options} />
 
-      <ImageAnnotationPopup 
-        marginRight={marginRight}
+      <ImageAnnotationPopup
         annotation={selected} 
         relatedImages={images} 
         relatedVerses={verses} 
