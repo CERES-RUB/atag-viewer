@@ -52,6 +52,11 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
       }
     }
 
+    const deselect = () => {
+      if (anno.getSelected()?.length > 0)
+        anno.cancelSelected();
+    }
+
     const hash = window.location.hash.substring(1);
     if (hash) {
       setTimeout(() => { 
@@ -66,6 +71,8 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
       const hash = window.location.hash.substring(1);
       if (hash)
         select(hash);
+      else 
+        deselect();
     }
 
     window.addEventListener('hashchange', onHashChange);
