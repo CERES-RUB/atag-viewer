@@ -1,6 +1,8 @@
 import * as Tabs from '@radix-ui/react-tabs';  
 import type { ImageMetadata, VerseMetadata } from 'src/Types';
 
+import './TabbedDocumentIndex.css';
+
 interface TabbedDocumentIndexProps {
 
   verses: VerseMetadata[];
@@ -14,20 +16,18 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
   const { images, verses } = props;
 
   return (
-    <Tabs.Root defaultValue="verses">
-      <Tabs.List>
+    <Tabs.Root className="tabbed-document-index" defaultValue="verses">
+      <Tabs.List className="tabs-list">
         <Tabs.Trigger value="verses">
-          Verses
+          {verses.length}  Verses
         </Tabs.Trigger>
 
         <Tabs.Trigger value="images">
-          Images
+          {images.length} Images
         </Tabs.Trigger>
       </Tabs.List>
 
-      <Tabs.Content value="verses">
-        <h2>Verses</h2>
-
+      <Tabs.Content className="tabs-content" value="verses">
         <ul>
 					{verses.map(meta => (
 						<li>
@@ -37,8 +37,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
 				</ul>
       </Tabs.Content>
 
-      <Tabs.Content value="images">
-        <h2>Images</h2>
+      <Tabs.Content className="tabs-content" value="images">
         <ul>
           {images.map(meta => (
 						<li>
