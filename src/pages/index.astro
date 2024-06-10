@@ -1,33 +1,21 @@
 ---
-import Layout from '@layouts/Layout.astro';
+import { TabbedDocumentIndex } from '@components/TabbedDocumentIndex/TabbedDocumentIndex';
+import Layout from '@layouts/PageLayoutIndex.astro';
 import { listImages, listVerses } from '@lib/utils';
+
+const verses = listVerses();
+const images = listImages();
 ---
-<Layout title="Annotated Content Browser">
+<Layout>
 	<main>
-		<h1>Main Menu</h1>
+		<h1>Welcome</h1>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum ipsum nec lacus cursus volutpat. Fusce vel laoreet ipsum, sed mollis urna. Suspendisse sed mollis nibh. Sed feugiat velit vitae tortor efficitur, vitae semper diam egestas. Ut at metus id ipsum laoreet ultricies. 
+		</p>
 
-		<ul>
-			<li>
-				<h2>Verses</h2>
-				<ul>
-					{listVerses().map(meta => (
-						<li>
-							<a href={`verse/${meta.slug}`}>{meta.title}</a>
-						</li>
-					))}
-				</ul>
-			</li>
-
-			<li>
-				<h2>Images</h2>
-				<ul>
-					{listImages().map(meta => (
-						<li>
-							<a href={`image/${meta.slug}`}>{meta.title}</a>
-						</li>
-					))}
-				</ul>
-			</li>
-		</ul>
+		<TabbedDocumentIndex 
+			client:load
+			verses={verses} 
+			images={images} />
 	</main>
 </Layout>

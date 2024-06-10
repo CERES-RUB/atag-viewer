@@ -1,0 +1,77 @@
+---
+import Layout from '@layouts/Layout.astro';
+---
+<Layout title="DiGA">
+  <header>
+    <div class="header-left">
+      <div class="logo-placeholder">
+        Project Name & Logo
+      </div>
+
+      <a href="../../about">About</a>
+    </div>
+  </header>
+
+  <main>
+		<slot />
+	</main>
+</Layout>
+
+<style>
+  :global(html, body) {
+    min-height: 100%;
+    background-color: #fff;
+  }
+
+  :global(body) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex-grow: 1;
+    max-width: 80ch;
+    padding: 30px 80px 80px 80px;
+  }
+
+  header {
+    align-items: center;
+    font-family: Manrope;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    position: sticky;
+    top: 0;
+  }
+
+  header .header-left {
+    align-items: center;
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.825rem;
+    padding-left: 0.25rem;
+  } 
+
+  header a {
+    align-items: center;
+    color: #fff;
+    display: flex;
+    gap: 0.25rem;
+    text-decoration: none;
+  }
+
+  header a + a:before {
+    content: '·';
+    padding-right: 0.75rem;
+  }
+
+  header .logo-placeholder {
+    border: 1px solid #fff;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    padding: 0 12px;
+  }
+</style>
