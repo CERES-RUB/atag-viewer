@@ -1,368 +1,1888 @@
 [
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/c835b405-3553-4d43-8f06-521826312d83",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3486,2829,340,237/full/0/default.jpg",
-    "tags": []
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/b008e699-51d2-4f51-9d7c-c511396371ff",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3567,2258,552,737/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/fd5897e8-4655-4746-929e-ef0e4b3ec33a",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4613,1738,887,1463/full/0/default.jpg",
     "tags": [
-      "dhotī",
-      "necklace",
-      "earrings"
+      "bodhisattva",
+      "siddhārtha",
+      "gesture of reassurance",
+      "nimbus",
+      "uttarīya",
+      "wristlet"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/019097d2-74ff-4a4c-89c9-fa4cb44a5495",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2201,2244,263,422/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/49265952-d8bc-42c1-9770-50eff7cb41d4",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/3143,1456,880,1660/full/0/default.jpg",
     "tags": [
-      "attendant"
+      "dhyānamudrā",
+      "seated in meditative position",
+      "open lotus with reverse petals",
+      "saṃghāṭi",
+      "buddha",
+      "siddhārtha",
+      "nimbus",
+      "semi-column and pilaster of the gandharan-corinthian type engaged",
+      "shaft with figure",
+      "buddha in meditation"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/68de2576-965e-4d8b-8bcf-1725094f8b59",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/603,3006,4310,408/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/e12548ca-f89f-44c1-a235-b05fdbf69d3a",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/1732,1692,1592,1409/full/0/default.jpg",
+    "tags": [
+      "kaṇṭhaka",
+      "reins"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/cd46c0a9-8c66-4a30-9936-333d759b8e52",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/364,3116,6519,277/full/0/default.jpg",
     "tags": [
       "base"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/1825c923-715d-448b-833c-881f7152237e",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/589,1977,4346,274/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/5e34185f-38be-428b-b76f-45c026b25071",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/358,1301,734,1825/full/0/default.jpg",
     "tags": [
-      "row of overlapping leaves of pipal"
+      "dhyānamudrā",
+      "open lotus with reverse petals",
+      "saṃghāṭi",
+      "siddhārtha",
+      "nimbus",
+      "buddha in meditation",
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/b1577766-21cc-4c7f-b879-581069d2b262",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3882,2218,203,277/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/3f48aa0c-fc49-44d0-869f-d41d19a6ab6d",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4044,1882,622,1270/full/0/default.jpg",
     "tags": [
-      "male figure",
-      "nimbus with plain border"
+      "chandaka",
+      "uttarīya"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/cd9c26f7-887b-43a8-b550-af2dbd272a4a",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/1679,2207,315,496/full/0/default.jpg",
-    "tags": [
-      "arrow"
-    ]
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/c6abd4a2-86bd-4241-ad9a-768296c1da2f",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2632,2170,689,962/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/51461d01-6af5-4d8f-a95a-5bd5ee5d15a1",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/641,1435,6191,174/full/0/default.jpg",
     "tags": []
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/701a40f5-dfab-4c31-9760-48856f7b5dad",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/640,622,756,657/full/0/default.jpg",
-    "tags": []
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/ec112168-50d2-4346-ae5b-24925d2d2b90",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/4400,2266,467,788/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/9a6b515a-280d-464b-81f9-78dc7282dbd3",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/6053,1609,861,1507/full/0/default.jpg",
     "tags": [
-      "attendant"
+      "dhyānamudrā",
+      "open lotus with reverse petals",
+      "saṃghāṭi",
+      "siddhārtha",
+      "buddha",
+      "nimbus",
+      "shaft with figure",
+      "semi-column and pilaster of the gandharan-corinthian type engaged",
+      "seated in meditative position",
+      "buddha in meditation"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/5b1182e8-a23d-4a46-9b23-0e7445cbdba6",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2331,2414,485,663/full/0/default.jpg",
-    "tags": [
-      "yaśodharā",
-      "throne",
-      "necklace",
-      "bracelet",
-      "earrings",
-      "ornaments of female indian figure",
-      "sāṛī"
-    ]
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/5c47fba7-4c2a-4325-b5d2-d814fd60c3c5",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/1883,2236,440,833/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/8f72509a-b6b0-4ecb-bc5d-9961c1b5960d",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/2111,1639,818,1418/full/0/default.jpg",
     "tags": [
       "siddhārtha",
       "bodhisattva",
-      "short dhotī"
+      "uttarīya",
+      "turban",
+      "nimbus"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/bfdb8b15-2c22-4ab2-88fb-648244a05e10",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3193,2232,378,859/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/dac9dceb-deb2-438f-96d4-2da2576f34c6",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/1716,1545,433,478/full/0/default.jpg",
     "tags": [
-      "tree crown spreading upward with lanceolate leaves"
-    ]
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/f24b1d5b-6566-47ce-9aab-40f8154940ba",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/589,1222,4361,259/full/0/default.jpg",
-    "tags": []
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/5c222766-f107-4b57-b96c-797a865e680c",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/1328,590,803,613/full/0/default.jpg",
-    "tags": []
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/11b067af-41da-45c2-b44e-704d06847c61",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/4293,2255,211,192/full/0/default.jpg",
-    "tags": [
-      "nimbus with plain border",
       "male figure"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/5d61d517-ce1e-4f6d-a68f-a0d0fabe7a7c",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/4048,2221,319,263/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/730b5dfd-3cd6-498d-af2d-150c4bd7f0d3",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/5076,1855,1143,1102/full/0/default.jpg",
+    "tags": [
+      "yaśodharā",
+      "mantle",
+      "wreath",
+      "earrings",
+      "long necklace"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/46d75420-8cb2-4496-af02-1c62733bfb90",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/3780,1953,430,1173/full/0/default.jpg",
+    "tags": [
+      "male figure"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/fa9cbfc2-4a6c-486a-a0ca-f532464595a1",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/3938,1510,436,412/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "head",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ae092b10-12b6-4723-bea4-fd378e83ae7b",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/5676,1527,549,708/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "wreath",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/48b566e5-755e-4ed0-bcad-705da5469d71",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4415,1973,478,318/full/0/default.jpg",
+    "tags": [
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/23d97ab5-4234-4968-a8a8-38c9101a81e1",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4997,2932,656,174/full/0/default.jpg",
+    "tags": [
+      "foot"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/da4957cc-9512-4816-99b5-f686604d0663",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/2271,2775,653,356/full/0/default.jpg",
+    "tags": [
+      "yakṣa"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2414c05e-c929-4f2c-8701-ed745a412e0d",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/1935,1599,1071,210/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/a26e810b-d887-4a35-a5a3-dcf132252ac2",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/5833,2147,440,523/full/0/default.jpg",
+    "tags": [
+      "pillow"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/73e77bb8-5117-41d6-92d7-9c848b3e49ba",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4461,2511,1789,622/full/0/default.jpg",
+    "tags": [
+      "bed",
+      "drape",
+      "turned leg"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1a8aad69-6ef0-4ef8-898d-2cbc7127137c",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4552,1510,1114,349/full/0/default.jpg",
+    "tags": []
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/da5f9743-8fde-4d6b-8db2-a18dece81167",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/4282,1568,753,451/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "wreath",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/8bab468b-e5da-4fd7-8c4b-e79508ec2a02",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/990,1547,894,1620/full/0/default.jpg",
+    "tags": [
+      "māra",
+      "indra",
+      "vaiśravaṇa",
+      "long tunic",
+      "short flat-band necklace",
+      "ring-shaped",
+      "earrings",
+      "skull-cap turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/af94b997-191f-492c-b453-86b17f082dcc",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/1536,2274,735,910/full/0/default.jpg",
+    "tags": [
+      "yakṣa"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5a6fc42f-2f45-42d1-a16d-320db82f2732",
+    "image": "Last Existence: Renunciation to Princely Life",
+    "slug": "last-existence-renunciation-to-princely-life",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787845%3A973711/646,1142,6262,318/full/0/default.jpg",
+    "tags": [
+      "row of upright ogival leaves"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3ee8994e-da27-4a15-a35a-86b56bad4372",
+    "image": "Last Existence: Great Renunciation",
+    "slug": "last-existence-great-renunciation",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644277%3A858578/1390,758,3319,2588/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "bodhisattva",
+      "rājalīlāsana",
+      "necklace",
+      "armlet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/8c9a77c3-ba3a-4be3-b747-2b1537ac42a9",
+    "image": "Last Existence: Great Renunciation",
+    "slug": "last-existence-great-renunciation",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644277%3A858578/2968,745,1408,1089/full/0/default.jpg",
     "tags": [
       "nimbus with plain border"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/7a1e8fa7-f169-48ea-987a-e92c757b7096",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2275,2266,470,818/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/a44a129c-ea60-4bf8-9cf9-5917160bfcac",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644161%3A858393/3506,340,1636,1718/full/0/default.jpg",
     "tags": [
-      "female figure"
+      "umbrella"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/d9f4f688-8717-4fd6-abf2-47c82171bf4b",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/1531,2618,285,418/full/0/default.jpg",
-    "tags": []
-  },
-  {
-    "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/5d632edd-1bde-4012-a76c-7990d179635b",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/640,296,4229,348/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/6fad554a-7d75-405f-8576-0296ee936284",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644161%3A858393/4126,2216,445,615/full/0/default.jpg",
     "tags": [
-      "cornice",
-      "row of vertical separate acanthus leaves with plain leaves behind"
+      "kaṇṭhaka"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/0063ceab-cbe1-4a2b-adc2-3042b9983fbc",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/574,1392,4309,718/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/7ec86ca4-c011-489b-a943-73fea117a683",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644161%3A858393/2967,352,1624,3047/full/0/default.jpg",
     "tags": [
-      "pipal scroll"
+      "male figure",
+      "uttarīya over shoulders",
+      "short flat-band necklace",
+      "bracelet",
+      "indra",
+      "vaiśravaṇa",
+      "kubera"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/12ce274b-7120-4929-b759-89fbd906fce1",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/566,2229,608,822/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/e70fd960-60ec-4056-af6a-522679d69164",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644161%3A858393/1487,428,1554,2851/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged",
+      "framed half-column"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/40d1f007-e0c4-4133-981b-5ece907684cf",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644161%3A858393/2972,221,1359,1002/full/0/default.jpg",
+    "tags": [
+      "leaf",
+      "tree"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/97e40682-baf5-45dd-a3e3-e905bf80304c",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1741744%3A922395/2453,1441,1206,711/full/0/default.jpg",
+    "tags": [
+      "yakṣa"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7ffc3e72-f708-49cb-8153-5975f2093396",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1741744%3A922395/2433,1324,731,763/full/0/default.jpg",
+    "tags": [
+      "horse",
+      "hoof"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5e889000-0865-4c11-8b2c-4ae2e8d02f09",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/4283,1415,594,1053/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/33b0fcb6-0b5c-40de-a9e2-4fc62f3a8186",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3808,2095,375,321/full/0/default.jpg",
+    "tags": [
+      "yakṣa",
+      "curls"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/46f4a567-d128-4721-9e58-f32c1c1d4501",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3354,1619,163,376/full/0/default.jpg",
+    "tags": [
+      "bow"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c216cca9-e067-49b1-8535-af22927809a3",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1614,2196,386,253/full/0/default.jpg",
+    "tags": [
+      "three jewels",
+      "trident"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f5191fa2-8228-4993-8a73-48c8b6d262a1",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3792,1293,508,780/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/737ab83c-9b84-493d-bd12-1351f6143e6f",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1115,1287,223,183/full/0/default.jpg",
     "tags": []
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/40db795c-bb24-493d-9174-36fb0d300ed3",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3591,658,818,598/full/0/default.jpg",
-    "tags": []
+    "id": "https://recogito.pelagios.org/annotation/f51938bc-7831-4172-b4ae-9bee0ed0cf74",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2053,1575,402,696/full/0/default.jpg",
+    "tags": [
+      "monk",
+      "saṃghāṭi",
+      "dhyānamudrā"
+    ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/640e8c1b-d5ea-4300-8762-bf435611a9d1",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/4321,600,548,659/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/fe8faa47-af0b-44e2-9fe8-e723d0a73104",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1268,1570,318,612/full/0/default.jpg",
+    "tags": [
+      "monk",
+      "saṃghāṭi",
+      "dhyānamudrā"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d54eeee6-e14e-41ed-8a13-a8d8fc1558a6",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2122,2252,324,114/full/0/default.jpg",
+    "tags": [
+      "throne",
+      "grass spread on seat"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b375a509-07f6-4df4-9d7f-a58c9c0be7e2",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2424,2233,272,144/full/0/default.jpg",
+    "tags": [
+      "throne",
+      "grass spread on seat"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7c771aca-2378-494c-ab9d-eceaa2af6fb8",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3403,1389,873,1003/full/0/default.jpg",
+    "tags": [
+      "kaṇṭhaka",
+      "plume",
+      "breeching"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/eedf5a14-5e93-4c78-9dce-e420745817be",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1444,2178,742,227/full/0/default.jpg",
+    "tags": [
+      "throne",
+      "grass spread on seat"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/389f06fe-3aa8-4012-bc2a-214173a76861",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2365,1579,350,696/full/0/default.jpg",
+    "tags": [
+      "monk",
+      "saṃghāṭi",
+      "dhyānamudrā"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c69aea64-0b25-47b9-b78b-574ec95e4013",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1547,1321,651,379/full/0/default.jpg",
     "tags": [
       "umbrella-shaped tree crown"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/622f8dff-ed12-424b-bf09-78d43344f867",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/1549,2914,167,133/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/8f19d65f-5796-4cec-aa23-cab05b875f4a",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3085,1502,430,929/full/0/default.jpg",
     "tags": [
-      "stool"
+      "māra",
+      "indra",
+      "vaiśravaṇa",
+      "kubera",
+      "sleeved short tunic",
+      "coat",
+      "turban"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/c46f20be-5a0f-49d0-a03d-80d2a4e88545",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2123,666,651,651/full/0/default.jpg",
-    "tags": []
+    "id": "https://recogito.pelagios.org/annotation/632fc289-cdfa-46b7-b8bd-0dc9061492f1",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2166,1359,318,455/full/0/default.jpg",
+    "tags": [
+      "monk",
+      "saṃghāṭi"
+    ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/1c3a9387-6bea-4efd-8b0d-7ecd8afc8f7c",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/2940,605,689,667/full/0/default.jpg",
-    "tags": []
+    "id": "https://recogito.pelagios.org/annotation/c40c56c2-03dd-490e-9707-7637fa1d970c",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3061,2001,163,397/full/0/default.jpg",
+    "tags": [
+      "arrow"
+    ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/6b18ecf4-d9fd-4a1d-8fef-f3d943ae1ba2",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/4034,2251,355,863/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/db61bc42-44ae-43ae-a9e5-61b0215ce004",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1383,2181,76,79/full/0/default.jpg",
+    "tags": [
+      "throne",
+      "grass spread on seat"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9d6ce87f-b4be-4ccf-9d81-8ff5a773e1d7",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3658,1379,438,718/full/0/default.jpg",
     "tags": [
       "siddhārtha",
       "bodhisattva",
-      "uttarīya"
+      "gesture of reassurance",
+      "uttarīya",
+      "skull-cap turban with zones fantail and diadem",
+      "wristlet"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/fb48512e-b33e-4f17-b5a7-15449fa118ab",
-    "image": "Last Existence: Princely Life; figures",
-    "slug": "last-existence-princely-life-figures",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23822743%3A996280/3767,2558,215,174/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/0a5db080-df0a-4d30-abc9-ab2d514c448d",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3980,1552,372,883/full/0/default.jpg",
     "tags": [
-      "stylus",
-      "writing implements"
+      "chandaka",
+      "short tunic",
+      "short flat-band necklace",
+      "wristlet"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/c34c3f7e-f3a6-4343-bf96-b72f26c1d7c6",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/3514,1232,969,427/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/8e63298a-e629-4c55-bae7-efcf2568c2d4",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3425,1982,413,431/full/0/default.jpg",
     "tags": [
-      "figures"
+      "yakṣa",
+      "short dhotī",
+      "curls"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/4475fa53-a50b-4c70-b22e-b15b87ab73cd",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/2185,1197,659,1780/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/26072a69-4c9f-4ead-8d83-c66dcb764f66",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/3435,1646,479,258/full/0/default.jpg",
     "tags": [
-      "horse",
+      "reins"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1f1f9961-32ce-47fb-84d7-941af3f61297",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1446,1417,742,812/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "buddha",
+      "gesture of reassurance",
+      "saṃghāṭi"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5893041e-94ba-43af-99aa-f68b1e573354",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/2653,1375,511,1034/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/091fb4ca-3ccf-431e-bd85-b4c35c46a4d2",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/999,1581,294,538/full/0/default.jpg",
+    "tags": [
+      "monk",
+      "saṃghāṭi",
+      "dhyānamudrā"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3fe86b90-c01f-4316-8eaf-f93db03058bb",
+    "image": "Last Existence: Great Departure, First Sermon",
+    "slug": "last-existence-great-departure-first-sermon",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1707261%3A998214/1173,1336,411,310/full/0/default.jpg",
+    "tags": [
+      "male figure"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e48ce64a-8e56-49db-b6e8-c2532d07389b",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/6311,2432,252,154/full/0/default.jpg",
+    "tags": [
+      "lotus"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7b3ef400-fcf0-430b-b948-2d5359047523",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/4383,1883,1027,306/full/0/default.jpg",
+    "tags": [
+      "balcony",
+      "railing",
+      "wreath"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b237b3a8-28b5-4f44-b80e-4bbb5e4b8461",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/2848,3179,391,426/full/0/default.jpg",
+    "tags": [
+      "yakṣa"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/65000c80-cbf2-4f75-93a7-474fc38da783",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/992,1650,405,284/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "tunic",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7750dccc-0aaa-4f96-91ce-e6a0cadb6c39",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/1916,2837,669,847/full/0/default.jpg",
+    "tags": [
+      "yakṣa",
+      "skull-cap headwear"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/27bf5b19-8d8e-4b2e-a8f9-c1d7b0739063",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/6302,2117,531,1063/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "tunic",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/a245df20-b745-485d-a81b-57ce83c0e25a",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/2959,1554,622,809/full/0/default.jpg",
+    "tags": [
+      "vajrapāṇi",
+      "loincloth"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/15f6b6af-ca58-46ad-b16e-06b3abe34be9",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/4635,2180,378,360/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "head"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b79d748e-4438-457f-845d-4f9e2325a3b2",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/5325,1601,1327,1778/full/0/default.jpg",
+    "tags": [
+      "bodhisattva",
+      "seated in meditative position",
+      "gesture of reassurance",
+      "uttarīya",
+      "short flat-band necklace",
+      "long necklace",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/6525af93-d22e-46a8-a0b5-54559eb601ff",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/5390,1490,1170,747/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2880ab2b-a323-4a8d-a6e2-11002132d13b",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/4764,2192,655,1430/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "gesture of veneration with joined hands",
+      "uttarīya",
+      "skull-cap turban",
+      "long necklace",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e528deae-5a3d-46e0-83ca-ef100c0aefe6",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/4319,2146,456,1471/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "gesture of veneration with joined hands",
+      "uttarīya",
+      "skull-cap turban",
+      "long necklace",
+      "earrings"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f811a6e9-a4ba-4148-9b65-18edeb3f3721",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/2243,1571,1150,1840/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "bodhisattva",
+      "uttarīya",
+      "long necklace",
+      "short flat-band necklace",
+      "turban",
+      "armlet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3ed0e25d-144d-4c83-becd-56e8293a424e",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/225,1733,504,1872/full/0/default.jpg",
+    "tags": [
+      "brahmā",
+      "gesture of veneration with joined hands",
+      "monastic robe"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/810c357b-d22b-435a-ba3a-aabef2dc71b3",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/1703,1515,818,540/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/592691ba-9acd-42bb-960e-2763f6f67a21",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/5257,2099,351,1063/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "tunic",
+      "earrings",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ed17d1d7-58d9-4d4a-bffc-e2d5a0071460",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/2343,1948,206,520/full/0/default.jpg",
+    "tags": [
+      "reins"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9cb130f6-e490-41a7-895b-04f2e8774bc8",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/3552,2247,690,1152/full/0/default.jpg",
+    "tags": [
+      "buddha",
+      "siddhārtha",
+      "seated in meditative position",
+      "saṃghāṭi",
+      "dhyānamudrā"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d02c5f6a-bd4b-41f1-b911-22d5c5b47463",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/3509,3015,761,341/full/0/default.jpg",
+    "tags": [
+      "open lotus with reverse petals"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/522b3d9f-c986-41e3-bff1-27bc01f22e67",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/3223,1596,1232,2024/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged",
+      "shaft with figure",
+      "buddha in meditation"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7e6f9503-057e-427d-af32-fa6120f0f962",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/5356,3171,1288,478/full/0/default.jpg",
+    "tags": [
+      "seat",
+      "drape"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/201fe957-b522-4ce4-8d71-84f6069c2015",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/463,1648,937,1907/full/0/default.jpg",
+    "tags": [
+      "māra",
+      "indra",
+      "vaiśravaṇa",
+      "short tunic",
+      "short flat-band necklace",
+      "anklet",
+      "stacked coil"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/554fc3d0-c41f-4023-96a7-ac679655d7d8",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/1502,1562,409,418/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "coat",
+      "helmet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b4c53003-f800-406a-930e-1bafbaa2035d",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/1715,1988,1702,1610/full/0/default.jpg",
+    "tags": [
+      "kaṇṭhaka",
+      "hoof",
       "breeching",
-      "breast collar",
-      "belly band",
-      "plume",
-      "walk"
+      "metal disk"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/71cd05be-f624-40a5-bc25-4fd9978db72b",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/1592,2978,2848,388/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/f49740c3-c93f-4060-89f1-b39ec463d917",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/3134,1980,146,278/full/0/default.jpg",
+    "tags": [
+      "hourglass-shaped vajra"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/890a2383-ec5b-4a40-b599-a2ca583ef524",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/2329,1579,761,433/full/0/default.jpg",
+    "tags": [
+      "nimbus"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/70051268-6eb5-48c3-9abd-3cf996d213ff",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/446,1378,5306,208/full/0/default.jpg",
+    "tags": [
+      "cornice",
+      "row of saw-teeth"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f730f969-16b8-4b52-9d32-0c1ddc6ac78e",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/401,1171,6072,207/full/0/default.jpg",
+    "tags": []
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c04bbfce-0e65-42ab-9254-6a63cb824b25",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/6140,2775,342,306/full/0/default.jpg",
+    "tags": [
+      "kamaṇḍalu"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1aecc7a4-bc23-466c-acf7-6f7f1fcceda0",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/248,3586,6342,198/full/0/default.jpg",
     "tags": [
       "base"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/0e921a99-d576-472e-a229-eb96588b967a",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/2300,863,1545,354/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/9bc57064-58de-4a25-9acb-e73393b23f8d",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/4374,1559,1053,327/full/0/default.jpg",
     "tags": [
+      "female figures",
+      "necklace",
+      "earrings",
+      "fly-whisk",
+      "wreath",
+      "lotus"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e5ab4e93-93ca-4579-ba0f-b45841675e3c",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/387,861,6234,332/full/0/default.jpg",
+    "tags": [
+      "cornice",
+      "row of upright ogival leaves"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/88f9b517-b3a7-4c40-86d4-548e35583277",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/416,1579,499,861/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "coat",
+      "helmet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/8bed751c-5090-4c48-89f3-70638161e2a6",
+    "image": "Last Existence: Bodhisattva in Tuṣita Heaven; The Great Departure",
+    "slug": "last-existence-bodhisattva-in-tusita-heaven-the-great-departure",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23789156%3A975409/1191,1856,761,1728/full/0/default.jpg",
+    "tags": [
+      "chandaka",
+      "long dhotī",
+      "short flat-band necklace",
+      "knot"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/98b6693b-8944-4568-a4a3-5e75139bbad2",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/3624,2225,880,873/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "nimbus",
+      "earrings",
+      "bodhisattva",
+      "turban",
+      "moustaches"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d7b9e684-ceb7-4391-b2e3-88b35b9ab8c8",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2843,2329,1527,66/full/0/default.jpg",
+    "tags": [
+      "plain",
+      "architrave"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/96347b0a-5d16-4ffe-98ba-8329668829e4",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2382,1996,129,713/full/0/default.jpg",
+    "tags": [
+      "jamb"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/4a196ca6-d40e-4d90-864b-3e4491dfd078",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2479,1994,1858,135/full/0/default.jpg",
+    "tags": [
+      "row of trifid calices alternating vertical and reverse separate",
+      "architrave"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/20fda9fc-9b97-4cbb-923f-3a33cf8e3d46",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2744,2186,867,978/full/0/default.jpg",
+    "tags": [
+      "nagaradevatā",
+      "kapilavastu",
+      "towered crown"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3ad5ae53-6638-42b4-a64b-e471c2278085",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/1773,959,2704,877/full/0/default.jpg",
+    "tags": [
+      "row of dentils-and-bars with bars of same height and smaller width",
       "cornice"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/d91187b7-77a2-4a1b-ab36-e820d55721bc",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/4107,2278,337,734/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/76ef298b-55ad-4cc2-879c-efa819ebe1b3",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2653,2227,1706,84/full/0/default.jpg",
     "tags": [
-      "rosette"
+      "row of overlapping leaves of pipal",
+      "architrave"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/4e71fba2-3a98-41b7-9819-7458887be329",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/2572,1160,1555,1861/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/cb8f29c5-a7b3-4f4d-9903-f8d4ad1e3196",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2595,2147,1735,65/full/0/default.jpg",
     "tags": [
-      "horse",
-      "plume",
-      "breeching",
-      "walk",
-      "breast collar",
-      "belly band"
+      "architrave"
     ]
   },
   {
     "type": "IMAGE",
-    "id": "https://recogito.pelagios.org/annotation/dafb1c4c-ddf2-44c9-b13e-dc0917114515",
-    "image": "Last Existence: Return to Kapilavastu or Bridal Procession",
-    "slug": "last-existence-return-to-kapilavastu-or-bridal-procession",
-    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1743211%3A950614/3495,1647,951,1353/full/0/default.jpg",
+    "id": "https://recogito.pelagios.org/annotation/52a93736-4983-4507-9f9a-20b0eec76b02",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2263,1804,1498,139/full/0/default.jpg",
     "tags": [
-      "cart"
+      "architrave"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d7466b1e-ce0c-42c4-a1f6-a2a805f2725d",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2234,1965,161,736/full/0/default.jpg",
+    "tags": [
+      "jamb"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/96b53fec-9482-46e3-87ae-7d37354691b7",
+    "image": "Last Existence: Great Departure",
+    "slug": "last-existence-great-departure-3",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1711738%3A901934/2503,2134,108,579/full/0/default.jpg",
+    "tags": [
+      "jamb"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/49388264-9565-4ec4-a488-f622d874938c",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/2316,1570,775,996/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "long tunic",
+      "mantle",
+      "gesture of conversation/question"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/912f01e4-7d3b-4716-b1e9-986256adccc8",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3582,2129,329,447/full/0/default.jpg",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/adb9fe23-2e15-47d9-be6a-23e108dce9a9",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3084,3043,454,362/full/0/default.jpg",
+    "tags": [
+      "nimbus with plain border",
+      "siddhārtha",
+      "bodhisattva"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1964e241-cbe2-4959-baed-bf09376c53da",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/2213,2581,2764,539/full/0/default.jpg",
+    "tags": [
+      "projecting fillet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/af19b3b4-9e7d-4cf2-bf43-3e79bcfc20e6",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/2915,1518,993,1140/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "gesture of conversation/question",
+      "long tunic",
+      "mantle"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/0aeea067-4a5d-496f-8a25-3f53c5cbfe38",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3548,3047,602,297/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3f078c49-c03a-4397-8279-646aaae1177c",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3714,3224,417,397/full/0/default.jpg",
+    "tags": [
+      "chandaka"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b9be7e57-a75f-4f50-bbe2-4408782f3e08",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3635,1501,1358,1047/full/0/default.jpg",
+    "tags": [
+      "tree",
+      "wavy branches on two opposite sides with lobed leaves"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/80f10c24-691f-47e8-baf3-2c1c9e805476",
+    "image": "Last Existence: Great Departure; male figures",
+    "slug": "last-existence-great-departure-male-figures",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23793787%3A978512/3072,3081,441,373/full/0/default.jpg",
+    "tags": [
+      "buddha",
+      "siddhārtha"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9fb68e3d-69eb-4c73-ba19-3a33797ac9c2",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/2424,1813,1624,1267/full/0/default.jpg",
+    "tags": [
+      "kaṇṭhaka",
+      "horse"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/6c193b46-fe35-4efb-8d96-2ef8a47b8383",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/874,1848,734,1182/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/59c61895-12af-40f0-ac34-a9971e0f04f5",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/4052,1861,778,1167/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f81cb094-8a81-43bf-b49f-d40663e12a1f",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/1991,1801,661,990/full/0/default.jpg",
+    "tags": [
+      "umbrella"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f31c7f7c-76a9-45ee-ab24-8933b544b9dc",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/3013,1738,702,1091/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "bodhisattva"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b0c33357-5fd8-400e-871e-bbf8605174e0",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/2430,2308,608,803/full/0/default.jpg",
+    "tags": [
+      "yakṣa"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e078cd67-e43e-45f4-a276-671562b569b1",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/3714,1212,367,286/full/0/default.jpg",
+    "tags": []
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/593dd17b-725b-4313-b878-d0638bdcaa8f",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/2374,703,1002,802/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "uttarīya",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/582d6bf9-fc47-4162-a870-e7ca18abb30c",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/1116,1219,360,264/full/0/default.jpg",
+    "tags": []
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3818ecab-3a59-48e9-8a67-fe9acb313acb",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/1653,1769,1059,1348/full/0/default.jpg",
+    "tags": [
+      "chandaka",
+      "long necklace",
+      "earrings",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ae0908ff-3077-49cf-a9c0-f8d5672e553c",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/3157,1769,608,474/full/0/default.jpg",
+    "tags": [
+      "nimbus"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/8490738d-285f-4202-b379-41b6fc542b08",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/944,1481,4082,445/full/0/default.jpg",
+    "tags": [
+      "net with oblique lines"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2cc47270-0e48-48ac-ad67-7c7986d79fc2",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/1152,795,873,675/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "uttarīya",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ade13ab0-9456-440f-ae53-1deabdee2d5f",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/2408,1168,359,323/full/0/default.jpg",
+    "tags": []
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c8a09ecb-69be-4877-9f5c-1954912d5349",
+    "image": "Last Existence: Great Departure; donors",
+    "slug": "last-existence-great-departure-donors",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009/3721,860,1013,667/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "uttarīya",
+      "turban"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/0ea0e885-a44c-426c-a3e2-91c9c4d07709",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/2095,2881,864,733/full/0/default.jpg",
+    "tags": [
+      "horizontal arched harp"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5dc2bada-3ff8-4243-8bf5-d1a4fb03b49a",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/3405,1321,1084,2602/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī",
+      "anklet",
+      "wreath",
+      "earrings",
+      "long necklace"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/29cf5638-6a3f-4e8c-bc4c-64bd51931c67",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/3971,1104,1110,1888/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "wreath",
+      "earrings",
+      "long necklace",
+      "dhotī",
+      "anklet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e05805b2-ce29-404c-9315-608c8af766d4",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/4255,2292,2319,1608/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "wreath",
+      "earrings",
+      "long necklace",
+      "anklet",
+      "dhotī",
+      "musician"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/fe3e736e-19dd-49ec-8801-c7bd79d89944",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/2101,1049,440,838/full/0/default.jpg",
+    "tags": [
+      "lamp stand with twisted shaft"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/fffd6fdb-b945-423c-bb25-cadef8f6c800",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/5816,1032,1540,2884/full/0/default.jpg",
+    "tags": [
+      "pilaster shaft of gandharan-corinthian type"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5631b032-ea31-4421-a2c4-6b41cc235dd9",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/1665,1694,1531,835/full/0/default.jpg",
+    "tags": [
+      "yaśodharā",
+      "wreath"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/53cbeee8-87c2-4e95-a2c2-f9bb8459aaf4",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/4687,1028,1108,2268/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī",
+      "wreath",
+      "earrings",
+      "long necklace",
+      "anklet",
+      "musician"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7cb3f765-2ebe-41fa-8614-58a7afaddb7b",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/427,2423,2827,1328/full/0/default.jpg",
+    "tags": [
+      "bed",
+      "drape"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c84ed3a3-6067-4282-a3ac-253e7b6f1641",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/669,3360,969,283/full/0/default.jpg",
+    "tags": [
+      "legged footstool"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5d55a093-44cb-437b-ab01-f65b92b4306d",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/816,1091,1140,782/full/0/default.jpg",
+    "tags": [
+      "nimbus"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ba81944f-5ee7-422f-a323-a1ebeebac20e",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/5689,1500,891,1341/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī",
+      "earrings",
+      "wreath",
+      "long necklace",
+      "anklet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/98e6ecd0-1d09-495f-bde7-c8417d9c03df",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/2104,2604,1108,1173/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "wreath",
+      "earrings",
+      "musician"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/27e2d152-be70-4271-9bd2-4f2a8f504c95",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/4474,2435,838,1428/full/0/default.jpg",
+    "tags": [
+      "barrel drum with v-crossed straps"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/97c7a1f8-2aa9-47b9-87c0-b7c2c3b1d1ef",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/670,1052,1450,2579/full/0/default.jpg",
+    "tags": [
+      "bodhisattva",
+      "siddhārtha",
+      "gesture of reassurance",
+      "girdle"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/fc02dce7-cf01-449d-8ab3-084e2d16bb4d",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/2541,975,1598,2981/full/0/default.jpg",
+    "tags": [
+      "pilaster shaft of gandharan-corinthian type"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7487118d-07e1-499c-895b-7542fc5799d0",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-1",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/23787857%3A973778/5880,3183,807,762/full/0/default.jpg",
+    "tags": [
+      "barrel drum"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/0b89a329-6178-4edf-a4eb-b0aaf601e8f0",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/443,1374,840,1386/full/0/default.jpg",
+    "tags": [
+      "yaśodharā",
+      "sleeved tunic"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5ab65486-a303-4495-92b3-6e484a59929b",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2731,2265,314,476/full/0/default.jpg",
+    "tags": [
+      "barrel drum"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/16134cc0-9800-426f-a7c9-5603500b8af9",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/3398,1055,975,1462/full/0/default.jpg",
+    "tags": [
+      "siddhārtha",
+      "bodhisattva",
+      "gesture of reassurance",
+      "paridhāna",
+      "uttarīya",
+      "wristlet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/90027198-1db2-4a44-bde7-23eace928719",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/4518,1895,683,802/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "tunic",
+      "wreath",
+      "wristlet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/73977c2c-7efc-4807-ac59-36dc8e4c3703",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2888,1368,2276,483/full/0/default.jpg",
+    "tags": [
+      "yaśodharā"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3289bf33-b2c9-4c16-b598-9dc6e918ee03",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/3966,1857,792,828/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī",
+      "sleeved tunic",
+      "wreath",
+      "musician"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b7ef6f14-300a-49bd-bfde-55973682cc9b",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2737,1876,778,896/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "sleeved long tunic",
+      "wreath",
+      "musician"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d5c62531-6483-4e41-80e2-27d3ad149dc2",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2656,1710,2495,793/full/0/default.jpg",
+    "tags": [
+      "bed",
+      "mattress",
+      "drape"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/36ed9539-4da5-4c9f-8edc-d0b012e7a1db",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/3441,2503,590,182/full/0/default.jpg",
+    "tags": [
+      "legged footstool"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d5c01bb0-cf84-4df6-9383-1e95e3de7944",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/5147,1401,553,1171/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ec202aae-caab-4c43-99b1-d0005381717a",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2643,1819,376,496/full/0/default.jpg",
+    "tags": [
+      "jug with vertical side handle and cylindrical spout"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/7a6f39d1-37ac-43ee-be0e-d43638e7f3ce",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/2048,1219,708,1553/full/0/default.jpg",
+    "tags": [
+      "female figure",
+      "dhotī",
+      "sleeved bodice",
+      "anklet"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1ade8efe-d8e5-4d35-8b70-ea68e09ccedf",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/969,1192,1329,1549/full/0/default.jpg",
+    "tags": [
+      "semi-column and pilaster of the gandharan-corinthian type engaged"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5784e91d-6a8a-476d-a7b0-383881309de5",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/4750,1399,426,452/full/0/default.jpg",
+    "tags": [
+      "pillow"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2e4507d8-076c-48d8-bf7a-972460b2453b",
+    "image": "Last Existence: The Bodhisattva watching sleeping women",
+    "slug": "last-existence-the-bodhisattva-watching-sleeping-women-2",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1712032%3A902279/4362,1861,300,648/full/0/default.jpg",
+    "tags": [
+      "horizontal arched harp"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/5943cc5f-c691-4825-9c8c-15e1377114fa",
+    "image": "Last Existence: Encounter with a Sick Man",
+    "slug": "last-existence-encounter-with-a-sick-man",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644189%3A858430/2427,1416,523,938/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "short dhotī"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e0982337-220a-4f57-9988-f8ff0593c873",
+    "image": "Last Existence: Encounter with a Sick Man",
+    "slug": "last-existence-encounter-with-a-sick-man",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644189%3A858430/2541,2366,1345,190/full/0/default.jpg",
+    "tags": [
+      "base"
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/6939b71a-6116-407e-9687-c4b9da29d66c",
+    "image": "Last Existence: Encounter with a Sick Man",
+    "slug": "last-existence-encounter-with-a-sick-man",
+    "thumbnail": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1644189%3A858430/2924,1488,938,872/full/0/default.jpg",
+    "tags": [
+      "male figure",
+      "short necklace"
     ]
   },
   {
