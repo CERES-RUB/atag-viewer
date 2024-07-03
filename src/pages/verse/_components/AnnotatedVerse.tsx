@@ -1,8 +1,8 @@
 import { useCallback, useEffect } from 'react';
 import { useAnnotator } from '@annotorious/react';
-import type { Annotation } from '@annotorious/react';
+import type { Annotation, AnnotationState } from '@annotorious/react';
 import { TextAnnotator, W3CTextFormat } from '@recogito/react-text-annotator';
-import type { HighlightStyle, RecogitoTextAnnotator, TextAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
+import type { HighlightStyle, HighlightStyleExpression, RecogitoTextAnnotator, TextAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
 import { useRelated, useSelected } from '@lib/hooks';
 import { useNarrativeTerms } from '../_hooks';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
@@ -29,6 +29,23 @@ interface AnnotatedVerseProps {
 
 }
 
+const BASE_SECTION_STYLE = (z?: number): HighlightStyle  => ({
+  fill: '#000',
+  fillOpacity: 0.05,
+  underlineThickness: 1,
+  underlineStyle: 'dotted',
+  underlineColor: 'rgba(0, 0, 0, 0.4)',
+  underlineOffset: 3 * (z || 0)  + 1
+});
+
+const BASE_TAG_STYLE = (z?: number): HighlightStyle => ({
+  fill: '#ff5e5e',
+  fillOpacity: 0.4,
+  underlineThickness: 2,
+  underlineColor: '#e05252',
+  underlineOffset: 3 * (z || 0)  + 1
+});
+
 export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const { searchResults, highlightedSearchResult } = props;
@@ -41,18 +58,10 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const narrative = useNarrativeTerms();
 
-  const style = useCallback((a: Annotation) => {
+  const style = useCallback((a: TextAnnotation, state: AnnotationState, z?: number) => {
     const isSection = a.bodies.find(b => b.value && narrative!.has(b.value));
 
-    const baseStyle: HighlightStyle = isSection ? {
-      fill: '#000',
-      fillOpacity: 0.05
-    } : {
-      fill: '#ff5e5e',
-      fillOpacity: 0.4,
-      underlineThickness: 2,
-      underlineColor: '#e05252'
-    };
+    const baseStyle = isSection ? BASE_SECTION_STYLE(z) : BASE_TAG_STYLE(z);
 
     if (searchResults.length === 0) {
       return baseStyle;
