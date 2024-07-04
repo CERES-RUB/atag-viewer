@@ -23,7 +23,7 @@ export const useTagSearch = (annotations: Annotation[]) => {
 
     return new Fuse<string>([...distinctTags], {
       shouldSort: true,
-      threshold: 0.01
+      threshold: 0.4
     });
   }, [annotations]);
 
@@ -41,7 +41,7 @@ export const useTagSearch = (annotations: Annotation[]) => {
     return new Fuse<FuseAnnotationDocument>(documents, { 
       keys: ['tags'],
       shouldSort: true,
-      threshold: 0.01
+      threshold: 0.4
     });
   }, [annotations]);
 
