@@ -47,8 +47,10 @@ const harvest = async () => {
   const unique = removeDuplicates(all);
 
   console.log(`Got ${unique.length} concepts - saving to file`);
-
   fs.writeFileSync('./public/thesaurus/all-concepts.json', JSON.stringify(unique, null, 2), { encoding: 'utf8' });
+
+  const compact = unique.map(item => item.prefLabel);
+  fs.writeFileSync('./public/thesaurus/all-concepts-compact.json', JSON.stringify(compact, null, 2), { encoding: 'utf8' });
 
   console.log('Done.')
 };
