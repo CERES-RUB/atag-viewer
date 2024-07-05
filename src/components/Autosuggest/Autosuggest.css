@@ -22,6 +22,12 @@
   padding: 0.5rem 0.75rem;
 }
 
+.react-autosuggest .react-autosuggest__suggestions-list li > div {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .react-autosuggest .react-autosuggest__suggestion--highlighted {
   background-color: var(--gray-100);
 }
