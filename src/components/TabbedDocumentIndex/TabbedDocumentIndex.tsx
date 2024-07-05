@@ -19,11 +19,11 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
     <Tabs.Root className="tabbed-document-index" defaultValue="verses">
       <Tabs.List className="tabs-list">
         <Tabs.Trigger value="verses">
-          {verses.length}  Verses
+          Sanskrit Verses ({verses.length})
         </Tabs.Trigger>
 
         <Tabs.Trigger value="images">
-          {images.length} Images
+          Images ({images.length})
         </Tabs.Trigger>
       </Tabs.List>
 
