@@ -52,13 +52,23 @@ export interface RelatedVerseAnnotation {
 
   id: string;
 
-  snippet?: string;
+  snippet?: VerseSnippet;
 
   verse: string;
 
   slug: string;
 
   tags: string[];
+
+}
+
+export interface VerseSnippet {
+
+  prefix?: string;
+
+  quote: string;
+
+  suffix?: string;
 
 }
 

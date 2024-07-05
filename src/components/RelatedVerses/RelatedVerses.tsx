@@ -3,6 +3,7 @@ import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
 import { getTags, groupByOverlap } from '@lib/utils';
+import { Snippet } from './Snippet';
 import type { RelatedVerseAnnotation } from 'src/Types';
 
 import './RelatedVerses.css';
@@ -77,7 +78,13 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
                   ))}
                 </ul>
 
-                <p className="snippet-preview">{annotation.snippet}</p>
+                {annotation.snippet && (
+                  <p className="snippet-preview">
+                    <Snippet 
+                      value={annotation.snippet} 
+                      href={getLink(annotation)} />
+                  </p>
+                )}
 
                 <a href={getLink(annotation)}>
                   {annotation.verse}

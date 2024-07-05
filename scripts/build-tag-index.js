@@ -36,11 +36,11 @@ const extractSnippet = (txtFilePath, annotation, contextSize = 20) => {
     const prefixStart = findWhitespaceBefore(text, start - contextSize);
     const suffixEnd = findWhitespaceAfter(text, end + contextSize);
 
-    const snippet = text.substring(start, end);
-    const prefix = text.substring(prefixStart, start);
-    const suffix = text.substring(end, suffixEnd);
+    const quote = text.substring(start, end).replaceAll(/\s+/g, ' ').trim();
+    const prefix = text.substring(prefixStart, start).replaceAll(/\s+/g, ' ').trim();
+    const suffix = text.substring(end, suffixEnd).replaceAll(/\s+/g, ' ').trim();
 
-    return `${prefix} ${snippet} ${suffix}`.replaceAll(/\s+/g, ' ').trim()
+    return { prefix, quote, suffix };
   }
 }
 
