@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
 import Fuse from 'fuse.js';
 
@@ -10,22 +10,45 @@ interface FuseAnnotationDocument {
 
 }
 
-export const useTagSearch = (annotations: Annotation[]) => {
+const buildTagIndexFromAnnotations = (annotations: Annotation[]) => {
+  const distinctTags = new Set(annotations.reduce<string[]>((all, annotation) => {
+    const tags = annotation.bodies.filter(b => b.purpose === 'tagging' && b.value);
+    return [...all, ...tags.map(b => b.value!)];
+  }, []));
+
+  return new Fuse<string>([...distinctTags], {
+    shouldSort: true,
+    threshold: 0.4
+  });
+}
+
+const buildTagIndexFromThesaurus = () =>
+  fetch('/thesaurus/all-concepts-compact.json')
+    .then(res => res.json())
+    .then(labels => {
+      labels.sort();
+      return new Fuse<string>([...labels], {
+        shouldSort: true,
+        threshold: 0.4
+      })
+    });
+
+export const useTagSearch = (annotations: Annotation[], mode: 'FROM_ANNOTATIONS' | 'THESAURUS' = 'THESAURUS') => {
+
+  const [tagIndex, setTagIndex] = useState<Fuse<string> | undefined>();
 
   const annotationsById = useMemo(() => 
       new Map(annotations.map(a => ([a.id, a]))), [annotations]);
 
-  const tagIndex: Fuse<string> = useMemo(() => { 
-    const distinctTags = new Set(annotations.reduce<string[]>((all, annotation) => {
-      const tags = annotation.bodies.filter(b => b.purpose === 'tagging' && b.value);
-      return [...all, ...tags.map(b => b.value!)];
-    }, []));
-
-    return new Fuse<string>([...distinctTags], {
-      shouldSort: true,
-      threshold: 0.4
-    });
-  }, [annotations]);
+  useEffect(() => {
+    console.log('rebuilding search index', mode);
+    if (mode === 'FROM_ANNOTATIONS') {
+      const index = buildTagIndexFromAnnotations(annotations);
+      setTagIndex(index);
+    } else {
+      buildTagIndexFromThesaurus().then(setTagIndex);
+    }
+  }, [mode, annotations]);
 
   const annotationIndex: Fuse<FuseAnnotationDocument> = useMemo(() => {
     const documents: FuseAnnotationDocument[] = annotations.map(a => {
@@ -50,9 +73,10 @@ export const useTagSearch = (annotations: Annotation[]) => {
       .map(r => annotationsById.get(r.item.annotationId)!)
       .filter(Boolean);
 
-  const getSuggestions = (query: string, limit?: number): string[] =>
-    tagIndex.search(query, { limit: limit || 10 })
-      .map(r => r.item);
+  const getSuggestions = (query: string, limit?: number): string[] => 
+    tagIndex
+     ? tagIndex.search(query, { limit: limit || 10 }).map(r => r.item)
+     : [];
 
   return { search, getSuggestions };
 
