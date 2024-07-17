@@ -37,6 +37,7 @@ export const ImageView = (props: ImageViewProps) => {
         loaded={Boolean(annotations)} />
 
       <PageHeader 
+        backToTab="images"
         isRelatedImagesOpen={isRelatedImagesPanelOpen}
         isRelatedVersesOpen={isRelatedVersesPanelOpen}
         onToggleRelatedImages={() => setRelatedImagesPanelOpen(open => !open)}

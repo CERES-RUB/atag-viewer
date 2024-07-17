@@ -7,6 +7,8 @@ import './PageHeader.css';
 
 interface PageHeaderProps {
 
+  backToTab?: 'verses' | 'images';
+
   isRelatedImagesOpen: boolean;
 
   isRelatedVersesOpen: boolean;
@@ -36,7 +38,7 @@ export const PageHeader = (props: PageHeaderProps) => {
   return (
     <header>
       <div className="header-left">
-        <a href="../..">
+        <a href={`../..${props.backToTab ? `?tab=${props.backToTab}` : ''}`}>
           <ChevronLeft />
           <span>Home</span>
         </a>

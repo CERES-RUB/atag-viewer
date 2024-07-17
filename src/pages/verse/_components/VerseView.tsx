@@ -51,6 +51,7 @@ export const VerseView = (props: VerseViewProps) => {
         loaded={Boolean(annotations)} />
 
       <PageHeader 
+        backToTab="verses"
         isRelatedImagesOpen={isRelatedImagesPanelOpen}
         isRelatedVersesOpen={isRelatedVersesPanelOpen}
         searchSorter={searchResultSorter}
