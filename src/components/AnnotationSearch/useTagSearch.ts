@@ -1,12 +1,21 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
+import diacritics from 'diacritics';
 import Fuse from 'fuse.js';
 
 interface FuseAnnotationDocument {
 
   annotationId: string;
 
-  tags: string[];
+  tags: FuseTag[];
+
+}
+
+interface FuseTag {
+
+  value: string;
+
+  normalized: string;
 
 }
 
@@ -16,9 +25,13 @@ const buildTagIndexFromAnnotations = (annotations: Annotation[]) => {
     return [...all, ...tags.map(b => b.value!)];
   }, []));
 
-  return new Fuse<string>([...distinctTags], {
+  const tags: FuseTag[] = [...distinctTags].map((l: string) => 
+    ({ value: l, normalized: diacritics.remove(l) }));
+
+  return new Fuse<FuseTag>(tags, {
+    keys: ['normalized'],
     shouldSort: true,
-    threshold: 0.4
+    threshold: 0.2
   });
 }
 
@@ -27,21 +40,25 @@ const buildTagIndexFromThesaurus = () =>
     .then(res => res.json())
     .then(labels => {
       labels.sort();
-      return new Fuse<string>([...labels], {
+
+      const tags: FuseTag[] = labels.map((l: string) => 
+        ({ value: l, normalized: diacritics.remove(l) }));
+
+      return new Fuse<FuseTag>(tags, {
+        keys: ['normalized'],
         shouldSort: true,
-        threshold: 0.4
+        threshold: 0.2
       })
     });
 
 export const useTagSearch = (annotations: Annotation[], mode: 'FROM_ANNOTATIONS' | 'THESAURUS' = 'THESAURUS') => {
 
-  const [tagIndex, setTagIndex] = useState<Fuse<string> | undefined>();
+  const [tagIndex, setTagIndex] = useState<Fuse<FuseTag> | undefined>();
 
   const annotationsById = useMemo(() => 
       new Map(annotations.map(a => ([a.id, a]))), [annotations]);
 
   useEffect(() => {
-    console.log('rebuilding search index', mode);
     if (mode === 'FROM_ANNOTATIONS') {
       const index = buildTagIndexFromAnnotations(annotations);
       setTagIndex(index);
@@ -54,28 +71,28 @@ export const useTagSearch = (annotations: Annotation[], mode: 'FROM_ANNOTATIONS'
     const documents: FuseAnnotationDocument[] = annotations.map(a => {
       const annotationId = a.id;
   
-      const tags: string[] = a.bodies
+      const tags: FuseTag[] = a.bodies
         .filter(b => b.purpose === 'tagging' && b.value)
-        .map(b => b.value!);
+        .map(b => ({ value: b.value!, normalized: diacritics.remove(b.value!) }));
   
       return { annotationId, tags };
     }).filter(d => d.tags.length > 0);
 
     return new Fuse<FuseAnnotationDocument>(documents, { 
-      keys: ['tags'],
+      keys: ['tags.normalized'],
       shouldSort: true,
       threshold: 0.4
     });
   }, [annotations]);
 
   const search = (query: string, limit?: number): Annotation[] =>
-    annotationIndex.search(query, { limit: limit || 500 })
+    annotationIndex.search(diacritics.remove(query), { limit: limit || 500 })
       .map(r => annotationsById.get(r.item.annotationId)!)
       .filter(Boolean);
 
   const getSuggestions = (query: string, limit?: number): string[] => 
     tagIndex
-     ? tagIndex.search(query, { limit: limit || 10 }).map(r => r.item)
+     ? tagIndex.search(diacritics.remove(query), { limit: limit || 10 }).map(r => r.item.value)
      : [];
 
   return { search, getSuggestions };

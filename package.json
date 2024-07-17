@@ -19,6 +19,7 @@
   "author": "Rainer Simon",
   "license": "AGPL-3.0",
   "devDependencies": {
+    "@types/diacritics": "^1.3.3",
     "@types/openseadragon": "^3.0.10",
     "@types/react": "^18.3.3",
     "@types/react-autosuggest": "^10.1.11",
@@ -27,18 +28,19 @@
     "gh-pages": "^6.1.1",
     "node-fetch": "^3.3.2",
     "typescript": "^5.5.3",
-    "vite": "^5.3.3"
+    "vite": "^5.3.4"
   },
   "dependencies": {
     "@annotorious/react": "^3.0.0-rc.30",
-    "@astrojs/check": "^0.7.0",
+    "@astrojs/check": "^0.8.2",
     "@astrojs/react": "^3.6.0",
     "@floating-ui/react": "^0.26.19",
     "@radix-ui/react-tabs": "^1.1.0",
     "@recogito/react-text-annotator": "^3.0.0-rc.35",
     "astro": "^4.11.5",
+    "diacritics": "^1.3.0",
     "fuse.js": "^7.0.0",
-    "lucide-react": "^0.400.0",
+    "lucide-react": "^0.408.0",
     "openseadragon": "^4.1.1",
     "react": "^18.3.1",
     "react-autosuggest": "^10.1.0",
