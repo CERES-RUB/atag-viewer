@@ -1,9 +1,12 @@
+import { useMemo } from 'react';
 import * as Tabs from '@radix-ui/react-tabs';  
 import type { ImageMetadata, VerseMetadata } from 'src/Types';
 
 import './TabbedDocumentIndex.css';
 
 interface TabbedDocumentIndexProps {
+
+  tab?: 'images' | 'verses';
 
   verses: VerseMetadata[];
 
@@ -15,8 +18,22 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
 
   const { images, verses } = props;
 
+  const tab = useMemo(() => {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('tab');
+  }, []);
+
+  const onChangeTab = (tab: string) => {
+    const url = new URL(window.location.href);
+    url.searchParams.set('tab', tab);
+    window.history.pushState(null, '', url.toString());
+  }
+
   return (
-    <Tabs.Root className="tabbed-document-index" defaultValue="verses">
+    <Tabs.Root 
+      className="tabbed-document-index" 
+      defaultValue={tab || 'verses'}
+      onValueChange={onChangeTab}>
       <Tabs.List className="tabs-list">
         <Tabs.Trigger value="verses">
           Sanskrit Verses ({verses.length})
