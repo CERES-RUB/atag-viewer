@@ -33,16 +33,16 @@ export const VerseView = (props: VerseViewProps) => {
 
   const [highlightedSearchResult, setHighlightedSearchResult] = useState<TextAnnotation | undefined>();
 
-  const searchResultSorter = useCallback((a: TextAnnotation, b: TextAnnotation) => {
-    const startA = a.target.selector[0].start;
-    const startB = b.target.selector[0].start;
-    return startA - startB;
-  }, []);
-
   useEffect(() => {
     fetch(`../../verses/${props.verse.slug}.txt`)
       .then(res => res.text())
       .then(setVerse);
+  }, []);
+
+  const searchResultSorter = useCallback((a: TextAnnotation, b: TextAnnotation) => {
+    const startA = a.target.selector[0].start;
+    const startB = b.target.selector[0].start;
+    return startA - startB;
   }, []);
 
   return (

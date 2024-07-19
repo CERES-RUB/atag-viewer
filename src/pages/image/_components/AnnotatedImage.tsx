@@ -68,7 +68,6 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
 
   useEffect(() => {
     if (!anno || !props.annotations) return;
-
     anno.setAnnotations(props.annotations);
   }, [anno, props.annotations]);
 
@@ -95,6 +94,11 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
       return style;
     }
   }, [props.searchResults]);
+
+  useEffect(() => {
+    if (props.highlightedSearchResult)
+      anno.setSelected(props.highlightedSearchResult.id);
+  }, [props.highlightedSearchResult]);
 
   return (
     <OpenSeadragonAnnotator 

@@ -65,12 +65,6 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
     if (searchResults.length === 0) {
       return baseStyle;
-    } else if (a.id === highlightedSearchResult?.id) {
-      return {
-        ...baseStyle,
-        fill: '#ff9100',
-        underlineColor: '#ca852b'
-      } as HighlightStyle;
     } else {  
       const resultIds = new Set(searchResults.map(a => a.id));
 
@@ -88,8 +82,10 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   }, [anno, props.annotations]);
 
   useEffect(() => {
-    if (props.highlightedSearchResult)
+    if (props.highlightedSearchResult) {
+      anno.setSelected(props.highlightedSearchResult.id);
       anno.scrollIntoView(props.highlightedSearchResult);
+    }
   }, [props.highlightedSearchResult]);
 
   useEffect(() => {
