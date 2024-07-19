@@ -1,8 +1,28 @@
 import fs from 'fs';
+import fetch from 'node-fetch';
 
 const listImages = () => {
   const json = fs.readFileSync('./public/images.json');
   return JSON.parse(json.toString())
+}
+
+const fetchManifests = (urls) => {
+  const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+  return urls.reduce(async (promise, url) => promise.then(async results => {
+    try {
+      console.log('Fetching manifest ', url);
+      const response = await fetch(url);
+      const manifest = await response.json();
+      results.push({ url, manifest });
+    } catch (error) {
+      console.error(`Error fetching ${url}:`, error);
+    }
+
+    await delay(500); 
+    
+    return results;
+  }), Promise.resolve([]));
 }
 
 const listVerses = () => {
@@ -70,8 +90,14 @@ const parseFragmentSelector = (fragment) => {
   }
 }
 
-const buildTagIndex = () => {
-  const relatedImages = listImages().reduce((all, image) => {
+const buildTagIndex = async () => {
+  const images = listImages();
+
+  const manifests = await fetchManifests(images.map(i => i.manifest));
+
+  console.log('Building tag index...');
+  
+  const relatedImages = images.reduce((all, image) => {
     const str = fs.readFileSync(`./public/annotations/image/${image.slug}.json`);
     const w3c = JSON.parse(str.toString());
 
@@ -83,15 +109,22 @@ const buildTagIndex = () => {
 
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
-      if (w === 0)
-        console.log('image meta', tags);
+      let isPortrait;
+
+      if (w > 0 && h > 0)
+        isPortrait = w > h;
+
+      if (w === 0 && h === 0) {
+        const { width, height } = manifests.find(m => m.url === image.manifest);
+        isPortrait = width > height;
+      }
 
       // TODO this could be made smarter - no need for full resolution
       const path = 
         // Image snippet
-        (w > 0 && h > 0) ? `${x},${y},${w},${h}/full/0/default.jpg` :
+        (w > 0 && h > 0) ? isPortrait ? `${x},${y},${w},${h}/,160/0/default.jpg` : `${x},${y},${w},${h}/160,/0/default.jpg` :
         // Image as a whole
-        (w === 0 && h === 0) ? `full/full/0/default.jpg` :
+        (w === 0 && h === 0) ? isPortrait ? `full/,160/0/default.jpg` : `full/160,/0/default.jpg` :
         // Should never happen
         undefined; 
 
@@ -146,9 +179,7 @@ const buildTagIndex = () => {
   return [...relatedImages, ...relatedVerses];
 }
 
-console.log('Building tag index...');
-
-const annotations = buildTagIndex();
+const annotations = await buildTagIndex();
 fs.writeFileSync(`public/tag-index.json`, JSON.stringify(annotations, null, 2));
 
 console.log(`Done (${annotations.length} anntoations).`);
