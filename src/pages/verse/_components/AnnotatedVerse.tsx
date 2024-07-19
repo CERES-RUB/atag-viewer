@@ -1,10 +1,11 @@
 import { useCallback, useEffect } from 'react';
 import { useAnnotator } from '@annotorious/react';
-import type { Annotation, AnnotationState } from '@annotorious/react';
+import type { Annotation, AnnotationState, Color } from '@annotorious/react';
 import { TextAnnotator, W3CTextFormat } from '@recogito/react-text-annotator';
-import type { HighlightStyle, HighlightStyleExpression, RecogitoTextAnnotator, TextAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
+import type { HighlightStyle, RecogitoTextAnnotator, TextAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
 import { useRelated, useSelected } from '@lib/hooks';
 import { useNarrativeTerms } from '../_hooks';
+import { Categorical } from './Colors';
 import { VerseAnnotationPopup } from './VerseAnnotationPopup';
 import type { Selected } from 'src/Types';
 
@@ -32,9 +33,8 @@ interface AnnotatedVerseProps {
 const BASE_SECTION_STYLE = (z?: number): HighlightStyle  => ({
   fill: '#000',
   fillOpacity: 0.05,
-  underlineThickness: 1,
-  underlineStyle: 'dotted',
-  underlineColor: 'rgba(0, 0, 0, 0.4)',
+  underlineThickness: 1.5,
+  underlineColor: Categorical[z || 0] as Color, //  'rgba(0, 0, 0, 0.4)',
   underlineOffset: 3 * (z || 0)  + 1
 });
 
