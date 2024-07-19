@@ -82,8 +82,20 @@ const buildTagIndex = () => {
       const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
 
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
-      if (w > 0 && h > 0) {
-        const path = `${x},${y},${w},${h}/full/0/default.jpg`;
+
+      if (w === 0)
+        console.log('image meta', tags);
+
+      // TODO this could be made smarter - no need for full resolution
+      const path = 
+        // Image snippet
+        (w > 0 && h > 0) ? `${x},${y},${w},${h}/full/0/default.jpg` :
+        // Image as a whole
+        (w === 0 && h === 0) ? `full/full/0/default.jpg` :
+        // Should never happen
+        undefined; 
+
+      if (path) {
         const thumbnail = image.manifest.replace('info.json', path);
 
         return [...all, {
