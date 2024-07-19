@@ -19,6 +19,8 @@ interface FuseTag {
 
 }
 
+const SUGGEST_THRESHOLD = 0.3;
+
 const buildTagIndexFromAnnotations = (annotations: Annotation[]) => {
   const distinctTags = new Set(annotations.reduce<string[]>((all, annotation) => {
     const tags = annotation.bodies.filter(b => b.purpose === 'tagging' && b.value);
@@ -31,7 +33,7 @@ const buildTagIndexFromAnnotations = (annotations: Annotation[]) => {
   return new Fuse<FuseTag>(tags, {
     keys: ['normalized'],
     shouldSort: true,
-    threshold: 0.2
+    threshold: SUGGEST_THRESHOLD
   });
 }
 
@@ -47,7 +49,7 @@ const buildTagIndexFromThesaurus = () =>
       return new Fuse<FuseTag>(tags, {
         keys: ['normalized'],
         shouldSort: true,
-        threshold: 0.2
+        threshold: SUGGEST_THRESHOLD
       })
     });
 
@@ -81,7 +83,7 @@ export const useTagSearch = (annotations: Annotation[], mode: 'FROM_ANNOTATIONS'
     return new Fuse<FuseAnnotationDocument>(documents, { 
       keys: ['tags.normalized'],
       shouldSort: true,
-      threshold: 0.4
+      threshold: 0
     });
   }, [annotations]);
 
