@@ -31,3 +31,14 @@
   margin: 0;
   padding: 0;
 }
+
+.tabbed-document-index .work-in-progress {
+  background-color: #909090;
+  border-radius: 3px;
+  color: #fff;
+  font-family: Manrope;
+  font-size: 11.5px;
+  font-weight: 500;
+  margin-left: 0.5rem;
+  padding: 0.125rem 0.325rem;
+}

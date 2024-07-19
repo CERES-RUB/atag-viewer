@@ -49,6 +49,9 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
 					{verses.map(meta => (
 						<li key={meta.slug}>
 							<a href={`verse/${meta.slug}`}>{meta.title}</a>
+              {meta.annotations === 0 && (
+                <span className="work-in-progress">WORK IN PROGRESS</span>
+              )}
 						</li>
 					))}
 				</ul>
@@ -59,6 +62,9 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
           {images.map(meta => (
 						<li key={meta.slug}>
 							<a href={`image/${meta.slug}`}>{meta.title}</a>
+              {meta.annotations === 0 && (
+                <span className="work-in-progress">WORK IN PROGRESS</span>
+              )}
 						</li>
 					))}
         </ul>

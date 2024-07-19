@@ -3,10 +3,26 @@ import type { ImageMetadata, VerseMetadata } from 'src/Types';
 
 export const listImages = () => {
   const json = fs.readFileSync('./public/images.json');
-  return JSON.parse(json.toString()) as ImageMetadata[];
+
+  // Metadata without annotation count
+  const images = JSON.parse(json.toString()) as Partial<ImageMetadata>[];
+
+  return images.map(({ title, slug, manifest }) => {
+    const json = fs.readFileSync(`./public/annotations/image/${slug}.json`);
+    const annotations = JSON.parse(json.toString()).length;
+    return { title, slug, manifest, annotations } as ImageMetadata;
+  });
 }
 
-export const listVerses = () => {
+export const listVerses = (): VerseMetadata[] => {
   const json = fs.readFileSync('./public/verses.json');
-  return JSON.parse(json.toString()) as VerseMetadata[];
+
+  // Metadata without annotation count
+  const verses = JSON.parse(json.toString()) as Partial<VerseMetadata>[];
+
+  return verses.map(({ title, slug }) => {
+    const json = fs.readFileSync(`./public/annotations/verse/${slug}.json`);
+    const annotations = JSON.parse(json.toString()).length;
+    return { title, slug, annotations } as VerseMetadata;
+  });
 }

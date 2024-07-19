@@ -8,6 +8,8 @@ export interface ImageMetadata {
 
   manifest: string;
 
+  annotations: number;
+
 }
 
 export interface VerseMetadata {
@@ -15,6 +17,8 @@ export interface VerseMetadata {
   slug: string;
 
   title: string;
+
+  annotations: number;
 
 }
 
