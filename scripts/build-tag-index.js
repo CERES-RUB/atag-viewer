@@ -133,7 +133,8 @@ const buildTagIndex = async () => {
 
         return [...all, {
           type: 'IMAGE',
-          id, 
+          // No annotation ID if this is image-level metadata
+          id: (w > 0 && h > 0) ? id : undefined, 
           image: image.title,
           slug: image.slug,
           thumbnail,
