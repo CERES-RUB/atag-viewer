@@ -30,21 +30,7 @@ const listVerses = () => {
   return JSON.parse(json.toString());
 }
 
-const findWhitespaceBefore = (text, index) => {
-  while (index > 0 && !/\s/.test(text[index])) {
-    index--;
-  }
-  return index;
-}
-
-const findWhitespaceAfter = (text, index) => {
-  while (index < text.length && !/\s/.test(text[index])) {
-    index++;
-  }
-  return index;
-}
-
-const extractSnippet = (txtFilePath, annotation, contextSize = 20) => {
+const extractSnippet = (txtFilePath, annotation) => {
   const text = fs.readFileSync(txtFilePath, 'utf-8');
 
   const selector = annotation.target.selector.find(s => s.type === 'TextPositionSelector');
@@ -52,13 +38,28 @@ const extractSnippet = (txtFilePath, annotation, contextSize = 20) => {
   if (selector) {
     const { start, end } = selector;
 
-    // Find the nearest whitespace before and after the desired context
-    const prefixStart = findWhitespaceBefore(text, start - contextSize);
-    const suffixEnd = findWhitespaceAfter(text, end + contextSize);
+    const quote = text.substring(start, end).replaceAll(/\s+/g, ' ');
 
-    const quote = text.substring(start, end).replaceAll(/\s+/g, ' ').trim();
-    const prefix = text.substring(prefixStart, start).replaceAll(/\s+/g, ' ').trim();
-    const suffix = text.substring(end, suffixEnd).replaceAll(/\s+/g, ' ').trim();
+    // Collapse any number of space and newline chars to a single space
+    const normalize = (str) => str.replace(/[\s\n]+/g, ' ');
+
+    const findWords = (str, index, direction, count) => {
+      const splitRegex = /[\s|]+|[^\s|]+/g;
+      
+      if (direction === 'BACK') {
+        // words = str.slice(0, index).split(splitRegex).filter(Boolean);
+        const words = str.slice(0, index).match(splitRegex) || [];
+        const prefix = words.slice(-(2 * count));
+        return normalize(prefix.join(''));
+      } else {
+        const words = str.slice(index).match(splitRegex) || [];
+        const suffix = words.slice(0, 2 * count);
+        return normalize(suffix.join(''));
+      }
+    };
+
+    const prefix = findWords(text, start, 'BACK', 3);
+    const suffix = findWords(text, end, 'FORWARD', 3);
 
     return { prefix, quote, suffix };
   }
