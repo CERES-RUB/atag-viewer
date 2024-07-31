@@ -27,25 +27,25 @@
     "@vitejs/plugin-react": "^4.3.1",
     "gh-pages": "^6.1.1",
     "node-fetch": "^3.3.2",
-    "typescript": "^5.5.3",
-    "vite": "^5.3.4"
+    "typescript": "5.5.3",
+    "vite": "^5.3.5"
   },
   "dependencies": {
-    "@annotorious/react": "^3.0.0-rc.30",
-    "@astrojs/check": "^0.8.2",
+    "@annotorious/react": "3.0.0-rc.30",
+    "@astrojs/check": "^0.8.3",
     "@astrojs/react": "^3.6.0",
-    "@floating-ui/react": "^0.26.19",
+    "@floating-ui/react": "^0.26.20",
     "@radix-ui/react-tabs": "^1.1.0",
-    "@recogito/react-text-annotator": "^3.0.0-rc.36",
-    "astro": "^4.12.1",
+    "@recogito/react-text-annotator": "3.0.0-rc.36",
+    "astro": "^4.12.3",
     "diacritics": "^1.3.0",
     "fuse.js": "^7.0.0",
-    "lucide-react": "^0.410.0",
+    "lucide-react": "^0.417.0",
     "openseadragon": "^4.1.1",
     "react": "^18.3.1",
     "react-autosuggest": "^10.1.0",
     "react-dom": "^18.3.1",
     "react-loading-skeleton": "^3.4.0",
-    "react-spring": "^9.7.3"
+    "react-spring": "^9.7.4"
   }
 }
