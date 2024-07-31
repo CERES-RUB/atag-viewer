@@ -46,6 +46,10 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
 
       <Tabs.Content className="tabs-content" value="verses">
         <ul>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 1.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 2.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 3.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 4.</li>
 					{verses.map(meta => (
 						<li key={meta.slug}>
 							<a href={`verse/${meta.slug}`}>{meta.title}</a>
@@ -54,6 +58,16 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
               )}
 						</li>
 					))}
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 6.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 7.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 8.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 9.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 10.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 11.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 12.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 13.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 14.</li>
+          <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 15.</li>
 				</ul>
       </Tabs.Content>
 
