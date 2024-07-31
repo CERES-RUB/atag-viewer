@@ -2150,9 +2150,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "paramārhairapi śākyarājasūnuḥ",
+      "prefix": "viṣayairvilobhyamānaḥ paramārhairapi śākyarājasūnuḥ ",
       "quote": "saḥ",
-      "suffix": "tathā viṣayaiḥ|vilobhyamānaḥ"
+      "suffix": " tathā viṣayaiḥ|vilobhyamānaḥ"
     },
     "tags": [
       "siddhārtha"
@@ -2164,9 +2164,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "parama|arhaiḥ|api śākya|",
+      "prefix": "arhaiḥ|api śākya|",
       "quote": "rāja",
-      "suffix": "|sūnuḥ na jagāma dhṛtiṃ"
+      "suffix": "|sūnuḥ na jagāma"
     },
     "tags": [
       "śuddhodana",
@@ -2179,9 +2179,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śarma lebhe hṛdaye",
+      "prefix": "śarma lebhe hṛdaye ",
       "quote": "siṃhaḥ",
-      "suffix": "iva|ati|digdha|viddhaḥ"
+      "suffix": " iva|ati|digdha"
     },
     "tags": [
       "lion"
@@ -2193,7 +2193,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vana|bhūmi|didṛkṣayā śama|īpsuḥ|",
+      "prefix": "didṛkṣayā śama|īpsuḥ|",
       "quote": "naradeva",
       "suffix": "|anumataḥ bahis pratasthe"
     },
@@ -2208,9 +2208,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śama|īpsuḥ|naradeva|anumataḥ bahis",
+      "prefix": "naradeva|anumataḥ bahis ",
       "quote": "pratasthe",
-      "suffix": "# 3 navarukmakhalīnakiṅkiṇīkaṃ"
+      "suffix": " # 3 navarukmakhalīnakiṅkiṇīkaṃ"
     },
     "tags": [
       "go out"
@@ -2224,7 +2224,7 @@
     "snippet": {
       "prefix": "nava|rukma|khalīna|",
       "quote": "kiṅkiṇīkam",
-      "suffix": "pracalat|cāmara|cāru|hema|bhāṇḍam"
+      "suffix": " pracalat|cāmara|cāru"
     },
     "tags": [
       "bell"
@@ -2236,9 +2236,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "drumābjaketuḥ abhiruhya saḥ",
+      "prefix": "drumābjaketuḥ abhiruhya saḥ ",
       "quote": "kanthakam",
-      "suffix": "sat|aśvam prayayau ketum|iva"
+      "suffix": " sat|aśvam prayayau"
     },
     "tags": [
       "kanthaka",
@@ -2251,9 +2251,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yayau mahīguṇācca",
+      "prefix": "vanalobhācca yayau mahīguṇācca ",
       "quote": "saḥ",
-      "suffix": "vikṛṣṭatarām vanānta|bhūmim"
+      "suffix": " vikṛṣṭatarām vanānta|bhūmim"
     },
     "tags": [
       "siddhārtha"
@@ -2265,9 +2265,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mahīguṇācca saḥ vikṛṣṭatarām",
+      "prefix": "mahīguṇācca saḥ vikṛṣṭatarām ",
       "quote": "vanānta",
-      "suffix": "|bhūmim vana|lobhāt|ca"
+      "suffix": "|bhūmim vana|lobhāt"
     },
     "tags": [
       "forest"
@@ -2279,9 +2279,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vikṛṣṭatarām vanānta|bhūmim",
+      "prefix": "vikṛṣṭatarām vanānta|bhūmim ",
       "quote": "vana",
-      "suffix": "|lobhāt|ca yayau mahī|guṇāt|ca"
+      "suffix": "|lobhāt|ca yayau"
     },
     "tags": [
       "forest"
@@ -2295,7 +2295,7 @@
     "snippet": {
       "prefix": "salila|ūrmi|vikāra|",
       "quote": "sīra",
-      "suffix": "|mārgām vasudhām ca|eva"
+      "suffix": "|mārgām vasudhām ca"
     },
     "tags": [
       "plough"
@@ -2309,7 +2309,7 @@
     "snippet": {
       "prefix": "",
       "quote": "# 1 sa tathā viṣayairvilobhyamānaḥ paramārhairapi śākyarājasūnuḥ saḥ tathā viṣayaiḥ|vilobhyamānaḥ parama|arhaiḥ|api śākya|rāja|sūnuḥ na jagāma dhṛtiṃ na śarma lebhe hṛdaye siṃha ivātidigdhaviddhaḥ na jagāma dhṛtim na śarma lebhe hṛdaye siṃhaḥ iva|ati|digdha|viddhaḥ # 2 atha mantrisutaiḥ kṣamaiḥ kadācitsakhibhiścitrakathaiḥ kṛtānuyātraḥ atha mantri|sutaiḥ kṣamaiḥ kadācid|sakhibhiḥ|citra|kathaiḥ kṛta|anuyātraḥ vanabhūmididṛkṣayā śamepsurnaradevānumato bahiḥ pratasthe vana|bhūmi|didṛkṣayā śama|īpsuḥ|naradeva|anumataḥ bahis pratasthe # 3 navarukmakhalīnakiṅkiṇīkaṃ pracalaccāmaracāruhemabhāṇḍam nava|rukma|khalīna|kiṅkiṇīkam pracalat|cāmara|cāru|hema|bhāṇḍam abhiruhya sa kanthakaṃ sadaśvaṃ prayayau ketumiva drumābjaketuḥ abhiruhya saḥ kanthakam sat|aśvam prayayau ketum|iva druma|abja|ketuḥ # 4 sa vikṛṣṭatarāṃ vanāntabhūmiṃ vanalobhācca yayau mahīguṇācca saḥ vikṛṣṭatarām vanānta|bhūmim vana|lobhāt|ca yayau mahī|guṇāt|ca salilormivikārasīramārgāṃ vasudhāṃ caiva dadarśa kṛṣyamāṇām salila|ūrmi|vikāra|sīra|mārgām vasudhām ca|eva dadarśa kṛṣyamāṇām # 5 halabhinnavikīrṇaśaṣpadarbhāṃ hatasūkṣmakrimikīṭajantukīrṇām hala|bhinna|vikīrṇa|śaṣpa|darbhām hata|sūkṣma|krimi|kīṭa|jantu|kīrṇām samavekṣya rasāṃ tathāvidhāṃ tāṃ svajanasyeva vadhe bhṛśaṃ śuśoca samavekṣya rasām tathāvidhām tām sva|janasya|iva vadhe bhṛśam śuśoca # 6 kṛṣataḥ puruṣāṃśca vīkṣamāṇaḥ pavanārkāṃśurajovibhinnavarṇān kṛṣataḥ puruṣān|ca vīkṣamāṇaḥ pavana|arka|aṃśu|rajas|vibhinna|varṇān vahanaklamaviklavāṃśca dhuryān paramāryaḥ paramāṃ kṛpāṃ cakāra vahana|klama|viklavān|ca dhuryān parama|āryaḥ paramām kṛpām cakāra # 7 avatīrya tatasturaṅgapṛṣṭhācchanakairgā vyacaracchucā parītaḥ avatīrya tatas|turaṃga|pṛṣṭhāt|śanakais|gāḥ vyacarat|śucā parītaḥ jagato jananavyayaṃ vicinvan kṛpaṇaṃ khalvidamityuvāca cārtaḥ jagantaḥ janana|vyayam vicinvan kṛpaṇam khalu|idam|iti|uvāca ca|ārtaḥ # 8 manasā ca viviktatāmabhīpsuḥ suhṛdastānanuyāyino nivārya manasā ca vivikta|tām|abhīpsuḥ suhṛdaḥ|tān|anuyāyinaḥ nivārya abhitaścalacāruparṇavatyā vijane mūlamupeyivān sa jambvāḥ abhitas|cala|cāru|parṇavatyāḥ vijane mūlam|upeyivāḥ saḥ jambvaḥ # 9 niṣasāda sa yatra śaucavatyāṃ bhuvi vaidūryanikāśaśādvalāyām niṣasāda saḥ yatra śaucavatyām bhuvi vaiḍūrya|nikāśa|śādvalāyām jagataḥ prabhavavyayau vicinvanmanasaśca sthitimārgamālalambe jagantaḥ prabhava|vyayau vicinvan|manasaḥ|ca sthiti|mārgam|ālalambe # 10 samavāptamanaḥsthitiśca sadyo viṣayecchādibhirādhibhiśca muktaḥ samavāpta|manas|sthitiḥ|ca sadyas viṣaya|icchā|ādibhiḥ|ādhibhiḥ|ca muktaḥ savitarkavicāramāpa śāntaṃ prathamaṃ dhyānam anāsravaprakāram sa|vitarka|vicāram|āpa śāntam prathamam dhyānam anāsrava|prakāram # 11 adhigamya tato vivekajaṃ tu paramaprītisukhaṃ manaḥsamādhim adhigamya tatas viveka|jam tu parama|prīti|sukham manas|samādhim idameva tataḥ paraṃ pradadhyau manasā lokagatiṃ niśāmya samyak idam|eva tatas param pradadhyau manasā loka|gatim niśāmya samyak # 12 kṛpaṇaṃ bata yajjanaḥ svayaṃ sannavaśo vyādhijarāvināśadharmā kṛpaṇam bata yat|janaḥ svayam san|avaśaḥ vyādhi|jarā|vināśa|dharmā jarayārditamāturaṃ mṛtaṃ vā paramajño vijugupsate madāndhaḥ jarayā|arditam|āturam mṛtam vā param|ajñaḥ vijugupsate mada|andhaḥ # 13 iha cedahamīdṛśaḥ svayaṃ san vijugupseya paraṃ tathāsvabhāvam iha ced|aham|īdṛśaḥ svayam san vijugupseya param tathā|svabhāvam na bhavetsadṛśaṃ hi tatkṣamaṃ vā paramaṃ dharmamimaṃ vijānato me na bhavet|sadṛśam hi tat|kṣamam vā paramam dharmam|imam vijānataḥ mama # 14 iti tasya vipaśyato yathāvajjagato vyādhijarāvipattidoṣān iti tasya vipaśyataḥ yathāvat|jagantaḥ vyādhi|jarā|vipatti|doṣān balayauvanajīvitapravṛtto vijagāmātmagato madaḥ kṣaṇena bala|yauvana|jīvita|pravṛttaḥ vijagāma|ātma|gataḥ madaḥ kṣaṇena # 15 na jaharṣa na cāpi cānutepe vicikitsāṃ na yayau na na jaharṣa na ca|api ca|anutepe vicikitsām na yayau na na ca kāmaguṇeṣu saṃrarañje na vididveṣa paraṃ na cāvamene na ca kāma|guṇeṣu saṃrarañje na vididveṣa param na ca|avamene # 16 iti buddhiriyaṃ ca nīrajaskā vavṛdhe tasya mahātmano viśuddhā iti buddhiḥ|iyam ca nīrajaskā vavṛdhe tasya mahātmanaḥ viśuddhā puruṣairaparairadṛśyamānaḥ puruṣaścopasasarpa bhikṣuveṣaḥ puruṣaiḥ|aparaiḥ|adṛśyamānaḥ puruṣaḥ|ca|upasasarpa bhikṣu|veṣaḥ",
-      "suffix": "# 17 naradevasutastamabhyapṛcchadvada"
+      "suffix": " # 17 naradevasutastamabhyapṛcchadvada"
     },
     "tags": [
       "first meditation"
@@ -2321,9 +2321,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "lebhe hṛdaye siṃhaḥ iva|",
+      "prefix": "hṛdaye siṃhaḥ iva|",
       "quote": "ati|digdha",
-      "suffix": "|viddhaḥ # 2 atha mantrisutaiḥ"
+      "suffix": "|viddhaḥ # 2"
     },
     "tags": [
       "arrow"
@@ -2335,9 +2335,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mantri|sutaiḥ kṣamaiḥ kadācid|",
+      "prefix": "sutaiḥ kṣamaiḥ kadācid|",
       "quote": "sakhibhiḥ",
-      "suffix": "|citra|kathaiḥ kṛta|anuyātraḥ"
+      "suffix": "|citra|kathaiḥ kṛta"
     },
     "tags": [
       "attendant",
@@ -2350,9 +2350,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śamepsurnaradevānumato bahiḥ pratasthe",
+      "prefix": "śamepsurnaradevānumato bahiḥ pratasthe ",
       "quote": "vana",
-      "suffix": "|bhūmi|didṛkṣayā śama|īpsuḥ|naradeva|anumataḥ"
+      "suffix": "|bhūmi|didṛkṣayā śama"
     },
     "tags": [
       "forest"
@@ -2366,7 +2366,7 @@
     "snippet": {
       "prefix": "pracalaccāmaracāruhemabhāṇḍam nava|rukma|",
       "quote": "khalīna",
-      "suffix": "|kiṅkiṇīkam pracalat|cāmara|cāru|hema|bhāṇḍam"
+      "suffix": "|kiṅkiṇīkam pracalat|cāmara"
     },
     "tags": [
       "bit"
@@ -2378,7 +2378,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nava|rukma|khalīna|kiṅkiṇīkam pracalat|",
+      "prefix": "khalīna|kiṅkiṇīkam pracalat|",
       "quote": "cāmara",
       "suffix": "|cāru|hema|bhāṇḍam"
     },
@@ -2392,9 +2392,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pracalat|cāmara|cāru|hema|",
+      "prefix": "cāmara|cāru|hema|",
       "quote": "bhāṇḍam",
-      "suffix": "abhiruhya sa kanthakaṃ"
+      "suffix": " abhiruhya sa kanthakaṃ"
     },
     "tags": [
       "harness for horse"
@@ -2406,9 +2406,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ketumiva drumābjaketuḥ",
+      "prefix": "prayayau ketumiva drumābjaketuḥ ",
       "quote": "abhiruhya",
-      "suffix": "saḥ kanthakam sat|aśvam"
+      "suffix": " saḥ kanthakam sat"
     },
     "tags": [
       "mount"
@@ -2420,9 +2420,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "drumābjaketuḥ abhiruhya",
+      "prefix": "ketumiva drumābjaketuḥ abhiruhya ",
       "quote": "saḥ",
-      "suffix": "kanthakam sat|aśvam"
+      "suffix": " kanthakam sat|aśvam"
     },
     "tags": [
       "siddhārtha"
@@ -2434,9 +2434,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "abhiruhya saḥ kanthakam sat|",
+      "prefix": "saḥ kanthakam sat|",
       "quote": "aśvam",
-      "suffix": "prayayau ketum|iva druma|abja|ketuḥ"
+      "suffix": " prayayau ketum|iva"
     },
     "tags": [
       "horse"
@@ -2448,9 +2448,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kanthakam sat|aśvam",
+      "prefix": "kanthakam sat|aśvam ",
       "quote": "prayayau",
-      "suffix": "ketum|iva druma|abja|ketuḥ"
+      "suffix": " ketum|iva druma"
     },
     "tags": [
       "mount"
@@ -2462,9 +2462,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "dadarśa kṛṣyamāṇām",
+      "prefix": "caiva dadarśa kṛṣyamāṇām ",
       "quote": "salila",
-      "suffix": "|ūrmi|vikāra|sīra|mārgām"
+      "suffix": "|ūrmi|vikāra|sīra"
     },
     "tags": [
       "water"
@@ -2476,9 +2476,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vasudhām ca|eva dadarśa",
+      "prefix": "ca|eva dadarśa ",
       "quote": "kṛṣyamāṇām",
-      "suffix": "# 5 halabhinnavikīrṇaśaṣpadarbhāṃ"
+      "suffix": " # 5 halabhinnavikīrṇaśaṣpadarbhāṃ"
     },
     "tags": [
       "plough"
@@ -2490,9 +2490,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hatasūkṣmakrimikīṭajantukīrṇām",
+      "prefix": "5 halabhinnavikīrṇaśaṣpadarbhāṃ hatasūkṣmakrimikīṭajantukīrṇām ",
       "quote": "hala",
-      "suffix": "|bhinna|vikīrṇa|śaṣpa|darbhām"
+      "suffix": "|bhinna|vikīrṇa|śaṣpa"
     },
     "tags": [
       "plough"
@@ -2506,7 +2506,7 @@
     "snippet": {
       "prefix": "hala|bhinna|vikīrṇa|",
       "quote": "śaṣpa",
-      "suffix": "|darbhām hata|sūkṣma|krimi|kīṭa|jantu|kīrṇām"
+      "suffix": "|darbhām hata|sūkṣma"
     },
     "tags": [
       "grass"
@@ -2518,7 +2518,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hala|bhinna|vikīrṇa|śaṣpa|darbhām hata|sūkṣma|",
+      "prefix": "darbhām hata|sūkṣma|",
       "quote": "krimi",
       "suffix": "|kīṭa|jantu|kīrṇām"
     },
@@ -2532,7 +2532,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hala|bhinna|vikīrṇa|śaṣpa|darbhām hata|sūkṣma|krimi|",
+      "prefix": "hata|sūkṣma|krimi|",
       "quote": "kīṭa",
       "suffix": "|jantu|kīrṇām samavekṣya"
     },
@@ -2546,9 +2546,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pavanārkāṃśurajovibhinnavarṇān",
+      "prefix": "puruṣāṃśca vīkṣamāṇaḥ pavanārkāṃśurajovibhinnavarṇān ",
       "quote": "kṛṣataḥ",
-      "suffix": "puruṣān|ca vīkṣamāṇaḥ"
+      "suffix": " puruṣān|ca vīkṣamāṇaḥ"
     },
     "tags": [
       "plough"
@@ -2560,9 +2560,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pavanārkāṃśurajovibhinnavarṇān kṛṣataḥ",
+      "prefix": "vīkṣamāṇaḥ pavanārkāṃśurajovibhinnavarṇān kṛṣataḥ ",
       "quote": "puruṣān",
-      "suffix": "|ca vīkṣamāṇaḥ pavana|arka|aṃśu|rajas|vibhinna|varṇān"
+      "suffix": "|ca vīkṣamāṇaḥ pavana"
     },
     "tags": [
       "male figure"
@@ -2574,9 +2574,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vahana|klama|viklavān|ca",
+      "prefix": "klama|viklavān|ca ",
       "quote": "dhuryān",
-      "suffix": "parama|āryaḥ paramām"
+      "suffix": " parama|āryaḥ paramām"
     },
     "tags": [
       "bull"
@@ -2588,9 +2588,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyacaracchucā parītaḥ",
+      "prefix": "tatasturaṅgapṛṣṭhācchanakairgā vyacaracchucā parītaḥ ",
       "quote": "avatīrya",
-      "suffix": "tatas|turaṃga|pṛṣṭhāt|śanakais|gāḥ"
+      "suffix": " tatas|turaṃga|pṛṣṭhāt"
     },
     "tags": [
       "get off from a horse"
@@ -2616,7 +2616,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tatas|turaṃga|pṛṣṭhāt|śanakais|gāḥ",
+      "prefix": "pṛṣṭhāt|śanakais|gāḥ ",
       "quote": "vyacarat",
       "suffix": "|śucā parītaḥ jagato"
     },
@@ -2630,9 +2630,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nivārya manasā ca",
+      "prefix": "nivārya manasā ca ",
       "quote": "vivikta|tām",
-      "suffix": "|abhīpsuḥ suhṛdaḥ|tān|anuyāyinaḥ"
+      "suffix": "|abhīpsuḥ suhṛdaḥ|tān"
     },
     "tags": []
   },
@@ -2642,7 +2642,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vivikta|tām|abhīpsuḥ",
+      "prefix": "vivikta|tām|abhīpsuḥ ",
       "quote": "suhṛdaḥ",
       "suffix": "|tān|anuyāyinaḥ nivārya"
     },
@@ -2656,9 +2656,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vivikta|tām|abhīpsuḥ suhṛdaḥ|tān|",
+      "prefix": "abhīpsuḥ suhṛdaḥ|tān|",
       "quote": "anuyāyinaḥ",
-      "suffix": "nivārya abhitaścalacāruparṇavatyā"
+      "suffix": " nivārya abhitaścalacāruparṇavatyā vijane"
     },
     "tags": [
       "attendant"
@@ -2670,9 +2670,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vaidūryanikāśaśādvalāyām",
+      "prefix": "śaucavatyāṃ bhuvi vaidūryanikāśaśādvalāyām ",
       "quote": "niṣasāda",
-      "suffix": "saḥ yatra śaucavatyām"
+      "suffix": " saḥ yatra śaucavatyām"
     },
     "tags": [
       "sit"
@@ -2684,9 +2684,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vaidūryanikāśaśādvalāyām niṣasāda",
+      "prefix": "bhuvi vaidūryanikāśaśādvalāyām niṣasāda ",
       "quote": "saḥ",
-      "suffix": "yatra śaucavatyām bhuvi"
+      "suffix": " yatra śaucavatyām bhuvi"
     },
     "tags": [
       "siddhārtha"
@@ -2698,9 +2698,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yatra śaucavatyām bhuvi",
+      "prefix": "yatra śaucavatyām bhuvi ",
       "quote": "vaiḍūrya",
-      "suffix": "|nikāśa|śādvalāyām"
+      "suffix": "|nikāśa|śādvalāyām jagataḥ"
     },
     "tags": [
       "gems and precious metals"
@@ -2714,7 +2714,7 @@
     "snippet": {
       "prefix": "bhuvi vaiḍūrya|nikāśa|",
       "quote": "śādvalāyām",
-      "suffix": "jagataḥ prabhavavyayau"
+      "suffix": " jagataḥ prabhavavyayau vicinvanmanasaśca"
     },
     "tags": [
       "grass"
@@ -2726,9 +2726,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyādhijarāvināśadharmā kṛpaṇam bata yat|",
+      "prefix": "kṛpaṇam bata yat|",
       "quote": "janaḥ",
-      "suffix": "svayam san|avaśaḥ vyādhi|jarā|vināśa|dharmā"
+      "suffix": " svayam san|avaśaḥ"
     },
     "tags": [
       "male figure"
@@ -2742,7 +2742,7 @@
     "snippet": {
       "prefix": "tathāsvabhāvam iha ced|",
       "quote": "aham",
-      "suffix": "|īdṛśaḥ svayam san vijugupseya"
+      "suffix": "|īdṛśaḥ svayam san"
     },
     "tags": [
       "siddhārtha"
@@ -2754,9 +2754,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyādhijarāvipattidoṣān iti",
+      "prefix": "yathāvajjagato vyādhijarāvipattidoṣān iti ",
       "quote": "tasya",
-      "suffix": "vipaśyataḥ yathāvat|jagantaḥ"
+      "suffix": " vipaśyataḥ yathāvat|jagantaḥ"
     },
     "tags": [
       "siddhārtha"
@@ -2768,9 +2768,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "puruṣaḥ|ca|upasasarpa",
+      "prefix": "puruṣaḥ|ca|upasasarpa ",
       "quote": "bhikṣu|veṣaḥ",
-      "suffix": "# 17 naradevasutastamabhyapṛcchadvada"
+      "suffix": " # 17 naradevasutastamabhyapṛcchadvada"
     },
     "tags": [
       "mantle",
@@ -2783,9 +2783,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "param na ca|avamene",
+      "prefix": "na ca|avamene ",
       "quote": "# 16 iti buddhiriyaṃ ca nīrajaskā vavṛdhe tasya mahātmano viśuddhā iti buddhiḥ|iyam ca nīrajaskā vavṛdhe tasya mahātmanaḥ viśuddhā puruṣairaparairadṛśyamānaḥ puruṣaścopasasarpa bhikṣuveṣaḥ puruṣaiḥ|aparaiḥ|adṛśyamānaḥ puruṣaḥ|ca|upasasarpa bhikṣu|veṣaḥ # 17 naradevasutastamabhyapṛcchadvada ko 'sīti śaśaṃsa so 'tha tasmai naradeva|sutaḥ|tam|abhyapṛcchat|vada kaḥ asi|iti śaśaṃsa saḥ atha tasmai narapuṃgava janmamṛtyubhītaḥ śramaṇaḥ pravrajito 'smi mokṣahetoḥ nara|puṃgavaiḥ janma|mṛtyu|bhītaḥ śramaṇaḥ pravrajitaḥ asmi mokṣa|hetoḥ # 18 jagati kṣayadharmake mumukṣurmṛgaye 'haṃ śivamakṣayaṃ padaṃ tat jaganti kṣaya|dharmake mumukṣuḥ|mṛgaye aham śivam|akṣayam padam tat svajane 'nyajane ca tulyabuddhirviṣayebhyo vinivṛttarāgadoṣaḥ sva|jane anya|jane ca tulya|buddhiḥ|viṣayebhyaḥ vinivṛtta|rāga|doṣaḥ # 19 nivasan kvacideva vṛkṣamūle vijane vāyatane girau vane vā nivasan kvacid|eva vṛkṣa|mūle vijane vā|āyatane girau vane vā vicarāmyaparigraho nirāśaḥ paramārthāya yathopapannabhaikṣaḥ vicarāmi|aparigrahaḥ nirāśaḥ paramārthāya yathā|upapanna|bhaikṣaḥ # 20 iti paśyata eva rājasūnoridamuktvā sa nabhaḥ samutpapāta iti paśyataḥ eva rāja|sūnoḥ|idam|uktvā saḥ nabhaḥ samutpapāta sa hi tadvapuranyabuddhadarśī smṛtaye tasya sameyivāndivaukāḥ saḥ hi tad|vapūḥ|anya|buddha|darśī smṛtaye tasya sameyivāḥ|divaukāḥ # 21 gaganaṃ khagavadgate ca tasmin nṛvaraḥ saṃjahṛṣe visismiye ca gaganam khaga|vat|gate ca tasmin nṛvaraḥ saṃjahṛṣe visismiye ca upalabhya tataśca dharmasaṃjñāmabhiniryāṇavidhau matiṃ cakāra upalabhya tatas|ca dharma|saṃjñām|abhiniryāṇa|vidhau matim cakāra",
-      "suffix": "# 22 tata indrasamo"
+      "suffix": " # 22 tata"
     },
     "tags": [
       "encounter with a mendicant"
@@ -2797,9 +2797,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "puruṣaiḥ|aparaiḥ|adṛśyamānaḥ",
+      "prefix": "puruṣaiḥ|aparaiḥ|adṛśyamānaḥ ",
       "quote": "puruṣaḥ",
-      "suffix": "|ca|upasasarpa bhikṣu|veṣaḥ"
+      "suffix": "|ca|upasasarpa bhikṣu"
     },
     "tags": [
       "ascetic"
@@ -2811,7 +2811,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śaśaṃsa so 'tha tasmai",
+      "prefix": "so 'tha tasmai ",
       "quote": "naradeva|sutaḥ",
       "suffix": "|tam|abhyapṛcchat|vada"
     },
@@ -2827,7 +2827,7 @@
     "snippet": {
       "prefix": "'smi mokṣahetoḥ nara|",
       "quote": "puṃgavaiḥ",
-      "suffix": "janma|mṛtyu|bhītaḥ śramaṇaḥ"
+      "suffix": " janma|mṛtyu|bhītaḥ"
     },
     "tags": [
       "bull"
@@ -2839,9 +2839,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pravrajito 'smi mokṣahetoḥ",
+      "prefix": "pravrajito 'smi mokṣahetoḥ ",
       "quote": "nara|puṃgavaiḥ",
-      "suffix": "janma|mṛtyu|bhītaḥ śramaṇaḥ"
+      "suffix": " janma|mṛtyu|bhītaḥ"
     },
     "tags": [
       "siddhārtha"
@@ -2853,9 +2853,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kṣaya|dharmake mumukṣuḥ|mṛgaye",
+      "prefix": "dharmake mumukṣuḥ|mṛgaye ",
       "quote": "aham",
-      "suffix": "śivam|akṣayam padam"
+      "suffix": " śivam|akṣayam padam"
     },
     "tags": [
       "ascetic"
@@ -2867,9 +2867,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nivasan kvacid|eva",
+      "prefix": "nivasan kvacid|eva ",
       "quote": "vṛkṣa",
-      "suffix": "|mūle vijane vā|āyatane"
+      "suffix": "|mūle vijane vā"
     },
     "tags": [
       "tree"
@@ -2881,9 +2881,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vṛkṣa|mūle vijane vā|",
+      "prefix": "mūle vijane vā|",
       "quote": "āyatane",
-      "suffix": "girau vane vā vicarāmyaparigraho"
+      "suffix": " girau vane vā"
     },
     "tags": [
       "temple"
@@ -2895,9 +2895,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vṛkṣa|mūle vijane vā|āyatane",
+      "prefix": "vijane vā|āyatane ",
       "quote": "girau",
-      "suffix": "vane vā vicarāmyaparigraho"
+      "suffix": " vane vā vicarāmyaparigraho"
     },
     "tags": [
       "mountain"
@@ -2909,9 +2909,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vijane vā|āyatane girau",
+      "prefix": "vā|āyatane girau ",
       "quote": "vane",
-      "suffix": "vā vicarāmyaparigraho"
+      "suffix": " vā vicarāmyaparigraho nirāśaḥ"
     },
     "tags": [
       "forest"
@@ -2925,7 +2925,7 @@
     "snippet": {
       "prefix": "paramārthāya yathā|upapanna|",
       "quote": "bhaikṣaḥ",
-      "suffix": "# 20 iti paśyata eva"
+      "suffix": " # 20 iti"
     },
     "tags": [
       "begging bowl"
@@ -2937,9 +2937,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "20 iti paśyata eva",
+      "prefix": "iti paśyata eva ",
       "quote": "rājasūno",
-      "suffix": "ridamuktvā sa nabhaḥ"
+      "suffix": "ridamuktvā sa nabhaḥ "
     },
     "tags": [
       "siddhārtha"
@@ -2951,9 +2951,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "samutpapāta iti paśyataḥ eva",
+      "prefix": "iti paśyataḥ eva ",
       "quote": "rāja|sūnoḥ",
-      "suffix": "|idam|uktvā saḥ nabhaḥ"
+      "suffix": "|idam|uktvā saḥ"
     },
     "tags": [
       "siddhārtha"
@@ -2965,9 +2965,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "rāja|sūnoḥ|idam|uktvā saḥ",
+      "prefix": "idam|uktvā saḥ ",
       "quote": "nabhaḥ",
-      "suffix": "samutpapāta sa hi"
+      "suffix": " samutpapāta sa hi"
     },
     "tags": []
   },
@@ -2977,9 +2977,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "rāja|sūnoḥ|idam|uktvā saḥ nabhaḥ",
+      "prefix": "uktvā saḥ nabhaḥ ",
       "quote": "samutpapāta",
-      "suffix": "sa hi tadvapuranyabuddhadarśī"
+      "suffix": " sa hi tadvapuranyabuddhadarśī"
     },
     "tags": [
       "fly"
@@ -2991,7 +2991,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "saḥ hi tad|vapūḥ|anya|",
+      "prefix": "tad|vapūḥ|anya|",
       "quote": "buddha",
       "suffix": "|darśī smṛtaye tasya"
     },
@@ -3005,9 +3005,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tad|vapūḥ|anya|buddha|darśī smṛtaye tasya",
+      "prefix": "darśī smṛtaye tasya ",
       "quote": "sameyivāḥ",
-      "suffix": "|divaukāḥ # 21 gaganaṃ"
+      "suffix": "|divaukāḥ # 21"
     },
     "tags": [
       "approach"
@@ -3021,7 +3021,7 @@
     "snippet": {
       "prefix": "smṛtaye tasya sameyivāḥ|",
       "quote": "divaukāḥ",
-      "suffix": "# 21 gaganaṃ khagavadgate"
+      "suffix": " # 21 gaganaṃ"
     },
     "tags": [
       "celestial being"
@@ -3033,9 +3033,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "saṃjahṛṣe visismiye ca",
+      "prefix": "saṃjahṛṣe visismiye ca ",
       "quote": "gaganam",
-      "suffix": "khaga|vat|gate ca tasmin"
+      "suffix": " khaga|vat|gate"
     },
     "tags": [
       "sky"
@@ -3047,9 +3047,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "visismiye ca gaganam",
+      "prefix": "visismiye ca gaganam ",
       "quote": "khaga|vat",
-      "suffix": "|gate ca tasmin nṛvaraḥ"
+      "suffix": "|gate ca tasmin"
     },
     "tags": [
       "birds"
@@ -3061,9 +3061,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "khaga|vat|gate ca tasmin",
+      "prefix": "gate ca tasmin ",
       "quote": "nṛvaraḥ",
-      "suffix": "saṃjahṛṣe visismiye"
+      "suffix": " saṃjahṛṣe visismiye ca"
     },
     "tags": [
       "siddhārtha"
@@ -3075,7 +3075,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tatas|ca dharma|saṃjñām|",
+      "prefix": "ca dharma|saṃjñām|",
       "quote": "abhiniryāṇa",
       "suffix": "|vidhau matim cakāra"
     },
@@ -3089,9 +3089,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "puramaśvamāruroha tatas",
+      "prefix": "pravivikṣuḥ puramaśvamāruroha tatas ",
       "quote": "indra",
-      "suffix": "|samaḥ jita|indriya|aśvaḥ"
+      "suffix": "|samaḥ jita|indriya"
     },
     "tags": [
       "indra"
@@ -3103,9 +3103,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "indra|samaḥ jita|indriya|",
+      "prefix": "samaḥ jita|indriya|",
       "quote": "aśvaḥ",
-      "suffix": "pravivikṣuḥ puram|aśvam|āruroha"
+      "suffix": " pravivikṣuḥ puram|aśvam"
     },
     "tags": [
       "horse"
@@ -3117,7 +3117,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "jita|indriya|aśvaḥ pravivikṣuḥ",
+      "prefix": "indriya|aśvaḥ pravivikṣuḥ ",
       "quote": "puram",
       "suffix": "|aśvam|āruroha parivārajanaṃ"
     },
@@ -3134,7 +3134,7 @@
     "snippet": {
       "prefix": "pravivikṣuḥ puram|aśvam|",
       "quote": "āruroha",
-      "suffix": "parivārajanaṃ tvavekṣamāṇastata"
+      "suffix": " parivārajanaṃ tvavekṣamāṇastata evābhimataṃ"
     },
     "tags": [
       "mount"
@@ -3146,9 +3146,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "evābhimataṃ vanaṃ na bheje",
+      "prefix": "vanaṃ na bheje ",
       "quote": "parivāra",
-      "suffix": "|janam tu|avekṣamāṇaḥ|tatas"
+      "suffix": "|janam tu|avekṣamāṇaḥ"
     },
     "tags": [
       "attendant"
@@ -3160,9 +3160,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tu|avekṣamāṇaḥ|tatas eva|abhimatam",
+      "prefix": "tatas eva|abhimatam ",
       "quote": "vanam",
-      "suffix": "na bheje # 23 sa jarāmaraṇakṣayaṃ"
+      "suffix": " na bheje #"
     },
     "tags": [
       "forest"
@@ -3174,9 +3174,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vanam na bheje # 23",
+      "prefix": "bheje # 23 ",
       "quote": "sa",
-      "suffix": "jarāmaraṇakṣayaṃ cikīrṣurvanavāsāya"
+      "suffix": " jarāmaraṇakṣayaṃ cikīrṣurvanavāsāya matiṃ"
     },
     "tags": [
       "siddhārtha"
@@ -3188,9 +3188,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "matiṃ smṛtau nidhāya",
+      "prefix": "matiṃ smṛtau nidhāya ",
       "quote": "saḥ",
-      "suffix": "jarā|maraṇa|kṣayam cikīrṣuḥ|vana|vāsāya"
+      "suffix": " jarā|maraṇa|kṣayam"
     },
     "tags": [
       "siddhārtha"
@@ -3202,9 +3202,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "maṇḍalaṃ dvipendraḥ",
+      "prefix": "kāmādvanabhūmeriva maṇḍalaṃ dvipendraḥ ",
       "quote": "praviveśa",
-      "suffix": "punar puram na kāmāt|vana|bhūmyāḥ|iva"
+      "suffix": " punar puram na"
     },
     "tags": [
       "enter"
@@ -3216,9 +3216,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "dvipendraḥ praviveśa punar",
+      "prefix": "dvipendraḥ praviveśa punar ",
       "quote": "puram",
-      "suffix": "na kāmāt|vana|bhūmyāḥ|iva"
+      "suffix": " na kāmāt|vana"
     },
     "tags": [
       "kapilavastu",
@@ -3231,9 +3231,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "punar puram na kāmāt|",
+      "prefix": "puram na kāmāt|",
       "quote": "vana|bhūmyāḥ",
-      "suffix": "|iva maṇḍalam dvipa|indraḥ"
+      "suffix": "|iva maṇḍalam dvipa"
     },
     "tags": [
       "forest"
@@ -3245,9 +3245,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāmāt|vana|bhūmyāḥ|iva",
+      "prefix": "vana|bhūmyāḥ|iva ",
       "quote": "maṇḍalam",
-      "suffix": "dvipa|indraḥ # 24"
+      "suffix": " dvipa|indraḥ #"
     },
     "tags": []
   },
@@ -3257,9 +3257,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāmāt|vana|bhūmyāḥ|iva maṇḍalam",
+      "prefix": "bhūmyāḥ|iva maṇḍalam ",
       "quote": "dvipa",
-      "suffix": "|indraḥ # 24 sukhitā"
+      "suffix": "|indraḥ # 24"
     },
     "tags": [
       "elephant"
@@ -3271,9 +3271,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bata nirvṛtā ca sā",
+      "prefix": "nirvṛtā ca sā ",
       "quote": "strī",
-      "suffix": "patiḥ|īdṛkṣaḥ iha|āyata|akṣaiḥ"
+      "suffix": " patiḥ|īdṛkṣaḥ iha"
     },
     "tags": [
       "female figure"
@@ -3285,9 +3285,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nirvṛtā ca sā strī",
+      "prefix": "ca sā strī ",
       "quote": "patiḥ",
-      "suffix": "|īdṛkṣaḥ iha|āyata|akṣaiḥ"
+      "suffix": "|īdṛkṣaḥ iha|āyata"
     },
     "tags": [
       "siddhārtha"
@@ -3299,9 +3299,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sāñjalirjagāda iti tam",
+      "prefix": "sāñjalirjagāda iti tam ",
       "quote": "samudīkṣya",
-      "suffix": "rāja|kanyā praviśantam"
+      "suffix": " rāja|kanyā praviśantam"
     },
     "tags": [
       "look up"
@@ -3313,9 +3313,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "samudīkṣya rāja|kanyā",
+      "prefix": "samudīkṣya rāja|kanyā ",
       "quote": "praviśantam",
-      "suffix": "pathini sa|añjaliḥ|jagāda"
+      "suffix": " pathini sa|añjaliḥ"
     },
     "tags": [
       "enter"
@@ -3327,9 +3327,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "rāja|kanyā praviśantam",
+      "prefix": "rāja|kanyā praviśantam ",
       "quote": "pathini",
-      "suffix": "sa|añjaliḥ|jagāda"
+      "suffix": " sa|añjaliḥ|jagāda"
     },
     "tags": [
       "road"
@@ -3341,9 +3341,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "praviśantam pathini",
+      "prefix": "kanyā praviśantam pathini ",
       "quote": "sa|añjaliḥ",
-      "suffix": "|jagāda # 25 atha ghoṣamimaṃ"
+      "suffix": "|jagāda # 25"
     },
     "tags": [
       "gesture of veneration with joined hands"
@@ -3357,7 +3357,7 @@
     "snippet": {
       "prefix": "gajamegharṣabhabāhunisvanākṣaḥ atha kāñcana|",
       "quote": "śaila",
-      "suffix": "|śṛṅga|varṣmā gaja|megha|ṛṣabha|bāhu|nisvana|akṣaḥ"
+      "suffix": "|śṛṅga|varṣmā gaja"
     },
     "tags": [
       "mountain"
@@ -3371,7 +3371,7 @@
     "snippet": {
       "prefix": "atha kāñcana|śaila|",
       "quote": "śṛṅga",
-      "suffix": "|varṣmā gaja|megha|ṛṣabha|bāhu|nisvana|akṣaḥ"
+      "suffix": "|varṣmā gaja|megha"
     },
     "tags": [
       "peak"
@@ -3383,9 +3383,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcana|śaila|śṛṅga|varṣmā",
+      "prefix": "śaila|śṛṅga|varṣmā ",
       "quote": "gaja",
-      "suffix": "|megha|ṛṣabha|bāhu|nisvana|akṣaḥ"
+      "suffix": "|megha|ṛṣabha|bāhu"
     },
     "tags": [
       "elephant"
@@ -3397,9 +3397,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcana|śaila|śṛṅga|varṣmā gaja|",
+      "prefix": "śṛṅga|varṣmā gaja|",
       "quote": "megha",
-      "suffix": "|ṛṣabha|bāhu|nisvana|akṣaḥ"
+      "suffix": "|ṛṣabha|bāhu|nisvana"
     },
     "tags": [
       "cloud"
@@ -3411,7 +3411,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcana|śaila|śṛṅga|varṣmā gaja|megha|",
+      "prefix": "varṣmā gaja|megha|",
       "quote": "ṛṣabha",
       "suffix": "|bāhu|nisvana|akṣaḥ"
     },
@@ -3425,7 +3425,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcana|śaila|śṛṅga|varṣmā gaja|megha|ṛṣabha|",
+      "prefix": "gaja|megha|ṛṣabha|",
       "quote": "bāhu",
       "suffix": "|nisvana|akṣaḥ kṣayamakṣayadharmajātarāgaḥ"
     },
@@ -3439,7 +3439,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kṣayam|akṣaya|dharma|jāta|rāgaḥ",
+      "prefix": "dharma|jāta|rāgaḥ ",
       "quote": "śaśi",
       "suffix": "|siṃha|ānana|vikramaḥ"
     },
@@ -3453,7 +3453,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kṣayam|akṣaya|dharma|jāta|rāgaḥ śaśi|",
+      "prefix": "jāta|rāgaḥ śaśi|",
       "quote": "siṃha",
       "suffix": "|ānana|vikramaḥ prapede"
     },
@@ -3467,9 +3467,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mṛgarāja|gatiḥ|tatas",
+      "prefix": "mṛgarāja|gatiḥ|tatas ",
       "quote": "abhyagacchat",
-      "suffix": "|nṛpatim mantri|gaṇaiḥ|upāsyamānam"
+      "suffix": "|nṛpatim mantri|gaṇaiḥ"
     },
     "tags": [
       "approach"
@@ -3481,9 +3481,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "abhyagacchat|nṛpatim",
+      "prefix": "tatas abhyagacchat|nṛpatim ",
       "quote": "mantri",
-      "suffix": "|gaṇaiḥ|upāsyamānam"
+      "suffix": "|gaṇaiḥ|upāsyamānam samitau"
     },
     "tags": [
       "attendant"
@@ -3495,7 +3495,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sanatkumāraḥ samitau",
+      "prefix": "tridive sanatkumāraḥ samitau ",
       "quote": "marutām",
       "suffix": "|iva jvalantam maghavānam"
     },
@@ -3507,9 +3507,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "marutām|iva jvalantam",
+      "prefix": "marutām|iva jvalantam ",
       "quote": "maghavānam",
-      "suffix": "tridive sanatkumāraḥ"
+      "suffix": " tridive sanatkumāraḥ #"
     },
     "tags": [
       "indra"
@@ -3521,9 +3521,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "maghavānam tridive",
+      "prefix": "jvalantam maghavānam tridive ",
       "quote": "sanatkumāraḥ",
-      "suffix": "# 28 praṇipatya ca"
+      "suffix": " # 28 praṇipatya"
     },
     "tags": []
   },
@@ -3533,9 +3533,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "naradeva sādhvanujñām",
+      "prefix": "mahyaṃ naradeva sādhvanujñām ",
       "quote": "praṇipatya",
-      "suffix": "ca sa|añjaliḥ|babhāṣe"
+      "suffix": " ca sa|añjaliḥ"
     },
     "tags": [
       "worship"
@@ -3547,9 +3547,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sādhvanujñām praṇipatya ca sa|",
+      "prefix": "praṇipatya ca sa|",
       "quote": "añjaliḥ",
-      "suffix": "|babhāṣe diśa me naradevaiḥ"
+      "suffix": "|babhāṣe diśa me"
     },
     "tags": [
       "both hands gesture"
@@ -3561,9 +3561,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sa|añjaliḥ|babhāṣe diśa me",
+      "prefix": "babhāṣe diśa me ",
       "quote": "naradeva",
-      "suffix": "iḥ sādhu|anujñām parivivrajiṣāmi"
+      "suffix": "iḥ sādhu|anujñām "
     },
     "tags": [
       "king"
@@ -3575,9 +3575,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kariṇevābhihato drumaścacāla iti",
+      "prefix": "kariṇevābhihato drumaścacāla iti ",
       "quote": "tasya",
-      "suffix": "vacaḥ niśamya rājā kariṇā|iva|abhihataḥ"
+      "suffix": " vacaḥ niśamya rājā"
     },
     "tags": [
       "siddhārtha"
@@ -3589,9 +3589,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tasya vacaḥ niśamya",
+      "prefix": "tasya vacaḥ niśamya ",
       "quote": "rājā",
-      "suffix": "kariṇā|iva|abhihataḥ"
+      "suffix": " kariṇā|iva|abhihataḥ"
     },
     "tags": [
       "king"
@@ -3603,9 +3603,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vacaḥ niśamya rājā",
+      "prefix": "vacaḥ niśamya rājā ",
       "quote": "kariṇā",
-      "suffix": "|iva|abhihataḥ drumaḥ|cacāla"
+      "suffix": "|iva|abhihataḥ drumaḥ"
     },
     "tags": [
       "elephant"
@@ -3617,9 +3617,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kariṇā|iva|abhihataḥ",
+      "prefix": "kariṇā|iva|abhihataḥ ",
       "quote": "drumaḥ",
-      "suffix": "|cacāla kamalapratime"
+      "suffix": "|cacāla kamalapratime 'ñjalau"
     },
     "tags": [
       "tree"
@@ -3631,9 +3631,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kariṇā|iva|abhihataḥ drumaḥ|",
+      "prefix": "iva|abhihataḥ drumaḥ|",
       "quote": "cacāla",
-      "suffix": "kamalapratime 'ñjalau"
+      "suffix": " kamalapratime 'ñjalau gṛhītvā"
     },
     "tags": []
   },
@@ -3643,7 +3643,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "cedamuvāca bāṣpakaṇṭhaḥ",
+      "prefix": "vacanaṃ cedamuvāca bāṣpakaṇṭhaḥ ",
       "quote": "kamala",
       "suffix": "|pratime añjalau gṛhītvā"
     },
@@ -3657,9 +3657,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bāṣpakaṇṭhaḥ kamala|pratime",
+      "prefix": "bāṣpakaṇṭhaḥ kamala|pratime ",
       "quote": "añjalau",
-      "suffix": "gṛhītvā vacanam ca|idam|uvāca"
+      "suffix": " gṛhītvā vacanam ca"
     },
     "tags": [
       "both hands gesture"
@@ -3671,9 +3671,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kamala|pratime añjalau",
+      "prefix": "kamala|pratime añjalau ",
       "quote": "gṛhītvā",
-      "suffix": "vacanam ca|idam|uvāca"
+      "suffix": " vacanam ca|idam"
     },
     "tags": []
   },
@@ -3685,7 +3685,7 @@
     "snippet": {
       "prefix": "taruṇasya manaḥ|calati|",
       "quote": "araṇyāt",
-      "suffix": "anabhijñasya viśeṣataḥ"
+      "suffix": " anabhijñasya viśeṣataḥ viveke"
     },
     "tags": [
       "forest"
@@ -3697,9 +3697,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vākyamidaṃ niśamya",
+      "prefix": "iti vākyamidaṃ niśamya ",
       "quote": "rājñaḥ",
-      "suffix": "kalaviṅkasvara uttaraṃ"
+      "suffix": " kalaviṅkasvara uttaraṃ babhāṣe"
     },
     "tags": [
       "king"
@@ -3711,9 +3711,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vākyamidaṃ niśamya rājñaḥ",
+      "prefix": "vākyamidaṃ niśamya rājñaḥ ",
       "quote": "kalaviṅka",
-      "suffix": "svara uttaraṃ babhāṣe"
+      "suffix": "svara uttaraṃ babhāṣe "
     },
     "tags": [
       "birds"
@@ -3725,9 +3725,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vākyam|idam niśamya",
+      "prefix": "vākyam|idam niśamya ",
       "quote": "rājñaḥ",
-      "suffix": "kalaviṅka|svaraḥ uttaram"
+      "suffix": " kalaviṅka|svaraḥ uttaram"
     },
     "tags": [
       "king"
@@ -3739,9 +3739,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vākyam|idam niśamya rājñaḥ",
+      "prefix": "idam niśamya rājñaḥ ",
       "quote": "kalaviṅk",
-      "suffix": "a|svaraḥ uttaram babhāṣe"
+      "suffix": "a|svaraḥ uttaram "
     },
     "tags": [
       "birds"
@@ -3753,9 +3753,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tapovanaṃ śrayiṣye yadi",
+      "prefix": "tapovanaṃ śrayiṣye yadi ",
       "quote": "mama",
-      "suffix": "pratibhūḥ|caturṣu rājñ"
+      "suffix": " pratibhūḥ|caturṣu rājñ"
     },
     "tags": [
       "siddhārtha"
@@ -3767,9 +3767,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mama pratibhūḥ|caturṣu",
+      "prefix": "mama pratibhūḥ|caturṣu ",
       "quote": "rājñ",
-      "suffix": "bhavasi tvam na tapas|vanam"
+      "suffix": " bhavasi tvam na"
     },
     "tags": []
   },
@@ -3779,9 +3779,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bhavasi tvam na tapas|",
+      "prefix": "tvam na tapas|",
       "quote": "vanam",
-      "suffix": "śrayiṣye # 35 na bhavenmaraṇāya"
+      "suffix": " śrayiṣye # 35"
     },
     "tags": [
       "forest"
@@ -3793,9 +3793,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "durlabham artham ūcivasam",
+      "prefix": "durlabham artham ūcivasam ",
       "quote": "tanayam",
-      "suffix": "vākyam|uvāca śākya|rājaḥ"
+      "suffix": " vākyam|uvāca śākya"
     },
     "tags": [
       "siddhārtha"
@@ -3807,9 +3807,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tanayam vākyam|uvāca",
+      "prefix": "tanayam vākyam|uvāca ",
       "quote": "śākya|rājaḥ",
-      "suffix": "tyaja buddhimimāmatipravṛttāmavahāsyo"
+      "suffix": " tyaja buddhimimāmatipravṛttāmavahāsyo 'timanoratho"
     },
     "tags": [
       "king"
@@ -3821,7 +3821,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nāsmi vāryaḥ atha",
+      "prefix": "nāsmi vāryaḥ atha ",
       "quote": "meru",
       "suffix": "|guruḥ|gurum babhāṣe"
     },
@@ -3835,7 +3835,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tanayasya nirmumukṣoḥ iti",
+      "prefix": "tanayasya nirmumukṣoḥ iti ",
       "quote": "bhūmipatiḥ",
       "suffix": "|niśamya tasya vyavasāyam"
     },
@@ -3849,7 +3849,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bahumānātpraṇayācca śāstrapūrvam",
+      "prefix": "yathāvad bahumānātpraṇayācca śāstrapūrvam ",
       "quote": "sacivaiḥ",
       "suffix": "|tu nidarśitaḥ yathāvat"
     },
@@ -3863,7 +3863,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nivāritaḥ aśru|pātaiḥ",
+      "prefix": "nivāritaḥ aśru|pātaiḥ ",
       "quote": "praviveśa",
       "suffix": "|āvasatham tatas saḥ"
     },
@@ -3879,7 +3879,7 @@
     "snippet": {
       "prefix": "cala|kuṇḍala|cumbita|",
       "quote": "ānanābhiḥ",
-      "suffix": "|ghana|niśvāsa|vikampita|stanābhiḥ"
+      "suffix": "|ghana|niśvāsa|vikampita"
     },
     "tags": [
       "face"
@@ -3891,9 +3891,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vanitābhiḥ adhīra|",
+      "prefix": "ivābhyudīkṣyamāṇaḥ vanitābhiḥ adhīra|",
       "quote": "locanābhiḥ",
-      "suffix": "mṛga|śāvābhiḥ iva|abhyudīkṣyamāṇaḥ"
+      "suffix": " mṛga|śāvābhiḥ iva"
     },
     "tags": [
       "eye"
@@ -3905,7 +3905,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vanitābhiḥ adhīra|locanābhiḥ",
+      "prefix": "vanitābhiḥ adhīra|locanābhiḥ ",
       "quote": "mṛga",
       "suffix": "|śāvābhiḥ iva|abhyudīkṣyamāṇaḥ"
     },
@@ -3919,9 +3919,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hṛdayonmādakaro varāṅganānām",
+      "prefix": "kāñcanaparvatāvadāto hṛdayonmādakaro varāṅganānām ",
       "quote": "saḥ",
-      "suffix": "hi kāñcana|parvata|avadātaḥ"
+      "suffix": " hi kāñcana|parvata"
     },
     "tags": [
       "siddhārtha"
@@ -3933,9 +3933,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra",
+      "prefix": "vara|aṅganānām śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra ",
       "quote": "śravaṇa",
-      "suffix": "|aṅga|vilocana|ātma|bhāvān|vacana|sparśa|vapus|guṇaiḥ|jahāra"
+      "suffix": "|aṅga|vilocana|ātma"
     },
     "tags": [
       "ear"
@@ -3947,9 +3947,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tatas vimānam vapuṣā",
+      "prefix": "tatas vimānam vapuṣā ",
       "quote": "sūryaḥ",
-      "suffix": "iva pradīpyamānaḥ"
+      "suffix": " iva pradīpyamānaḥ timiraṃ"
     },
     "tags": [
       "sun"
@@ -3961,9 +3961,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "rakṣaṇam|uttamān|ca kāmān",
+      "prefix": "uttamān|ca kāmān ",
       "quote": "# 40 sacivaistu nidarśito yathāvad bahumānātpraṇayācca śāstrapūrvam sacivaiḥ|tu nidarśitaḥ yathāvat bahu|mānāt|praṇayāt|ca śāstra|pūrvam guruṇā ca nivārito 'śrupātaiḥ praviveśāvasathaṃ tataḥ sa śocan guruṇā ca nivāritaḥ aśru|pātaiḥ praviveśa|āvasatham tatas saḥ śocan # 41 calakuṇḍalacumbitānanābhirghananiśvāsavikampitastanībhiḥ cala|kuṇḍala|cumbita|ānanābhiḥ|ghana|niśvāsa|vikampita|stanābhiḥ vanitābhir adhīralocanābhir mṛgaśāvābhir ivābhyudīkṣyamāṇaḥ vanitābhiḥ adhīra|locanābhiḥ mṛga|śāvābhiḥ iva|abhyudīkṣyamāṇaḥ # 42 sa hi kāñcanaparvatāvadāto hṛdayonmādakaro varāṅganānām saḥ hi kāñcana|parvata|avadātaḥ hṛdaya|unmāda|karaḥ vara|aṅganānām śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra śravaṇa|aṅga|vilocana|ātma|bhāvān|vacana|sparśa|vapus|guṇaiḥ|jahāra # 43 vigate divase tato vimānaṃ vapuṣā sūrya iva pradīpyamānaḥ vigate divase tatas vimānam vapuṣā sūryaḥ iva pradīpyamānaḥ timiraṃ vijighāṃsurātmabhāsā ravirudyanniva merumāruroha timiram vijighāṃsuḥ|ātma|bhāsā raviḥ|udyan|iva merum|āruroha # 44 kanakojjvaladīptadīpavṛkṣaṃ varakālāgurudhūpapūrṇagarbham kanaka|ujjvala|dīpta|dīpavṛkṣam vara|kālāguru|dhūpa|pūrṇa|garbham adhiruhya sa vajrabhakticitraṃ pravaraṃ kāñcanamāsanaṃ siṣeve adhiruhya saḥ vajra|bhakti|citram pravaram kāñcanam|āsanam siṣeve # 45 tata uttamamuttamāṅganāstaṃ niśi tūryairupatasthurindrakalpam tatas uttamam|uttama|aṅganāḥ|tam niśi tūryaiḥ|upatasthuḥ|indra|kalpam himavacchirasīva candragaure draviṇendrātmajamapsarogaṇaughāḥ himavat|śirasi|iva candra|gaure draviṇa|indra|ātmajam|apsaras|gaṇa|oghāḥ # 46 paramairapi divyatūryakalpaiḥ sa tu tairnaiva ratiṃ yayau na harṣam paramaiḥ|api divya|tūrya|kalpaiḥ saḥ tu taiḥ|na|eva ratim yayau na harṣam paramārthasukhāya tasya sādhor abhiniścikramiṣā yato na reme parama|artha|sukhāya tasya sādhoḥ abhiniścikramiṣā yatas na reme # 47 atha tatra suraistapovariṣṭhairakaniṣṭhairvyavasāyamasya buddhvā atha tatra suraiḥ|tapas|variṣṭhaiḥ|akaniṣṭhaiḥ|vyavasāyam|asya buddhvā yugapatpramadājanasya nidrā vihitāsīdvikṛtāśca gātraceṣṭāḥ yugapad|pramadā|janasya nidrā vihitā|āsīt|vikṛtāḥ|ca gātra|ceṣṭāḥ # 48 abhavacchayitā hi tatra kācidviniveśya pracale kare kapolam abhavat|śayitā hi tatra kācid|viniveśya pracale kare kapolam dayitāmapi rukmapattracitrāṃ kupitevāṅkagatāṃ vihāya vīṇām dayitām|api rukma|pattra|citrām kupitā|iva|aṅka|gatām vihāya vīṇām # 49 vibabhau karalagnaveṇuranyā stanavisrastasitāṃśukā śayānā vibabhau kara|lagna|veṇuḥ|anyā stana|visrasta|sita|aṃśukā śayānā ṛjuṣaṭpadapaṅktijuṣṭapadmā jalaphenaprahasattaṭā nadīva ṛju|ṣaṭpada|paṅkti|juṣṭa|padmā jala|phena|prahasat|taṭā nadī|iva # 50 navapuṣkaragarbhakomalābhyāṃ tapanīyojjvalasaṃgatāṅgadābhyām nava|puṣkara|garbha|komalābhyām tapanīya|ujjvala|saṃgata|aṅgadābhyām svapiti sma tathāparā bhujābhyāṃ parirabhya priyavanmṛdaṅgameva svapiti sma tathā|aparā bhujābhyām parirabhya priya|vat|mṛdaṅgam|eva # 51 navahāṭakabhūṣaṇāstathānyā vasanaṃ pītamanuttamaṃ vasānāḥ nava|hāṭaka|bhūṣaṇāḥ|tathā|anyāḥ vasanam pītam|anuttamam vasānāḥ avaśā ghananidrayā nipeturgajabhagnā iva karṇikāraśākhāḥ avaśāḥ ghana|nidrayā nipetuḥ|gaja|bhagnāḥ iva karṇikāra|śākhāḥ # 52 avalambya gavākṣapārśvamanyā śayitā cāpavibhugnagātrayaṣṭiḥ avalambya gavākṣa|pārśvam|anyā śayitā cāpa|vibhugna|gātra|yaṣṭiḥ virarāja vilambicāruhārā racitā toraṇaśālabhañjikeva virarāja vilambi|cāru|hārā racitā toraṇa|śālabhañjikā|iva # 53 maṇikuṇḍaladaṣṭapattralekhaṃ mukhapadmaṃ vinataṃ tathāparasyāḥ maṇi|kuṇḍala|daṣṭa|pattra|lekham mukha|padmam vinatam tathā|aparasyāḥ śatapattram ivārdhavakranāḍaṃ sthitakāraṇḍavaghaṭṭitaṃ śatapattram sthita|kāraṇḍava|ghaṭṭitam cakāśe # 54 aparāḥ śayitā yathopaviṣṭāḥ stanabhārair avanamyamānagātrāḥ aparāḥ śayitāḥ yathā|upaviṣṭāḥ stana|bhāraiḥ avanamyamāna|gātrāḥ upaguhya parasparaṃ virejurbhujapāśaistapanīyaparihāryaiḥ upaguhya parasparam virejuḥ|bhuja|pāśaiḥ|tapanīya|parihāryaiḥ # 55 mahatīṃ parivādinīṃ ca kācidvanitāliṅgya sakhīmiva prasuptā mahatīm parivādinīm ca kācid|vanitā|āliṅgya sakhīm|iva prasuptā vijughūrṇa calatsuvarṇasūtrā vadanenākulakarṇikojjvalena vijughūrṇa calat|suvarṇa|sūtrā vadanena|ākula|karṇikā|ujjvalena # 56 paṇavaṃ yuvatirbhujāṃsadeśād avavisraṃsitacārupāśam anyā paṇavam yuvatiḥ|bhuja|aṃsa|deśāt avavisraṃsita|cāru|pāśam anyā ūrvor vivare kāntamivābhinīya śiśye ūruvoḥ vivare kāntam|iva|abhinīya śiśye # 57 aparā babhūvurnimīlitākṣyo vipulākṣyo 'pi śubhabhruvo 'pi satyaḥ aparāḥ babhūvuḥ|nimīlita|akṣāḥ vipula|akṣāḥ api śubha|None api satyaḥ pratisaṃkucitāravindakośāḥ savitaryastamite yathā nalinyaḥ pratisaṃkucita|aravinda|kośāḥ savitri|astam|ite yathā nalinyaḥ # 58 śithilākulamūrdhajā tathānyā jaghanasrastavibhūṣaṇāṃśukāntā śithila|ākula|mūrdhajā tathā|anyā jaghana|srasta|vibhūṣaṇa|aṃśuka|antā aśayiṣṭa vikīrṇakaṇṭhasūtrā gajabhagnā pratiyātanāṅganeva aśayiṣṭa vikīrṇa|kaṇṭha|sūtrā gaja|bhagnā pratiyātanā|aṅganā|iva # 59 aparāstvavaśā hriyā viyuktā dhṛtimatyo 'pi vapurguṇairupetāḥ aparāḥ|tu|avaśāḥ hriyā viyuktāḥ dhṛtimatyaḥ api vapus|guṇaiḥ|upetāḥ viniśaśvasurulbaṇaṃ śayānā vikṛtāḥ kṣiptabhūjā jajṛmbhire ca viniśaśvasuḥ|ulbaṇam śayānāḥ vikṛtāḥ kṣipta|bhūjāḥ jajṛmbhire ca # 60 vyapaviddhavibhūṣaṇasrajo 'nyā visṛtāgranthanavāsaso visaṃjñāḥ vyapaviddha|vibhūṣaṇa|srajaḥ anyāḥ visṛta|āgranthana|vāsasaḥ visaṃjñāḥ animīlitaśuklaniścalākṣyo na virejuḥ śayitā gatāsukalpāḥ animīlita|śukla|niścala|akṣāḥ na virejuḥ śayitāḥ gatāsu|kalpāḥ # 61 vivṛtāsyapuṭā vivṛddhagātrī prapatadvaktrajalā prakāśaguhyā vivṛta|āsya|puṭā vivṛddha|gātrā prapatat|vaktra|jalā prakāśa|guhyā aparā madaghūrṇiteva śiśye na babhāse vikṛtaṃ vapuḥ pupoṣa aparā mada|ghūrṇitā|iva śiśye na babhāse vikṛtam vapuḥ pupoṣa # 62 iti sattvakulānvayānurūpaṃ vividhaṃ sa pramadājanaḥ śayānaḥ iti sattva|kula|anvaya|anurūpam vividham saḥ pramadā|janaḥ śayānaḥ sarasaḥ sadṛśaṃ babhāra rūpaṃ sarasaḥ sadṛśam babhāra rūpam # 63 samavekṣya tathā tathā śayānā vikṛtāstā yuvatīradhīraceṣṭāḥ samavekṣya tathā tathā śayānāḥ vikṛtāḥ|tāḥ yuvatīḥ|adhīra|ceṣṭāḥ guṇavadvapuṣo 'pi valgubhāṣā nṛpasūnuḥ sa vigarhayāṃbabhūva guṇavān|None api valgu|bhāṣāḥ nṛpa|sūnuḥ saḥ vigarhayāṃbabhūva # 64 aśucirvikṛtaśca jīvaloke vanitānāmayamīdṛśaḥ svabhāvaḥ aśuciḥ|vikṛtaḥ|ca jīva|loke vanitānām|ayam|īdṛśaḥ svabhāvaḥ vasanābharaṇaistu vañcyamānaḥ puruṣaḥ strīviṣayeṣu rāgameti vasana|ābharaṇaiḥ|tu vañcyamānaḥ puruṣaḥ strī|viṣayeṣu rāgam|eti # 65 vimṛśedyadi yoṣitāṃ manuṣyaḥ prakṛtiṃ svapnavikāramīdṛśaṃ ca vimṛśet|yadi yoṣitām manuṣyaḥ prakṛtim svapna|vikāram|īdṛśam ca dhruvamatra na vardhayetpramādaṃ guṇasaṃkalpahatastu rāgameti dhruvam|atra na vardhayet|pramādam guṇa|saṃkalpa|hataḥ|tu rāgam|eti # 66 iti tasya tadantaraṃ viditvā niśi niścikramiṣā samudbabhūva iti tasya tat|antaram viditvā niśi niścikramiṣā samudbabhūva avagamya manastato 'sya devairbhavanadvāramapāvṛtaṃ babhūva avagamya manaḥ|tatas asya devaiḥ|bhavana|dvāram|apāvṛtam babhūva # 67 atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ śayitā vigarhamāṇaḥ atha saḥ avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ vigarhamāṇaḥ avatīrya tataśca nirviśaṅko gṛhakakṣyāṃ prathamāṃ vinirjagāma avatīrya tatas|ca nirviśaṅkaḥ gṛha|kakṣyām prathamām vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": [
       "the bodhisattva watching sleeping women"
@@ -3975,9 +3975,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "praviveśāvasathaṃ tataḥ sa śocan",
+      "prefix": "tataḥ sa śocan ",
       "quote": "guruṇā",
-      "suffix": "ca nivāritaḥ aśru|pātaiḥ"
+      "suffix": " ca nivāritaḥ aśru"
     },
     "tags": [
       "śuddhodana"
@@ -3989,7 +3989,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "guruṇā ca nivāritaḥ",
+      "prefix": "guruṇā ca nivāritaḥ ",
       "quote": "aśru",
       "suffix": "|pātaiḥ praviveśa|āvasatham"
     },
@@ -4005,7 +4005,7 @@
     "snippet": {
       "prefix": "aśru|pātaiḥ praviveśa|",
       "quote": "āvasatham",
-      "suffix": "tatas saḥ śocan #"
+      "suffix": " tatas saḥ śocan"
     },
     "tags": [
       "palace"
@@ -4017,9 +4017,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "praviveśa|āvasatham tatas",
+      "prefix": "praviveśa|āvasatham tatas ",
       "quote": "saḥ",
-      "suffix": "śocan # 41 calakuṇḍalacumbitānanābhirghananiśvāsavikampitastanībhiḥ"
+      "suffix": " śocan # 41"
     },
     "tags": [
       "siddhārtha"
@@ -4031,9 +4031,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "calakuṇḍalacumbitānanābhirghananiśvāsavikampitastanībhiḥ cala|",
+      "prefix": "41 calakuṇḍalacumbitānanābhirghananiśvāsavikampitastanībhiḥ cala|",
       "quote": "kuṇḍala",
-      "suffix": "|cumbita|ānanābhiḥ|ghana|niśvāsa|vikampita|stanābhiḥ"
+      "suffix": "|cumbita|ānanābhiḥ|ghana"
     },
     "tags": [
       "earrings",
@@ -4046,9 +4046,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "cala|kuṇḍala|cumbita|ānanābhiḥ|ghana|niśvāsa|vikampita|",
+      "prefix": "ghana|niśvāsa|vikampita|",
       "quote": "stanābhiḥ",
-      "suffix": "vanitābhir adhīralocanābhir"
+      "suffix": " vanitābhir adhīralocanābhir mṛgaśāvābhir"
     },
     "tags": [
       "breast"
@@ -4060,9 +4060,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ivābhyudīkṣyamāṇaḥ",
+      "prefix": "adhīralocanābhir mṛgaśāvābhir ivābhyudīkṣyamāṇaḥ ",
       "quote": "vanitābhiḥ",
-      "suffix": "adhīra|locanābhiḥ mṛga|śāvābhiḥ"
+      "suffix": " adhīra|locanābhiḥ mṛga"
     },
     "tags": [
       "female figure"
@@ -4074,9 +4074,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "varāṅganānām saḥ hi kāñcana|",
+      "prefix": "saḥ hi kāñcana|",
       "quote": "parvata",
-      "suffix": "|avadātaḥ hṛdaya|unmāda|karaḥ"
+      "suffix": "|avadātaḥ hṛdaya|unmāda"
     },
     "tags": [
       "mountain"
@@ -4088,9 +4088,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hṛdaya|unmāda|karaḥ vara|",
+      "prefix": "unmāda|karaḥ vara|",
       "quote": "aṅganānām",
-      "suffix": "śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra"
+      "suffix": " śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra śravaṇa|aṅga"
     },
     "tags": [
       "female figure"
@@ -4102,9 +4102,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra śravaṇa|",
+      "prefix": "aṅganānām śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra śravaṇa|",
       "quote": "aṅga",
-      "suffix": "|vilocana|ātma|bhāvān|vacana|sparśa|vapus|guṇaiḥ|jahāra"
+      "suffix": "|vilocana|ātma|bhāvān"
     },
     "tags": [
       "body parts"
@@ -4118,7 +4118,7 @@
     "snippet": {
       "prefix": "śravaṇāṅgavilocanātmabhāvānvacanasparśavapurguṇairjahāra śravaṇa|aṅga|",
       "quote": "vilocana",
-      "suffix": "|ātma|bhāvān|vacana|sparśa|vapus|guṇaiḥ|jahāra"
+      "suffix": "|ātma|bhāvān|vacana"
     },
     "tags": [
       "eye"
@@ -4130,9 +4130,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vijighāṃsuḥ|ātma|bhāsā",
+      "prefix": "vijighāṃsuḥ|ātma|bhāsā ",
       "quote": "raviḥ",
-      "suffix": "|udyan|iva merum|āruroha"
+      "suffix": "|udyan|iva merum"
     },
     "tags": [
       "sun"
@@ -4144,9 +4144,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vijighāṃsuḥ|ātma|bhāsā raviḥ|udyan|iva",
+      "prefix": "raviḥ|udyan|iva ",
       "quote": "merum",
-      "suffix": "|āruroha # 44 kanakojjvaladīptadīpavṛkṣaṃ"
+      "suffix": "|āruroha # 44"
     },
     "tags": [
       "mountain",
@@ -4159,9 +4159,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "raviḥ|udyan|iva merum|",
+      "prefix": "udyan|iva merum|",
       "quote": "āruroha",
-      "suffix": "# 44 kanakojjvaladīptadīpavṛkṣaṃ"
+      "suffix": " # 44 kanakojjvaladīptadīpavṛkṣaṃ"
     },
     "tags": [
       "mount"
@@ -4173,7 +4173,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kanaka|ujjvala|dīpta|dīpavṛkṣam vara|",
+      "prefix": "dīpta|dīpavṛkṣam vara|",
       "quote": "kālāguru",
       "suffix": "|dhūpa|pūrṇa|garbham"
     },
@@ -4187,7 +4187,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kanaka|ujjvala|dīpta|dīpavṛkṣam vara|kālāguru|",
+      "prefix": "dīpavṛkṣam vara|kālāguru|",
       "quote": "dhūpa",
       "suffix": "|pūrṇa|garbham adhiruhya"
     },
@@ -4201,9 +4201,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vara|kālāguru|dhūpa|pūrṇa|",
+      "prefix": "kālāguru|dhūpa|pūrṇa|",
       "quote": "garbham",
-      "suffix": "adhiruhya sa vajrabhakticitraṃ"
+      "suffix": " adhiruhya sa vajrabhakticitraṃ"
     },
     "tags": [
       "chamber"
@@ -4215,9 +4215,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcanamāsanaṃ siṣeve",
+      "prefix": "pravaraṃ kāñcanamāsanaṃ siṣeve ",
       "quote": "adhiruhya",
-      "suffix": "saḥ vajra|bhakti|citram"
+      "suffix": " saḥ vajra|bhakti"
     },
     "tags": [
       "mount"
@@ -4229,9 +4229,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāñcanamāsanaṃ siṣeve adhiruhya",
+      "prefix": "kāñcanamāsanaṃ siṣeve adhiruhya ",
       "quote": "saḥ",
-      "suffix": "vajra|bhakti|citram"
+      "suffix": " vajra|bhakti|citram"
     },
     "tags": [
       "siddhārtha"
@@ -4243,7 +4243,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "siṣeve adhiruhya saḥ",
+      "prefix": "siṣeve adhiruhya saḥ ",
       "quote": "vajra",
       "suffix": "|bhakti|citram pravaram"
     },
@@ -4257,9 +4257,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vajra|bhakti|citram pravaram kāñcanam|",
+      "prefix": "citram pravaram kāñcanam|",
       "quote": "āsanam",
-      "suffix": "siṣeve # 45 tata uttamamuttamāṅganāstaṃ"
+      "suffix": " siṣeve # 45"
     },
     "tags": [
       "seat"
@@ -4273,7 +4273,7 @@
     "snippet": {
       "prefix": "tatas uttamam|uttama|",
       "quote": "aṅganāḥ",
-      "suffix": "|tam niśi tūryaiḥ|upatasthuḥ|indra|kalpam"
+      "suffix": "|tam niśi tūryaiḥ"
     },
     "tags": [
       "female figure"
@@ -4287,7 +4287,7 @@
     "snippet": {
       "prefix": "uttamam|uttama|aṅganāḥ|",
       "quote": "tam",
-      "suffix": "niśi tūryaiḥ|upatasthuḥ|indra|kalpam"
+      "suffix": " niśi tūryaiḥ|upatasthuḥ"
     },
     "tags": [
       "siddhārtha"
@@ -4299,7 +4299,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "uttamam|uttama|aṅganāḥ|tam niśi",
+      "prefix": "aṅganāḥ|tam niśi ",
       "quote": "tūryaiḥ",
       "suffix": "|upatasthuḥ|indra|kalpam"
     },
@@ -4313,9 +4313,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tūryaiḥ|upatasthuḥ|",
+      "prefix": "niśi tūryaiḥ|upatasthuḥ|",
       "quote": "indra",
-      "suffix": "|kalpam himavacchirasīva"
+      "suffix": "|kalpam himavacchirasīva candragaure"
     },
     "tags": [
       "indra"
@@ -4327,9 +4327,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "draviṇendrātmajamapsarogaṇaughāḥ",
+      "prefix": "himavacchirasīva candragaure draviṇendrātmajamapsarogaṇaughāḥ ",
       "quote": "himavat",
-      "suffix": "|śirasi|iva candra|gaure"
+      "suffix": "|śirasi|iva candra"
     },
     "tags": [
       "mountain",
@@ -4342,9 +4342,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "draviṇendrātmajamapsarogaṇaughāḥ himavat|",
+      "prefix": "candragaure draviṇendrātmajamapsarogaṇaughāḥ himavat|",
       "quote": "śirasi",
-      "suffix": "|iva candra|gaure draviṇa|indra|ātmajam|apsaras|gaṇa|oghāḥ"
+      "suffix": "|iva candra|gaure"
     },
     "tags": [
       "summit",
@@ -4357,9 +4357,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "himavat|śirasi|iva",
+      "prefix": "himavat|śirasi|iva ",
       "quote": "candra",
-      "suffix": "|gaure draviṇa|indra|ātmajam|apsaras|gaṇa|oghāḥ"
+      "suffix": "|gaure draviṇa|indra"
     },
     "tags": [
       "moon"
@@ -4373,7 +4373,7 @@
     "snippet": {
       "prefix": "draviṇa|indra|ātmajam|",
       "quote": "apsaras",
-      "suffix": "|gaṇa|oghāḥ # 46 paramairapi"
+      "suffix": "|gaṇa|oghāḥ #"
     },
     "tags": [
       "apsarā"
@@ -4387,7 +4387,7 @@
     "snippet": {
       "prefix": "paramaiḥ|api divya|",
       "quote": "tūrya",
-      "suffix": "|kalpaiḥ saḥ tu taiḥ|na|eva"
+      "suffix": "|kalpaiḥ saḥ tu"
     },
     "tags": [
       "musical instruments"
@@ -4399,9 +4399,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "divya|tūrya|kalpaiḥ",
+      "prefix": "divya|tūrya|kalpaiḥ ",
       "quote": "saḥ",
-      "suffix": "tu taiḥ|na|eva ratim"
+      "suffix": " tu taiḥ|na"
     },
     "tags": [
       "siddhārtha"
@@ -4413,9 +4413,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "buddhvā atha tatra",
+      "prefix": "buddhvā atha tatra ",
       "quote": "suraiḥ",
-      "suffix": "|tapas|variṣṭhaiḥ|akaniṣṭhaiḥ|vyavasāyam|asya"
+      "suffix": "|tapas|variṣṭhaiḥ|akaniṣṭhaiḥ"
     },
     "tags": [
       "celestial being"
@@ -4427,9 +4427,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gātraceṣṭāḥ yugapad|",
+      "prefix": "vihitāsīdvikṛtāśca gātraceṣṭāḥ yugapad|",
       "quote": "pramadā",
-      "suffix": "|janasya nidrā vihitā|āsīt|vikṛtāḥ|ca"
+      "suffix": "|janasya nidrā vihitā"
     },
     "tags": [
       "female figure"
@@ -4441,9 +4441,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yugapad|pramadā|janasya",
+      "prefix": "yugapad|pramadā|janasya ",
       "quote": "nidrā",
-      "suffix": "vihitā|āsīt|vikṛtāḥ|ca"
+      "suffix": " vihitā|āsīt|vikṛtāḥ"
     },
     "tags": [
       "sleep"
@@ -4455,9 +4455,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vihitā|āsīt|vikṛtāḥ|ca",
+      "prefix": "āsīt|vikṛtāḥ|ca ",
       "quote": "gātra",
-      "suffix": "|ceṣṭāḥ # 48 abhavacchayitā"
+      "suffix": "|ceṣṭāḥ # 48"
     },
     "tags": [
       "body parts"
@@ -4471,7 +4471,7 @@
     "snippet": {
       "prefix": "kare kapolam abhavat|",
       "quote": "śayitā",
-      "suffix": "hi tatra kācid|viniveśya"
+      "suffix": " hi tatra kācid"
     },
     "tags": [
       "sleep"
@@ -4483,9 +4483,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kācid|viniveśya pracale",
+      "prefix": "kācid|viniveśya pracale ",
       "quote": "kare",
-      "suffix": "kapolam dayitāmapi"
+      "suffix": " kapolam dayitāmapi rukmapattracitrāṃ"
     },
     "tags": [
       "hand"
@@ -4497,9 +4497,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kācid|viniveśya pracale kare",
+      "prefix": "viniveśya pracale kare ",
       "quote": "kapolam",
-      "suffix": "dayitāmapi rukmapattracitrāṃ"
+      "suffix": " dayitāmapi rukmapattracitrāṃ kupitevāṅkagatāṃ"
     },
     "tags": [
       "cheek"
@@ -4513,7 +4513,7 @@
     "snippet": {
       "prefix": "dayitām|api rukma|",
       "quote": "pattra",
-      "suffix": "|citrām kupitā|iva|aṅka|gatām"
+      "suffix": "|citrām kupitā|iva"
     },
     "tags": [
       "leaf"
@@ -4525,7 +4525,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "rukma|pattra|citrām kupitā|iva|",
+      "prefix": "citrām kupitā|iva|",
       "quote": "aṅka",
       "suffix": "|gatām vihāya vīṇām"
     },
@@ -4539,9 +4539,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kupitā|iva|aṅka|gatām vihāya",
+      "prefix": "aṅka|gatām vihāya ",
       "quote": "vīṇām",
-      "suffix": "# 49 vibabhau karalagnaveṇuranyā"
+      "suffix": " # 49 vibabhau"
     },
     "tags": [
       "lute"
@@ -4553,9 +4553,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "stanavisrastasitāṃśukā śayānā vibabhau",
+      "prefix": "stanavisrastasitāṃśukā śayānā vibabhau ",
       "quote": "kara",
-      "suffix": "|lagna|veṇuḥ|anyā stana|visrasta|sita|aṃśukā"
+      "suffix": "|lagna|veṇuḥ|anyā"
     },
     "tags": [
       "hand"
@@ -4569,7 +4569,7 @@
     "snippet": {
       "prefix": "vibabhau kara|lagna|",
       "quote": "veṇuḥ",
-      "suffix": "|anyā stana|visrasta|sita|aṃśukā"
+      "suffix": "|anyā stana|visrasta"
     },
     "tags": [
       "horizontal flute"
@@ -4581,7 +4581,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kara|lagna|veṇuḥ|anyā",
+      "prefix": "lagna|veṇuḥ|anyā ",
       "quote": "stana",
       "suffix": "|visrasta|sita|aṃśukā"
     },
@@ -4598,7 +4598,7 @@
     "snippet": {
       "prefix": "stana|visrasta|sita|",
       "quote": "aṃśukā",
-      "suffix": "śayānā ṛjuṣaṭpadapaṅktijuṣṭapadmā"
+      "suffix": " śayānā ṛjuṣaṭpadapaṅktijuṣṭapadmā jalaphenaprahasattaṭā"
     },
     "tags": [
       "garment"
@@ -4610,9 +4610,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "stana|visrasta|sita|aṃśukā",
+      "prefix": "visrasta|sita|aṃśukā ",
       "quote": "śayānā",
-      "suffix": "ṛjuṣaṭpadapaṅktijuṣṭapadmā"
+      "suffix": " ṛjuṣaṭpadapaṅktijuṣṭapadmā jalaphenaprahasattaṭā nadīva"
     },
     "tags": [
       "sleep"
@@ -4626,7 +4626,7 @@
     "snippet": {
       "prefix": "jalaphenaprahasattaṭā nadīva ṛju|",
       "quote": "ṣaṭpada",
-      "suffix": "|paṅkti|juṣṭa|padmā jala|phena|prahasat|taṭā"
+      "suffix": "|paṅkti|juṣṭa|padmā"
     },
     "tags": [
       "bee"
@@ -4638,9 +4638,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ṛju|ṣaṭpada|paṅkti|juṣṭa|",
+      "prefix": "ṣaṭpada|paṅkti|juṣṭa|",
       "quote": "padmā",
-      "suffix": "jala|phena|prahasat|taṭā"
+      "suffix": " jala|phena|prahasat"
     },
     "tags": [
       "lotus"
@@ -4652,7 +4652,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ṛju|ṣaṭpada|paṅkti|juṣṭa|padmā",
+      "prefix": "paṅkti|juṣṭa|padmā ",
       "quote": "jala",
       "suffix": "|phena|prahasat|taṭā"
     },
@@ -4666,9 +4666,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ṛju|ṣaṭpada|paṅkti|juṣṭa|padmā jala|",
+      "prefix": "juṣṭa|padmā jala|",
       "quote": "phena",
-      "suffix": "|prahasat|taṭā nadī|iva"
+      "suffix": "|prahasat|taṭā nadī"
     },
     "tags": [
       "foam (of moving water)"
@@ -4682,7 +4682,7 @@
     "snippet": {
       "prefix": "jala|phena|prahasat|",
       "quote": "taṭā",
-      "suffix": "nadī|iva # 50 navapuṣkaragarbhakomalābhyāṃ"
+      "suffix": " nadī|iva #"
     },
     "tags": [
       "riverbank"
@@ -4694,9 +4694,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "jala|phena|prahasat|taṭā",
+      "prefix": "phena|prahasat|taṭā ",
       "quote": "nadī",
-      "suffix": "|iva # 50 navapuṣkaragarbhakomalābhyāṃ"
+      "suffix": "|iva # 50"
     },
     "tags": [
       "river"
@@ -4708,9 +4708,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tapanīyojjvalasaṃgatāṅgadābhyām nava|",
+      "prefix": "navapuṣkaragarbhakomalābhyāṃ tapanīyojjvalasaṃgatāṅgadābhyām nava|",
       "quote": "puṣkara",
-      "suffix": "|garbha|komalābhyām tapanīya|ujjvala|saṃgata|aṅgadābhyām"
+      "suffix": "|garbha|komalābhyām tapanīya"
     },
     "tags": [
       "lotus",
@@ -4723,7 +4723,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nava|puṣkara|garbha|komalābhyām",
+      "prefix": "puṣkara|garbha|komalābhyām ",
       "quote": "tapanīya",
       "suffix": "|ujjvala|saṃgata|aṅgadābhyām"
     },
@@ -4737,7 +4737,7 @@
     "snippet": {
       "prefix": "tapanīya|ujjvala|saṃgata|",
       "quote": "aṅgadābhyām",
-      "suffix": "svapiti sma tathāparā"
+      "suffix": " svapiti sma tathāparā"
     },
     "tags": [
       "armlet"
@@ -4749,9 +4749,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "priyavanmṛdaṅgameva",
+      "prefix": "bhujābhyāṃ parirabhya priyavanmṛdaṅgameva ",
       "quote": "svapiti",
-      "suffix": "sma tathā|aparā bhujābhyām"
+      "suffix": " sma tathā|aparā"
     },
     "tags": [
       "sleep"
@@ -4765,7 +4765,7 @@
     "snippet": {
       "prefix": "svapiti sma tathā|",
       "quote": "aparā",
-      "suffix": "bhujābhyām parirabhya"
+      "suffix": " bhujābhyām parirabhya priya"
     },
     "tags": [
       "female figure"
@@ -4777,9 +4777,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "svapiti sma tathā|aparā",
+      "prefix": "sma tathā|aparā ",
       "quote": "bhujābhyām",
-      "suffix": "parirabhya priya|vat|mṛdaṅgam|eva"
+      "suffix": " parirabhya priya|vat"
     },
     "tags": [
       "arm"
@@ -4791,9 +4791,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tathā|aparā bhujābhyām",
+      "prefix": "tathā|aparā bhujābhyām ",
       "quote": "parirabhya",
-      "suffix": "priya|vat|mṛdaṅgam|eva"
+      "suffix": " priya|vat|mṛdaṅgam"
     },
     "tags": [
       "embrace"
@@ -4805,9 +4805,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bhujābhyām parirabhya",
+      "prefix": "aparā bhujābhyām parirabhya ",
       "quote": "priya",
-      "suffix": "|vat|mṛdaṅgam|eva #"
+      "suffix": "|vat|mṛdaṅgam|eva"
     },
     "tags": []
   },
@@ -4819,7 +4819,7 @@
     "snippet": {
       "prefix": "parirabhya priya|vat|",
       "quote": "mṛdaṅgam",
-      "suffix": "|eva # 51 navahāṭakabhūṣaṇāstathānyā"
+      "suffix": "|eva # 51"
     },
     "tags": [
       "membranophones"
@@ -4845,9 +4845,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nava|hāṭaka|bhūṣaṇāḥ|tathā|",
+      "prefix": "hāṭaka|bhūṣaṇāḥ|tathā|",
       "quote": "anyāḥ",
-      "suffix": "vasanam pītam|anuttamam"
+      "suffix": " vasanam pītam|anuttamam"
     },
     "tags": [
       "female figure"
@@ -4859,9 +4859,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nava|hāṭaka|bhūṣaṇāḥ|tathā|anyāḥ",
+      "prefix": "bhūṣaṇāḥ|tathā|anyāḥ ",
       "quote": "vasanam",
-      "suffix": "pītam|anuttamam vasānāḥ"
+      "suffix": " pītam|anuttamam vasānāḥ"
     },
     "tags": [
       "clothes and accessories"
@@ -4875,7 +4875,7 @@
     "snippet": {
       "prefix": "karṇikāraśākhāḥ avaśāḥ ghana|",
       "quote": "nidrayā",
-      "suffix": "nipetuḥ|gaja|bhagnāḥ"
+      "suffix": " nipetuḥ|gaja|bhagnāḥ"
     },
     "tags": [
       "sleep"
@@ -4889,7 +4889,7 @@
     "snippet": {
       "prefix": "ghana|nidrayā nipetuḥ|",
       "quote": "gaja",
-      "suffix": "|bhagnāḥ iva karṇikāra|śākhāḥ"
+      "suffix": "|bhagnāḥ iva karṇikāra"
     },
     "tags": [
       "elephant"
@@ -4901,9 +4901,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ghana|nidrayā nipetuḥ|gaja|",
+      "prefix": "nidrayā nipetuḥ|gaja|",
       "quote": "bhagnāḥ",
-      "suffix": "iva karṇikāra|śākhāḥ"
+      "suffix": " iva karṇikāra|śākhāḥ"
     },
     "tags": [
       "break"
@@ -4915,9 +4915,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nipetuḥ|gaja|bhagnāḥ iva",
+      "prefix": "gaja|bhagnāḥ iva ",
       "quote": "karṇikāra",
-      "suffix": "|śākhāḥ # 52 avalambya"
+      "suffix": "|śākhāḥ # 52"
     },
     "tags": []
   },
@@ -4927,9 +4927,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nipetuḥ|gaja|bhagnāḥ iva karṇikāra|",
+      "prefix": "bhagnāḥ iva karṇikāra|",
       "quote": "śākhāḥ",
-      "suffix": "# 52 avalambya gavākṣapārśvamanyā"
+      "suffix": " # 52 avalambya"
     },
     "tags": [
       "branch"
@@ -4941,9 +4941,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nipetuḥ|gaja|bhagnāḥ iva karṇikāra|",
+      "prefix": "bhagnāḥ iva karṇikāra|",
       "quote": "śākhāḥ",
-      "suffix": "# 52 avalambya gavākṣapārśvamanyā"
+      "suffix": " # 52 avalambya"
     },
     "tags": [
       "branch"
@@ -4955,9 +4955,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "cāpavibhugnagātrayaṣṭiḥ",
+      "prefix": "gavākṣapārśvamanyā śayitā cāpavibhugnagātrayaṣṭiḥ ",
       "quote": "avalambya",
-      "suffix": "gavākṣa|pārśvam|anyā"
+      "suffix": " gavākṣa|pārśvam|anyā"
     },
     "tags": [
       "lean"
@@ -4969,7 +4969,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "cāpavibhugnagātrayaṣṭiḥ avalambya",
+      "prefix": "śayitā cāpavibhugnagātrayaṣṭiḥ avalambya ",
       "quote": "gavākṣa",
       "suffix": "|pārśvam|anyā śayitā"
     },
@@ -4985,7 +4985,7 @@
     "snippet": {
       "prefix": "avalambya gavākṣa|pārśvam|",
       "quote": "anyā",
-      "suffix": "śayitā cāpa|vibhugna|gātra|yaṣṭiḥ"
+      "suffix": " śayitā cāpa|vibhugna"
     },
     "tags": [
       "female figure"
@@ -4997,9 +4997,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gavākṣa|pārśvam|anyā",
+      "prefix": "gavākṣa|pārśvam|anyā ",
       "quote": "śayitā",
-      "suffix": "cāpa|vibhugna|gātra|yaṣṭiḥ"
+      "suffix": " cāpa|vibhugna|gātra"
     },
     "tags": [
       "lay"
@@ -5011,7 +5011,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gavākṣa|pārśvam|anyā śayitā",
+      "prefix": "pārśvam|anyā śayitā ",
       "quote": "cāpa",
       "suffix": "|vibhugna|gātra|yaṣṭiḥ"
     },
@@ -5025,7 +5025,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gavākṣa|pārśvam|anyā śayitā cāpa|",
+      "prefix": "anyā śayitā cāpa|",
       "quote": "vibhugna",
       "suffix": "|gātra|yaṣṭiḥ virarāja"
     },
@@ -5041,7 +5041,7 @@
     "snippet": {
       "prefix": "virarāja vilambi|cāru|",
       "quote": "hārā",
-      "suffix": "racitā toraṇa|śālabhañjikā|iva"
+      "suffix": " racitā toraṇa|śālabhañjikā"
     },
     "tags": [
       "necklace set"
@@ -5053,7 +5053,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vilambi|cāru|hārā racitā",
+      "prefix": "cāru|hārā racitā ",
       "quote": "toraṇa",
       "suffix": "|śālabhañjikā|iva #"
     },
@@ -5067,9 +5067,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vilambi|cāru|hārā racitā toraṇa|",
+      "prefix": "hārā racitā toraṇa|",
       "quote": "śālabhañjikā",
-      "suffix": "|iva # 53 maṇikuṇḍaladaṣṭapattralekhaṃ"
+      "suffix": "|iva # 53"
     },
     "tags": [
       "figured decorative motifs"
@@ -5081,7 +5081,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vinataṃ tathāparasyāḥ",
+      "prefix": "mukhapadmaṃ vinataṃ tathāparasyāḥ ",
       "quote": "maṇi|kuṇḍala",
       "suffix": "|daṣṭa|pattra|lekham"
     },
@@ -5095,9 +5095,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "maṇi|kuṇḍala|daṣṭa|pattra|lekham",
+      "prefix": "daṣṭa|pattra|lekham ",
       "quote": "mukha",
-      "suffix": "|padmam vinatam tathā|aparasyāḥ"
+      "suffix": "|padmam vinatam tathā"
     },
     "tags": []
   },
@@ -5107,9 +5107,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "maṇi|kuṇḍala|daṣṭa|pattra|lekham mukha|",
+      "prefix": "pattra|lekham mukha|",
       "quote": "padmam",
-      "suffix": "vinatam tathā|aparasyāḥ"
+      "suffix": " vinatam tathā|aparasyāḥ"
     },
     "tags": [
       "lotus"
@@ -5121,9 +5121,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "maṇi|kuṇḍala|daṣṭa|pattra|lekham mukha|padmam",
+      "prefix": "lekham mukha|padmam ",
       "quote": "vinatam",
-      "suffix": "tathā|aparasyāḥ śatapattram"
+      "suffix": " tathā|aparasyāḥ śatapattram"
     },
     "tags": [
       "bow"
@@ -5135,9 +5135,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mukha|padmam vinatam tathā|",
+      "prefix": "padmam vinatam tathā|",
       "quote": "aparasyāḥ",
-      "suffix": "śatapattram ivārdhavakranāḍaṃ"
+      "suffix": " śatapattram ivārdhavakranāḍaṃ sthitakāraṇḍavaghaṭṭitaṃ"
     },
     "tags": [
       "female figure"
@@ -5149,9 +5149,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tathā|aparasyāḥ śatapattram",
+      "prefix": "tathā|aparasyāḥ śatapattram ",
       "quote": "ivārdhavakranāḍaṃ",
-      "suffix": "sthitakāraṇḍavaghaṭṭitaṃ"
+      "suffix": " sthitakāraṇḍavaghaṭṭitaṃ śatapattram sthita"
     },
     "tags": [
       "lotus with a half-curved stalk"
@@ -5163,9 +5163,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sthitakāraṇḍavaghaṭṭitaṃ",
+      "prefix": "śatapattram ivārdhavakranāḍaṃ sthitakāraṇḍavaghaṭṭitaṃ ",
       "quote": "śatapattram",
-      "suffix": "sthita|kāraṇḍava|ghaṭṭitam"
+      "suffix": " sthita|kāraṇḍava|ghaṭṭitam"
     },
     "tags": [
       "lotus"
@@ -5177,7 +5177,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śatapattram sthita|",
+      "prefix": "sthitakāraṇḍavaghaṭṭitaṃ śatapattram sthita|",
       "quote": "kāraṇḍava",
       "suffix": "|ghaṭṭitam cakāśe #"
     },
@@ -5191,9 +5191,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avanamyamānagātrāḥ",
+      "prefix": "yathopaviṣṭāḥ stanabhārair avanamyamānagātrāḥ ",
       "quote": "aparāḥ",
-      "suffix": "śayitāḥ yathā|upaviṣṭāḥ"
+      "suffix": " śayitāḥ yathā|upaviṣṭāḥ"
     },
     "tags": [
       "female figure"
@@ -5205,9 +5205,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avanamyamānagātrāḥ aparāḥ",
+      "prefix": "stanabhārair avanamyamānagātrāḥ aparāḥ ",
       "quote": "śayitāḥ",
-      "suffix": "yathā|upaviṣṭāḥ stana|bhāraiḥ"
+      "suffix": " yathā|upaviṣṭāḥ stana"
     },
     "tags": [
       "lay"
@@ -5221,7 +5221,7 @@
     "snippet": {
       "prefix": "aparāḥ śayitāḥ yathā|",
       "quote": "upaviṣṭāḥ",
-      "suffix": "stana|bhāraiḥ avanamyamāna|gātrāḥ"
+      "suffix": " stana|bhāraiḥ avanamyamāna"
     },
     "tags": [
       "sit"
@@ -5233,7 +5233,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śayitāḥ yathā|upaviṣṭāḥ",
+      "prefix": "śayitāḥ yathā|upaviṣṭāḥ ",
       "quote": "stana",
       "suffix": "|bhāraiḥ avanamyamāna|gātrāḥ"
     },
@@ -5247,7 +5247,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yathā|upaviṣṭāḥ stana|bhāraiḥ",
+      "prefix": "upaviṣṭāḥ stana|bhāraiḥ ",
       "quote": "avanamyamāna",
       "suffix": "|gātrāḥ upaguhya parasparaṃ"
     },
@@ -5261,9 +5261,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "virejurbhujapāśaistapanīyaparihāryaiḥ",
+      "prefix": "upaguhya parasparaṃ virejurbhujapāśaistapanīyaparihāryaiḥ ",
       "quote": "upaguhya",
-      "suffix": "parasparam virejuḥ|bhuja|pāśaiḥ|tapanīya|parihāryaiḥ"
+      "suffix": " parasparam virejuḥ|bhuja"
     },
     "tags": [
       "embrace"
@@ -5275,7 +5275,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "parasparam virejuḥ|",
+      "prefix": "upaguhya parasparam virejuḥ|",
       "quote": "bhuja",
       "suffix": "|pāśaiḥ|tapanīya|parihāryaiḥ"
     },
@@ -5289,9 +5289,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "virejuḥ|bhuja|pāśaiḥ|tapanīya|",
+      "prefix": "bhuja|pāśaiḥ|tapanīya|",
       "quote": "parihāryaiḥ",
-      "suffix": "# 55 mahatīṃ parivādinīṃ"
+      "suffix": " # 55 mahatīṃ"
     },
     "tags": [
       "bracelet"
@@ -5303,9 +5303,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sakhīmiva prasuptā mahatīm",
+      "prefix": "sakhīmiva prasuptā mahatīm ",
       "quote": "parivādinīm",
-      "suffix": "ca kācid|vanitā|āliṅgya"
+      "suffix": " ca kācid|vanitā"
     },
     "tags": [
       "lute"
@@ -5319,7 +5319,7 @@
     "snippet": {
       "prefix": "parivādinīm ca kācid|",
       "quote": "vanitā",
-      "suffix": "|āliṅgya sakhīm|iva prasuptā"
+      "suffix": "|āliṅgya sakhīm|iva"
     },
     "tags": [
       "female figure"
@@ -5331,9 +5331,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "parivādinīm ca kācid|vanitā|",
+      "prefix": "ca kācid|vanitā|",
       "quote": "āliṅgya",
-      "suffix": "sakhīm|iva prasuptā"
+      "suffix": " sakhīm|iva prasuptā"
     },
     "tags": [
       "embrace"
@@ -5345,9 +5345,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "calat|suvarṇa|sūtrā vadanena|",
+      "prefix": "suvarṇa|sūtrā vadanena|",
       "quote": "ākula|karṇikā",
-      "suffix": "|ujjvalena # 56 paṇavaṃ"
+      "suffix": "|ujjvalena # 56"
     },
     "tags": [
       "earrings"
@@ -5359,9 +5359,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avavisraṃsitacārupāśam anyā",
+      "prefix": "yuvatirbhujāṃsadeśād avavisraṃsitacārupāśam anyā ",
       "quote": "paṇavam",
-      "suffix": "yuvatiḥ|bhuja|aṃsa|deśāt"
+      "suffix": " yuvatiḥ|bhuja|aṃsa"
     },
     "tags": [
       "shoulder barrel drum"
@@ -5373,9 +5373,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avavisraṃsitacārupāśam anyā paṇavam",
+      "prefix": "avavisraṃsitacārupāśam anyā paṇavam ",
       "quote": "yuvatiḥ",
-      "suffix": "|bhuja|aṃsa|deśāt avavisraṃsita|cāru|pāśam"
+      "suffix": "|bhuja|aṃsa|deśāt"
     },
     "tags": [
       "female figure"
@@ -5389,7 +5389,7 @@
     "snippet": {
       "prefix": "anyā paṇavam yuvatiḥ|",
       "quote": "bhuja|aṃsa|deśāt",
-      "suffix": "avavisraṃsita|cāru|pāśam"
+      "suffix": " avavisraṃsita|cāru|pāśam"
     },
     "tags": [
       "shoulder"
@@ -5401,9 +5401,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avavisraṃsita|cāru|",
+      "prefix": "deśāt avavisraṃsita|cāru|",
       "quote": "pāśam",
-      "suffix": "anyā ūrvor vivare"
+      "suffix": " anyā ūrvor vivare"
     },
     "tags": [
       "shoulder strap"
@@ -5415,9 +5415,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avavisraṃsita|cāru|pāśam",
+      "prefix": "avavisraṃsita|cāru|pāśam ",
       "quote": "anyā",
-      "suffix": "ūrvor vivare kāntamivābhinīya"
+      "suffix": " ūrvor vivare kāntamivābhinīya"
     },
     "tags": [
       "female figure"
@@ -5429,9 +5429,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avavisraṃsita|cāru|pāśam anyā",
+      "prefix": "cāru|pāśam anyā ",
       "quote": "ūrvor vivare kāntamivābhinīya śiśye ūruvoḥ vivare kāntam|iva|abhinīya śiśye",
-      "suffix": "# 57 aparā babhūvurnimīlitākṣyo"
+      "suffix": " # 57 aparā"
     },
     "tags": []
   },
@@ -5441,9 +5441,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kāntamivābhinīya śiśye",
+      "prefix": "vivare kāntamivābhinīya śiśye ",
       "quote": "ūruvoḥ vivare kāntam|iva|abhinīya śiśye",
-      "suffix": "# 57 aparā babhūvurnimīlitākṣyo"
+      "suffix": " # 57 aparā"
     },
     "tags": []
   },
@@ -5453,9 +5453,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vipulākṣyo 'pi śubha",
+      "prefix": " vipulākṣyo 'pi śubha",
       "quote": "bhruvo",
-      "suffix": "'pi satyaḥ aparāḥ babhūvuḥ|nimīlita|akṣāḥ"
+      "suffix": " 'pi satyaḥ aparāḥ"
     },
     "tags": [
       "eyebrow"
@@ -5467,9 +5467,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śubhabhruvo 'pi satyaḥ",
+      "prefix": "śubhabhruvo 'pi satyaḥ ",
       "quote": "aparāḥ",
-      "suffix": "babhūvuḥ|nimīlita|akṣāḥ"
+      "suffix": " babhūvuḥ|nimīlita|akṣāḥ"
     },
     "tags": [
       "female figure"
@@ -5483,7 +5483,7 @@
     "snippet": {
       "prefix": "satyaḥ aparāḥ babhūvuḥ|",
       "quote": "nimīlita|akṣāḥ",
-      "suffix": "vipula|akṣāḥ api śubha|None"
+      "suffix": " vipula|akṣāḥ api"
     },
     "tags": [
       "closed eye"
@@ -5495,9 +5495,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "babhūvuḥ|nimīlita|akṣāḥ",
+      "prefix": "babhūvuḥ|nimīlita|akṣāḥ ",
       "quote": "vipula",
-      "suffix": "|akṣāḥ api śubha|None"
+      "suffix": "|akṣāḥ api śubha"
     },
     "tags": [
       "elongated eye"
@@ -5509,9 +5509,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "babhūvuḥ|nimīlita|akṣāḥ",
+      "prefix": "babhūvuḥ|nimīlita|akṣāḥ ",
       "quote": "vipula|akṣāḥ",
-      "suffix": "api śubha|None api satyaḥ"
+      "suffix": " api śubha|None"
     },
     "tags": [
       "open eye"
@@ -5523,9 +5523,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vipula|akṣāḥ api śubha|",
+      "prefix": "akṣāḥ api śubha|",
       "quote": "None",
-      "suffix": "api satyaḥ pratisaṃkucitāravindakośāḥ"
+      "suffix": " api satyaḥ pratisaṃkucitāravindakośāḥ"
     },
     "tags": [
       "eyebrow"
@@ -5537,9 +5537,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nalinyaḥ pratisaṃkucita|",
+      "prefix": "yathā nalinyaḥ pratisaṃkucita|",
       "quote": "aravinda|kośāḥ",
-      "suffix": "savitri|astam|ite yathā"
+      "suffix": " savitri|astam|ite"
     },
     "tags": [
       "closed lotus"
@@ -5551,9 +5551,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratisaṃkucita|aravinda|kośāḥ",
+      "prefix": "pratisaṃkucita|aravinda|kośāḥ ",
       "quote": "savitri",
-      "suffix": "|astam|ite yathā nalinyaḥ"
+      "suffix": "|astam|ite yathā"
     },
     "tags": [
       "sun"
@@ -5565,9 +5565,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "savitri|astam|ite yathā",
+      "prefix": "astam|ite yathā ",
       "quote": "nalinyaḥ",
-      "suffix": "# 58 śithilākulamūrdhajā"
+      "suffix": " # 58 śithilākulamūrdhajā"
     },
     "tags": [
       "lotus",
@@ -5582,7 +5582,7 @@
     "snippet": {
       "prefix": "jaghanasrastavibhūṣaṇāṃśukāntā śithila|ākula|",
       "quote": "mūrdhajā",
-      "suffix": "tathā|anyā jaghana|srasta|vibhūṣaṇa|aṃśuka|antā"
+      "suffix": " tathā|anyā jaghana"
     },
     "tags": [
       "hair",
@@ -5595,9 +5595,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śithila|ākula|mūrdhajā tathā|",
+      "prefix": "ākula|mūrdhajā tathā|",
       "quote": "anyā",
-      "suffix": "jaghana|srasta|vibhūṣaṇa|aṃśuka|antā"
+      "suffix": " jaghana|srasta|vibhūṣaṇa"
     },
     "tags": [
       "female figure"
@@ -5609,9 +5609,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śithila|ākula|mūrdhajā tathā|anyā",
+      "prefix": "mūrdhajā tathā|anyā ",
       "quote": "jaghana",
-      "suffix": "|srasta|vibhūṣaṇa|aṃśuka|antā"
+      "suffix": "|srasta|vibhūṣaṇa|aṃśuka"
     },
     "tags": [
       "hip"
@@ -5623,7 +5623,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tathā|anyā jaghana|srasta|",
+      "prefix": "anyā jaghana|srasta|",
       "quote": "vibhūṣaṇa",
       "suffix": "|aṃśuka|antā aśayiṣṭa"
     },
@@ -5637,9 +5637,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratiyātanāṅganeva",
+      "prefix": "vikīrṇakaṇṭhasūtrā gajabhagnā pratiyātanāṅganeva ",
       "quote": "aśayiṣṭa",
-      "suffix": "vikīrṇa|kaṇṭha|sūtrā"
+      "suffix": " vikīrṇa|kaṇṭha|sūtrā"
     },
     "tags": [
       "lay"
@@ -5653,7 +5653,7 @@
     "snippet": {
       "prefix": "pratiyātanāṅganeva aśayiṣṭa vikīrṇa|",
       "quote": "kaṇṭha|sūtrā",
-      "suffix": "gaja|bhagnā pratiyātanā|aṅganā|iva"
+      "suffix": " gaja|bhagnā pratiyātanā"
     },
     "tags": [
       "necklace set"
@@ -5665,9 +5665,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vikīrṇa|kaṇṭha|sūtrā",
+      "prefix": "vikīrṇa|kaṇṭha|sūtrā ",
       "quote": "gaja",
-      "suffix": "|bhagnā pratiyātanā|aṅganā|iva"
+      "suffix": "|bhagnā pratiyātanā|aṅganā"
     },
     "tags": [
       "elephant"
@@ -5679,9 +5679,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vikīrṇa|kaṇṭha|sūtrā gaja|",
+      "prefix": "kaṇṭha|sūtrā gaja|",
       "quote": "bhagnā",
-      "suffix": "pratiyātanā|aṅganā|iva"
+      "suffix": " pratiyātanā|aṅganā|iva"
     },
     "tags": [
       "break"
@@ -5695,7 +5695,7 @@
     "snippet": {
       "prefix": "gaja|bhagnā pratiyātanā|",
       "quote": "aṅganā",
-      "suffix": "|iva # 59 aparāstvavaśā"
+      "suffix": "|iva # 59"
     },
     "tags": [
       "female figure"
@@ -5707,9 +5707,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vapurguṇairupetāḥ",
+      "prefix": "dhṛtimatyo 'pi vapurguṇairupetāḥ ",
       "quote": "aparāḥ",
-      "suffix": "|tu|avaśāḥ hriyā viyuktāḥ"
+      "suffix": "|tu|avaśāḥ hriyā"
     },
     "tags": [
       "female figure"
@@ -5721,9 +5721,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "viniśaśvasuḥ|ulbaṇam",
+      "prefix": "ca viniśaśvasuḥ|ulbaṇam ",
       "quote": "śayānāḥ",
-      "suffix": "vikṛtāḥ kṣipta|bhūjāḥ"
+      "suffix": " vikṛtāḥ kṣipta|bhūjāḥ"
     },
     "tags": [
       "lay"
@@ -5737,7 +5737,7 @@
     "snippet": {
       "prefix": "śayānāḥ vikṛtāḥ kṣipta|",
       "quote": "bhūjāḥ",
-      "suffix": "jajṛmbhire ca # 60"
+      "suffix": " jajṛmbhire ca #"
     },
     "tags": [
       "arm"
@@ -5749,9 +5749,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "visaṃjñāḥ vyapaviddha|",
+      "prefix": "visṛtāgranthanavāsaso visaṃjñāḥ vyapaviddha|",
       "quote": "vibhūṣaṇa",
-      "suffix": "|srajaḥ anyāḥ visṛta|āgranthana|vāsasaḥ"
+      "suffix": "|srajaḥ anyāḥ visṛta"
     },
     "tags": [
       "jewels and ornaments"
@@ -5763,9 +5763,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyapaviddha|vibhūṣaṇa|",
+      "prefix": "visaṃjñāḥ vyapaviddha|vibhūṣaṇa|",
       "quote": "srajaḥ",
-      "suffix": "anyāḥ visṛta|āgranthana|vāsasaḥ"
+      "suffix": " anyāḥ visṛta|āgranthana"
     },
     "tags": [
       "garland"
@@ -5777,9 +5777,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyapaviddha|vibhūṣaṇa|srajaḥ",
+      "prefix": "vyapaviddha|vibhūṣaṇa|srajaḥ ",
       "quote": "anyāḥ",
-      "suffix": "visṛta|āgranthana|vāsasaḥ"
+      "suffix": " visṛta|āgranthana|vāsasaḥ"
     },
     "tags": [
       "female figure"
@@ -5791,9 +5791,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vyapaviddha|vibhūṣaṇa|srajaḥ anyāḥ visṛta|",
+      "prefix": "srajaḥ anyāḥ visṛta|",
       "quote": "āgranthana",
-      "suffix": "|vāsasaḥ visaṃjñāḥ"
+      "suffix": "|vāsasaḥ visaṃjñāḥ animīlitaśuklaniścalākṣyo"
     },
     "tags": [
       "knot"
@@ -5807,7 +5807,7 @@
     "snippet": {
       "prefix": "anyāḥ visṛta|āgranthana|",
       "quote": "vāsasaḥ",
-      "suffix": "visaṃjñāḥ animīlitaśuklaniścalākṣyo"
+      "suffix": " visaṃjñāḥ animīlitaśuklaniścalākṣyo na"
     },
     "tags": [
       "dress"
@@ -5821,7 +5821,7 @@
     "snippet": {
       "prefix": "animīlita|śukla|niścala|",
       "quote": "akṣāḥ",
-      "suffix": "na virejuḥ śayitāḥ gatāsu|kalpāḥ"
+      "suffix": " na virejuḥ śayitāḥ"
     },
     "tags": [
       "eye"
@@ -5833,9 +5833,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "animīlita|śukla|niścala|akṣāḥ na virejuḥ",
+      "prefix": "akṣāḥ na virejuḥ ",
       "quote": "śayitāḥ",
-      "suffix": "gatāsu|kalpāḥ # 61"
+      "suffix": " gatāsu|kalpāḥ #"
     },
     "tags": [
       "lay"
@@ -5861,9 +5861,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "prapatat|vaktra|jalā prakāśa|",
+      "prefix": "vaktra|jalā prakāśa|",
       "quote": "guhyā",
-      "suffix": "aparā madaghūrṇiteva"
+      "suffix": " aparā madaghūrṇiteva śiśye"
     },
     "tags": [
       "vulva"
@@ -5875,9 +5875,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vikṛtaṃ vapuḥ pupoṣa",
+      "prefix": "vikṛtaṃ vapuḥ pupoṣa ",
       "quote": "aparā",
-      "suffix": "mada|ghūrṇitā|iva śiśye"
+      "suffix": " mada|ghūrṇitā|iva"
     },
     "tags": [
       "female figure"
@@ -5889,9 +5889,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sattva|kula|anvaya|anurūpam vividham saḥ",
+      "prefix": "anurūpam vividham saḥ ",
       "quote": "pramadā|janaḥ",
-      "suffix": "śayānaḥ sarasaḥ sadṛśaṃ"
+      "suffix": " śayānaḥ sarasaḥ sadṛśaṃ"
     },
     "tags": [
       "female figure"
@@ -5903,9 +5903,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vividham saḥ pramadā|janaḥ",
+      "prefix": "saḥ pramadā|janaḥ ",
       "quote": "śayānaḥ",
-      "suffix": "sarasaḥ sadṛśaṃ babhāra"
+      "suffix": " sarasaḥ sadṛśaṃ babhāra"
     },
     "tags": [
       "lay"
@@ -5917,9 +5917,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sadṛśaṃ babhāra rūpaṃ",
+      "prefix": "sadṛśaṃ babhāra rūpaṃ ",
       "quote": "sarasaḥ sadṛśam babhāra rūpam",
-      "suffix": "# 63 samavekṣya tathā"
+      "suffix": " # 63 samavekṣya"
     },
     "tags": []
   },
@@ -5929,9 +5929,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "samavekṣya tathā tathā",
+      "prefix": "samavekṣya tathā tathā ",
       "quote": "śayānāḥ",
-      "suffix": "vikṛtāḥ|tāḥ yuvatīḥ|adhīra|ceṣṭāḥ"
+      "suffix": " vikṛtāḥ|tāḥ yuvatīḥ"
     },
     "tags": [
       "lay"
@@ -5943,7 +5943,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "śayānāḥ vikṛtāḥ|tāḥ",
+      "prefix": "śayānāḥ vikṛtāḥ|tāḥ ",
       "quote": "yuvatīḥ",
       "suffix": "|adhīra|ceṣṭāḥ guṇavadvapuṣo"
     },
@@ -5957,9 +5957,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vigarhayāṃbabhūva",
+      "prefix": "nṛpasūnuḥ sa vigarhayāṃbabhūva ",
       "quote": "guṇavān",
-      "suffix": "|None api valgu|bhāṣāḥ"
+      "suffix": "|None api valgu"
     },
     "tags": []
   },
@@ -5969,9 +5969,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vigarhayāṃbabhūva guṇavān|",
+      "prefix": "sa vigarhayāṃbabhūva guṇavān|",
       "quote": "None",
-      "suffix": "api valgu|bhāṣāḥ nṛpa|sūnuḥ"
+      "suffix": " api valgu|bhāṣāḥ"
     },
     "tags": []
   },
@@ -5981,9 +5981,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "guṇavān|None api valgu|bhāṣāḥ",
+      "prefix": "api valgu|bhāṣāḥ ",
       "quote": "nṛpa|sūnuḥ",
-      "suffix": "saḥ vigarhayāṃbabhūva"
+      "suffix": " saḥ vigarhayāṃbabhūva #"
     },
     "tags": [
       "siddhārtha",
@@ -5996,7 +5996,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "strīviṣayeṣu rāgameti vasana|ā",
+      "prefix": " rāgameti vasana|ā",
       "quote": "bharaṇaiḥ",
       "suffix": "|tu vañcyamānaḥ puruṣaḥ"
     },
@@ -6010,7 +6010,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "strīviṣayeṣu rāgameti",
+      "prefix": "puruṣaḥ strīviṣayeṣu rāgameti ",
       "quote": "vasana|ābharaṇaiḥ",
       "suffix": "|tu vañcyamānaḥ puruṣaḥ"
     },
@@ -6024,9 +6024,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vasana|ābharaṇaiḥ|tu vañcyamānaḥ",
+      "prefix": "ābharaṇaiḥ|tu vañcyamānaḥ ",
       "quote": "puruṣaḥ",
-      "suffix": "strī|viṣayeṣu rāgam|eti"
+      "suffix": " strī|viṣayeṣu rāgam"
     },
     "tags": [
       "generic persons"
@@ -6038,7 +6038,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vañcyamānaḥ puruṣaḥ",
+      "prefix": "tu vañcyamānaḥ puruṣaḥ ",
       "quote": "strī",
       "suffix": "|viṣayeṣu rāgam|eti"
     },
@@ -6052,9 +6052,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "svapnavikāramīdṛśaṃ ca vimṛśet|yadi",
+      "prefix": "ca vimṛśet|yadi ",
       "quote": "yoṣitām",
-      "suffix": "manuṣyaḥ prakṛtim svapna|vikāram|īdṛśam"
+      "suffix": " manuṣyaḥ prakṛtim svapna"
     },
     "tags": [
       "female figure"
@@ -6066,7 +6066,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yoṣitām manuṣyaḥ prakṛtim",
+      "prefix": "yoṣitām manuṣyaḥ prakṛtim ",
       "quote": "svapna",
       "suffix": "|vikāram|īdṛśam ca"
     },
@@ -6096,7 +6096,7 @@
     "snippet": {
       "prefix": "devaiḥ|bhavana|dvāram|",
       "quote": "apāvṛtam",
-      "suffix": "babhūva # 67 atha"
+      "suffix": " babhūva # 67"
     },
     "tags": [
       "open"
@@ -6108,9 +6108,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "devaiḥ|bhavana|dvāram|apāvṛtam babhūva",
+      "prefix": "dvāram|apāvṛtam babhūva ",
       "quote": "# 67",
-      "suffix": "atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ"
+      "suffix": " atha so 'vatatāra"
     },
     "tags": []
   },
@@ -6120,9 +6120,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "devaiḥ|bhavana|dvāram|apāvṛtam babhūva # 67",
+      "prefix": "babhūva # 67 ",
       "quote": "atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ śayitā vigarhamāṇaḥ atha saḥ avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ vigarhamāṇaḥ avatīrya tataśca nirviśaṅko gṛhakakṣyāṃ prathamāṃ vinirjagāma avatīrya tatas|ca nirviśaṅkaḥ gṛha|kakṣyām prathamām vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": [
       "the bodhisattva watching sleeping women"
@@ -6134,9 +6134,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "guṇa|saṃkalpa|hataḥ|tu rāgam|eti # 66",
+      "prefix": "eti # 66 ",
       "quote": "iti tasya tadantaraṃ viditvā niśi niścikramiṣā samudbabhūva iti tasya tat|antaram viditvā niśi niścikramiṣā samudbabhūva avagamya manastato 'sya devairbhavanadvāramapāvṛtaṃ babhūva avagamya manaḥ|tatas asya devaiḥ|bhavana|dvāram|apāvṛtam babhūva # 67 atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ śayitā vigarhamāṇaḥ atha saḥ avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ vigarhamāṇaḥ avatīrya tataśca nirviśaṅko gṛhakakṣyāṃ prathamāṃ vinirjagāma avatīrya tatas|ca nirviśaṅkaḥ gṛha|kakṣyām prathamām vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": [
       "the great renunciation"
@@ -6148,9 +6148,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "guṇa|saṃkalpa|hataḥ|tu rāgam|eti",
+      "prefix": "tu rāgam|eti ",
       "quote": "# 66 iti tasya tadantaraṃ viditvā niśi niścikramiṣā samudbabhūva iti tasya tat|antaram viditvā niśi niścikramiṣā samudbabhūva avagamya manastato 'sya devairbhavanadvāramapāvṛtaṃ babhūva avagamya manaḥ|tatas asya devaiḥ|bhavana|dvāram|apāvṛtam babhūva",
-      "suffix": "# 67 atha so 'vatatāra"
+      "suffix": " # 67 atha"
     },
     "tags": [
       "the bodhisattva watching sleeping women"
@@ -6162,7 +6162,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avagamya manaḥ|tatas asya",
+      "prefix": "manaḥ|tatas asya ",
       "quote": "devaiḥ",
       "suffix": "|bhavana|dvāram|apāvṛtam"
     },
@@ -6176,9 +6176,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vigarhamāṇaḥ atha",
+      "prefix": "śayitā vigarhamāṇaḥ atha ",
       "quote": "saḥ",
-      "suffix": "avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ"
+      "suffix": " avatatāra harmya|pṛṣṭhāt"
     },
     "tags": [
       "siddhārtha"
@@ -6190,9 +6190,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vigarhamāṇaḥ atha saḥ",
+      "prefix": "vigarhamāṇaḥ atha saḥ ",
       "quote": "avatatāra",
-      "suffix": "harmya|pṛṣṭhāt|yuvatīḥ|tāḥ"
+      "suffix": " harmya|pṛṣṭhāt|yuvatīḥ"
     },
     "tags": []
   },
@@ -6216,9 +6216,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ",
+      "prefix": "yuvatīḥ|tāḥ śayitāḥ ",
       "quote": "vigarhamāṇaḥ",
-      "suffix": "avatīrya tataśca nirviśaṅko"
+      "suffix": " avatīrya tataśca nirviśaṅko"
     },
     "tags": [
       "go out"
@@ -6230,9 +6230,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "prathamāṃ vinirjagāma",
+      "prefix": "gṛhakakṣyāṃ prathamāṃ vinirjagāma ",
       "quote": "avatīrya",
-      "suffix": "tatas|ca nirviśaṅkaḥ"
+      "suffix": " tatas|ca nirviśaṅkaḥ"
     },
     "tags": []
   },
@@ -6242,9 +6242,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gṛha|kakṣyām prathamām",
+      "prefix": "gṛha|kakṣyām prathamām ",
       "quote": "vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": [
       "go out"
@@ -6256,9 +6256,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "gṛha|kakṣyām prathamām",
+      "prefix": "gṛha|kakṣyām prathamām ",
       "quote": "vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": [
       "go out"
@@ -6270,9 +6270,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "chandakamitthamityuvāca",
+      "prefix": "bodhayitvā javinaṃ chandakamitthamityuvāca ",
       "quote": "turaga|avacaram",
-      "suffix": "saḥ bodhayitvā javinam"
+      "suffix": " saḥ bodhayitvā javinam"
     },
     "tags": []
   },
@@ -6282,9 +6282,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "prāptumito 'dya me yiyāsā",
+      "prefix": "'dya me yiyāsā ",
       "quote": "hayam",
-      "suffix": "|ānaya kanthakam tvarāvān|amṛtam"
+      "suffix": "|ānaya kanthakam tvarāvān"
     },
     "tags": [
       "horse"
@@ -6296,9 +6296,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "'dya me yiyāsā hayam|",
+      "prefix": "me yiyāsā hayam|",
       "quote": "ānaya",
-      "suffix": "kanthakam tvarāvān|amṛtam"
+      "suffix": " kanthakam tvarāvān|amṛtam"
     },
     "tags": [
       "bring"
@@ -6310,9 +6310,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "matau niviṣṭaḥ hṛdi yā",
+      "prefix": "niviṣṭaḥ hṛdi yā ",
       "quote": "mama",
-      "suffix": "tuṣṭiḥ|adya jātā vyavasāyaḥ|ca"
+      "suffix": " tuṣṭiḥ|adya jātā"
     },
     "tags": [
       "siddhārtha"
@@ -6324,9 +6324,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "mad|pramukhe yathā",
+      "prefix": "mad|pramukhe yathā ",
       "quote": "yuvatyaḥ",
-      "suffix": "vivṛte ca yathā svayaṃ"
+      "suffix": " vivṛte ca yathā"
     },
     "tags": [
       "female figure"
@@ -6338,9 +6338,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "narendraśāsanasya pratigṛhya tatas",
+      "prefix": "narendraśāsanasya pratigṛhya tatas ",
       "quote": "saḥ",
-      "suffix": "bhartuḥ|ājñām vidita|arthaḥ"
+      "suffix": " bhartuḥ|ājñām vidita"
     },
     "tags": [
       "chandaka"
@@ -6352,7 +6352,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratigṛhya tatas saḥ",
+      "prefix": "pratigṛhya tatas saḥ ",
       "quote": "bhartuḥ",
       "suffix": "|ājñām vidita|arthaḥ"
     },
@@ -6368,7 +6368,7 @@
     "snippet": {
       "prefix": "hema|khalīna|pūrṇa|",
       "quote": "vaktram",
-      "suffix": "laghu|śayyā|āstaraṇa|upagūḍha|pṛṣṭham"
+      "suffix": " laghu|śayyā|āstaraṇa"
     },
     "tags": [
       "mouth"
@@ -6380,7 +6380,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "hema|khalīna|pūrṇa|vaktram laghu|",
+      "prefix": "pūrṇa|vaktram laghu|",
       "quote": "śayyā|āstaraṇa",
       "suffix": "|upagūḍha|pṛṣṭham balasattvajavānvayopapannaṃ"
     },
@@ -6394,9 +6394,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bala|sattva|java|anvaya|upapannam",
+      "prefix": "java|anvaya|upapannam ",
       "quote": "saḥ",
-      "suffix": "vara|aśvam tam|upānināya"
+      "suffix": " vara|aśvam tam"
     },
     "tags": [
       "chandaka"
@@ -6408,9 +6408,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bala|sattva|java|anvaya|upapannam saḥ vara|",
+      "prefix": "upapannam saḥ vara|",
       "quote": "aśvam",
-      "suffix": "tam|upānināya bhartre"
+      "suffix": " tam|upānināya bhartre"
     },
     "tags": [
       "horse"
@@ -6422,9 +6422,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratata|trika|puccha|mūla|",
+      "prefix": "trika|puccha|mūla|",
       "quote": "pārṣṇim",
-      "suffix": "nibhṛta|hrasva|tanūja|puccha|karṇam"
+      "suffix": " nibhṛta|hrasva|tanūja"
     },
     "tags": [
       "heel"
@@ -6438,7 +6438,7 @@
     "snippet": {
       "prefix": "nibhṛta|hrasva|tanūja|",
       "quote": "puccha",
-      "suffix": "|karṇam vinatonnatapṛṣṭhakukṣipārśvaṃ"
+      "suffix": "|karṇam vinatonnatapṛṣṭhakukṣipārśvaṃ vipulaprothalalāṭakaṭyuraskam"
     },
     "tags": [
       "tail"
@@ -6450,7 +6450,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vinata|unnata|pṛṣṭha|kukṣi|pārśvam vipula|",
+      "prefix": "kukṣi|pārśvam vipula|",
       "quote": "protha",
       "suffix": "|lalāṭa|kaṭi|uraskam"
     },
@@ -6464,9 +6464,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vipula|protha|lalāṭa|kaṭi|",
+      "prefix": "protha|lalāṭa|kaṭi|",
       "quote": "uraskam",
-      "suffix": "# 74 upaguhya sa taṃ"
+      "suffix": " # 74 upaguhya"
     },
     "tags": [
       "breast"
@@ -6478,9 +6478,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kareṇa upaguhya saḥ",
+      "prefix": "kareṇa upaguhya saḥ ",
       "quote": "tam",
-      "suffix": "viśāla|vakṣāḥ kamala|ābhena"
+      "suffix": " viśāla|vakṣāḥ kamala"
     },
     "tags": [
       "kanthaka"
@@ -6492,9 +6492,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "aham|api|amṛtam padam yathāvat|",
+      "prefix": "amṛtam padam yathāvat|",
       "quote": "turaga",
-      "suffix": "|śreṣṭhaiḥ labheya tat|kuruṣva"
+      "suffix": "|śreṣṭhaiḥ labheya tat"
     },
     "tags": [
       "horse"
@@ -6506,7 +6506,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "prayatasvātmahite jagaddhite ca",
+      "prefix": "prayatasvātmahite jagaddhite ca ",
       "quote": "turaga",
       "suffix": "|uttamaiḥ vega|vikramābhyām"
     },
@@ -6520,9 +6520,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "raviḥ|iva śāradam|abhram|",
+      "prefix": "iva śāradam|abhram|",
       "quote": "āruroha",
-      "suffix": "# 80 atha sa pariharanniśīthacaṇḍaṃ"
+      "suffix": " # 80 atha"
     },
     "tags": [
       "mount"
@@ -6534,7 +6534,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pariharat|niśītha|caṇḍam",
+      "prefix": "pariharat|niśītha|caṇḍam ",
       "quote": "parijana",
       "suffix": "|bodha|karam dhvanim"
     },
@@ -6548,9 +6548,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "praśānta|heṣaḥ|cakita|vimukta|pada|kramaḥ",
+      "prefix": "vimukta|pada|kramaḥ ",
       "quote": "jagāma",
-      "suffix": "# 81 kanakavalayabhūṣitaprakoṣṭhaiḥ"
+      "suffix": " # 81 kanakavalayabhūṣitaprakoṣṭhaiḥ"
     },
     "tags": [
       "go"
@@ -6562,7 +6562,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kamalāniva pravidhya",
+      "prefix": "kamalanibhaiḥ kamalāniva pravidhya ",
       "quote": "kanaka",
       "suffix": "|valaya|bhūṣita|prakoṣṭhaiḥ"
     },
@@ -6574,7 +6574,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kanaka|valaya|bhūṣita|prakoṣṭhaiḥ kamala|nibhaiḥ",
+      "prefix": "prakoṣṭhaiḥ kamala|nibhaiḥ ",
       "quote": "kamalān",
       "suffix": "|iva pravidhya avanatatanavastato"
     },
@@ -6588,9 +6588,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avanata|tanavaḥ|tatas",
+      "prefix": "avanata|tanavaḥ|tatas ",
       "quote": "asya",
-      "suffix": "yakṣāḥ|cakita|gataiḥ"
+      "suffix": " yakṣāḥ|cakita|gataiḥ"
     },
     "tags": [
       "kanthaka"
@@ -6602,9 +6602,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "viditvā hutavaha|vapuṣaḥ",
+      "prefix": "viditvā hutavaha|vapuṣaḥ ",
       "quote": "divaukasaḥ",
-      "suffix": "anye vyavasitam|asya"
+      "suffix": " anye vyavasitam|asya"
     },
     "tags": [
       "celestial being"
@@ -6616,9 +6616,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "devaiḥ|bhavana|dvāram|apāvṛtam babhūva",
+      "prefix": "dvāram|apāvṛtam babhūva ",
       "quote": "# 67 atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ śayitā vigarhamāṇaḥ atha saḥ avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ vigarhamāṇaḥ avatīrya tataśca nirviśaṅko gṛhakakṣyāṃ prathamāṃ vinirjagāma avatīrya tatas|ca nirviśaṅkaḥ gṛha|kakṣyām prathamām vinirjagāma # 68 turagāvacaraṃ sa bodhayitvā javinaṃ chandakamitthamityuvāca turaga|avacaram saḥ bodhayitvā javinam chandakam|ittham|iti|uvāca hayamānaya kanthakaṃ tvarāvānamṛtaṃ prāptumito 'dya me yiyāsā hayam|ānaya kanthakam tvarāvān|amṛtam prāptum|itas adya mama yiyāsā # 69 hṛdi yā mama tuṣṭiradya jātā vyavasāyaśca yathā matau niviṣṭaḥ hṛdi yā mama tuṣṭiḥ|adya jātā vyavasāyaḥ|ca yathā matau niviṣṭaḥ vijane 'pi ca nāthavānivāsmi dhruvamartho 'bhimukhaḥ sameta iṣṭaḥ vijane api ca nāthavān|iva|asmi dhruvam|arthaḥ abhimukhaḥ sametaḥ iṣṭaḥ # 70 hriyameva ca saṃnatiṃ ca hitvā śayitā matpramukhe yathā yuvatyaḥ hriyam|eva ca saṃnatim ca hitvā śayitāḥ mad|pramukhe yathā yuvatyaḥ vivṛte ca yathā svayaṃ kapāṭe niyataṃ yātumato mamādya kālaḥ vivṛte ca yathā svayam kapāṭe niyatam yātum|atas mama|adya kālaḥ # 71 pratigṛhya tataḥ sa bharturājñāṃ viditārtho 'pi narendraśāsanasya pratigṛhya tatas saḥ bhartuḥ|ājñām vidita|arthaḥ api narendra|śāsanasya manasīva pareṇa codyamānasturagasyānayane matiṃ cakāra manasi|iva pareṇa codyamānaḥ|turagasya|ānayane matim cakāra # 72 atha hemakhalīnapūrṇavaktraṃ laghuśayyāstaraṇopagūḍhapṛṣṭham atha hema|khalīna|pūrṇa|vaktram laghu|śayyā|āstaraṇa|upagūḍha|pṛṣṭham balasattvajavānvayopapannaṃ sa varāśvaṃ tamupānināya bhartre bala|sattva|java|anvaya|upapannam saḥ vara|aśvam tam|upānināya bhartre # 73 pratatatrikapucchamūlapārṣṇiṃ nibhṛtahrasvatanūjapucchakarṇam pratata|trika|puccha|mūla|pārṣṇim nibhṛta|hrasva|tanūja|puccha|karṇam vinatonnatapṛṣṭhakukṣipārśvaṃ vipulaprothalalāṭakaṭyuraskam vinata|unnata|pṛṣṭha|kukṣi|pārśvam vipula|protha|lalāṭa|kaṭi|uraskam # 74 upaguhya sa taṃ viśālavakṣāḥ kamalābhena ca sāntvayan kareṇa upaguhya saḥ tam viśāla|vakṣāḥ kamala|ābhena ca sāntvayan kareṇa madhurākṣarayā girā śaśāsa dhvajinīmadhyamiva praveṣṭukāmaḥ madhura|akṣarayā girā śaśāsa dhvajinī|madhyam|iva praveṣṭu|kāmaḥ # 75 bahuśaḥ kila śatravo nirastāḥ samare tvāmadhiruhya pārthivena bahuśas kila śatravaḥ nirastāḥ samare tvā|adhiruhya pārthivena ahamapyamṛtaṃ padaṃ yathāvatturagaśreṣṭha labheya tatkuruṣva aham|api|amṛtam padam yathāvat|turaga|śreṣṭhaiḥ labheya tat|kuruṣva # 76 sulabhāḥ khalu saṃyuge sahāyā viṣayāvāptasukhe dhanārjane vā sulabhāḥ khalu saṃyuge sahāyāḥ viṣaya|avāpta|sukhe dhana|arjane vā puruṣasya tu durlabhāḥ sahāyāḥ patitasyāpadi dharmasaṃśraye vā puruṣasya tu durlabhāḥ sahāyāḥ patitasya|āpadi dharma|saṃśraye vā # 77 iha caiva bhavanti ye sahāyaḥ kaluṣe karmaṇi dharmasaṃśraye vā iha ca|eva bhavanti ye sahāyaḥ kaluṣe karmaṇi dharma|saṃśraye vā avagacchati me yathāntarātmā niyataṃ te 'pi janāstadaṃśabhājaḥ avagacchati mama yathā|antarātmā niyatam te api janāḥ|tad|aṃśa|bhājaḥ # 78 tadidaṃ parigamya dharmayuktaṃ mama niryāṇamito jagaddhitāya tat|idam parigamya dharma|yuktam mama niryāṇam|itas jagat|hitāya turagottama vegavikramābhyāṃ prayatasvātmahite jagaddhite ca turaga|uttamaiḥ vega|vikramābhyām prayatasva|ātma|hite jagat|hite ca # 79 iti suhṛdamivānuśiṣya kṛtye turagavaraṃ nṛvaro vanaṃ yiyāsuḥ iti suhṛdam|iva|anuśiṣya kṛtye turaga|varam nṛvaraḥ vanam yiyāsuḥ sitamasitagatidyutirvapuṣmān raviriva śāradamabhramāruroha sitam|asita|gati|dyutiḥ|vapuṣmān raviḥ|iva śāradam|abhram|āruroha # 80 atha sa pariharanniśīthacaṇḍaṃ parijanabodhakaraṃ dhvaniṃ sadaśvaḥ atha saḥ pariharat|niśītha|caṇḍam parijana|bodha|karam dhvanim sat|aśvaḥ vigatahanuravaḥ praśāntaheṣaścakitavimuktapadakramo jagāma vigata|hanu|ravaḥ praśānta|heṣaḥ|cakita|vimukta|pada|kramaḥ jagāma # 81 kanakavalayabhūṣitaprakoṣṭhaiḥ kamalanibhaiḥ kamalāniva pravidhya kanaka|valaya|bhūṣita|prakoṣṭhaiḥ kamala|nibhaiḥ kamalān|iva pravidhya avanatatanavastato 'sya yakṣāścakitagatair dadhire khurān karāgraiḥ avanata|tanavaḥ|tatas asya yakṣāḥ|cakita|gataiḥ dadhire khurān kara|agraiḥ # 82 guruparighakapāṭasaṃvṛtā yā na sukhamapi dviradair apāvriyante guru|parigha|kapāṭa|saṃvṛtāḥ yāḥ na sukham|api dviradaiḥ apāvriyante vrajati nṛpasute gatasvanāstāḥ svayamabhavanvivṛtāḥ puraḥ pratolyaḥ vrajati nṛpa|sute gata|svanāḥ|tāḥ svayam|abhavan|vivṛtāḥ None pratolyaḥ # 83 pitaramabhimukhaṃ sutaṃ ca bālaṃ janamanuraktamanuttamāṃ ca lakṣmīm pitaram|abhimukham sutam ca bālam janam|anuraktam|anuttamām ca lakṣmīm kṛtamatirapahāya nirvyapekṣaḥ pitṛnagarātsa tato vinirjagāma kṛtamatiḥ|apahāya nirvyapekṣaḥ pitṛ|nagarāt|saḥ tatas vinirjagāma # 84 atha sa vimalapaṅkajāyatākṣaḥ puramavalokya nanāda siṃhanādam atha saḥ vimala|paṅkaja|āyata|akṣaḥ puram|avalokya nanāda siṃhanādam jananamaraṇayoradṛṣṭapāro na puramahaṃ kapilāhvayaṃ praveṣṭā janana|maraṇayoḥ|adṛṣṭa|pāraḥ na puram|aham kapila|āhvayam praveṣṭā # 85 iti vacanamidaṃ niśamya tasya draviṇapateḥ pariṣadgaṇā nananduḥ iti vacanam|idam niśamya tasya draviṇa|pateḥ pariṣad|gaṇāḥ nananduḥ pramuditamanasaśca devasaṅghā vyavasitapāraṇamāśaśaṃsire 'smai pramudita|manasaḥ|ca deva|saṃghāḥ vyavasita|pāraṇam|āśaśaṃsire asmai # 86 hutavahavapuṣoḥ divaukaso 'nye vyavasitamasya suduṣkaraṃ viditvā hutavaha|vapuṣaḥ divaukasaḥ anye vyavasitam|asya su|duṣkaram viditvā tuhine pathi prakāśaṃ ghanavivaraprasṛtā ivendupādāḥ tuhine pathini prakāśam ghana|vivara|prasṛtāḥ iva|indu|pādāḥ # 87 harituragaturaṅgavatturaṅgaḥ sa tu vicaranmanasīva codyamānaḥ hari|turaga|turaṃga|vat|turaṃgaḥ saḥ tu vicaran|manasi|iva codyamānaḥ aruṇaparuṣatāram antarikṣaṃ sa ca subahūni jagāma yojanāni aruṇa|paruṣa|tāram antarikṣam saḥ ca su|bahūni jagāma yojanāni # 88 iti buddhacarite mahākāvye 'bhiniṣkramaṇo nāma pañcamaḥ sargaḥ iti buddhacarite mahākāvye abhiniṣkramaṇaḥ nāma pañcamaḥ sargaḥ",
-      "suffix": ""
+      "suffix": " "
     },
     "tags": [
       "the great renunciation"
@@ -6630,9 +6630,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "devaiḥ|bhavana|dvāram|apāvṛtam babhūva # 67",
+      "prefix": "babhūva # 67 ",
       "quote": "atha so 'vatatāra harmyapṛṣṭhādyuvatīstāḥ śayitā vigarhamāṇaḥ atha saḥ avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ śayitāḥ vigarhamāṇaḥ avatīrya tataśca nirviśaṅko gṛhakakṣyāṃ prathamāṃ vinirjagāma avatīrya tatas|ca nirviśaṅkaḥ gṛha|kakṣyām prathamām vinirjagāma",
-      "suffix": "# 68 turagāvacaraṃ"
+      "suffix": " # 68 turagāvacaraṃ"
     },
     "tags": []
   },
@@ -6642,9 +6642,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vigarhamāṇaḥ atha",
+      "prefix": "śayitā vigarhamāṇaḥ atha ",
       "quote": "saḥ",
-      "suffix": "avatatāra harmya|pṛṣṭhāt|yuvatīḥ|tāḥ"
+      "suffix": " avatatāra harmya|pṛṣṭhāt"
     },
     "tags": [
       "siddhārtha"
@@ -6656,7 +6656,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "atha saḥ avatatāra",
+      "prefix": "atha saḥ avatatāra ",
       "quote": "harmya",
       "suffix": "|pṛṣṭhāt|yuvatīḥ|tāḥ"
     },
@@ -6696,9 +6696,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tatas|ca nirviśaṅkaḥ",
+      "prefix": "tatas|ca nirviśaṅkaḥ ",
       "quote": "gṛha|kakṣyām",
-      "suffix": "prathamām vinirjagāma"
+      "suffix": " prathamām vinirjagāma #"
     },
     "tags": [
       "courtyard"
@@ -6710,9 +6710,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tatas|ca nirviśaṅkaḥ",
+      "prefix": "tatas|ca nirviśaṅkaḥ ",
       "quote": "gṛha|kakṣyām",
-      "suffix": "prathamām vinirjagāma"
+      "suffix": " prathamām vinirjagāma #"
     },
     "tags": [
       "courtyard"
@@ -6724,9 +6724,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vinirjagāma # 68",
+      "prefix": "vinirjagāma # 68 ",
       "quote": "turagāvacaraṃ",
-      "suffix": "sa bodhayitvā javinaṃ"
+      "suffix": " sa bodhayitvā javinaṃ"
     },
     "tags": []
   },
@@ -6736,9 +6736,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "chandakamitthamityuvāca turaga|avacaram",
+      "prefix": "chandakamitthamityuvāca turaga|avacaram ",
       "quote": "saḥ",
-      "suffix": "bodhayitvā javinam chandakam|ittham|iti|uvāca"
+      "suffix": " bodhayitvā javinam chandakam"
     },
     "tags": [
       "siddhārtha"
@@ -6750,9 +6750,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bodhayitvā javinam",
+      "prefix": "saḥ bodhayitvā javinam ",
       "quote": "chandakam|",
-      "suffix": "ittham|iti|uvāca hayamānaya"
+      "suffix": "ittham|iti|uvāca "
     },
     "tags": [
       "chandaka"
@@ -6764,9 +6764,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yiyāsā hayam|ānaya",
+      "prefix": "yiyāsā hayam|ānaya ",
       "quote": "kanthakam",
-      "suffix": "tvarāvān|amṛtam prāptum|itas"
+      "suffix": " tvarāvān|amṛtam prāptum"
     },
     "tags": [
       "kanthaka"
@@ -6778,9 +6778,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vivṛte ca yathā svayam",
+      "prefix": "ca yathā svayam ",
       "quote": "kapāṭe",
-      "suffix": "niyatam yātum|atas mama|adya"
+      "suffix": " niyatam yātum|atas"
     },
     "tags": [
       "door"
@@ -6792,9 +6792,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "bhartuḥ|ājñām vidita|arthaḥ api",
+      "prefix": "vidita|arthaḥ api ",
       "quote": "narendra",
-      "suffix": "|śāsanasya manasīva"
+      "suffix": "|śāsanasya manasīva pareṇa"
     },
     "tags": [
       "king"
@@ -6806,9 +6806,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "manasi|iva pareṇa codyamānaḥ|",
+      "prefix": "iva pareṇa codyamānaḥ|",
       "quote": "turagasya|",
-      "suffix": "ānayane matim cakāra"
+      "suffix": "ānayane matim cakāra "
     },
     "tags": [
       "horse"
@@ -6822,7 +6822,7 @@
     "snippet": {
       "prefix": "laghuśayyāstaraṇopagūḍhapṛṣṭham atha hema|",
       "quote": "khalīna",
-      "suffix": "|pūrṇa|vaktram laghu|śayyā|āstaraṇa|upagūḍha|pṛṣṭham"
+      "suffix": "|pūrṇa|vaktram laghu"
     },
     "tags": [
       "bit"
@@ -6834,9 +6834,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "saḥ vara|aśvam tam|",
+      "prefix": "vara|aśvam tam|",
       "quote": "upānināya",
-      "suffix": "bhartre # 73 pratatatrikapucchamūlapārṣṇiṃ"
+      "suffix": " bhartre # 73"
     },
     "tags": [
       "bring"
@@ -6848,9 +6848,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vara|aśvam tam|upānināya",
+      "prefix": "aśvam tam|upānināya ",
       "quote": "bhartre",
-      "suffix": "# 73 pratatatrikapucchamūlapārṣṇiṃ"
+      "suffix": " # 73 pratatatrikapucchamūlapārṣṇiṃ"
     },
     "tags": [
       "siddhārtha"
@@ -6864,7 +6864,7 @@
     "snippet": {
       "prefix": "nibhṛtahrasvatanūjapucchakarṇam pratata|trika|",
       "quote": "puccha",
-      "suffix": "|mūla|pārṣṇim nibhṛta|hrasva|tanūja|puccha|karṇam"
+      "suffix": "|mūla|pārṣṇim nibhṛta"
     },
     "tags": [
       "tail"
@@ -6876,7 +6876,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratata|trika|puccha|mūla|pārṣṇim nibhṛta|hrasva",
+      "prefix": "|pārṣṇim nibhṛta|hrasva",
       "quote": "|tanūja",
       "suffix": "|puccha|karṇam vinatonnatapṛṣṭhakukṣipārśvaṃ"
     },
@@ -6890,9 +6890,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nibhṛta|hrasva|tanūja|puccha|",
+      "prefix": "hrasva|tanūja|puccha|",
       "quote": "karṇam",
-      "suffix": "vinatonnatapṛṣṭhakukṣipārśvaṃ"
+      "suffix": " vinatonnatapṛṣṭhakukṣipārśvaṃ vipulaprothalalāṭakaṭyuraskam vinata"
     },
     "tags": [
       "ear"
@@ -6906,7 +6906,7 @@
     "snippet": {
       "prefix": "vinata|unnata|pṛṣṭha|",
       "quote": "kukṣi",
-      "suffix": "|pārśvam vipula|protha|lalāṭa|kaṭi|uraskam"
+      "suffix": "|pārśvam vipula|protha"
     },
     "tags": [
       "abdomen"
@@ -6918,9 +6918,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vinata|unnata|pṛṣṭha|kukṣi|",
+      "prefix": "unnata|pṛṣṭha|kukṣi|",
       "quote": "pārśvam",
-      "suffix": "vipula|protha|lalāṭa|kaṭi|uraskam"
+      "suffix": " vipula|protha|lalāṭa"
     },
     "tags": [
       "ribs"
@@ -6932,9 +6932,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vinata|unnata|pṛṣṭha|kukṣi|pārśvam vipula|protha|",
+      "prefix": "pārśvam vipula|protha|",
       "quote": "lalāṭa|",
-      "suffix": "kaṭi|uraskam # 74 upaguhya"
+      "suffix": "kaṭi|uraskam # "
     },
     "tags": [
       "forehead"
@@ -6946,9 +6946,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "tam|upānināya bhartre # 73",
+      "prefix": "bhartre # 73 ",
       "quote": "pratatatrikapucchamūlapārṣṇiṃ nibhṛtahrasvatanūjapucchakarṇam pratata|trika|puccha|mūla|pārṣṇim nibhṛta|hrasva|tanūja|puccha|karṇam vinatonnatapṛṣṭhakukṣipārśvaṃ vipulaprothalalāṭakaṭyuraskam vinata|unnata|pṛṣṭha|kukṣi|pārśvam vipula|protha|lalāṭa|kaṭi|uraskam",
-      "suffix": "# 74 upaguhya sa taṃ"
+      "suffix": " # 74 upaguhya"
     },
     "tags": []
   },
@@ -6958,9 +6958,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ca sāntvayan kareṇa",
+      "prefix": "ca sāntvayan kareṇa ",
       "quote": "upaguhya",
-      "suffix": "saḥ tam viśāla|vakṣāḥ"
+      "suffix": " saḥ tam viśāla"
     },
     "tags": [
       "embrace"
@@ -6972,9 +6972,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "upaguhya saḥ tam viśāla|",
+      "prefix": "saḥ tam viśāla|",
       "quote": "vakṣāḥ",
-      "suffix": "kamala|ābhena ca sāntvayan"
+      "suffix": " kamala|ābhena ca"
     },
     "tags": []
   },
@@ -6984,7 +6984,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "saḥ tam viśāla|vakṣāḥ",
+      "prefix": "tam viśāla|vakṣāḥ ",
       "quote": "kamala",
       "suffix": "|ābhena ca sāntvayan"
     },
@@ -6998,9 +6998,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "viśāla|vakṣāḥ kamala|ābhena ca",
+      "prefix": "kamala|ābhena ca ",
       "quote": "sāntvayan",
-      "suffix": "kareṇa madhurākṣarayā"
+      "suffix": " kareṇa madhurākṣarayā girā"
     },
     "tags": [
       "caress so."
@@ -7012,9 +7012,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kamala|ābhena ca sāntvayan",
+      "prefix": "ābhena ca sāntvayan ",
       "quote": "kareṇa",
-      "suffix": "madhurākṣarayā girā"
+      "suffix": " madhurākṣarayā girā śaśāsa"
     },
     "tags": [
       "hand"
@@ -7026,9 +7026,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kila śatravaḥ nirastāḥ",
+      "prefix": "kila śatravaḥ nirastāḥ ",
       "quote": "samare",
-      "suffix": "tvā|adhiruhya pārthivena"
+      "suffix": " tvā|adhiruhya pārthivena"
     },
     "tags": [
       "battle scene"
@@ -7042,7 +7042,7 @@
     "snippet": {
       "prefix": "nirastāḥ samare tvā|",
       "quote": "adhiruhya",
-      "suffix": "pārthivena ahamapyamṛtaṃ"
+      "suffix": " pārthivena ahamapyamṛtaṃ padaṃ"
     },
     "tags": [
       "ride"
@@ -7054,9 +7054,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "samare tvā|adhiruhya",
+      "prefix": "samare tvā|adhiruhya ",
       "quote": "pārthivena",
-      "suffix": "ahamapyamṛtaṃ padaṃ"
+      "suffix": " ahamapyamṛtaṃ padaṃ yathāvatturagaśreṣṭha"
     },
     "tags": [
       "king"
@@ -7068,9 +7068,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "parigamya dharma|yuktam",
+      "prefix": "parigamya dharma|yuktam ",
       "quote": "mama",
-      "suffix": "niryāṇam|itas jagat|hitāya"
+      "suffix": " niryāṇam|itas jagat"
     },
     "tags": [
       "siddhārtha"
@@ -7082,7 +7082,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "dharma|yuktam mama",
+      "prefix": "dharma|yuktam mama ",
       "quote": "niryāṇam",
       "suffix": "|itas jagat|hitāya"
     },
@@ -7097,7 +7097,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "suhṛdam|iva|anuśiṣya kṛtye",
+      "prefix": "iva|anuśiṣya kṛtye ",
       "quote": "turaga",
       "suffix": "|varam nṛvaraḥ vanam"
     },
@@ -7111,9 +7111,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "turaga|varam nṛvaraḥ",
+      "prefix": "turaga|varam nṛvaraḥ ",
       "quote": "vanam",
-      "suffix": "yiyāsuḥ sitamasitagatidyutirvapuṣmān"
+      "suffix": " yiyāsuḥ sitamasitagatidyutirvapuṣmān raviriva"
     },
     "tags": [
       "forest"
@@ -7125,9 +7125,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sitam|asita|gati|dyutiḥ|vapuṣmān",
+      "prefix": "gati|dyutiḥ|vapuṣmān ",
       "quote": "raviḥ",
-      "suffix": "|iva śāradam|abhram|āruroha"
+      "suffix": "|iva śāradam|abhram"
     },
     "tags": [
       "sun"
@@ -7139,9 +7139,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "sitam|asita|gati|dyutiḥ|vapuṣmān raviḥ|iva",
+      "prefix": "vapuṣmān raviḥ|iva ",
       "quote": "śāradam|abhram",
-      "suffix": "|āruroha # 80 atha"
+      "suffix": "|āruroha # 80"
     },
     "tags": [
       "cloud"
@@ -7153,9 +7153,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "parijana|bodha|karam dhvanim sat|",
+      "prefix": "karam dhvanim sat|",
       "quote": "aśvaḥ",
-      "suffix": "vigatahanuravaḥ praśāntaheṣaścakitavimuktapadakramo"
+      "suffix": " vigatahanuravaḥ praśāntaheṣaścakitavimuktapadakramo jagāma"
     },
     "tags": [
       "horse"
@@ -7169,7 +7169,7 @@
     "snippet": {
       "prefix": "kamalāniva pravidhya kanaka|",
       "quote": "valaya",
-      "suffix": "|bhūṣita|prakoṣṭhaiḥ"
+      "suffix": "|bhūṣita|prakoṣṭhaiḥ kamala"
     },
     "tags": [
       "bracelet"
@@ -7183,7 +7183,7 @@
     "snippet": {
       "prefix": "kanaka|valaya|bhūṣita|",
       "quote": "prakoṣṭhaiḥ",
-      "suffix": "kamala|nibhaiḥ kamalān|iva"
+      "suffix": " kamala|nibhaiḥ kamalān"
     },
     "tags": [
       "forearm"
@@ -7195,7 +7195,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "kanaka|valaya|bhūṣita|prakoṣṭhaiḥ",
+      "prefix": "valaya|bhūṣita|prakoṣṭhaiḥ ",
       "quote": "kamala",
       "suffix": "|nibhaiḥ kamalān|iva"
     },
@@ -7209,9 +7209,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "dadhire khurān karāgraiḥ",
+      "prefix": "dadhire khurān karāgraiḥ ",
       "quote": "avanata",
-      "suffix": "|tanavaḥ|tatas asya yakṣāḥ|cakita|gataiḥ"
+      "suffix": "|tanavaḥ|tatas asya"
     },
     "tags": [
       "bow"
@@ -7223,9 +7223,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "karāgraiḥ avanata|",
+      "prefix": "khurān karāgraiḥ avanata|",
       "quote": "tanavaḥ",
-      "suffix": "|tatas asya yakṣāḥ|cakita|gataiḥ"
+      "suffix": "|tatas asya yakṣāḥ"
     },
     "tags": [
       "body"
@@ -7237,7 +7237,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "avanata|tanavaḥ|tatas asya",
+      "prefix": "tanavaḥ|tatas asya ",
       "quote": "yakṣāḥ",
       "suffix": "|cakita|gataiḥ dadhire"
     },
@@ -7251,9 +7251,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yakṣāḥ|cakita|gataiḥ",
+      "prefix": "yakṣāḥ|cakita|gataiḥ ",
       "quote": "dadhire",
-      "suffix": "khurān kara|agraiḥ"
+      "suffix": " khurān kara|agraiḥ"
     },
     "tags": [
       "carry"
@@ -7265,9 +7265,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yakṣāḥ|cakita|gataiḥ dadhire",
+      "prefix": "cakita|gataiḥ dadhire ",
       "quote": "khurān",
-      "suffix": "kara|agraiḥ # 82 guruparighakapāṭasaṃvṛtā"
+      "suffix": " kara|agraiḥ #"
     },
     "tags": [
       "hoof"
@@ -7279,9 +7279,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "yakṣāḥ|cakita|gataiḥ dadhire khurān",
+      "prefix": "gataiḥ dadhire khurān ",
       "quote": "kara",
-      "suffix": "|agraiḥ # 82 guruparighakapāṭasaṃvṛtā"
+      "suffix": "|agraiḥ # 82"
     },
     "tags": [
       "hand"
@@ -7295,7 +7295,7 @@
     "snippet": {
       "prefix": "dadhire khurān kara|",
       "quote": "agraiḥ",
-      "suffix": "# 82 guruparighakapāṭasaṃvṛtā"
+      "suffix": " # 82 guruparighakapāṭasaṃvṛtā"
     },
     "tags": []
   },
@@ -7319,7 +7319,7 @@
     "snippet": {
       "prefix": "apāvriyante guru|parigha|",
       "quote": "kapāṭa",
-      "suffix": "|saṃvṛtāḥ yāḥ na sukham|api"
+      "suffix": "|saṃvṛtāḥ yāḥ na"
     },
     "tags": [
       "city door"
@@ -7331,9 +7331,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "guru|parigha|kapāṭa|saṃvṛtāḥ yāḥ na sukham|api",
+      "prefix": "na sukham|api ",
       "quote": "dviradaiḥ",
-      "suffix": "apāvriyante vrajati"
+      "suffix": " apāvriyante vrajati nṛpasute"
     },
     "tags": [
       "elephant"
@@ -7345,9 +7345,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "svayamabhavanvivṛtāḥ puraḥ pratolyaḥ",
+      "prefix": "svayamabhavanvivṛtāḥ puraḥ pratolyaḥ ",
       "quote": "vrajati",
-      "suffix": "nṛpa|sute gata|svanāḥ|tāḥ"
+      "suffix": " nṛpa|sute gata"
     },
     "tags": [
       "go out"
@@ -7359,9 +7359,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pratolyaḥ vrajati",
+      "prefix": "puraḥ pratolyaḥ vrajati ",
       "quote": "nṛpa|sute",
-      "suffix": "gata|svanāḥ|tāḥ svayam|abhavan|vivṛtāḥ"
+      "suffix": " gata|svanāḥ|tāḥ"
     },
     "tags": [
       "siddhārtha"
@@ -7373,9 +7373,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "svayam|abhavan|vivṛtāḥ",
+      "prefix": "svayam|abhavan|vivṛtāḥ ",
       "quote": "None",
-      "suffix": "pratolyaḥ # 83 pitaramabhimukhaṃ"
+      "suffix": " pratolyaḥ # 83"
     },
     "tags": []
   },
@@ -7385,9 +7385,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "svayam|abhavan|vivṛtāḥ None",
+      "prefix": "abhavan|vivṛtāḥ None ",
       "quote": "pratolyaḥ",
-      "suffix": "# 83 pitaramabhimukhaṃ"
+      "suffix": " # 83 pitaramabhimukhaṃ"
     },
     "tags": [
       "city walls",
@@ -7400,7 +7400,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "janamanuraktamanuttamāṃ ca lakṣmīm",
+      "prefix": "janamanuraktamanuttamāṃ ca lakṣmīm ",
       "quote": "pitaram",
       "suffix": "|abhimukham sutam ca"
     },
@@ -7414,9 +7414,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pitaram|abhimukham",
+      "prefix": "lakṣmīm pitaram|abhimukham ",
       "quote": "sutam",
-      "suffix": "ca bālam janam|anuraktam|anuttamām"
+      "suffix": " ca bālam janam"
     },
     "tags": [
       "rāhula"
@@ -7428,9 +7428,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "nanāda siṃhanādam atha",
+      "prefix": "nanāda siṃhanādam atha ",
       "quote": "saḥ",
-      "suffix": "vimala|paṅkaja|āyata|akṣaḥ"
+      "suffix": " vimala|paṅkaja|āyata"
     },
     "tags": [
       "siddhārtha"
@@ -7442,9 +7442,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "siṃhanādam atha saḥ vimala|",
+      "prefix": "atha saḥ vimala|",
       "quote": "paṅkaja",
-      "suffix": "|āyata|akṣaḥ puram|avalokya"
+      "suffix": "|āyata|akṣaḥ puram"
     },
     "tags": [
       "lotus"
@@ -7458,7 +7458,7 @@
     "snippet": {
       "prefix": "saḥ vimala|paṅkaja|",
       "quote": "āyata|akṣaḥ",
-      "suffix": "puram|avalokya nanāda"
+      "suffix": " puram|avalokya nanāda"
     },
     "tags": [
       "elongated eye"
@@ -7470,7 +7470,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "janana|maraṇayoḥ|adṛṣṭa|pāraḥ na puram|aham",
+      "prefix": "na puram|aham ",
       "quote": "kapila",
       "suffix": "|āhvayam praveṣṭā #"
     },
@@ -7482,9 +7482,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "puram|aham kapila|āhvayam",
+      "prefix": "aham kapila|āhvayam ",
       "quote": "praveṣṭā",
-      "suffix": "# 85 iti vacanamidaṃ"
+      "suffix": " # 85 iti"
     },
     "tags": []
   },
@@ -7494,9 +7494,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "vacanam|idam niśamya tasya",
+      "prefix": "idam niśamya tasya ",
       "quote": "draviṇa|pateḥ",
-      "suffix": "pariṣad|gaṇāḥ nananduḥ"
+      "suffix": " pariṣad|gaṇāḥ nananduḥ"
     },
     "tags": [
       "kubera"
@@ -7508,9 +7508,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "pramudita|manasaḥ|ca",
+      "prefix": "pramudita|manasaḥ|ca ",
       "quote": "deva|saṃghāḥ",
-      "suffix": "vyavasita|pāraṇam|āśaśaṃsire"
+      "suffix": " vyavasita|pāraṇam|āśaśaṃsire"
     },
     "tags": [
       "celestial being"
@@ -7522,9 +7522,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "ivendupādāḥ tuhine",
+      "prefix": "ghanavivaraprasṛtā ivendupādāḥ tuhine ",
       "quote": "pathini",
-      "suffix": "prakāśam ghana|vivara|prasṛtāḥ"
+      "suffix": " prakāśam ghana|vivara"
     },
     "tags": [
       "road"
@@ -7536,7 +7536,7 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "subahūni jagāma yojanāni",
+      "prefix": "subahūni jagāma yojanāni ",
       "quote": "aruṇa",
       "suffix": "|paruṣa|tāram antarikṣam"
     },
@@ -7548,9 +7548,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "aruṇa|paruṣa|tāram",
+      "prefix": "aruṇa|paruṣa|tāram ",
       "quote": "antarikṣam",
-      "suffix": "saḥ ca su|bahūni jagāma"
+      "suffix": " saḥ ca su"
     },
     "tags": [
       "sky"
@@ -7562,9 +7562,9 @@
     "verse": "Aśvaghoṣa: Buddhacarita. Sarga 5.",
     "slug": "sarga-5",
     "snippet": {
-      "prefix": "aruṇa|paruṣa|tāram antarikṣam",
+      "prefix": "paruṣa|tāram antarikṣam ",
       "quote": "saḥ",
-      "suffix": "ca su|bahūni jagāma"
+      "suffix": " ca su|bahūni"
     },
     "tags": [
       "siddhārtha"
