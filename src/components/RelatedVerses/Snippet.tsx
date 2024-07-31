@@ -21,11 +21,15 @@ export const Snippet = (props: SnippetProps) => {
     return [paddedPrefix, paddedSuffix];
   }, [prefix, quote, suffix]);
 
+  // Pipe characters don't normally wrap. We insert a 'line-breakable' pipe, by replacing the
+  // pipe with a combination of pipe and zero-width space
+  const makeBreakable = (str: string) => str.replace(/\|/g, '|&#8203;');
+
   return (
     <>
-      <span>{paddedPrefix}</span>
-      <a href={props.href} className="verse-snippet-quote">{quote}</a>
-      <span>{paddedSuffix}</span>
+      {paddedPrefix && (<span dangerouslySetInnerHTML={{__html: makeBreakable(paddedPrefix) }} />)}
+      <a href={props.href} className="verse-snippet-quote" dangerouslySetInnerHTML={{__html: makeBreakable(quote)}} />
+      {paddedSuffix && (<span dangerouslySetInnerHTML={{ __html: makeBreakable(paddedSuffix) }} />)}
     </>
   )
 
