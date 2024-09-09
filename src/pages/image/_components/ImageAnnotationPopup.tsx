@@ -76,7 +76,7 @@ export const ImageAnnotationPopup = (props: ImageAnnotationPopupProps) => {
 
   useEffect(() => {
     const { annotation } = props;
-
+    
     if (annotation) {
       const setPosition = () => { 
         const rect = getAnnotationDomRect(viewer, annotation);

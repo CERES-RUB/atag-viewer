@@ -50,6 +50,8 @@ export const VerseAnnotationPopup = (props: VerseAnnotationPopup) => {
   });
 
   useEffect(() => {
+    console.log('popup', props.annotation);
+
     if (props.annotation) {
       const selector = props.annotation.target.selector as (TextSelector | TextSelector[]);
       const range = Array.isArray(selector) ? selector[0].range : selector.range; 
