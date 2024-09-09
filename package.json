@@ -11,7 +11,6 @@
     "build-index": "node scripts/build-tag-index.js",
     "build": "astro build",
     "deploy": "gh-pages -d dist --nojekyll -m 'Deployment' --cname 'diga.rainersimon.io'",
-    "postinstall": "node scripts/build-tag-index.js",
     "predeploy": "npm run build",
     "preview": "astro preview",
     "astro": "astro"
@@ -31,12 +30,12 @@
     "vite": "^5.4.3"
   },
   "dependencies": {
-    "@annotorious/react": "3.0.0-rc.30",
+    "@annotorious/react": "3.0.5",
     "@astrojs/check": "^0.9.3",
     "@astrojs/react": "^3.6.2",
     "@floating-ui/react": "^0.26.23",
     "@radix-ui/react-tabs": "^1.1.0",
-    "@recogito/react-text-annotator": "3.0.0-rc.36",   
+    "@recogito/react-text-annotator": "3.0.0-rc.44",   
     "astro": "^4.15.4",
     "diacritics": "^1.3.0",
     "fuse.js": "^7.0.0",

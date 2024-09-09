@@ -101,7 +101,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   return narrative && (
     <TextAnnotator
       adapter={container => W3CTextFormat('5db80aa5-8a27-4539-aeb3-bddf3abc0098', container)}
-      annotationEnabled={false}
+      annotatingEnabled={false}
       style={style}>
       
       <div className="annotated-text">
