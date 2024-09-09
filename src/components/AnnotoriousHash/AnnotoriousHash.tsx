@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useSelected } from '@lib/hooks';
 import { useAnnotator } from '@annotorious/react';
-import type { Annotation, RecogitoTextAnnotator, TextAnnotation } from '@recogito/react-text-annotator';
+import type { Annotation, Annotator, RecogitoTextAnnotator, TextAnnotation, W3CAnnotation, W3CTextAnnotation } from '@recogito/react-text-annotator';
 
 // App-specific - annotation IDs are actually Recogito URIs, but 
 // we're shortening to just the UUID that follows this prefix
@@ -15,7 +15,7 @@ interface AnnotoriousHashProps {
 
 export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
   
-  const anno = useAnnotator();
+  const anno = useAnnotator<RecogitoTextAnnotator>();
 
   const selected = useSelected();
 
@@ -48,7 +48,7 @@ export const AnnotoriousHash = (props: AnnotoriousHashProps) => {
       if ('scrollIntoView' in anno) {
         // TODO remove with next release of @recogito/text-annotator
         const a = anno.getAnnotationById(`https://recogito.pelagios.org/annotation/${uuid}`);
-        (anno as RecogitoTextAnnotator).scrollIntoView(a as TextAnnotation);
+        anno.scrollIntoView(a as TextAnnotation);
       }
     }
 
