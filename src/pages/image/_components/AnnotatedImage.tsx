@@ -5,7 +5,7 @@ import type { Selected } from 'src/Types';
 import {
   OpenSeadragonAnnotator, 
   OpenSeadragonViewer, 
-  PointerSelectAction, 
+  UserSelectAction, 
   W3CImageFormat, 
   useAnnotator
 } from '@annotorious/react';
@@ -104,7 +104,7 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
     <OpenSeadragonAnnotator 
       adapter={W3CImageFormat(props.imageManifest)}
       drawingEnabled={false}
-      pointerSelectAction={PointerSelectAction.SELECT}
+      userSelectAction={UserSelectAction.SELECT}
       style={style}>
             
       <OpenSeadragonViewer className="openseadragon" options={options} />
