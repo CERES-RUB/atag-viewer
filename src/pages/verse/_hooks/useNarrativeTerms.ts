@@ -10,7 +10,7 @@ export const useNarrativeTerms = () => {
       .then(res => res.json())
       .then(terms => {
         // If only all data were clean...
-        const values = terms.map((t: ThesaurusTerm) => t.prefLabel?.trim()).filter(Boolean);
+        const values = terms.map((t: ThesaurusTerm) => t.uri?.trim()).filter(Boolean);
         setTerms(new Set(values));
       });
   }, []);

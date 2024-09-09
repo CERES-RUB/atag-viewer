@@ -59,7 +59,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   const narrative = useNarrativeTerms();
 
   const style = useCallback((a: TextAnnotation, state: AnnotationState, z?: number) => {
-    const isSection = a.bodies.find(b => b.value && narrative!.has(b.value));
+    const isSection = a.bodies.find(b => b.id && narrative!.has(b.id));
 
     const baseStyle = isSection ? BASE_SECTION_STYLE(z) : BASE_TAG_STYLE(z);
 

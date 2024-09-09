@@ -1,24 +1,27 @@
 import type { Annotation } from '@annotorious/react';
-import type { RelatedAnnotation, RelatedAnnotationGroup } from 'src/Types';
+import type { RelatedAnnotation, RelatedAnnotationGroup, Tag } from 'src/Types';
 
-export const getTags = (a: Annotation) =>
-  a.bodies.filter(b => b.purpose === 'tagging' && b.value).map(b => b.value!);
+export const getTags = (a: Annotation): Tag[] =>
+  a.bodies.filter(b => b.purpose === 'tagging' && b.value && b.id).map(b => ({ id: b.id, label: b.value! }));
 
-export const computeJaccardScore = (reference: Set<string>, related: Set<string>) => {
-  const intersection = Array.from(related).filter(t => reference.has(t));
+export const computeJaccardScore = (reference: Tag[], related: Tag[]) => {
+  const referenceURIs = new Set(reference.map(r => r.id));
+  const relatedURIs = related.map(r => r.id);
+
+  const intersection = relatedURIs.filter(t => referenceURIs.has(t));
   const union = new Set([...reference, ...related]);
   return intersection.length / union.size;
 }
 
-export const groupByOverlap = <T extends RelatedAnnotation>(reference: Set<string>, related: T[]) => {
+export const groupByOverlap = <T extends RelatedAnnotation>(reference: Tag[], related: T[]) => {
   // Shorthand
-  const equal = (a: Set<string>, b: Set<string>) =>
-    a.size === b.size && [...a].every(value => b.has(value));
+  const equal = (a: Tag[], b: Tag[]) =>
+    a.length === b.length && a.every(tag => b.some(t => t.id === tag.id));
 
   // Helper
   const sortGroups = (grouped: RelatedAnnotationGroup[]) => {
     // Sort groups by amount of overlap (= no. of common tags)
-    grouped.sort((a, b) => b.common.size - a.common.size);
+    grouped.sort((a, b) => b.common.length - a.common.length);
   
     // Sort annotations by Jaccard score
     grouped.forEach(group =>
@@ -28,11 +31,9 @@ export const groupByOverlap = <T extends RelatedAnnotation>(reference: Set<strin
   const grouped: RelatedAnnotationGroup<T>[] = [];
 
   related.forEach(r => {
-    const tags = new Set(r.tags);
+    const commonTags = r.tags.filter(tag => reference.some(t => t.id === tag.id));
 
-    const commonTags = new Set(Array.from(tags).filter(tag => reference.has(tag)));
-
-    const jaccard = computeJaccardScore(reference, tags);
+    const jaccard = computeJaccardScore(reference, r.tags);
 
     const group = grouped.find(({ common }) => equal(common, commonTags));
     if (group) {

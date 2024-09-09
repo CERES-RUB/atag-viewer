@@ -4,7 +4,7 @@ import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
 import { getTags, groupByOverlap } from '@lib/utils';
 import { Snippet } from './Snippet';
-import type { RelatedVerseAnnotation } from 'src/Types';
+import type { RelatedVerseAnnotation, Tag } from 'src/Types';
 
 import './RelatedVerses.css';
 
@@ -26,8 +26,8 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
 
   const [mounted, setMounted] = useState(false);
 
-  const tags: Set<string> = useMemo(() =>
-    props.annotation ? new Set(getTags(props.annotation)) : new Set(), [props.annotation]);
+  const tags: Tag[] = useMemo(() =>
+    props.annotation ? getTags(props.annotation) : [], [props.annotation]);
 
   const grouped = useMemo(() =>
     groupByOverlap<RelatedVerseAnnotation>(tags, props.related || []), [tags, props.related]);
@@ -73,8 +73,8 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
                 <ul className="taglist">
                   {annotation.tags.map(t => (
                     <li 
-                      key={t}
-                      className={tags.has(t) ? 'common' : undefined}>{t}</li>
+                      key={t.id}
+                      className={tags.some(tag => tag.id === t.id) ? 'common' : undefined}>{t.label}</li>
                   ))}
                 </ul>
 

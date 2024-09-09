@@ -26,12 +26,12 @@ export const useRelated = (annotation?: Annotation) => {
     if (!all) return;
 
     if (annotation) {
-      const tags = annotation.bodies
+      const tagIds = annotation.bodies
         .filter(b => b.purpose === 'tagging' && b.value)
-        .map(b => b.value!);
+        .map(b => b.id);
 
       const matches = 
-        all.filter(a => a.id !== annotation.id && a.tags.some(t => tags.includes(t)));
+        all.filter(a => a.id !== annotation.id && a.tags.some(t => tagIds.includes(t.id)));
 
       const images = matches.filter(r => r.type === 'IMAGE') as RelatedImageAnnotation[];
       const verses = matches.filter(r => r.type === 'VERSE') as RelatedVerseAnnotation[];
