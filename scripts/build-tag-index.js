@@ -106,7 +106,9 @@ const buildTagIndex = async () => {
       const { id } = annotation;
 
       const bodies = Array.isArray(annotation.body) ? annotation.body : [annotation.body];
-      const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
+      const tags = bodies
+        .filter(b => b.purpose === 'tagging' && b.id && b.value)
+        .map(b => ({ id: b.id, label: b.value }));
 
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
@@ -161,7 +163,9 @@ const buildTagIndex = async () => {
       const { id } = a;
 
       const bodies = Array.isArray(a.body) ? a.body : [a.body];
-      const tags = bodies.filter(b => b.purpose === 'tagging').map(b => b.value).filter(Boolean);
+      const tags = bodies
+        .filter(b => b.purpose === 'tagging' && b.id && b.value)
+        .map(b => ({ id: b.id, label: b.value }));
 
       const snippet = extractSnippet(`./public/verses/${verse.slug}.txt`, a);
 

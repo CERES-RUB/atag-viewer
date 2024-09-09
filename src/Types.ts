@@ -34,6 +34,14 @@ export interface ThesaurusTerm {
 
 }
 
+export interface Tag {
+
+  id: string;
+
+  label: string;
+
+}
+
 export interface RelatedImageAnnotation {
 
   type: 'IMAGE';
@@ -46,7 +54,7 @@ export interface RelatedImageAnnotation {
   
   slug: string;
 
-  tags: string[];
+  tags: Tag[];
 
 }
 
@@ -62,7 +70,7 @@ export interface RelatedVerseAnnotation {
 
   slug: string;
 
-  tags: string[];
+  tags: Tag[];
 
 }
 
@@ -80,7 +88,7 @@ export type RelatedAnnotation = RelatedImageAnnotation | RelatedVerseAnnotation;
 
 export interface RelatedAnnotationGroup<T extends RelatedAnnotation = RelatedAnnotation> {
 
-  common: Set<string>;
+  common: Tag[];
   
   related: { annotation: T, score: number }[];
 
