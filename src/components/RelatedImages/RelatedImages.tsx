@@ -58,7 +58,7 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       // Image-level metadata
       return annotation.slug === props.currentSlug 
         ? '#' // Should never happen
-        : `image/${annotation.slug}`;
+        : `/image/${annotation.slug}`;
     }
   }
 
@@ -79,8 +79,8 @@ export const RelatedImages = (props: RelatedImagesProps) => {
 
         {props.annotation ? (
           <ul>
-            {(grouped.map(group => group.related.map(({ annotation }) => (
-              <li key={annotation.id}>
+            {(grouped.map((group, idx) => group.related.map(({ annotation }) => (
+              <li key={`${idx}-${annotation.id}`}>
                 <div className="preview">
                   <Thumbnail src={annotation.thumbnail} />
 

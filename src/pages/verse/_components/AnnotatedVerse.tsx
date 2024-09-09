@@ -79,8 +79,6 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   useEffect(() => {
     if (!anno) return;
       anno.setAnnotations(props.annotations);
-
-    console.log('anotations set');
   }, [anno, props.annotations]);
 
   useEffect(() => {
