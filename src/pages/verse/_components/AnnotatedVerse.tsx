@@ -50,7 +50,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const { searchResults, highlightedSearchResult } = props;
 
-  const anno = useAnnotator<RecogitoTextAnnotator<W3CTextAnnotation>>();
+  const anno = useAnnotator<RecogitoTextAnnotator<TextAnnotation, W3CTextAnnotation>>();
 
   const selected = useSelected<TextAnnotation>();
 
