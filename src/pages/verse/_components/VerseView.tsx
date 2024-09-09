@@ -34,6 +34,7 @@ export const VerseView = (props: VerseViewProps) => {
   const [highlightedSearchResult, setHighlightedSearchResult] = useState<TextAnnotation | undefined>();
 
   useEffect(() => {
+    console.log('fetching verse');
     fetch(`../../verses/${props.verse.slug}.txt`)
       .then(res => res.text())
       .then(setVerse);

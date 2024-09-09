@@ -50,7 +50,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   const { searchResults, highlightedSearchResult } = props;
 
-  const anno = useAnnotator<RecogitoTextAnnotator<TextAnnotation, W3CTextAnnotation>>();
+  const anno = useAnnotator<RecogitoTextAnnotator<W3CTextAnnotation>>();
 
   const selected = useSelected<TextAnnotation>();
 
@@ -79,6 +79,8 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   useEffect(() => {
     if (!anno) return;
       anno.setAnnotations(props.annotations);
+
+    console.log('anotations set');
   }, [anno, props.annotations]);
 
   useEffect(() => {
@@ -99,7 +101,7 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
   return narrative && (
     <TextAnnotator
       adapter={container => W3CTextFormat('5db80aa5-8a27-4539-aeb3-bddf3abc0098', container)}
-      annotatingEnabled={false}
+      annotationEnabled={false}
       style={style}>
       
       <div className="annotated-text">
