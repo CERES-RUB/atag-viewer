@@ -2,6 +2,7 @@ import { useLayoutEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
+import { useThesaurus } from '@lib/hooks';
 import { getTags, groupByOverlap } from '@lib/utils';
 import { Snippet } from './Snippet';
 import type { RelatedVerseAnnotation, Tag } from 'src/Types';
@@ -23,6 +24,8 @@ interface RelatedVersesProps {
 }
 
 export const RelatedVerses = (props: RelatedVersesProps) => {
+
+  const thesaurus = useThesaurus();
 
   const [mounted, setMounted] = useState(false);
 
@@ -74,7 +77,9 @@ export const RelatedVerses = (props: RelatedVersesProps) => {
                   {annotation.tags.map(t => (
                     <li 
                       key={t.id}
-                      className={tags.some(tag => tag.id === t.id) ? 'common' : undefined}>{t.label}</li>
+                      className={tags.some(tag => tag.id === t.id) ? 'common' : undefined}>
+                      {thesaurus?.find(term => term.id === t.id)?.label || t.label}
+                    </li>
                   ))}
                 </ul>
 

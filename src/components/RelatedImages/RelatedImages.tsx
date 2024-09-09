@@ -2,6 +2,7 @@ import { useLayoutEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
 import { animated, easings, useTransition } from 'react-spring';
 import { X } from 'lucide-react';
+import { useThesaurus } from '@lib/hooks';
 import { getTags, groupByOverlap } from '@lib/utils';
 import { Thumbnail } from './Thumbnail';
 import type { RelatedImageAnnotation, Tag } from 'src/Types';
@@ -26,13 +27,15 @@ export const RelatedImages = (props: RelatedImagesProps) => {
 
   const [mounted, setMounted] = useState(false);
 
+  const thesaurus = useThesaurus();
+
   const tags: Tag[] = useMemo(() =>
     props.annotation ? getTags(props.annotation) : [], [props.annotation]);
 
   const grouped = useMemo(() =>
     groupByOverlap<RelatedImageAnnotation>(tags, props.related || []), [tags, props.related]);
 
-  const transition = useTransition([props.open], {
+  const transition = useTransition([props.open && thesaurus], {
     from: { width: mounted ? 0 : 300 },
     enter: { width: 300 },
     leave: { width: 0 },
@@ -86,7 +89,9 @@ export const RelatedImages = (props: RelatedImagesProps) => {
                       {annotation.tags.map(t => (
                         <li 
                           key={t.id}
-                          className={tags.some(tag => tag.id === t.id) ? 'common' : undefined}>{t.label}</li>
+                          className={tags.some(tag => tag.id === t.id) ? 'common' : undefined}>
+                          {thesaurus?.find(term => term.id === t.id)?.label || t.label}
+                        </li>
                       ))}
                     </ul>
                   </div>
