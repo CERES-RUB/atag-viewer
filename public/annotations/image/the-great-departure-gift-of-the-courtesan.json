@@ -1,0 +1,1102 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/9602a43e-cb79-475d-b351-e9125d6bfef0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1128994496",
+    "value" : "gesture of veneration with joined hands (gesture indicating situations)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/9488987530",
+    "value" : "paridhāna (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4289657625",
+    "value" : "wristlet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:03+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:841,814,218,444"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/cc336a1f-0974-4bd7-9a88-167c9f2e327a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4237203445",
+    "value" : "buddha (literary persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/986425314",
+    "value" : "sit (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2732920964",
+    "value" : "seated position wrapped in the overrobe with covered feet (saṃghāṭi styling)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3075531859",
+    "value" : "right hand raised to chest with palm facing outward fingers extended and held together (one hand gesture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/932459847",
+    "value" : "nimbus (buddha's nimbus and body-halo)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:00+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:583,792,339,461"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2d258575-30e2-4bde-844a-2618b38e2dbe",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3020495255",
+    "value" : "gift of the courtesan (predication)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:04:47+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:337,784,863,498"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/04251abd-543b-4827-ab51-6831962f6cd9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3127444423",
+    "value" : "bow (weapons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:51:02+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1581,893,120,269"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f0767c13-8148-45e2-ab29-06083916a612",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1128994496",
+    "value" : "gesture of veneration with joined hands (gesture indicating situations)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/9488987530",
+    "value" : "paridhāna (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:54:15+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4289657625",
+    "value" : "wristlet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:55:09+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:959,804,221,456"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c1160989-e6ef-4f40-b4bf-5a4a81e462a4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4635266996",
+    "value" : "hair with large wreath (hair of female indian figure)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2997286712",
+    "value" : "dress with sleeved long tunic (female indian type dress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/6067891033",
+    "value" : "necklace (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:41+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:356,806,220,452"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/bde53c6d-a9f8-40cd-99c6-b7ad3eccfa74",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3705499931",
+    "value" : "bowl with undistinguished rim (hemispherical bowl for food)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:03:52+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:419,960,113,90"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b0654471-9b44-42f6-b67c-4ebc86df47d0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3992811822",
+    "value" : "chandaka (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:45:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3142185911",
+    "value" : "hold sth. up (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:45:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:45:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/9488987530",
+    "value" : "paridhāna (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:45:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:45:22+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1888,795,281,456"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/24202c17-080c-4dcf-a27a-cf5f2b67e450",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/8657474713",
+    "value" : "kaṇṭhaka (animal characters)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:47:45+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2563622788",
+    "value" : "plume (harness for horse)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:47:45+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2703782894",
+    "value" : "breeching (harness for horse)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:47:45+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4050802417",
+    "value" : "horse (mammals)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:48:01+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1635,802,422,457"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/9de61fd7-1921-4515-956c-0ae0d39222f7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1777814046",
+    "value" : "siddhārtha (bodhisattva)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:46:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1991663911",
+    "value" : "ride (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:46:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:46:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:46:51+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1740,800,253,395"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/292112c1-be5f-4a6b-8f63-8e55a87c378a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1760069348",
+    "value" : "yakṣa (generic deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:48:24+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/143517180",
+    "value" : "carry (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:48:24+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1628,1066,158,188"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3ac0880f-3629-4396-b469-c6d450b8d2af",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1946094515",
+    "value" : "amrapālī (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3142185911",
+    "value" : "hold sth. up (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/6067891033",
+    "value" : "necklace (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4635266996",
+    "value" : "hair with large wreath (hair of female indian figure)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:01:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2997286712",
+    "value" : "dress with sleeved long tunic (female indian type dress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:02:32+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:463,794,234,464"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c29f7d02-acd5-4cd5-82e8-620bb33fe078",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1760069348",
+    "value" : "yakṣa (generic deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:48:35+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/143517180",
+    "value" : "carry (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:48:35+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1852,1118,152,146"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fd004b78-5c43-46fb-a671-2397a6428f15",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/912733733",
+    "value" : "curly hair and vertical knot held by small coil (hair of young ascetic)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1616741731",
+    "value" : "armlet (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2827306568",
+    "value" : "brahmā (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1128994496",
+    "value" : "gesture of veneration with joined hands (gesture indicating situations)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:09+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1381,808,166,452"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7070f2db-3ef0-46fb-acee-eff499012aa7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/603559952",
+    "value" : "arrow (weapons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:51:11+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1388,1061,113,193"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/63f5b9e1-da93-436f-a887-86ea25f48f25",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/833126424",
+    "value" : "last existence (narratives)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:41:35+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2629481206",
+    "value" : "great departure (renunciation to princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:41:35+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4084501634",
+    "value" : "renunciation to princely life (last existence)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:41:35+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2220524088",
+    "value" : "predication (last existence)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:41:35+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3020495255",
+    "value" : "gift of the courtesan (predication)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:41:35+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:173,396,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/210cf57f-9e48-4232-9cf2-878e7057c3d1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1487763448",
+    "value" : "kubera (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3561400997",
+    "value" : "vaiśravaṇa (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2121267291",
+    "value" : "indra (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3949000906",
+    "value" : "māra (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/9488987530",
+    "value" : "paridhāna (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:50:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4289657625",
+    "value" : "wristlet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:51:34+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1474409124",
+    "value" : "short flat-band necklace (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:51:34+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1376,798,325,466"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f6b6e4d4-5578-4994-affa-5b64b56c9845",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2629481206",
+    "value" : "great departure (renunciation to princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:53:20+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1364,781,825,479"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2d0ef5db-5e63-4be0-8361-f4903bd40bb4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2840425387",
+    "value" : "bowl with body decorated with small circles and thickened rim (hemispherical bowl for food)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:04:14+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:722,1016,112,105"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/dbf2a91e-d0a6-410a-9a0c-59d248c91fb3",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3783934166",
+    "value" : "jug with vertical side handle and cylindrical spout (containers for liquids)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:02:59+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:544,975,112,114"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ad474f2f-ea2a-422a-bd82-6cf8dc192bc7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:06:50+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2177,795,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/36858abc-b48b-41d2-9fac-d4cc8d2bcff1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1809906696",
+    "value" : "ceremonial umbrella (symbolic and ritual apparatus)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:46:17+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1888,802,208,264"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fc6bb779-c28d-4826-a8e5-1ef0906d4cb7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:54:02+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2477530233",
+    "value" : "seat (furniture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:58:29+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2018KW9592",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:597,1136,342,127"
+    } ]
+  }
+} ]

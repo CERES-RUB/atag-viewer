@@ -1,7 +1,7 @@
 import { useEffect, useMemo } from 'react';
 import { useRelated, useSelected } from '@lib/hooks';
 import { ImageAnnotationPopup } from './ImageAnnotationPopup';
-import type { Selected } from 'src/Types';
+import type { ImageMetadata, Selected } from 'src/Types';
 import {
   OpenSeadragonAnnotator, 
   OpenSeadragonViewer, 
@@ -27,7 +27,7 @@ interface AnnotatedImageProps {
 
   highlightedSearchResult?: Annotation;
 
-  imageManifest: string;
+  image: ImageMetadata;
 
   searchResults: Annotation[];
 
@@ -55,16 +55,22 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
 
   const { images, verses } = useRelated(selected);
 
+  console.log(props.image);
+
   const options = useMemo(() => ({
     prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@3.1/build/openseadragon/images/',
-    tileSources: props.imageManifest,
+    tileSources: props.image.format === 'IIIF' 
+      ? props.image.manifest : { 
+        type: 'image',
+        url: `/images/${props.image.slug}.jpg`
+      },
     gestureSettingsMouse: {
       clickToZoom: false
     },
     maxZoomLevel: 4,
     minZoomLevel: 0.25,
     preserveImageSizeOnResize: true
-  }), [props.imageManifest]);
+  }), [props.image]);
 
   useEffect(() => {
     if (!anno || !props.annotations) return;
@@ -102,7 +108,7 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
 
   return (
     <OpenSeadragonAnnotator 
-      adapter={W3CImageFormat(props.imageManifest)}
+      adapter={W3CImageFormat(props.image.slug)}
       drawingEnabled={false}
       userSelectAction={UserSelectAction.SELECT}
       style={style}>

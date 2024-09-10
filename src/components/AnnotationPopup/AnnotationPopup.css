@@ -2,6 +2,7 @@
   background: #fff;
   border-radius: var(--border-radius);
   line-height: 160%;
+  max-width: 50ch;
   padding: 5px 15px;
 }
 

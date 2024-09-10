@@ -1,0 +1,433 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3756b3d2-ac8d-41e8-9e07-eadc67fd71ff",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3992811822",
+    "value" : "chandaka (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:35:19+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:35:19+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1511,251,317,783"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6b2100a2-a0c8-4aa0-becc-f3783e83987b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1809906696",
+    "value" : "ceremonial umbrella (symbolic and ritual apparatus)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:35:27+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1526,270,307,343"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/006de5f7-bfbe-409f-8768-84ac488a9a90",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3712993116",
+    "value" : "nagaradevatā (generic deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:38:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:38:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1070685497",
+    "value" : "towered crown (nagaradevatā)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:38:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1128994496",
+    "value" : "gesture of veneration with joined hands (gesture indicating situations)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:38:22+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:533,221,293,823"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1e74fb4e-9221-4ce2-a870-8b6f09da2030",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1777814046",
+    "value" : "siddhārtha (bodhisattva)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:35:44+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1991663911",
+    "value" : "ride (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:35:44+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1327,241,278,635"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/73498535-4cf7-44d8-858a-69c103032841",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/603559952",
+    "value" : "arrow (weapons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:37:13+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:543,662,233,243"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5b1c5505-e044-4951-9a02-49d963c40b60",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2121267291",
+    "value" : "indra (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3561400997",
+    "value" : "vaiśravaṇa (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1487763448",
+    "value" : "kubera (deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:56+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:518,201,655,848"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a8e227e8-ada6-4449-a37b-d736335bf89b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/25274052",
+    "value" : "city gate/building architraved door of western type (door of western type)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:34:59+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1436,176,546,898"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7a7ed79b-bb35-41f8-ac53-838d1dd30b07",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1760069348",
+    "value" : "yakṣa (generic deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:14+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/143517180",
+    "value" : "carry (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:14+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1034,608,402,441"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d594d9d6-b9e5-4481-bed2-ce2aaf203246",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/8657474713",
+    "value" : "kaṇṭhaka (animal characters)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:02+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4050802417",
+    "value" : "horse (mammals)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:36:02+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1010,320,793,724"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/adf82be3-4d6f-4f8b-9370-67c5caecdff9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:34:46+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1853,161,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/375cdf9c-5835-4906-8463-99c3d750de5d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2629481206",
+    "value" : "great departure (renunciation to princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:38:31+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:479,176,1424,928"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1df5e97b-9a36-4b5b-965a-de5fd2818fdb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T13:05:43+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3127444423",
+    "value" : "bow (weapons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T10:37:07+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/7c4cf1ac-f96e-4ec8-8053-0a9064628152",
+    "type" : "Image",
+    "label" : "1939,0019.16.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:955,280,164,531"
+    } ]
+  }
+} ]

@@ -1,0 +1,470 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d4eba9e8-277a-414f-b331-843f60596a29",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3987426471",
+    "value" : "open lotus with upturned petals (lotus)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:26:32+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:863,1010,295,558"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0b284d4a-02d7-4b24-bc21-7df49d56214e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3020942827",
+    "value" : "lotus (phytomorphic elements and components)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:27:30+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:991,594,380,331"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/aaf054c9-c2cd-4c02-86f5-e8476c144982",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3381202431",
+    "value" : "acanthus scroll (phytomorphic decorative scroll)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:34:39+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:38,74,1358,410"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e5de9ea6-fae8-48da-8afb-2a24c3114915",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/5314168498",
+    "value" : "balcony (civil architecture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:34:12+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:28,299,743,732"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ad452bfb-b726-4be4-a9df-bd92cce89420",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2721284326",
+    "value" : "siddhārtha in the women's quarter/chambers (princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:35:58+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:38,299,1445,2031"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a996861f-8fee-4db1-9169-297a6e844a3c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3881354411",
+    "value" : "segmental trapezoidal architrave (segmental architraves)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:33:42+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/6165356636",
+    "value" : "palace (civil architecture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:33:42+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:19,279,1357,2080"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/593e7bb7-c5dd-4c8c-bec0-c929a97d370f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1335842648",
+    "value" : "footstool (furniture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:16:50+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:935,2103,530,222"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3ad73d04-6ee8-4386-96b5-db13911d7bdc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:16:04+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:390,318,346,558"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3574a070-efab-4b62-a1c1-9bc72820f355",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:31:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:31:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/547371541",
+    "value" : "gesture of conversation/question with right hand thumb index and middle finger extended and joined (gesture of conversation/question)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:31:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1131561900",
+    "value" : "anklet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:32:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4289657625",
+    "value" : "wristlet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:32:00+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:94,981,522,1329"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/41c91436-f39a-4af8-a9e6-8d12e4490da1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:15:46+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:63,323,407,558"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/39bff526-abb6-437d-b279-c1e94a9d90ec",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3381202431",
+    "value" : "acanthus scroll (phytomorphic decorative scroll)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:34:29+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:9,2213,1523,312"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7d037e89-ed58-469e-a366-2b9cb81e589f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:09:22+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:163,135,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/22c5bba5-28d0-4d31-85b4-febcfb418f7a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3445780301",
+    "value" : "yaśodharā (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:16:38+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/986425314",
+    "value" : "sit (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:25:25+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2844951834",
+    "value" : "hair with curly fringe knot coil of hair and ornaments (hair of female indian figure)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:25:25+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:898,858,576,1467"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/701d4544-8c9a-4eae-82b5-a47b9a01372e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-10T12:51:32+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:28:42+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/398064358",
+    "value" : "dancer (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:28:42+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T08:28:42+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://framemark.vam.ac.uk/collections/2021MY2650",
+    "type" : "Image",
+    "label" : "Image 0",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:479,1084,552,1235"
+    } ]
+  }
+} ]

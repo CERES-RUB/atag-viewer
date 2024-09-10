@@ -11,10 +11,12 @@ const fetchManifests = (urls) => {
 
   return urls.reduce(async (promise, url) => promise.then(async results => {
     try {
-      console.log('Fetching manifest ', url);
-      const response = await fetch(url);
-      const manifest = await response.json();
-      results.push({ url, manifest });
+      if (url) {
+        console.log('Fetching manifest ', url);
+        const response = await fetch(url);
+        const manifest = await response.json();
+        results.push({ url, manifest });
+      }
     } catch (error) {
       console.error(`Error fetching ${url}:`, error);
     }
@@ -112,39 +114,50 @@ const buildTagIndex = async () => {
 
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
-      let isPortrait;
-
-      if (w > 0 && h > 0)
-        isPortrait = w > h;
-
-      if (w === 0 && h === 0) {
-        const { width, height } = manifests.find(m => m.url === image.manifest);
-        isPortrait = width > height;
-      }
-
-      // TODO this could be made smarter - no need for full resolution
-      const path = 
-        // Image snippet
-        (w > 0 && h > 0) ? isPortrait ? `${x},${y},${w},${h}/,160/0/default.jpg` : `${x},${y},${w},${h}/160,/0/default.jpg` :
-        // Image as a whole
-        (w === 0 && h === 0) ? isPortrait ? `full/,160/0/default.jpg` : `full/160,/0/default.jpg` :
-        // Should never happen
-        undefined; 
-
-      if (path) {
-        const thumbnail = image.manifest.replace('info.json', path);
-
+      if (image.format === 'IMAGE') {
         return [...all, {
           type: 'IMAGE',
           // No annotation ID if this is image-level metadata
           id: (w > 0 && h > 0) ? id : undefined, 
           image: image.title,
           slug: image.slug,
-          thumbnail,
+          thumbnail: `/images/${image.slug}.jpg`,
           tags
         }];
       } else {
-        return all;
+        let isPortrait;
+
+        if (w > 0 && h > 0)
+          isPortrait = w > h;
+
+        if (w === 0 && h === 0) {
+          const { width, height } = manifests.find(m => m.url === image.manifest);
+          isPortrait = width > height;
+        }
+
+        const path = 
+          // Image snippet
+          (w > 0 && h > 0) ? isPortrait ? `${x},${y},${w},${h}/,160/0/default.jpg` : `${x},${y},${w},${h}/160,/0/default.jpg` :
+          // Image as a whole
+          (w === 0 && h === 0) ? isPortrait ? `full/,160/0/default.jpg` : `full/160,/0/default.jpg` :
+          // Should never happen
+          undefined; 
+
+        if (path) {
+          const thumbnail = image.manifest.replace('info.json', path);
+
+          return [...all, {
+            type: 'IMAGE',
+            // No annotation ID if this is image-level metadata
+            id: (w > 0 && h > 0) ? id : undefined, 
+            image: image.title,
+            slug: image.slug,
+            thumbnail,
+            tags
+          }];
+        } else {
+          return all;
+        }
       }
     }, []);
 

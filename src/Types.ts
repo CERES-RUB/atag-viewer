@@ -6,7 +6,9 @@ export interface ImageMetadata {
 
   title: string;
 
-  manifest: string;
+  format: 'IIIF' | 'IMAGE',
+
+  manifest?: string;
 
   annotations: number;
 

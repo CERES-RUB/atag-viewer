@@ -51,7 +51,7 @@ export const ImageView = (props: ImageViewProps) => {
           <AnnotatedImage 
             annotations={annotations as W3CImageAnnotation[]} 
             highlightedSearchResult={highlightedSearchResult}
-            imageManifest={props.image.manifest}
+            image={props.image}
             searchResults={search} 
             onSelect={setSelected} 
             onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
