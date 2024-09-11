@@ -1,8 +1,8 @@
+import { useState } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
 import './Thumbnail.css';
 import 'react-loading-skeleton/dist/skeleton.css';
-import { useState } from 'react';
 
 interface ThumbnailProps {
 

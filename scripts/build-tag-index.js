@@ -121,7 +121,8 @@ const buildTagIndex = async () => {
           id: (w > 0 && h > 0) ? id : undefined, 
           image: image.title,
           slug: image.slug,
-          thumbnail: `/images/${image.slug}.jpg`,
+          // thumbnail: `/images/${image.slug}.jpg`,
+          thumbnail: `${id.replace('/annotation', '/api/annotation')}.jpg`,
           tags
         }];
       } else {
