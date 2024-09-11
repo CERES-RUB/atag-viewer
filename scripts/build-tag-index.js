@@ -34,7 +34,7 @@ const harvestThumbnails = async (annotations) => {
   const downloadOne = async (url) => {
     const uuid = url.split('/').pop();
     const imageURL = `https://recogito.pelagios.org/api/annotation/${uuid}.jpg`;
-    console.log('downloading ' + imageURL);
+    console.log('Downloading ' + imageURL);
 
     const fileName = path.basename(imageURL);
     const filePath = path.join(`./public/thumbnails`, fileName);
@@ -151,8 +151,7 @@ const buildTagIndex = async () => {
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
       if (image.format === 'IMAGE') {
-        console.log('Harvesting thumbnails...');
-
+        // console.log('Harvesting thumbnails...');
         // harvestThumbnails(w3c);
 
         const path = 
@@ -162,8 +161,6 @@ const buildTagIndex = async () => {
           (w === 0 && h === 0) ? `/images/${image.slug}.jpg` :
           // Should never happen
           undefined; 
-
-        console.log(path);
 
         return [...all, {
           type: 'IMAGE',
