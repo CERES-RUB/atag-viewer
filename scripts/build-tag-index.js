@@ -1,5 +1,6 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
+import path from 'path';
 
 const listImages = () => {
   const json = fs.readFileSync('./public/images.json');
@@ -25,6 +26,41 @@ const fetchManifests = (urls) => {
     
     return results;
   }), Promise.resolve([]));
+}
+
+const harvestThumbnails = async (annotations) => {
+  const urls = annotations.map(a => a.id);
+
+  const downloadOne = async (url) => {
+    const uuid = url.split('/').pop();
+    const imageURL = `https://recogito.pelagios.org/api/annotation/${uuid}.jpg`;
+    console.log('downloading ' + imageURL);
+
+    const fileName = path.basename(imageURL);
+    const filePath = path.join(`./public/thumbnails`, fileName);
+  
+    try {
+      const response = await fetch(imageURL);
+
+      if (!response.ok)
+        throw new Error(`HTTP error! status: ${response.status}`);
+      
+      const buffer = await response.arrayBuffer();
+      fs.writeFileSync(filePath, Buffer.from(buffer));
+
+      console.log(`Downloaded: ${fileName}`);
+    } catch (error) {
+      console.error(`Error downloading ${fileName}:`, error.message);
+    }
+  }
+
+  try {
+    for (const url of urls)
+      await downloadOne(url);
+  } catch (error) {
+    console.error('Error downloading thumbnails', error);
+  }
+
 }
 
 const listVerses = () => {
@@ -115,14 +151,28 @@ const buildTagIndex = async () => {
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
       if (image.format === 'IMAGE') {
+        console.log('Harvesting thumbnails...');
+
+        // harvestThumbnails(w3c);
+
+        const path = 
+          // Image snippet
+          (w > 0 && h > 0) ? `${id.replace('https://recogito.pelagios.org/annotation/', '/thumbnails/')}.jpg` :
+          // Image as a whole
+          (w === 0 && h === 0) ? `/images/${image.slug}.jpg` :
+          // Should never happen
+          undefined; 
+
+        console.log(path);
+
         return [...all, {
           type: 'IMAGE',
           // No annotation ID if this is image-level metadata
           id: (w > 0 && h > 0) ? id : undefined, 
           image: image.title,
           slug: image.slug,
-          // thumbnail: `/images/${image.slug}.jpg`,
-          thumbnail: `${id.replace('/annotation', '/api/annotation')}.jpg`,
+          // thumbnail: `${id.replace('/annotation', '/api/annotation')}.jpg`,
+          thumbnail: path,
           tags
         }];
       } else {
@@ -130,7 +180,7 @@ const buildTagIndex = async () => {
 
         if (w > 0 && h > 0)
           isPortrait = w > h;
-
+  
         if (w === 0 && h === 0) {
           const { width, height } = manifests.find(m => m.url === image.manifest);
           isPortrait = width > height;
