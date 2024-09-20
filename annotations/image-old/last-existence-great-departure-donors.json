@@ -1,0 +1,601 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/dbd87d87-bb3c-473f-a908-0a45a4afe337",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2629481206",
+    "value" : "great departure",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:02:08+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1671,1858,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0754a684-f4fa-494b-bce8-801b0138b5c1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:02:20+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:4012,1833,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/9fb68e3d-69eb-4c73-ba19-3a33797ac9c2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/8657474713",
+    "value" : "kaṇṭhaka",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:00:11+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4050802417",
+    "value" : "horse",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:00:11+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2424,1813,1624,1267"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6c193b46-fe35-4efb-8d96-2ef8a47b8383",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/646227285",
+    "value" : "semi-column and pilaster of the gandharan-corinthian type engaged",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:05+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:874,1848,734,1182"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/59c61895-12af-40f0-ac34-a9971e0f04f5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/646227285",
+    "value" : "semi-column and pilaster of the gandharan-corinthian type engaged",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:17+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:4052,1861,778,1167"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f81cb094-8a81-43bf-b49f-d40663e12a1f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1117759868",
+    "value" : "umbrella",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:01:09+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1991,1801,661,990"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f31c7f7c-76a9-45ee-ab24-8933b544b9dc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "ride",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:41+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1777814046",
+    "value" : "siddhārtha",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2335217424",
+    "value" : "bodhisattva",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:41+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:3013,1738,702,1091"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b0c33357-5fd8-400e-871e-bbf8605174e0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-05-07T12:48:31+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1760069348",
+    "value" : "yakṣa",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-05-07T12:48:31+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2430,2308,608,803"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e078cd67-e43e-45f4-a276-671562b569b1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "palm leaf",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:53+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:3714,1212,367,286"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/593dd17b-725b-4313-b878-d0638bdcaa8f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:06+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:06+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:06+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:06+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2374,703,1002,802"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/582d6bf9-fc47-4162-a870-e7ca18abb30c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "palm leaf",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:49+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1116,1219,360,264"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3818ecab-3a59-48e9-8a67-fe9acb313acb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold; stand; paridhāna",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-05-27T11:06:07+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3992811822",
+    "value" : "chandaka",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:01:02+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2507431234",
+    "value" : "long necklace",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:01:02+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "earrings",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:01:02+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "turban",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T15:01:02+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1653,1769,1059,1348"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ae0908ff-3077-49cf-a9c0-f8d5672e553c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "nimbus",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:59:49+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:3157,1769,608,474"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/8490738d-285f-4202-b379-41b6fc542b08",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/606471797",
+    "value" : "net with oblique lines",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-05-07T12:50:06+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:944,1481,4082,445"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2cc47270-0e48-48ac-ad67-7c7986d79fc2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:57:50+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:57:50+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:57:50+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:57:50+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1152,795,873,675"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ade13ab0-9456-440f-ae53-1deabdee2d5f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "palm leaf",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:40+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2408,1168,359,323"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c8a09ecb-69be-4877-9f5c-1954912d5349",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:06:17+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:27+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:27+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:27+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-12-08T14:58:27+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1730317%3A915009",
+    "type" : "Image",
+    "label" : "DMC796-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:3721,860,1013,667"
+    } ]
+  }
+} ]

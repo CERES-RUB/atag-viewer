@@ -1,0 +1,99 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ac0e45d1-d979-462d-81ad-5e00420b333a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:03:48+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2629481206",
+    "value" : "great departure",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-10-06T14:56:24+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1741744%3A922395",
+    "type" : "Image",
+    "label" : "DMC253-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2358,1615,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/97e40682-baf5-45dd-a3e3-e905bf80304c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:03:48+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "hold",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-11-23T16:02:49+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1760069348",
+    "value" : "yakṣa",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-09-01T03:54:11+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1741744%3A922395",
+    "type" : "Image",
+    "label" : "DMC253-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2453,1441,1206,711"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7ffc3e72-f708-49cb-8153-5975f2093396",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-06-19T11:03:48+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "horse",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-09-01T03:54:27+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "hoof",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2023-09-01T03:54:27+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://heidicon.ub.uni-heidelberg.de/iiif/2/1741744%3A922395",
+    "type" : "Image",
+    "label" : "DMC253-1",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:2433,1324,731,763"
+    } ]
+  }
+} ]
