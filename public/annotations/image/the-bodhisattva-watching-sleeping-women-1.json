@@ -1,34 +1,5 @@
 [ {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/d716aec1-e480-4d92-b381-3e1df31df64b",
-  "type" : "Annotation",
-  "generator" : {
-    "id" : "https://recogito.pelagios.org/",
-    "type" : "Software",
-    "name" : "Recogito",
-    "homepage" : "https://recogito.pelagios.org/"
-  },
-  "generated" : "2024-09-10T13:01:07+00:00",
-  "body" : [ {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/465678417",
-    "value" : "turban (headdress)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:37:36+00:00",
-    "purpose" : "tagging"
-  } ],
-  "target" : {
-    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
-    "type" : "Image",
-    "label" : "1900,0414.1.jpg",
-    "selector" : [ {
-      "type" : "FragmentSelector",
-      "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:769,435,293,297"
-    } ]
-  }
-}, {
-  "@context" : "http://www.w3.org/ns/anno.jsonld",
   "id" : "https://recogito.pelagios.org/annotation/5d1aace9-00d9-437a-a85e-bec07167b14e",
   "type" : "Annotation",
   "generator" : {
@@ -37,7 +8,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/678702193",
@@ -58,7 +29,7 @@
   }
 }, {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/091fbbbe-6ecd-42f6-8704-79b84bfac959",
+  "id" : "https://recogito.pelagios.org/annotation/d716aec1-e480-4d92-b381-3e1df31df64b",
   "type" : "Annotation",
   "generator" : {
     "id" : "https://recogito.pelagios.org/",
@@ -66,13 +37,13 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/1333564173",
-    "value" : "lamp stand with twisted shaft (lamp stand)",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
     "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:33+00:00",
+    "modified" : "2024-09-10T09:37:36+00:00",
     "purpose" : "tagging"
   } ],
   "target" : {
@@ -82,12 +53,12 @@
     "selector" : [ {
       "type" : "FragmentSelector",
       "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1331,356,283,308"
+      "value" : "xywh=pixel:769,435,293,297"
     } ]
   }
 }, {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/c695256f-5b2e-454b-90b5-2eb63e3649a5",
+  "id" : "https://recogito.pelagios.org/annotation/d5362ad3-24c7-493c-b1a7-f3f4dcfdfbbd",
   "type" : "Annotation",
   "generator" : {
     "id" : "https://recogito.pelagios.org/",
@@ -95,13 +66,42 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1103780412",
+    "value" : "barrel drum with v-crossed straps (barrel drum)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:39:04+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
+    "type" : "Image",
+    "label" : "1900,0414.1.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1423,884,201,517"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d5f57e6d-8a0e-4c09-a77b-ea32306a96ce",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/4108258719",
     "value" : "pillow (bed)",
     "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:50+00:00",
+    "modified" : "2024-09-10T09:40:35+00:00",
     "purpose" : "tagging"
   } ],
   "target" : {
@@ -111,165 +111,7 @@
     "selector" : [ {
       "type" : "FragmentSelector",
       "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1604,684,249,180"
-    } ]
-  }
-}, {
-  "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/588867c9-3038-4d97-840a-c9c6efd56993",
-  "type" : "Annotation",
-  "generator" : {
-    "id" : "https://recogito.pelagios.org/",
-    "type" : "Software",
-    "name" : "Recogito",
-    "homepage" : "https://recogito.pelagios.org/"
-  },
-  "generated" : "2024-09-10T13:01:07+00:00",
-  "body" : [ {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/1245465292",
-    "value" : "the bodhisattva watching sleeping women  (the great renunciation)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:41:30+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/503776940",
-    "value" : "preparation for the great departure (renunciation to princely life)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:41:30+00:00",
-    "purpose" : "tagging"
-  } ],
-  "target" : {
-    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
-    "type" : "Image",
-    "label" : "1900,0414.1.jpg",
-    "selector" : [ {
-      "type" : "FragmentSelector",
-      "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:505,342,1441,1069"
-    } ]
-  }
-}, {
-  "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/ea05984e-b7ab-4fe7-8b71-be22d7536be3",
-  "type" : "Annotation",
-  "generator" : {
-    "id" : "https://recogito.pelagios.org/",
-    "type" : "Software",
-    "name" : "Recogito",
-    "homepage" : "https://recogito.pelagios.org/"
-  },
-  "generated" : "2024-09-10T13:01:07+00:00",
-  "body" : [ {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/4254538884",
-    "value" : "female guardian (generic persons)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/1992503813",
-    "value" : "hold (actions)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/929338965",
-    "value" : "uttarīya (clothes and accessories)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/3497837747",
-    "value" : "earring (indian type ornaments)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/2637100593",
-    "value" : "sleep (actions)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  }, {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/2747531260",
-    "value" : "standing position (body position)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:01+00:00",
-    "purpose" : "tagging"
-  } ],
-  "target" : {
-    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
-    "type" : "Image",
-    "label" : "1900,0414.1.jpg",
-    "selector" : [ {
-      "type" : "FragmentSelector",
-      "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1541,356,376,596"
-    } ]
-  }
-}, {
-  "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/c63663be-faf3-415b-a7db-009a46c000b4",
-  "type" : "Annotation",
-  "generator" : {
-    "id" : "https://recogito.pelagios.org/",
-    "type" : "Software",
-    "name" : "Recogito",
-    "homepage" : "https://recogito.pelagios.org/"
-  },
-  "generated" : "2024-09-10T13:01:07+00:00",
-  "body" : [ {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/3617678015",
-    "value" : "kapilavastu (locality)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:26:49+00:00",
-    "purpose" : "tagging"
-  } ],
-  "target" : {
-    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
-    "type" : "Image",
-    "label" : "1900,0414.1.jpg",
-    "selector" : [ {
-      "type" : "FragmentSelector",
-      "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1838,405,0,0"
-    } ]
-  }
-}, {
-  "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/31e76bcf-ce99-4fd8-8815-7b499615b568",
-  "type" : "Annotation",
-  "generator" : {
-    "id" : "https://recogito.pelagios.org/",
-    "type" : "Software",
-    "name" : "Recogito",
-    "homepage" : "https://recogito.pelagios.org/"
-  },
-  "generated" : "2024-09-10T13:01:07+00:00",
-  "body" : [ {
-    "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/1999355705",
-    "value" : "spear (armed classical type with long tunic overtunic helmet and spear)",
-    "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:29:09+00:00",
-    "purpose" : "tagging"
-  } ],
-  "target" : {
-    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
-    "type" : "Image",
-    "label" : "1900,0414.1.jpg",
-    "selector" : [ {
-      "type" : "FragmentSelector",
-      "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1550,371,152,288"
+      "value" : "xywh=pixel:505,1064,205,323"
     } ]
   }
 }, {
@@ -282,7 +124,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/1889534393",
@@ -353,7 +195,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/1889534393",
@@ -402,7 +244,7 @@
   }
 }, {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/d5362ad3-24c7-493c-b1a7-f3f4dcfdfbbd",
+  "id" : "https://recogito.pelagios.org/annotation/ea05984e-b7ab-4fe7-8b71-be22d7536be3",
   "type" : "Annotation",
   "generator" : {
     "id" : "https://recogito.pelagios.org/",
@@ -410,13 +252,48 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
-    "id" : "https://w3id.org/diga/terms/1103780412",
-    "value" : "barrel drum with v-crossed straps (barrel drum)",
+    "id" : "https://w3id.org/diga/terms/4254538884",
+    "value" : "female guardian (generic persons)",
     "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:39:04+00:00",
+    "modified" : "2024-09-10T09:29:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3497837747",
+    "value" : "earring (indian type ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2637100593",
+    "value" : "sleep (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:01+00:00",
     "purpose" : "tagging"
   } ],
   "target" : {
@@ -426,12 +303,12 @@
     "selector" : [ {
       "type" : "FragmentSelector",
       "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:1423,884,201,517"
+      "value" : "xywh=pixel:1541,356,376,596"
     } ]
   }
 }, {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
-  "id" : "https://recogito.pelagios.org/annotation/d5f57e6d-8a0e-4c09-a77b-ea32306a96ce",
+  "id" : "https://recogito.pelagios.org/annotation/31e76bcf-ce99-4fd8-8815-7b499615b568",
   "type" : "Annotation",
   "generator" : {
     "id" : "https://recogito.pelagios.org/",
@@ -439,13 +316,100 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1999355705",
+    "value" : "spear (armed classical type with long tunic overtunic helmet and spear)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:09+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
+    "type" : "Image",
+    "label" : "1900,0414.1.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1550,371,152,288"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c63663be-faf3-415b-a7db-009a46c000b4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:04:18+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:26:49+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
+    "type" : "Image",
+    "label" : "1900,0414.1.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1838,405,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/091fbbbe-6ecd-42f6-8704-79b84bfac959",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:04:18+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1333564173",
+    "value" : "lamp stand with twisted shaft (lamp stand)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:29:33+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
+    "type" : "Image",
+    "label" : "1900,0414.1.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1331,356,283,308"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c695256f-5b2e-454b-90b5-2eb63e3649a5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/4108258719",
     "value" : "pillow (bed)",
     "creator" : "https://recogito.pelagios.org/DiGA",
-    "modified" : "2024-09-10T09:40:35+00:00",
+    "modified" : "2024-09-10T09:29:50+00:00",
     "purpose" : "tagging"
   } ],
   "target" : {
@@ -455,7 +419,43 @@
     "selector" : [ {
       "type" : "FragmentSelector",
       "conformsTo" : "http://www.w3.org/TR/media-frags/",
-      "value" : "xywh=pixel:505,1064,205,323"
+      "value" : "xywh=pixel:1604,684,249,180"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/588867c9-3038-4d97-840a-c9c6efd56993",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:04:18+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1245465292",
+    "value" : "the bodhisattva watching sleeping women  (the great renunciation)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:41:30+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/503776940",
+    "value" : "preparation for the great departure (renunciation to princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-10T09:41:30+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/bc3b97f8-5904-4911-b500-acb3464ce988",
+    "type" : "Image",
+    "label" : "1900,0414.1.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:505,342,1441,1069"
     } ]
   }
 }, {
@@ -468,7 +468,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/3992811822",
@@ -539,7 +539,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/1777814046",
@@ -617,7 +617,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/3445780301",
@@ -674,7 +674,7 @@
     "name" : "Recogito",
     "homepage" : "https://recogito.pelagios.org/"
   },
-  "generated" : "2024-09-10T13:01:07+00:00",
+  "generated" : "2024-09-20T14:04:18+00:00",
   "body" : [ {
     "type" : "TextualBody",
     "id" : "https://w3id.org/diga/terms/1889534393",
