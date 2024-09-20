@@ -33,24 +33,30 @@ const harvestThumbnails = async (annotations) => {
 
   const downloadOne = async (url) => {
     const uuid = url.split('/').pop();
+
     const imageURL = `https://recogito.pelagios.org/api/annotation/${uuid}.jpg`;
-    console.log('Downloading ' + imageURL);
 
     const fileName = path.basename(imageURL);
     const filePath = path.join(`./public/thumbnails`, fileName);
-  
-    try {
-      const response = await fetch(imageURL);
 
-      if (!response.ok)
-        throw new Error(`HTTP error! status: ${response.status}`);
-      
-      const buffer = await response.arrayBuffer();
-      fs.writeFileSync(filePath, Buffer.from(buffer));
+    if (!fs.existsSync(filePath)) {
+      console.log('Downloading ' + imageURL);
 
-      console.log(`Downloaded: ${fileName}`);
-    } catch (error) {
-      console.error(`Error downloading ${fileName}:`, error.message);
+      try {
+        const response = await fetch(imageURL);
+
+        if (!response.ok)
+          throw new Error(`HTTP error! status: ${response.status}`);
+        
+        const buffer = await response.arrayBuffer();
+        fs.writeFileSync(filePath, Buffer.from(buffer));
+
+        console.log(`Downloaded: ${fileName}`);
+      } catch (error) {
+        console.error(`Error downloading ${fileName}:`, error.message);
+      }
+    } else {
+      // console.log('Already downloaded - skipping');
     }
   }
 
@@ -151,8 +157,8 @@ const buildTagIndex = async () => {
       const { x, y, w, h } = parseFragmentSelector(annotation.target.selector[0].value);
 
       if (image.format === 'IMAGE') {
-        // console.log('Harvesting thumbnails...');
-        // harvestThumbnails(w3c);
+        console.log('Harvesting thumbnails...');
+        harvestThumbnails(w3c);
 
         const path = 
           // Image snippet

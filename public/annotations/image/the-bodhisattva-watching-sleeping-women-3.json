@@ -1,0 +1,776 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/770530d2-4d3c-4276-9c00-7e6e41f6c6e3",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3617678015",
+    "value" : "kapilavastu (locality)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T08:53:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/6165356636",
+    "value" : "palace (civil architecture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T08:53:52+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1029,106,0,0"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0ac9d13d-77cb-4180-895a-aa083400e2b5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2301477931",
+    "value" : "musician (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/986425314",
+    "value" : "sit (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2637100593",
+    "value" : "sleep (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2598975042",
+    "value" : "wreath (hair with large wreath)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1131561900",
+    "value" : "anklet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:22+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:660,471,183,223"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0a048c67-f62f-4fa6-8b2f-c7a3151366b5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3053207960",
+    "value" : "double barrel drum resting on ground (membranophones)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:07:48+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:761,594,71,89"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7d9899c7-fe3e-4fdb-83d5-60de41f99b69",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1335842648",
+    "value" : "footstool (furniture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:14+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:513,606,94,80"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d4b1e7c8-1745-41eb-9b5d-28d6981918e4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1597736316",
+    "value" : "generic deities spirits mythological figures (figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:16:13+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:317,21,604,239"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2148ccc2-16da-4e01-bc07-320bf815e0a8",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1597736316",
+    "value" : "generic deities spirits mythological figures (figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:15:21+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:647,194,150,190"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a39ab069-9bea-48d4-a6cb-3094e02e475a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2712883067",
+    "value" : "semi-divine figure with shawl arching over the head (generic deities spirits mythological figures)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:15:33+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:539,30,225,183"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fae5b76a-7371-45a9-b673-bc804417d7af",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4254538884",
+    "value" : "female guardian (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:04:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:04:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2637100593",
+    "value" : "sleep (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:04:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2480491321",
+    "value" : "dress with dhotī and sleeved tunic (female indian type dress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:04:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1131561900",
+    "value" : "anklet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:04:39+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:190,207,194,476"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6b138f89-5baf-4dee-aed8-d98ceb57de6f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/8657474713",
+    "value" : "kaṇṭhaka (animal characters)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:12:31+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4050802417",
+    "value" : "horse (mammals)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:12:31+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2563622788",
+    "value" : "plume (harness for horse)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:12:31+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:394,236,186,239"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c4751674-7759-469b-b71a-282e813cde33",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/397870209",
+    "value" : "male figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:02+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:597,598,89,88"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/52717f9a-ab74-4147-ae4b-372c49b97bdf",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/465678417",
+    "value" : "turban (headdress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:13:04+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:489,326,101,103"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5d3f887c-ac0d-4d03-a0c3-2bdf17e4bc25",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3269212881",
+    "value" : "weapons",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:55+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:998,228,74,468"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4c966a6c-dfcb-4889-976b-3aa720889b56",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1777814046",
+    "value" : "siddhārtha (bodhisattva)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:16+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/986425314",
+    "value" : "sit (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:16+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/932459847",
+    "value" : "nimbus (buddha's nimbus and body-halo)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:16+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4177943468",
+    "value" : "long necklace with one or multiple strands (long necklace)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:54+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/929338965",
+    "value" : "uttarīya (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:54+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/9488987530",
+    "value" : "paridhāna (clothes and accessories)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:11:54+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:523,214,200,407"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ea6130a3-0d8b-4429-879f-afe7b058ef5d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1889534393",
+    "value" : "female figure (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2301477931",
+    "value" : "musician (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/986425314",
+    "value" : "sit (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2637100593",
+    "value" : "sleep (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2598975042",
+    "value" : "wreath (hair with large wreath)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:08:51+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:409,469,145,214"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/006df041-eb17-4b4f-84a9-b537cc570762",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/678702193",
+    "value" : "bed (furniture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:09:04+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1955745267",
+    "value" : "turned leg (bed)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:09:04+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/824889805",
+    "value" : "mattress (bed)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:09:19+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/252491446",
+    "value" : "drape (bed)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:09:19+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:395,448,463,240"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f1333e58-8da2-4b8c-bcb3-e1c44349bbbf",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/3992811822",
+    "value" : "chandaka (human beings)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:12:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:13:19+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2531049704",
+    "value" : "bring (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:13:19+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:453,239,145,225"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1aabb47d-3cd0-4510-af7e-c719ddc6f96b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1640017418",
+    "value" : "pavilion rectangular in plan with barrel vault on columns (civil architecture)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:28:20+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:188,60,916,654"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/38c1646d-c7a6-49a7-8c44-59a9c5c35bbe",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/4254538884",
+    "value" : "female guardian (generic persons)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2747531260",
+    "value" : "standing position (body position)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2637100593",
+    "value" : "sleep (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/2480491321",
+    "value" : "dress with dhotī and sleeved tunic (female indian type dress)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1131561900",
+    "value" : "anklet (jewels and ornaments)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1992503813",
+    "value" : "hold (actions)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:03:17+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:883,231,170,467"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7fb6f01a-8ba4-4529-9ec3-01c9a5410383",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-09-20T14:07:30+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/1245465292",
+    "value" : "the bodhisattva watching sleeping women  (the great renunciation)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:28:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "id" : "https://w3id.org/diga/terms/503776940",
+    "value" : "preparation for the great departure (renunciation to princely life)",
+    "creator" : "https://recogito.pelagios.org/DiGA",
+    "modified" : "2024-09-20T09:28:41+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/961d8aae-7600-4860-8752-4fd563a6f9e6",
+    "type" : "Image",
+    "label" : "I 5937.jpg",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:136,9,996,745"
+    } ]
+  }
+} ]
