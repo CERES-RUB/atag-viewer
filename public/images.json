@@ -2,35 +2,89 @@
   "slug": "siddhartha-in-the-womens-quarter-chambers-1",
   "format": "IIIF",
   "title": "Siddhārtha in the women's quarter/chambers",
-  "credits": "© Victoria and Albert Museum, London (M.218-1913)",
-  "manifest": "https://framemark.vam.ac.uk/collections/2021MY2650/info.json"
+  "credits": "© Victoria and Albert Museum, London (IM.218-1913)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Gandhara",
+  "dimensions": "H. 37 cm x L. 21.5 cm",
+  "source": "https://collections.vam.ac.uk/item/O87068/relief-unknown/",
+  "manifest": "https://framemark.vam.ac.uk/collections/2021MY2650/info.json",
+  "recogito": "https://recogito.pelagios.org/document/njgaqdbh8c3uce"
+},{
+  "slug": "siddhartha-in-the-womens-quarter-chambers-2",
+  "format": "IMAGE",
+  "title": "Siddhārtha in the women's quarter/chambers",
+  "credits": "© The Trustees of the British Museum (1889,0703.4)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Gandhara",
+  "dimensions": "H. 21 cm x L. 16 cm x W. 6.30 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1889-0703-4",
+  "recogito": "https://recogito.pelagios.org/document/pocudeneicstjc"
+},{
+  "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+  "format": "IMAGE",
+  "title": "Siddhārtha in the women's quarter/chambers",
+  "credits": "© The Trustees of the British Museum (1917,1009.5)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Gandhara",
+  "dimensions": "H. 22.90 cm x L. 78 cm x W. 7.90 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1917-1009-5",
+  "recogito": "https://recogito.pelagios.org/document/u6qeszxrtd0wnq"
+},{
+  "slug": "the-bodhisattva-watching-sleeping-women-2",
+  "format": "IMAGE",
+  "title": "The Bodhisattva watching sleeping women",
+  "credits": "© The Trustees of the British Museum (1900,0414.12)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Takht-i-bahi",
+  "dimensions": "H. 17 cm x L. 27.50 cm x W. 5.50 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1900-0414-12",
+  "recogito": "https://recogito.pelagios.org/document/bqans9fwx1vf2d"
+},{
+  "slug": "the-bodhisattva-watching-sleeping-women-1",
+  "format": "IMAGE",
+  "title": "The Bodhisattva watching sleeping women; Preparation for the great departure",
+  "credits": "© The Trustees of the British Museum (1900,0414.1)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Takht-i-bahi",
+  "dimensions": "H. 26 cm x L. 46.70 cm x W. 6.50 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1900-0414-1",
+  "recogito": "https://recogito.pelagios.org/document/3jhvomvice7za2"
+},{
+  "slug": "the-bodhisattva-watching-sleeping-women-3",
+  "format": "IMAGE",
+  "title": "The Bodhisattva watching sleeping women; Preparation for the great departure",
+  "credits": "© Staatliche Museen zu Berlin, Museum für Asiatische Kunst / Susanna Schulz (I 5937)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Gandhara",
+  "dimensions": "H. 26.3 cm x L. 34.2 cm x W. 6 cm",
+  "source": "https://id.smb.museum/object/1713994/erz%C3%A4hlende-szene-die-weltflucht-des-prinzen-siddhartha---aufbruch-aus-dem-harem-abhinishkramana",
+  "recogito": "https://recogito.pelagios.org/document/gpzfavfs8j8zwj"
+},{
+  "slug": "the-great-renunciation",
+  "format": "IMAGE",
+  "title": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+  "credits": "© The Trustees of the British Museum (1880.359)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Jamalgarhi",
+  "dimensions": "H. 34 cm x L. 27.60 x cm x 4 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1880-359",
+  "recogito": "https://recogito.pelagios.org/document/0xljobmy5yw6px"
+},{
+  "slug": "the-great-departure-1",
+  "format": "IMAGE",
+  "title": "The great departure",
+  "credits": "© The Trustees of the British Museum (1913,1108.2)",
+  "license": "CC Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC SA 4.0)",
+  "provenance": "Gandhara",
+  "dimensions": "H. 17.40 cm x L. 16.20 cm x W. 5.10 cm",
+  "source": "https://www.britishmuseum.org/collection/object/A_1913-1108-2",
+  "recogito": "https://recogito.pelagios.org/document/bjv5vsgrkqtlnx"
 },{
   "slug": "the-great-departure-gift-of-the-courtesan",
   "format": "IIIF",
   "title": "The great departure; Gift of the courtesan",
   "credits": "© Victoria and Albert Museum, London (IS.2-1945)",
   "manifest": "https://framemark.vam.ac.uk/collections/2018KW9592/info.json"
-},{
-  "slug": "the-great-departure-1",
-  "format": "IMAGE",
-  "title": "The great departure",
-  "credits": "© The Trustees of the British Museum (1913,1108.2)"
-},{
-  "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-  "format": "IMAGE",
-  "title": "Siddhārtha in the women's quarter/chambers",
-  "credits": "© The Trustees of the British Museum (1889,0703.4)"
-},{
-  "slug": "the-bodhisattva-watching-sleeping-women-1",
-  "format": "IMAGE",
-  "title": "The Bodhisattva watching sleeping women",
-  "credits": "© The Trustees of the British Museum (1900,0414.1)",
-  "recogito": "https://recogito.pelagios.org/document/3jhvomvice7za2"
-},{
-  "slug": "the-bodhisattva-watching-sleeping-women-2",
-  "format": "IMAGE",
-  "title": "The Bodhisattva watching sleeping women",
-  "credits": "© The Trustees of the British Museum (1900,0414.12)"
 },{
   "slug": "the-great-departure-2",
   "format": "IMAGE",
@@ -43,22 +97,6 @@
   "credits": "© Victoria and Albert Museum, London (IM.30-1935)",
   "manifest": "https://framemark.vam.ac.uk/collections/2009CA5345/info.json"
 },{
-  "slug": "siddhartha-in-the-womens-quarter-chambers-3",
-  "format": "IMAGE",
-  "title": "Siddhārtha in the women's quarter/chambers",
-  "credits": "© The Trustees of the British Museum (1917,1009.5)"
-},{
-  "slug": "the-great-renunciation",
-  "format": "IMAGE",
-  "title": "The great renunciation",
-  "credits": "© The Trustees of the British Museum (1880.359)"
-}, {
-  "slug": "the-bodhisattva-watching-sleeping-women-3",
-  "format": "IMAGE",
-  "title": "The Bodhisattva watching sleeping women; Preparation for the great departure",
-  "credits": "© Staatliche Museen zu Berlin, Museum für Asiatische Kunst / Susanna Schulz (I 5937)",
-  "recogito": "https://recogito.pelagios.org/document/gpzfavfs8j8zwj"
-}, {
   "slug": "the-great-departure-4",
   "format": "IMAGE",
   "title": "The great departure",
