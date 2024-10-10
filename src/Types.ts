@@ -2,15 +2,27 @@ import type { Annotation } from '@annotorious/react';
 
 export interface ImageMetadata {
 
-  slug: string;
+  annotations: number;
 
-  title: string;
+  credits: string;
 
-  format: 'IIIF' | 'IMAGE',
+  dimensions: string;
+
+  format: 'IIIF' | 'IMAGE';
+
+  license: string;
 
   manifest?: string;
 
-  annotations: number;
+  provenance: string;
+
+  recogito: string;
+
+  slug: string;
+
+  source: string;
+
+  title: string;
 
 }
 
