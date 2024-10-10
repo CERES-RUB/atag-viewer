@@ -91,6 +91,10 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
                     <SquareArrowOutUpRight size={16} />
                   </a>
                 </div>
+
+                <div className="license">
+                  {meta.license}
+                </div>
               </p>
 						</li>
 					))}
