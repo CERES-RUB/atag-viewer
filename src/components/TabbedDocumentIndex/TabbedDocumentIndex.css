@@ -36,6 +36,17 @@
   color: var(--gray-300);
 }
 
+.tabbed-document-index .tabs-content li,
+.tabbed-document-index .tabs-content li p {
+  line-height: 160%;
+  margin: 0;
+  padding: 0;
+}
+
+.tabbed-document-index .tabs-content li + li {
+  padding-top: 1rem;
+}
+
 .tabbed-document-index .work-in-progress {
   background-color: #909090;
   border-radius: 3px;
@@ -45,4 +56,9 @@
   font-weight: 500;
   margin-left: 0.5rem;
   padding: 0.125rem 0.325rem;
+}
+
+.tabbed-document-index .credits a {
+  padding-left: 0.25rem;
+  vertical-align: middle;
 }
