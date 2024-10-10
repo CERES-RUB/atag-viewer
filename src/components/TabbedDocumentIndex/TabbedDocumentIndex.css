@@ -62,3 +62,7 @@
   padding-left: 0.25rem;
   vertical-align: middle;
 }
+
+.tabbed-document-index .license {
+  font-size: 0.875rem;
+}
