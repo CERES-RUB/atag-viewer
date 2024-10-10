@@ -55,8 +55,6 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
 
   const { images, verses } = useRelated(selected);
 
-  console.log(props.image);
-
   const options = useMemo(() => ({
     prefixUrl: 'https://cdn.jsdelivr.net/npm/openseadragon@3.1/build/openseadragon/images/',
     tileSources: props.image.format === 'IIIF' 

@@ -1,0 +1,12 @@
+.image-metadata-overlay {
+  background-color: #fff;
+  bottom: 20px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.image-metadata-overlay * {
+  margin: 0;
+  white-space: nowrap;
+}

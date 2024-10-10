@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { animated, easings, useTransition } from 'react-spring';
+import { animated, easings, useTransition } from '@react-spring/web';
 import { ChevronDown, ChevronUp, Search, X } from 'lucide-react';
 import { useAnnotations } from '@annotorious/react';
 import type { Annotation } from '@annotorious/react';

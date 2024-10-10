@@ -7,6 +7,7 @@ import { RelatedImages } from '@components/RelatedImages';
 import { RelatedVerses } from '@components/RelatedVerses';
 import { useAnnotations, useLocalStoreState } from '@lib/hooks';
 import { AnnotatedImage } from './AnnotatedImage';
+import { MetadataOverlay } from './MetadataOverlay';
 import type { ImageMetadata, Selected } from 'src/Types';
 
 import './ImageView.css';
@@ -56,6 +57,9 @@ export const ImageView = (props: ImageViewProps) => {
             onSelect={setSelected} 
             onOpenRelatedImages={() => setRelatedImagesPanelOpen(true)} 
             onOpenRelatedVerses={() => setRelatedVersesPanelOpen(true)} />
+
+          <MetadataOverlay
+            image={props.image} />
         </main>
 
         <RelatedVerses 
