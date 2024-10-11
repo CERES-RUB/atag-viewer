@@ -1,6 +1,6 @@
 import { useLayoutEffect, useMemo, useState } from 'react';
 import type { Annotation } from '@annotorious/react';
-import { animated, easings, useTransition } from 'react-spring';
+import { animated, easings, useTransition } from '@react-spring/web';
 import { X } from 'lucide-react';
 import { useThesaurus } from '@lib/hooks';
 import { getTags, groupByOverlap } from '@lib/utils';

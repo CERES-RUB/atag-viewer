@@ -3,6 +3,7 @@ import * as Tabs from '@radix-ui/react-tabs';
 import type { ImageMetadata, VerseMetadata } from 'src/Types';
 
 import './TabbedDocumentIndex.css';
+import { SquareArrowOutUpRight } from 'lucide-react';
 
 interface TabbedDocumentIndexProps {
 
@@ -75,10 +76,26 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
         <ul>
           {images.map(meta => (
 						<li key={meta.slug}>
-							<a href={`image/${meta.slug}`}>{meta.title}</a>
-              {meta.annotations === 0 && (
-                <span className="work-in-progress">WORK IN PROGRESS</span>
-              )}
+              <p>
+                <div>
+                  <a href={`image/${meta.slug}`}>{meta.title}</a>
+                  {meta.annotations === 0 && (
+                    <span className="work-in-progress">WORK IN PROGRESS</span>
+                  )}
+                </div>
+
+                <div className="credits">
+                  <span>{meta.credits}</span>
+
+                  <a href={meta.source} target="_blank">
+                    <SquareArrowOutUpRight size={16} />
+                  </a>
+                </div>
+
+                <div className="license">
+                  {meta.license}
+                </div>
+              </p>
 						</li>
 					))}
         </ul>

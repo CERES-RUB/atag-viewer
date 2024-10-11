@@ -7,10 +7,24 @@ export const listImages = () => {
   // Metadata without annotation count
   const images = JSON.parse(json.toString()) as Partial<ImageMetadata>[];
 
-  return images.map(({ title, format, slug, manifest }) => {
-    const json = fs.readFileSync(`./public/annotations/image/${slug}.json`);
+  return images.map(data => {
+    const json = fs.readFileSync(`./public/annotations/image/${data.slug}.json`);
+
     const annotations = JSON.parse(json.toString()).length;
-    return { title, format, slug, manifest, annotations } as ImageMetadata;
+
+    return { 
+      annotations,
+      credits: data.credits,
+      dimensions: data.dimensions,
+      format: data.format, 
+      license: data.license,
+      manifest: data.manifest,
+      provenance: data.provenance,
+      recogito: data.recogito,
+      slug: data.slug,
+      source: data.source,
+      title: data.title 
+    } as ImageMetadata;
   });
 }
 
