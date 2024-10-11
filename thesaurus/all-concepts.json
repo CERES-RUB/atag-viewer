@@ -670,6 +670,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/2489600691",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2489600691",
+    "prefLabel": "bull",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2763341675",
     "type": [
       "skos:Concept"
@@ -1246,6 +1256,16 @@
     ],
     "localname": "3600660368",
     "prefLabel": "snake",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/7671276655",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "7671276655",
+    "prefLabel": "sparrow",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -2340,11 +2360,11 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/c_1fb87ac3",
+    "uri": "https://w3id.org/diga/terms/9328856880",
     "type": [
       "skos:Concept"
     ],
-    "localname": "c_1fb87ac3",
+    "localname": "9328856880",
     "prefLabel": "akaniṣṭha",
     "lang": "en",
     "vocab": "thesaurus"
@@ -2940,6 +2960,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/2789027545",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2789027545",
+    "prefLabel": "cakravartin",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/4238358539",
     "type": [
       "skos:Concept"
@@ -2990,16 +3020,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/2789027545",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2789027545",
-    "prefLabel": "chakravartin",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/3992811822",
     "type": [
       "skos:Concept"
@@ -3016,6 +3036,16 @@
     ],
     "localname": "1113409695",
     "prefLabel": "child with short tunic of exomis type",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3399357221",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3399357221",
+    "prefLabel": "clan name",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -4560,6 +4590,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/6396883316",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "6396883316",
+    "prefLabel": "hair pulled up in a large globular knot",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2456913459",
     "type": [
       "skos:Concept"
@@ -5776,6 +5816,16 @@
     ],
     "localname": "3540965156",
     "prefLabel": "mantle with right shoulder exposed",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/5977241918",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "5977241918",
+    "prefLabel": "maruts",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -7365,7 +7415,7 @@
       "skos:Concept"
     ],
     "localname": "3430105774",
-    "prefLabel": "subhadrā",
+    "prefLabel": "subhadra",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -8410,6 +8460,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/2082004976",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2082004976",
+    "prefLabel": "śākya",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1859713301",
     "type": [
       "skos:Concept"
@@ -9000,26 +9060,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/164355721",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "164355721",
-    "prefLabel": "bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/1095712886",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1095712886",
-    "prefLabel": "bracket-spacer",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/4160394208",
     "type": [
       "skos:Concept"
@@ -9146,16 +9186,6 @@
     ],
     "localname": "2140676991",
     "prefLabel": "carinated arch",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/1885334734",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1885334734",
-    "prefLabel": "carinated corner bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -9370,16 +9400,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/1526311401",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1526311401",
-    "prefLabel": "convex cut groove of bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/2780874543",
     "type": [
       "skos:Concept"
@@ -9500,26 +9520,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/577441110",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "577441110",
-    "prefLabel": "cornice with figured stepped pyramid",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/753322088",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "753322088",
-    "prefLabel": "cornice with stepped pyramids",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/8266133831",
     "type": [
       "skos:Concept"
@@ -9560,16 +9560,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/3080511734",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3080511734",
-    "prefLabel": "cut groove of bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/3832497836",
     "type": [
       "skos:Concept"
@@ -9600,16 +9590,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/424208396",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "424208396",
-    "prefLabel": "cyma reversa bracket with vertical [central] groove",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/3725792072",
     "type": [
       "skos:Concept"
@@ -9620,42 +9600,12 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/572250512",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "572250512",
-    "prefLabel": "decorated bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/2079283212",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2079283212",
-    "prefLabel": "decorated bracket with leonine protome",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/1228094629",
     "type": [
       "skos:Concept"
     ],
     "localname": "1228094629",
     "prefLabel": "decorated zoomorphic bell-like capital of the gandharan-persepolitan type",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/2290592830",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2290592830",
-    "prefLabel": "decorated/figured bracket-spacer",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -9686,16 +9636,6 @@
     ],
     "localname": "1881114979",
     "prefLabel": "discontinuous trefoil arch",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/3559796061",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3559796061",
-    "prefLabel": "dividing element",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -9790,16 +9730,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/3712797247",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3712797247",
-    "prefLabel": "double volute bracket with vertical [central] groove",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/160195105",
     "type": [
       "skos:Concept"
@@ -9870,16 +9800,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/3210200949",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3210200949",
-    "prefLabel": "false-bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/626434436",
     "type": [
       "skos:Concept"
@@ -9896,16 +9816,6 @@
     ],
     "localname": "4172821096",
     "prefLabel": "figure shaped shaft",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/2795632126",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2795632126",
-    "prefLabel": "figured bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -9936,16 +9846,6 @@
     ],
     "localname": "2435617812",
     "prefLabel": "fountain",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/2882099906",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2882099906",
-    "prefLabel": "framed half-column",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -10100,6 +10000,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/c_4fc98c0c",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_4fc98c0c",
+    "prefLabel": "house",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2985624710",
     "type": [
       "skos:Concept"
@@ -10236,16 +10146,6 @@
     ],
     "localname": "358097268",
     "prefLabel": "modillion",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/0733123599",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "0733123599",
-    "prefLabel": "modular element of podium",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -10390,16 +10290,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/1152735729",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1152735729",
-    "prefLabel": "other architectural elements",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/9035052798",
     "type": [
       "skos:Concept"
@@ -10420,32 +10310,12 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/1983323042",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1983323042",
-    "prefLabel": "ovolo bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/6165356636",
     "type": [
       "skos:Concept"
     ],
     "localname": "6165356636",
     "prefLabel": "palace",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/3944666623",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3944666623",
-    "prefLabel": "parallelepiped bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -10680,16 +10550,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/4254631129",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "4254631129",
-    "prefLabel": "plain bracket-spacer",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/1114218658",
     "type": [
       "skos:Concept"
@@ -10746,16 +10606,6 @@
     ],
     "localname": "1035523561",
     "prefLabel": "projecting band",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/462104231",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "462104231",
-    "prefLabel": "projecting figured bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -10830,16 +10680,6 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/442773249",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "442773249",
-    "prefLabel": "quadriglyph",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/2379796937",
     "type": [
       "skos:Concept"
@@ -10890,32 +10730,12 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/1364245600",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "1364245600",
-    "prefLabel": "rectangular cut groove of bracket",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
     "uri": "https://w3id.org/diga/terms/3258663659",
     "type": [
       "skos:Concept"
     ],
     "localname": "3258663659",
     "prefLabel": "reverse cavetto",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/3266629866",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3266629866",
-    "prefLabel": "reverse cavetto bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -11006,16 +10826,6 @@
     ],
     "localname": "2958431400",
     "prefLabel": "row of segmental trapezoidal architraves",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/3089988577",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "3089988577",
-    "prefLabel": "s-shaped pillar bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -11360,6 +11170,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/9202402623",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9202402623",
+    "prefLabel": "stair raiser",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2647744996",
     "type": [
       "skos:Concept"
@@ -11386,6 +11206,16 @@
     ],
     "localname": "1859205980",
     "prefLabel": "stair-side element",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/6612854965",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "6612854965",
+    "prefLabel": "staircase",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -11606,16 +11436,6 @@
     ],
     "localname": "2393896061",
     "prefLabel": "triangular cut groove",
-    "lang": "en",
-    "vocab": "thesaurus"
-  },
-  {
-    "uri": "https://w3id.org/diga/terms/2498719343",
-    "type": [
-      "skos:Concept"
-    ],
-    "localname": "2498719343",
-    "prefLabel": "triangular cut groove of bracket with ridge",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -11990,6 +11810,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/7697307055",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "7697307055",
+    "prefLabel": "window",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/3397648348",
     "type": [
       "skos:Concept"
@@ -12050,6 +11880,26 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/164355721",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "164355721",
+    "prefLabel": "bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1095712886",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1095712886",
+    "prefLabel": "bracket-spacer",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/4031291621",
     "type": [
       "skos:Concept"
@@ -12066,6 +11916,26 @@
     ],
     "localname": "2313025879",
     "prefLabel": "calipers with curved arms",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1885334734",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1885334734",
+    "prefLabel": "carinated corner bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1152735729",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1152735729",
+    "prefLabel": "carved architectural elements",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12110,12 +11980,122 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/1526311401",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1526311401",
+    "prefLabel": "convex cut groove of bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/577441110",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "577441110",
+    "prefLabel": "cornice with figured stepped pyramid",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/753322088",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "753322088",
+    "prefLabel": "cornice with stepped pyramids",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1817294312",
     "type": [
       "skos:Concept"
     ],
     "localname": "1817294312",
     "prefLabel": "cramp",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/8713500041",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "8713500041",
+    "prefLabel": "curvilinear frieze",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3080511734",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3080511734",
+    "prefLabel": "cut groove of bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/424208396",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "424208396",
+    "prefLabel": "cyma reversa bracket with vertical [central] groove",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/572250512",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "572250512",
+    "prefLabel": "decorated bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2079283212",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2079283212",
+    "prefLabel": "decorated bracket with leonine protome",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2290592830",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2290592830",
+    "prefLabel": "decorated/figured bracket-spacer",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3559796061",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3559796061",
+    "prefLabel": "dividing element",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3712797247",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3712797247",
+    "prefLabel": "double volute bracket with vertical [central] groove",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12180,6 +12160,26 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/3210200949",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3210200949",
+    "prefLabel": "false-bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2795632126",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2795632126",
+    "prefLabel": "figured bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1215741717",
     "type": [
       "skos:Concept"
@@ -12196,6 +12196,16 @@
     ],
     "localname": "478032090",
     "prefLabel": "flat chisel",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2882099906",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2882099906",
+    "prefLabel": "framed half-column",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12310,6 +12320,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/0733123599",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "0733123599",
+    "prefLabel": "modular element of podium",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/3488769211",
     "type": [
       "skos:Concept"
@@ -12340,12 +12360,32 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/1983323042",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1983323042",
+    "prefLabel": "ovolo bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2827987635",
     "type": [
       "skos:Concept"
     ],
     "localname": "2827987635",
     "prefLabel": "panel with rebated back",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3944666623",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3944666623",
+    "prefLabel": "parallelepiped bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12376,6 +12416,16 @@
     ],
     "localname": "697228354",
     "prefLabel": "pick",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4254631129",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4254631129",
+    "prefLabel": "plain bracket-spacer",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12420,12 +12470,32 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/462104231",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "462104231",
+    "prefLabel": "projecting figured bracket",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/4218180560",
     "type": [
       "skos:Concept"
     ],
     "localname": "4218180560",
     "prefLabel": "projection",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/442773249",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "442773249",
+    "prefLabel": "quadriglyph",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12446,6 +12516,16 @@
     ],
     "localname": "2322326873",
     "prefLabel": "recess",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1364245600",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1364245600",
+    "prefLabel": "rectangular cut groove of bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12476,6 +12556,16 @@
     ],
     "localname": "2360298711",
     "prefLabel": "relief mark",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3266629866",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3266629866",
+    "prefLabel": "reverse cavetto bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12516,6 +12606,16 @@
     ],
     "localname": "3536654356",
     "prefLabel": "ruler",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/3089988577",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "3089988577",
+    "prefLabel": "s-shaped pillar bracket",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -12630,6 +12730,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/5885348135",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "5885348135",
+    "prefLabel": "straight frieze",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1750678260",
     "type": [
       "skos:Concept"
@@ -12676,6 +12786,16 @@
     ],
     "localname": "174081375",
     "prefLabel": "tooth-cramp hole",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2498719343",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2498719343",
+    "prefLabel": "triangular cut groove of bracket with ridge",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -14860,6 +14980,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/9104507416",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9104507416",
+    "prefLabel": "request for parents' permission to leave",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1530430915",
     "type": [
       "skos:Concept"
@@ -15386,6 +15516,16 @@
     ],
     "localname": "2579616314",
     "prefLabel": "agricultural implements",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2074426122",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2074426122",
+    "prefLabel": "banner",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -16466,6 +16606,16 @@
     ],
     "localname": "241652118",
     "prefLabel": "folded mat",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/1335842648",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "1335842648",
+    "prefLabel": "footstool",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -17666,6 +17816,16 @@
     ],
     "localname": "2035729014",
     "prefLabel": "pistil",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/4895956029",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "4895956029",
+    "prefLabel": "plain filet",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -20650,6 +20810,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/8382487522",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "8382487522",
+    "prefLabel": "naked",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/801004364",
     "type": [
       "skos:Concept"
@@ -20916,6 +21086,16 @@
     ],
     "localname": "3076829280",
     "prefLabel": "palm of right hand facing outward with the fingers pointing towards the ground",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/9488987530",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9488987530",
+    "prefLabel": "paridhāna",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -21480,6 +21660,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/c_6e7a16ff",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_6e7a16ff",
+    "prefLabel": "coral",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/7657068590",
     "type": [
       "skos:Concept"
@@ -21496,6 +21686,16 @@
     ],
     "localname": "c_a1a7f67f",
     "prefLabel": "earth",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/c_0369d292",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_0369d292",
+    "prefLabel": "fire",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -21656,6 +21856,16 @@
     ],
     "localname": "3617678015",
     "prefLabel": "kapilavastu",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/5379737549",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "5379737549",
+    "prefLabel": "karṇikāra",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -21840,11 +22050,11 @@
     "vocab": "thesaurus"
   },
   {
-    "uri": "https://w3id.org/diga/terms/c_fc6970b7",
+    "uri": "https://w3id.org/diga/terms/3999543209",
     "type": [
       "skos:Concept"
     ],
-    "localname": "c_fc6970b7",
+    "localname": "3999543209",
     "prefLabel": "root",
     "lang": "en",
     "vocab": "thesaurus"
@@ -21886,6 +22096,26 @@
     ],
     "localname": "8285220534",
     "prefLabel": "setting",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/c_9ac3ba6f",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_9ac3ba6f",
+    "prefLabel": "sky",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/c_7b08073a",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_7b08073a",
+    "prefLabel": "soil",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -22520,6 +22750,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/9351586878",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "9351586878",
+    "prefLabel": "bend",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1651820594",
     "type": [
       "skos:Concept"
@@ -22860,6 +23100,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/8690506433",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "8690506433",
+    "prefLabel": "descend",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/353627280",
     "type": [
       "skos:Concept"
@@ -23036,6 +23286,16 @@
     ],
     "localname": "2380965134",
     "prefLabel": "encrust",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/c_e35774d9",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_e35774d9",
+    "prefLabel": "enter",
     "lang": "en",
     "vocab": "thesaurus"
   },
@@ -23280,6 +23540,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/c_25924ffb",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_25924ffb",
+    "prefLabel": "grasp",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/3263045147",
     "type": [
       "skos:Concept"
@@ -23520,6 +23790,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/2783775824",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2783775824",
+    "prefLabel": "kneel down",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/2924086630",
     "type": [
       "skos:Concept"
@@ -23560,6 +23840,16 @@
     "vocab": "thesaurus"
   },
   {
+    "uri": "https://w3id.org/diga/terms/c_47018037",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "c_47018037",
+    "prefLabel": "laugh",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
     "uri": "https://w3id.org/diga/terms/1776372531",
     "type": [
       "skos:Concept"
@@ -23586,6 +23876,16 @@
     ],
     "localname": "75266151",
     "prefLabel": "lead",
+    "lang": "en",
+    "vocab": "thesaurus"
+  },
+  {
+    "uri": "https://w3id.org/diga/terms/2777099103",
+    "type": [
+      "skos:Concept"
+    ],
+    "localname": "2777099103",
+    "prefLabel": "lean",
     "lang": "en",
     "vocab": "thesaurus"
   },
