@@ -47,7 +47,7 @@ export const ImageView = (props: ImageViewProps) => {
         onHighlightSearchResult={setHighlightedSearchResult}
         onSearch={setSearch} />
 
-      <div className="flex-wrapper">
+      <div className="flex-wrapper image-view">
         <main>
           <AnnotatedImage 
             annotations={annotations as W3CImageAnnotation[]} 
