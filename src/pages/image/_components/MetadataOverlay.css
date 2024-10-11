@@ -1,12 +1,80 @@
 .image-metadata-overlay {
   background-color: #fff;
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
   bottom: 20px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.18);
   left: 20px;
+  line-height: 155%;
+  min-height: 20px;
+  min-width:  0;
   overflow: hidden;
+  padding: 20px 40px 20px 20px;
   position: absolute;
 }
 
 .image-metadata-overlay * {
-  margin: 0;
   white-space: nowrap;
+}
+
+.image-metadata-overlay .trigger {
+  left: 0;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+}
+
+.image-metadata-overlay .trigger button {
+  all: unset;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  width: 60px;
+  padding: 0;
+}
+
+.image-metadata-overlay .trigger button:hover  {
+  background-color: var(--gray-100);
+}
+
+.image-metadata-overlay button.close {
+  all: unset;
+  align-items: center;
+  border-radius: 50%;
+  color: var(--gray-500);
+  cursor: pointer;
+  display: flex;
+  height: 1.8rem;
+  justify-content: center;
+  position: absolute;
+  right: 0.325rem;
+  top: 0.325rem;
+  width: 1.8rem;
+}
+
+.image-metadata-overlay button.close:hover {
+  background-color: var(--gray-100);
+  color: #000;
+}
+
+.image-metadata-overlay h2 {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.image-metadata-overlay p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.image-metadata-overlay .credits a {
+  padding-left: 0.25rem;
+  vertical-align: middle;
+}
+
+.image-metadata-overlay .license {
+  color: var(--gray-500);
+  font-size: 0.825rem;
 }

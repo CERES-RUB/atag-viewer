@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { SquareArrowOutUpRight } from 'lucide-react';
-import { animated, useSpring } from '@react-spring/web';
+import { Info, Minimize2, SquareArrowOutUpRight } from 'lucide-react';
+import { animated, useSpring, to } from '@react-spring/web';
 import type { ImageMetadata } from 'src/Types';
 
 import './MetadataOverlay.css';
@@ -33,29 +33,43 @@ export const MetadataOverlay = (props: MetadataOverlayProps) => {
   useEffect(() => {
     if (!ref.current) return;
 
-    console.log(ref.current.scrollWidth, ref.current.scrollHeight);
-
     setHeight(ref.current.scrollHeight);
     setWidth(ref.current.scrollWidth);
   }, [props.image]);
 
   const springProps = useSpring({
-    width: isOpen ? width : 40,  // Adjust the expanded width as needed
-    height: isOpen ? height: 40,  // Add padding to content height
-    // opacity: isOpen ? 1 : 0,
+    width: isOpen ? width : 0,  // Adjust the expanded width as needed
+    height: isOpen ? height: 0,  // Add padding to content height
+    opacity: isOpen ? 1 : 0,
     config: { tension: 400, friction: 40 }
   });
 
+  const { opacity, ...size } = springProps;
+
   return (
     <animated.div 
-      style={springProps}
-      className="image-metadata-overlay"
-      onClick={() => setIsOpen(open => !open)}>
+      style={size}
+      className="image-metadata-overlay">
       <div ref={ref}>
-        <h2>{title}</h2>
-        <p>
-          <div className="dimensions">
-            {dimensions}
+        <animated.div
+          className="trigger"
+          style={{ opacity: to(opacity, o => 1 - o)  }}>
+          <button onClick={() => setIsOpen(true)}>
+            <Info size={32} />
+          </button>
+        </animated.div>
+
+        <animated.div 
+          className="content" 
+          style={{ opacity }}>
+          <button className="close" onClick={() => setIsOpen(false)}>
+            <Minimize2 size={18} />
+          </button>
+
+          <h2>{title}</h2>
+
+          <div className="dimensions-and-provenance">
+            {dimensions} · {provenance}
           </div>
 
           <div className="credits">
@@ -69,11 +83,7 @@ export const MetadataOverlay = (props: MetadataOverlayProps) => {
           <div className="license">
             {license}
           </div>
-
-          <div className="provenance">
-            {provenance}
-          </div>
-        </p>
+        </animated.div>
       </div>
     </animated.div>
   )
