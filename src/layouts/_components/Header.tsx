@@ -12,6 +12,10 @@ export const Header = () => {
           <span>Home</span>
         </a>
 
+        <a href="../../?tab=verses">Verses</a>
+
+        <a href="../../?tab=images">Images</a>
+
         <a href="../../about">About</a>
       </div>
     </header>
