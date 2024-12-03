@@ -1,4 +1,5 @@
 .thumbnail-wrapper {
+  display: block;
   flex: 0 0 auto;
   height: 80px;
   position: relative;

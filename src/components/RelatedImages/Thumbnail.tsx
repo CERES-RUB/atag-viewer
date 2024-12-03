@@ -6,6 +6,8 @@ import 'react-loading-skeleton/dist/skeleton.css';
 
 interface ThumbnailProps {
 
+  href: string;
+
   src: string;
 
 }
@@ -15,13 +17,13 @@ export const Thumbnail = (props: ThumbnailProps) => {
   const [loaded, setLoaded] = useState(false);
 
   return (
-    <div className="thumbnail-wrapper">
+    <a href={props.href} className="thumbnail-wrapper">
       {!loaded && (<Skeleton />)}
       <img 
         src={props.src} 
         style={{ display: loaded ? undefined : 'none' }} 
         onLoad={() => setLoaded(true)}/>
-    </div>
+    </a>
   )
 
 }

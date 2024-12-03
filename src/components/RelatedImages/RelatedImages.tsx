@@ -82,7 +82,9 @@ export const RelatedImages = (props: RelatedImagesProps) => {
             {(grouped.map((group, idx) => group.related.map(({ annotation }) => (
               <li key={`${idx}-${annotation.id}`}>
                 <div className="preview">
-                  <Thumbnail src={annotation.thumbnail} />
+                  <Thumbnail 
+                    href={getLink(annotation)}
+                    src={annotation.thumbnail} />
 
                   <div className="taglist-wrapper">
                     <ul className="taglist">
