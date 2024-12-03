@@ -107,6 +107,7 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
   return (
     <OpenSeadragonAnnotator 
       adapter={W3CImageFormat(props.image.slug)}
+      tool="rectangle"
       drawingEnabled={false}
       userSelectAction={UserSelectAction.SELECT}
       style={style}>
