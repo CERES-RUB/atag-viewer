@@ -32,19 +32,23 @@
   padding: 0;
 }
 
+.tabbed-document-index .tabs-content ul ul {
+  margin-left: 0.5rem;
+}
+
 .tabbed-document-index .tabs-content li.disabled {
   color: var(--gray-300);
 }
 
 .tabbed-document-index .tabs-content li,
 .tabbed-document-index .tabs-content li p {
-  line-height: 160%;
+  line-height: 140%;
   margin: 0;
   padding: 0;
 }
 
 .tabbed-document-index .tabs-content li + li {
-  padding-top: 1rem;
+  padding-top: 0.5rem;
 }
 
 .tabbed-document-index .work-in-progress {
