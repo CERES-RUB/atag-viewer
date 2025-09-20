@@ -37,7 +37,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
       onValueChange={onChangeTab}>
       <Tabs.List className="tabs-list">
         <Tabs.Trigger value="verses">
-         Textual Works ({verses.length})
+         Texts ({verses.length})
         </Tabs.Trigger>
 
         <Tabs.Trigger value="images">

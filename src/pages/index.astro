@@ -7,28 +7,31 @@ const verses = listVerses();
 const images = listImages();
 ---
 <Layout>
-	<main>
-		<h1>Welcome</h1>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum ipsum nec lacus cursus volutpat. Fusce vel laoreet ipsum, sed mollis urna. Suspendisse sed mollis nibh. Sed feugiat velit vitae tortor efficitur, vitae semper diam egestas. Ut at metus id ipsum laoreet ultricies. 
-		</p>
+	<div class="container">
+		<main>
+			<h1>Welcome</h1>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum ipsum nec lacus cursus volutpat. Fusce vel laoreet ipsum, sed mollis urna. Suspendisse sed mollis nibh. Sed feugiat velit vitae tortor efficitur, vitae semper diam egestas. Ut at metus id ipsum laoreet ultricies. 
+			</p>
+		</main>
 
-		<TabbedDocumentIndex 
-			client:only="react"
-			verses={verses} 
-			images={images} />
-	</main>
-
-	<footer>
-		Space for project acknowledgements & logos
-	</footer>
+		<footer>
+			Space for project acknowledgements & logos
+		</footer>
+	</div>
 </Layout>
 
 <style>
+	.container {
+		display: flex;
+		flex-direction: column;
+		min-height: 100%;
+	}
+
 	main {
-    flex-grow: 1;
-    max-width: 80ch;
-    padding: 30px 80px 80px 80px;
+		flex-grow: 1;
+		max-width: 80ch;
+		padding: 30px 80px 80px 80px;
 	}
 
 	footer {

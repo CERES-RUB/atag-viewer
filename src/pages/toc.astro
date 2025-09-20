@@ -1,0 +1,37 @@
+---
+import { TabbedDocumentIndex } from '@components/TabbedDocumentIndex/TabbedDocumentIndex';
+import Layout from '@layouts/PageLayoutIndex.astro';
+import { listImages, listVerses } from '@lib/utils';
+
+const verses = listVerses();
+const images = listImages();
+---
+<Layout>
+	<main>
+		<TabbedDocumentIndex 
+			client:only="react"
+			verses={verses} 
+			images={images} />
+	</main>
+
+	<footer>
+		Space for project acknowledgements & logos
+	</footer>
+</Layout>
+
+<style>
+	main {
+    flex-grow: 1;
+    max-width: 80ch;
+    padding: 30px 80px 80px 80px;
+	}
+
+	footer {
+		background-color: #1e293b;
+		color: #fff;
+		font-family: Manrope;
+		font-size: 14px;
+		min-height: 120px;
+		padding: 20px 80px;
+	}
+</style>
