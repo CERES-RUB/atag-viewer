@@ -74,4 +74,34 @@ Accordingly, the comparison between text and image is not confined to merely tra
 
 Looking forward, in its next phases the project aims to establish the methodological and technical foundation required for solely machine-based tagging in both the textual and visual realms. The tagging protocol, first developed for manual tagging, is conceived as a training ground for the future integration of close reading and observation with computational distant reading, enabling the system to process vast corpora, discern patterns and regularities as well as idiosyncrasies beyond the reach of the human eye. These capacities, we hope, will allow for the identification of distinctive styles and hence contribute to a more precise understanding of the origins, development, and distribution of both these texts and images.
 
+## Sources Used in the Website:
+
+Sanskrit Verses:
+
+Johnston, E. H. (reprint 1984). _Aśvaghoṣa’s Buddhacarita or Acts of the Buddha (in three parts: Sanskrit Text of Cantos I–XIV with English Translation of Cantos I–XXVIII, Cantos I to XIV translated from the original Sanskrit supplemented by the Tibetan Version and Cantos XV to XXVIII from the Tibetan and Chinese Versions_. Delhi (Lahore 1936): Motilal Banarsidass. 
+
+E-text version: derived from the open-access annotated CONLLU file by Oliver Hellwig, from the [DSC–Digital Sanskrit Corpus](www.sanskrit-linguistics.org/dcs/), provided via [GitHub](https://github.com/OliverHellwig/sanskrit) under a **Creative Commons license ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))**. It was proofed and corrected by the Tel Aviv University team when required, following Johnston’s edition.
+
+Gandharan images:
+
+This prototype includes images from three major museum collections:
+
+* Victoria and Albert Museum, London – 3 images (M.218-1913; M.30-1935; IS.2-1945)
+* The British Museum, London – 7 images (889,0703.4; 1917,1009.5; 1900,0414.12; 1900,0414.1; 1880.359; 1913,1108.2; 1939,0119.16)
+* Museum für Asiatische Kunst, Staatliche Museen zu Berlin – 2 images (I 5937; I 37)
+* All images are shared by these institutions under a **Creative Commons license ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))**. This means that one is free to share and adapt the material, as long as one:
+  - Gives proper credit to the museums and photographers,
+  - Includes a link to the license,
+  - Indicates if any changes were made,
+  - Does not use the material for commercial purposes, and
+  - Shares any adapted work under the same license.
+
+**The following credits apply:**
+
+* © Victoria and Albert Museum, London
+* © The Trustees of the British Museum
+* © Staatliche Museen zu Berlin, Museum für Asiatische Kunst / Susanna Schulz
+* © Staatliche Museen zu Berlin, Museum für Asiatische Kunst / Jürgen Liepe
+
+Links to the original collections are provided with each image.
 
