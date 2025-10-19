@@ -105,3 +105,68 @@ This prototype includes images from three major museum collections:
 
 Links to the original collections are provided with each image.
 
+## How to Use: Quick Start Guide
+
+This website allows you to search, navigate, and compare texts and images, either by starting with a verse or with an image.
+
+You can explore the site in two main ways:
+
+1.	Browsing through verses or images.
+2.	Searching for a term using the search sidebar.
+
+### 1. Browsing
+
+**Step 1.**
+On the Home tab, select either Verses or Images from the menu.
+
+**Step 2.**
+
+If you choose Verses, you can browse by scrolling. Tagged elements—ranging from single expressions to whole narrative sections—will appear highlighted in different color codes.
+
+[Fig. 1]
+
+If you choose Images, hovering your mouse over an image highlights the tagged elements with translucent rectangular borders (see Fig. 2). 
+
+[Fig. 2]
+
+**Step 3.**
+
+Clicking on a tagged element in either verses or images —for example, on “Kaṇṭhaka,” the Buddha’s horse -  opens a text box indicating how many times that element occurs in other verses or images (see Fig. 3). Note: not all tagged elements occur multiple times.
+
+[Fig. 3]
+
+**Step 4.**
+
+In the text box, clicking on the blue highlighted text opens two sidebars presenting all related occurrences (see Fig. 4). You can move freely between them and explore, and always return to your starting point using your browser’s Back button.
+
+[Fig. 4]
+
+### 2. Searching
+
+**Step 1.**
+
+On the Home tab, select either Verses or Images from the menu.
+
+**Step 2.**
+
+In the search bar, type your keyword (example: Kaṇṭhaka). As you type, a list of possible terms from the built-in thesaurus will appear. Choose the desired term. Once selected, two sidebars open automatically, displaying all related occurrences of that tagged element in verses and images (see Fig. 5). 
+
+[Fig. 5]
+
+**Step 3.**
+
+*	In the Verses sidebar, click a result to view that verse (note: as the figure shows, human and non-human protagonists can sometimes be referred to also by a tagged pronoun or epithet and not just by their proper name). 
+*	In the Images sidebar, the system displays related artworks—for instance, depictions of Kaṇṭhaka in the Buddha’s departure scenes. You can click on these images to focus on them and explore additional elements.
+
+___
+
+**Tips**
+
+*	Search terms must match entries in the thesaurus list. Correct spelling is important, but you do not need to use Sanskrit diacritics.
+* If you cannot find a desired term, try a broader one (e.g., also horse, departure for Kaṇṭhaka).
+*	Once you select an image, you can zoom in or out using your mouse scroll wheel.
+*	Bookmark URLs to return directly to a verse or image.
+
+## Contacts and Feeback: 
+
+We welcome inquiries, comments, and suggestions.  Please share your input through our [feedback form](https://forms.gle/4GiqXiQKepbQgBFfA); or you may write to us directly at [asvaghosamahakavi@gmail.com](mailto:asvaghosamahakavi@gmail.com). Thank you for helping us improve this project! 

@@ -5,16 +5,18 @@ import Layout from '@layouts/Layout.astro';
   <header>
     <div class="header-left">
       <a 
-        class="logo-placeholder"
-        href="/">
-        Project Name & Logo
+        href="/"
+        class="header-logo">
+        <img alt="ATAG Project" src="/assets/atag-logo.png">
       </a>
 
-      <a href="../../toc?tab=verses">Texts</a>
+      <nav>
+        <a href="../../toc?tab=verses">Texts</a>
 
-      <a href="../../toc?tab=images">Images</a>
+        <a href="../../toc?tab=images">Images</a>
 
-      <a href="../../about">About</a>
+        <a href="../../about">About</a>
+      </nav>
     </div>
   </header>
 
@@ -38,8 +40,6 @@ import Layout from '@layouts/Layout.astro';
     display: flex;
     justify-content: space-between;
     padding: 0.5rem;
-    position: sticky;
-    top: 0;
   }
 
   header .header-left {
@@ -47,6 +47,15 @@ import Layout from '@layouts/Layout.astro';
     display: flex;
     gap: 1.25rem;
     font-size: 0.825rem;
+    padding-left: 0.25rem;
+  } 
+
+  header .header-left nav {
+    align-items: center;
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.825rem;
+    margin-top: 4rem;
     padding-left: 0.25rem;
   } 
 
@@ -71,4 +80,8 @@ import Layout from '@layouts/Layout.astro';
     font-size: 12px;
     padding: 0 12px;
   }
+
+    header .header-logo img {
+      height: 120px;
+    }
 </style>
