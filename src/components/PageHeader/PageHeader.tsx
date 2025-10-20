@@ -43,7 +43,7 @@ export const PageHeader = (props: PageHeaderProps) => {
           <span>Home</span>
         </a>
 
-        <a href="../../toc/?tab=verses">Verses</a>
+        <a href="../../toc/?tab=verses">Texts</a>
 
         <a href="../../toc/?tab=images">Images</a>
 
