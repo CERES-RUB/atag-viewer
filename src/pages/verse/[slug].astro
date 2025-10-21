@@ -13,7 +13,7 @@ const { slug } = Astro.params;
 
 const verse = listVerses().find(i => i.slug === slug)!;
 ---
-<Layout title={`Verse | ${verse.title}`}>			
+<Layout title={`A-TAG | ${verse.title}`}>			
 	<VerseView
 		client:only="react" 
     verse={verse} />

@@ -123,23 +123,65 @@ On the Home tab, select either Verses or Images from the menu.
 
 If you choose Verses, you can browse by scrolling. Tagged elements—ranging from single expressions to whole narrative sections—will appear highlighted in different color codes.
 
-[Fig. 1]
+<figure>
+  <img 
+    style="max-width: 100%; border-radius: 4px; border: 1px solid #efefef;" 
+    src="../assets/fig1.png">
+
+  <figcaption>Figure 1.</figcaption>
+</figure>
 
 If you choose Images, hovering your mouse over an image highlights the tagged elements with translucent rectangular borders (see Fig. 2). 
 
-[Fig. 2]
+<figure>
+  <img 
+    style="max-width: 100%; border-radius: 4px; border: 1px solid #efefef;" 
+    src="../assets/fig2.jpg">
+
+  <figcaption>Figure 2.</figcaption>
+</figure>
 
 **Step 3.**
 
 Clicking on a tagged element in either verses or images —for example, on “Kaṇṭhaka,” the Buddha’s horse -  opens a text box indicating how many times that element occurs in other verses or images (see Fig. 3). Note: not all tagged elements occur multiple times.
 
-[Fig. 3]
+<figure>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; width: 100%;">
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig3a.jpg" />
+    </div>
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig3b.jpg" />
+    </div>
+  </div>
+
+  <figcaption>Figure 3.</figcaption>
+</figure>
 
 **Step 4.**
 
 In the text box, clicking on the blue highlighted text opens two sidebars presenting all related occurrences (see Fig. 4). You can move freely between them and explore, and always return to your starting point using your browser’s Back button.
 
-[Fig. 4]
+<figure>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; width: 100%;">
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig4a.jpg" />
+    </div>
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig4b.jpg" />
+    </div>
+  </div>
+
+  <figcaption>Figure 4.</figcaption>
+</figure>
 
 ### 2. Searching
 
@@ -151,7 +193,22 @@ On the Home tab, select either Verses or Images from the menu.
 
 In the search bar, type your keyword (example: Kaṇṭhaka). As you type, a list of possible terms from the built-in thesaurus will appear. Choose the desired term. Once selected, two sidebars open automatically, displaying all related occurrences of that tagged element in verses and images (see Fig. 5). 
 
-[Fig. 5]
+<figure>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; width: 100%;">
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig5a.jpg" />
+    </div>
+    <div style="flex: 1;">
+      <img 
+        style="border-radius: 4px; border: 1px solid #efefef; width: 100%;" 
+        src="../assets/fig5b.jpg" />
+    </div>
+  </div>
+
+  <figcaption>Figure 5.</figcaption>
+</figure>
 
 **Step 3.**
 
