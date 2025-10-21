@@ -11,12 +11,11 @@ export const Header = () => {
           <ChevronLeft />
           <span>Home</span>
         </a>
+        <a href="../../about">About</a>
 
         <a href="../../toc?tab=verses">Texts</a>
 
         <a href="../../toc?tab=images">Images</a>
-
-        <a href="../../about">About</a>
       </div>
     </header>
   )
