@@ -9,7 +9,7 @@
     "start": "astro dev",
     "harvest-thesaurus": "node scripts/harvest-thesaurus.js",
     "build-index": "node scripts/build-tag-index.js",
-    "build": "astro build",
+    "build": "astro build --config astro.config.build.mjs",
     "deploy": "gh-pages -d dist --nojekyll -m 'Deployment'",
     "predeploy": "npm run build",
     "preview": "astro preview",

@@ -56,7 +56,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
               <li className="disabled">Aśvaghoṣa: Buddhacarita. Sarga 4.</li>
               {verses.map(meta => (
                 <li key={meta.slug}>
-                  <a href={`verse/${meta.slug}`}>{meta.title}</a>
+                  <a href={`../verse/${meta.slug}`}>{meta.title}</a>
                   {meta.annotations === 0 && (
                     <span className="work-in-progress">WORK IN PROGRESS</span>
                   )}
@@ -91,7 +91,7 @@ export const TabbedDocumentIndex = (props: TabbedDocumentIndexProps) => {
 						<li key={meta.slug}>
               <p>
                 <div>
-                  <a href={`image/${meta.slug}`}>{meta.title}</a>
+                  <a href={`../image/${meta.slug}`}>{meta.title}</a>
                   {meta.annotations === 0 && (
                     <span className="work-in-progress">WORK IN PROGRESS</span>
                   )}

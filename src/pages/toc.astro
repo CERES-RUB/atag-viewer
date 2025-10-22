@@ -1,12 +1,27 @@
 ---
+import { ChevronLeft } from 'lucide-react';
 import { TabbedDocumentIndex } from '@components/TabbedDocumentIndex/TabbedDocumentIndex';
-import Layout from '@layouts/PageLayoutIndex.astro';
+import Layout from '@layouts/Layout.astro';
 import { listImages, listVerses } from '@lib/utils';
 
 const verses = listVerses();
 const images = listImages();
 ---
-<Layout>
+<Layout title="A-TAG - Aśvaghoṣa’s Texts and Buddhist Art from Gandhāra">
+	<header>
+		<div class="header-left">
+			<a href="..">
+				<ChevronLeft />
+				<span>Home</span>
+			</a>
+			<a href="../about">About</a>
+
+			<a href="../toc?tab=verses">Texts</a>
+
+			<a href="../toc?tab=images">Images</a>
+		</div>
+	</header>
+
 	<main>
 		<TabbedDocumentIndex 
 			client:only="react"
@@ -34,6 +49,46 @@ const images = listImages();
 </Layout>
 
 <style>
+
+  header {
+    align-items: center;
+    font-family: Manrope;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+  }
+
+  header .header-left {
+    align-items: center;
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.825rem;
+    padding-left: 0.25rem;
+  } 
+
+  header .header-left nav {
+    align-items: center;
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.825rem;
+    margin-top: 4rem;
+    padding-left: 0.25rem;
+  } 
+
+  header a {
+    align-items: center;
+    color: #fff;
+    display: flex;
+    gap: 0.25rem;
+    text-decoration: none;
+  }
+
+  header a + a:before {
+    content: '·';
+    padding-right: 0.75rem;
+  }
+
 	main {
     flex-grow: 1;
     max-width: 80ch;
