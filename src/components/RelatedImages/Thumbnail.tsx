@@ -20,7 +20,7 @@ export const Thumbnail = (props: ThumbnailProps) => {
     <a href={props.href} className="thumbnail-wrapper">
       {!loaded && (<Skeleton />)}
       <img 
-        src={props.src} 
+        src={props.src.startsWith('/thumbnails') ? `../..${props.src}` : props.src} 
         style={{ display: loaded ? undefined : 'none' }} 
         onLoad={() => setLoaded(true)}/>
     </a>
