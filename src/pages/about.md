@@ -143,7 +143,7 @@ If you choose Images, hovering your mouse over an image highlights the tagged el
 
 **Step 3.**
 
-Clicking on a tagged element in either verses or images —for example, on “Kaṇṭhaka,” the Buddha’s horse -  opens a text box indicating how many times that element occurs in other verses or images (see Fig. 3). Note: not all tagged elements occur multiple times.
+Clicking on a tagged element in either verses or images — for example, on "Kaṇṭhaka," the Buddha’s horse —  opens a text box indicating how many times that element occurs in other verses or images (see Fig. 3). Note: not all tagged elements occur multiple times.
 
 <figure>
   <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; width: 100%;">
