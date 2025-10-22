@@ -53,12 +53,12 @@ export const RelatedImages = (props: RelatedImagesProps) => {
     if (annotation.id) {
       return annotation.slug === props.currentSlug
         ? `#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`
-        : `/image/${annotation.slug}/#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
+        : `../image/${annotation.slug}/#${annotation.id.substring(annotation.id.lastIndexOf('/') + 1)}`;
     } else {
       // Image-level metadata
       return annotation.slug === props.currentSlug 
         ? '#' // Should never happen
-        : `../../image/${annotation.slug}`;
+        : `../image/${annotation.slug}`;
     }
   }
 
