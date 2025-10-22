@@ -10,7 +10,7 @@
     "harvest-thesaurus": "node scripts/harvest-thesaurus.js",
     "build-index": "node scripts/build-tag-index.js",
     "build": "astro build",
-    "deploy": "gh-pages -d dist --nojekyll -m 'Deployment' --cname 'diga.rainersimon.io'",
+    "deploy": "gh-pages -d dist --nojekyll -m 'Deployment'",
     "predeploy": "npm run build",
     "preview": "astro preview",
     "astro": "astro"
