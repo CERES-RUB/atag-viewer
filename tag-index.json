@@ -221,7 +221,7 @@
     "id": "https://recogito.pelagios.org/annotation/7769c3a5-6154-40ff-bc7d-7563e87b2c14",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/7769c3a5-6154-40ff-bc7d-7563e87b2c14.jpg",
+    "thumbnail": "../../thumbnails/7769c3a5-6154-40ff-bc7d-7563e87b2c14.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2721284326",
@@ -246,7 +246,7 @@
     "id": "https://recogito.pelagios.org/annotation/e31ea823-1997-4e7e-8af7-0fc30b09e0fd",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/e31ea823-1997-4e7e-8af7-0fc30b09e0fd.jpg",
+    "thumbnail": "../../thumbnails/e31ea823-1997-4e7e-8af7-0fc30b09e0fd.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1103780412",
@@ -259,7 +259,7 @@
     "id": "https://recogito.pelagios.org/annotation/7b5c2d4f-3d66-4663-9af4-2bd61c361db1",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/7b5c2d4f-3d66-4663-9af4-2bd61c361db1.jpg",
+    "thumbnail": "../../thumbnails/7b5c2d4f-3d66-4663-9af4-2bd61c361db1.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -284,7 +284,7 @@
     "id": "https://recogito.pelagios.org/annotation/eec909e4-0b81-47ef-899e-421cde9da8fe",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/eec909e4-0b81-47ef-899e-421cde9da8fe.jpg",
+    "thumbnail": "../../thumbnails/eec909e4-0b81-47ef-899e-421cde9da8fe.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/5314168498",
@@ -297,7 +297,7 @@
     "id": "https://recogito.pelagios.org/annotation/1065f6f2-a98d-4cb3-a286-d5e276c32ae9",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/1065f6f2-a98d-4cb3-a286-d5e276c32ae9.jpg",
+    "thumbnail": "../../thumbnails/1065f6f2-a98d-4cb3-a286-d5e276c32ae9.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/397870209",
@@ -338,7 +338,7 @@
     "id": "https://recogito.pelagios.org/annotation/d726b205-d083-4bb4-aabc-ee466a4e48c7",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/d726b205-d083-4bb4-aabc-ee466a4e48c7.jpg",
+    "thumbnail": "../../thumbnails/d726b205-d083-4bb4-aabc-ee466a4e48c7.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1103780412",
@@ -351,7 +351,7 @@
     "id": "https://recogito.pelagios.org/annotation/8f55c1f3-0714-48de-9f41-e78f3b5b8e7d",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/8f55c1f3-0714-48de-9f41-e78f3b5b8e7d.jpg",
+    "thumbnail": "../../thumbnails/8f55c1f3-0714-48de-9f41-e78f3b5b8e7d.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3881354411",
@@ -368,7 +368,7 @@
     "id": "https://recogito.pelagios.org/annotation/c10d5cac-95ce-4738-afa3-bd2aa93dee6b",
     "image": "Siddhārtha in the women's quarter/chambers",
     "slug": "siddhartha-in-the-womens-quarter-chambers-2",
-    "thumbnail": "/thumbnails/c10d5cac-95ce-4738-afa3-bd2aa93dee6b.jpg",
+    "thumbnail": "../../thumbnails/c10d5cac-95ce-4738-afa3-bd2aa93dee6b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -378,10 +378,489 @@
   },
   {
     "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3562c09c-886e-4470-b318-187e07e72928",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/3562c09c-886e-4470-b318-187e07e72928.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2301477931",
+        "label": "musician (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4847234474",
+        "label": "drummer (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/94489339-7990-45f8-abb5-8afc50498dc9",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/94489339-7990-45f8-abb5-8afc50498dc9.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/292bece1-7952-492b-8887-6fd92095e592",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/292bece1-7952-492b-8887-6fd92095e592.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1f728ec6-7976-4324-957f-7eddb280f428",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/1f728ec6-7976-4324-957f-7eddb280f428.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/2721284326",
+        "label": "siddhārtha in the women's quarter/chambers (princely life)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3617678015",
+        "label": "kapilavastu (locality)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3c29488c-916a-4926-8e3d-249b65550d2f",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/3c29488c-916a-4926-8e3d-249b65550d2f.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/398064358",
+        "label": "dancer (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2747531260",
+        "label": "standing position (body position)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/14f627b3-4b0b-46c7-90d7-e7d516786c51",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/14f627b3-4b0b-46c7-90d7-e7d516786c51.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1335842648",
+        "label": "footstool (furniture)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/4dbeee78-941c-4f0a-8bf4-7e7effdccd93",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/4dbeee78-941c-4f0a-8bf4-7e7effdccd93.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/933490939",
+        "label": "barrel drum (membranophones)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1656c799-0269-4d17-8a22-bd622d41496b",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/1656c799-0269-4d17-8a22-bd622d41496b.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/5314168498",
+        "label": "balcony (civil architecture)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/954f4cac-55e4-470a-ae5a-ae804e4d2bb6",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/954f4cac-55e4-470a-ae5a-ae804e4d2bb6.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3445780301",
+        "label": "yaśodharā (human beings)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/986425314",
+        "label": "sit (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2844951834",
+        "label": "hair with curly fringe knot coil of hair and ornaments (hair of female indian figure)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2137397505",
+        "label": "bracelet (indian type ornaments)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/fb3915c6-0dc9-4400-a8f9-eb7a4fb08e79",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/fb3915c6-0dc9-4400-a8f9-eb7a4fb08e79.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9e02f2d0-e63d-4d2d-a3af-617fea7ab910",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/9e02f2d0-e63d-4d2d-a3af-617fea7ab910.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/5314168498",
+        "label": "balcony (civil architecture)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/815beb14-e718-4bff-913a-52de51df8055",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/815beb14-e718-4bff-913a-52de51df8055.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1510655692",
+        "label": "male devotee (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2747531260",
+        "label": "standing position (body position)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/465678417",
+        "label": "turban (headdress)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/38b704b2-aa6a-47a4-b5bb-6592f63c1215",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/38b704b2-aa6a-47a4-b5bb-6592f63c1215.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2cb7da10-fc05-47ef-902d-3b98f125bb7c",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/2cb7da10-fc05-47ef-902d-3b98f125bb7c.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/cd8f9e68-233d-40a8-84fb-3e61cfd300cf",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/cd8f9e68-233d-40a8-84fb-3e61cfd300cf.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/349067671",
+        "label": "barrel drum with oblique crossed straps (barrel drum)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9add30c4-5e02-4a47-8010-0a481d4f2a07",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/9add30c4-5e02-4a47-8010-0a481d4f2a07.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/2598975042",
+        "label": "wreath (hair with large wreath)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/6fdbc31c-c8c6-481f-a55c-2c6c58c4b6c7",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/6fdbc31c-c8c6-481f-a55c-2c6c58c4b6c7.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/4108258719",
+        "label": "pillow (bed)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b161d3cc-4e46-4bec-bd6b-5b55ae37ba33",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/b161d3cc-4e46-4bec-bd6b-5b55ae37ba33.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c621834f-8a8b-4ac0-a6dd-50845881e48e",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/c621834f-8a8b-4ac0-a6dd-50845881e48e.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1777814046",
+        "label": "siddhārtha (bodhisattva)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1776372531",
+        "label": "lay (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/465678417",
+        "label": "turban (headdress)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/362bf035-9516-48be-9ae2-5428e8c68618",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/362bf035-9516-48be-9ae2-5428e8c68618.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1510655692",
+        "label": "male devotee (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1708210952",
+        "label": "kneel before so./sth. (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/450855958",
+        "label": "gesture of adoration (gesture indicating situations)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/42c6b4f9-c19c-45cf-bfcc-8c0ae305316e",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/42c6b4f9-c19c-45cf-bfcc-8c0ae305316e.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/938bb32c-4c9d-4a4c-b605-3015728480a2",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/938bb32c-4c9d-4a4c-b605-3015728480a2.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3881354411",
+        "label": "segmental trapezoidal architrave (segmental architraves)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/6165356636",
+        "label": "palace (civil architecture)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e7c80b2b-3723-4e37-9dda-1f1daeda89ff",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/e7c80b2b-3723-4e37-9dda-1f1daeda89ff.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/678702193",
+        "label": "bed (furniture)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/252491446",
+        "label": "drape (bed)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/089d422b-ff17-44f8-ac86-8677a23008cb",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/089d422b-ff17-44f8-ac86-8677a23008cb.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/f1b411f3-0e66-47fc-bf33-1cc85ecee659",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/f1b411f3-0e66-47fc-bf33-1cc85ecee659.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1510655692",
+        "label": "male devotee (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/465678417",
+        "label": "turban (headdress)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2747531260",
+        "label": "standing position (body position)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/191989ae-5ea5-44ec-bfde-fab51b2c5e91",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/191989ae-5ea5-44ec-bfde-fab51b2c5e91.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1c934499-9886-4daa-a921-493c10d04ae4",
+    "image": "Siddhārtha in the women's quarter/chambers",
+    "slug": "siddhartha-in-the-womens-quarter-chambers-3",
+    "thumbnail": "../../thumbnails/1c934499-9886-4daa-a921-493c10d04ae4.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3020942827",
+        "label": "lotus (phytomorphic elements and components)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
     "id": "https://recogito.pelagios.org/annotation/4e1c70fb-03f0-4b49-a772-9a5b8d0e3b0b",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/4e1c70fb-03f0-4b49-a772-9a5b8d0e3b0b.jpg",
+    "thumbnail": "../../thumbnails/4e1c70fb-03f0-4b49-a772-9a5b8d0e3b0b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/678702193",
@@ -402,7 +881,7 @@
     "id": "https://recogito.pelagios.org/annotation/c6541901-faf5-4f63-94c5-e5de9563ee7e",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/c6541901-faf5-4f63-94c5-e5de9563ee7e.jpg",
+    "thumbnail": "../../thumbnails/c6541901-faf5-4f63-94c5-e5de9563ee7e.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4108258719",
@@ -415,7 +894,7 @@
     "id": "https://recogito.pelagios.org/annotation/c0ba0a44-e977-4c2c-a289-63ef248ee271",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/c0ba0a44-e977-4c2c-a289-63ef248ee271.jpg",
+    "thumbnail": "../../thumbnails/c0ba0a44-e977-4c2c-a289-63ef248ee271.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -448,7 +927,7 @@
     "id": "https://recogito.pelagios.org/annotation/a707ee1c-9cf9-4925-ac62-acc83ca7509d",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/a707ee1c-9cf9-4925-ac62-acc83ca7509d.jpg",
+    "thumbnail": "../../thumbnails/a707ee1c-9cf9-4925-ac62-acc83ca7509d.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/760167124",
@@ -461,7 +940,7 @@
     "id": "https://recogito.pelagios.org/annotation/38df5376-f532-427b-99f1-ef9fdfe60ca6",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/38df5376-f532-427b-99f1-ef9fdfe60ca6.jpg",
+    "thumbnail": "../../thumbnails/38df5376-f532-427b-99f1-ef9fdfe60ca6.jpg",
     "tags": []
   },
   {
@@ -469,7 +948,7 @@
     "id": "https://recogito.pelagios.org/annotation/a700613a-c0a2-4203-a83a-84262c1afff5",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/a700613a-c0a2-4203-a83a-84262c1afff5.jpg",
+    "thumbnail": "../../thumbnails/a700613a-c0a2-4203-a83a-84262c1afff5.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3445780301",
@@ -498,7 +977,7 @@
     "id": "https://recogito.pelagios.org/annotation/444410fb-3e1a-43f0-aaa7-09e0bf001e17",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/444410fb-3e1a-43f0-aaa7-09e0bf001e17.jpg",
+    "thumbnail": "../../thumbnails/444410fb-3e1a-43f0-aaa7-09e0bf001e17.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -527,7 +1006,7 @@
     "id": "https://recogito.pelagios.org/annotation/d5e1a1ca-7848-4fb1-99af-2bee6bc83f58",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/d5e1a1ca-7848-4fb1-99af-2bee6bc83f58.jpg",
+    "thumbnail": "../../thumbnails/d5e1a1ca-7848-4fb1-99af-2bee6bc83f58.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1245465292",
@@ -540,7 +1019,7 @@
     "id": "https://recogito.pelagios.org/annotation/bfa37ce7-668e-4de5-9244-a381b2186762",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/bfa37ce7-668e-4de5-9244-a381b2186762.jpg",
+    "thumbnail": "../../thumbnails/bfa37ce7-668e-4de5-9244-a381b2186762.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -577,7 +1056,7 @@
     "id": "https://recogito.pelagios.org/annotation/fd8f2e63-db83-423c-9105-38eaa2ff3a55",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/fd8f2e63-db83-423c-9105-38eaa2ff3a55.jpg",
+    "thumbnail": "../../thumbnails/fd8f2e63-db83-423c-9105-38eaa2ff3a55.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1418140146",
@@ -590,7 +1069,7 @@
     "id": "https://recogito.pelagios.org/annotation/f98c00ed-ec3b-44ef-ad13-00b29240383e",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/f98c00ed-ec3b-44ef-ad13-00b29240383e.jpg",
+    "thumbnail": "../../thumbnails/f98c00ed-ec3b-44ef-ad13-00b29240383e.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1418140146",
@@ -615,7 +1094,7 @@
     "id": "https://recogito.pelagios.org/annotation/912792e8-7d9d-4791-a63b-79412de3900e",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/912792e8-7d9d-4791-a63b-79412de3900e.jpg",
+    "thumbnail": "../../thumbnails/912792e8-7d9d-4791-a63b-79412de3900e.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -636,7 +1115,7 @@
     "id": "https://recogito.pelagios.org/annotation/34daa210-9f76-4df1-8a1e-4cb27c6b3266",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/34daa210-9f76-4df1-8a1e-4cb27c6b3266.jpg",
+    "thumbnail": "../../thumbnails/34daa210-9f76-4df1-8a1e-4cb27c6b3266.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -661,7 +1140,7 @@
     "id": "https://recogito.pelagios.org/annotation/81068d08-d295-4dff-8c76-80b45e6dc948",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/81068d08-d295-4dff-8c76-80b45e6dc948.jpg",
+    "thumbnail": "../../thumbnails/81068d08-d295-4dff-8c76-80b45e6dc948.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -690,7 +1169,7 @@
     "id": "https://recogito.pelagios.org/annotation/2ebf8dab-f6f6-47a5-acd3-bb1e36539473",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/2ebf8dab-f6f6-47a5-acd3-bb1e36539473.jpg",
+    "thumbnail": "../../thumbnails/2ebf8dab-f6f6-47a5-acd3-bb1e36539473.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/397870209",
@@ -703,7 +1182,7 @@
     "id": "https://recogito.pelagios.org/annotation/9c700cbd-638e-433e-9492-2af2389d153b",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/9c700cbd-638e-433e-9492-2af2389d153b.jpg",
+    "thumbnail": "../../thumbnails/9c700cbd-638e-433e-9492-2af2389d153b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -720,7 +1199,7 @@
     "id": "https://recogito.pelagios.org/annotation/2e77def0-1d1e-4ab6-bdf0-9a10b6e0d767",
     "image": "The Bodhisattva watching sleeping women",
     "slug": "the-bodhisattva-watching-sleeping-women-1",
-    "thumbnail": "/thumbnails/2e77def0-1d1e-4ab6-bdf0-9a10b6e0d767.jpg",
+    "thumbnail": "../../thumbnails/2e77def0-1d1e-4ab6-bdf0-9a10b6e0d767.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/349067671",
@@ -733,7 +1212,7 @@
     "id": "https://recogito.pelagios.org/annotation/5d1aace9-00d9-437a-a85e-bec07167b14e",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/5d1aace9-00d9-437a-a85e-bec07167b14e.jpg",
+    "thumbnail": "../../thumbnails/5d1aace9-00d9-437a-a85e-bec07167b14e.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/678702193",
@@ -746,7 +1225,7 @@
     "id": "https://recogito.pelagios.org/annotation/d716aec1-e480-4d92-b381-3e1df31df64b",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/d716aec1-e480-4d92-b381-3e1df31df64b.jpg",
+    "thumbnail": "../../thumbnails/d716aec1-e480-4d92-b381-3e1df31df64b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/465678417",
@@ -759,7 +1238,7 @@
     "id": "https://recogito.pelagios.org/annotation/d5362ad3-24c7-493c-b1a7-f3f4dcfdfbbd",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/d5362ad3-24c7-493c-b1a7-f3f4dcfdfbbd.jpg",
+    "thumbnail": "../../thumbnails/d5362ad3-24c7-493c-b1a7-f3f4dcfdfbbd.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1103780412",
@@ -772,7 +1251,7 @@
     "id": "https://recogito.pelagios.org/annotation/d5f57e6d-8a0e-4c09-a77b-ea32306a96ce",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/d5f57e6d-8a0e-4c09-a77b-ea32306a96ce.jpg",
+    "thumbnail": "../../thumbnails/d5f57e6d-8a0e-4c09-a77b-ea32306a96ce.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4108258719",
@@ -785,7 +1264,7 @@
     "id": "https://recogito.pelagios.org/annotation/7b77729d-70e3-4c45-9c62-0c1b0c38c727",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/7b77729d-70e3-4c45-9c62-0c1b0c38c727.jpg",
+    "thumbnail": "../../thumbnails/7b77729d-70e3-4c45-9c62-0c1b0c38c727.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -822,7 +1301,7 @@
     "id": "https://recogito.pelagios.org/annotation/0155a452-7236-49c8-890c-72f36314f7ce",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/0155a452-7236-49c8-890c-72f36314f7ce.jpg",
+    "thumbnail": "../../thumbnails/0155a452-7236-49c8-890c-72f36314f7ce.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -851,7 +1330,7 @@
     "id": "https://recogito.pelagios.org/annotation/ea05984e-b7ab-4fe7-8b71-be22d7536be3",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/ea05984e-b7ab-4fe7-8b71-be22d7536be3.jpg",
+    "thumbnail": "../../thumbnails/ea05984e-b7ab-4fe7-8b71-be22d7536be3.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4254538884",
@@ -884,7 +1363,7 @@
     "id": "https://recogito.pelagios.org/annotation/31e76bcf-ce99-4fd8-8815-7b499615b568",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/31e76bcf-ce99-4fd8-8815-7b499615b568.jpg",
+    "thumbnail": "../../thumbnails/31e76bcf-ce99-4fd8-8815-7b499615b568.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1999355705",
@@ -909,7 +1388,7 @@
     "id": "https://recogito.pelagios.org/annotation/091fbbbe-6ecd-42f6-8704-79b84bfac959",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/091fbbbe-6ecd-42f6-8704-79b84bfac959.jpg",
+    "thumbnail": "../../thumbnails/091fbbbe-6ecd-42f6-8704-79b84bfac959.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1333564173",
@@ -922,7 +1401,7 @@
     "id": "https://recogito.pelagios.org/annotation/c695256f-5b2e-454b-90b5-2eb63e3649a5",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/c695256f-5b2e-454b-90b5-2eb63e3649a5.jpg",
+    "thumbnail": "../../thumbnails/c695256f-5b2e-454b-90b5-2eb63e3649a5.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4108258719",
@@ -935,7 +1414,7 @@
     "id": "https://recogito.pelagios.org/annotation/588867c9-3038-4d97-840a-c9c6efd56993",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/588867c9-3038-4d97-840a-c9c6efd56993.jpg",
+    "thumbnail": "../../thumbnails/588867c9-3038-4d97-840a-c9c6efd56993.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1245465292",
@@ -952,7 +1431,7 @@
     "id": "https://recogito.pelagios.org/annotation/99085cc7-e416-4ce7-9f93-60cce29a7cd6",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/99085cc7-e416-4ce7-9f93-60cce29a7cd6.jpg",
+    "thumbnail": "../../thumbnails/99085cc7-e416-4ce7-9f93-60cce29a7cd6.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3992811822",
@@ -989,7 +1468,7 @@
     "id": "https://recogito.pelagios.org/annotation/756f1597-c76b-4546-98ed-f65daacc733b",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/756f1597-c76b-4546-98ed-f65daacc733b.jpg",
+    "thumbnail": "../../thumbnails/756f1597-c76b-4546-98ed-f65daacc733b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -1030,7 +1509,7 @@
     "id": "https://recogito.pelagios.org/annotation/e769e88e-648d-4751-bb37-2ddc4629b196",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/e769e88e-648d-4751-bb37-2ddc4629b196.jpg",
+    "thumbnail": "../../thumbnails/e769e88e-648d-4751-bb37-2ddc4629b196.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3445780301",
@@ -1059,7 +1538,7 @@
     "id": "https://recogito.pelagios.org/annotation/41b18c53-249f-40aa-af80-c0b5117d56da",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-2",
-    "thumbnail": "/thumbnails/41b18c53-249f-40aa-af80-c0b5117d56da.jpg",
+    "thumbnail": "../../thumbnails/41b18c53-249f-40aa-af80-c0b5117d56da.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -1100,7 +1579,7 @@
     "id": "https://recogito.pelagios.org/annotation/0ac9d13d-77cb-4180-895a-aa083400e2b5",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/0ac9d13d-77cb-4180-895a-aa083400e2b5.jpg",
+    "thumbnail": "../../thumbnails/0ac9d13d-77cb-4180-895a-aa083400e2b5.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2301477931",
@@ -1133,7 +1612,7 @@
     "id": "https://recogito.pelagios.org/annotation/0a048c67-f62f-4fa6-8b2f-c7a3151366b5",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/0a048c67-f62f-4fa6-8b2f-c7a3151366b5.jpg",
+    "thumbnail": "../../thumbnails/0a048c67-f62f-4fa6-8b2f-c7a3151366b5.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3053207960",
@@ -1146,7 +1625,7 @@
     "id": "https://recogito.pelagios.org/annotation/7d9899c7-fe3e-4fdb-83d5-60de41f99b69",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/7d9899c7-fe3e-4fdb-83d5-60de41f99b69.jpg",
+    "thumbnail": "../../thumbnails/7d9899c7-fe3e-4fdb-83d5-60de41f99b69.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1335842648",
@@ -1159,7 +1638,7 @@
     "id": "https://recogito.pelagios.org/annotation/d4b1e7c8-1745-41eb-9b5d-28d6981918e4",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/d4b1e7c8-1745-41eb-9b5d-28d6981918e4.jpg",
+    "thumbnail": "../../thumbnails/d4b1e7c8-1745-41eb-9b5d-28d6981918e4.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1597736316",
@@ -1172,7 +1651,7 @@
     "id": "https://recogito.pelagios.org/annotation/2148ccc2-16da-4e01-bc07-320bf815e0a8",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/2148ccc2-16da-4e01-bc07-320bf815e0a8.jpg",
+    "thumbnail": "../../thumbnails/2148ccc2-16da-4e01-bc07-320bf815e0a8.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1597736316",
@@ -1185,7 +1664,7 @@
     "id": "https://recogito.pelagios.org/annotation/a39ab069-9bea-48d4-a6cb-3094e02e475a",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/a39ab069-9bea-48d4-a6cb-3094e02e475a.jpg",
+    "thumbnail": "../../thumbnails/a39ab069-9bea-48d4-a6cb-3094e02e475a.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2712883067",
@@ -1198,7 +1677,7 @@
     "id": "https://recogito.pelagios.org/annotation/fae5b76a-7371-45a9-b673-bc804417d7af",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/fae5b76a-7371-45a9-b673-bc804417d7af.jpg",
+    "thumbnail": "../../thumbnails/fae5b76a-7371-45a9-b673-bc804417d7af.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4254538884",
@@ -1227,7 +1706,7 @@
     "id": "https://recogito.pelagios.org/annotation/6b138f89-5baf-4dee-aed8-d98ceb57de6f",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/6b138f89-5baf-4dee-aed8-d98ceb57de6f.jpg",
+    "thumbnail": "../../thumbnails/6b138f89-5baf-4dee-aed8-d98ceb57de6f.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/8657474713",
@@ -1248,7 +1727,7 @@
     "id": "https://recogito.pelagios.org/annotation/c4751674-7759-469b-b71a-282e813cde33",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/c4751674-7759-469b-b71a-282e813cde33.jpg",
+    "thumbnail": "../../thumbnails/c4751674-7759-469b-b71a-282e813cde33.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/397870209",
@@ -1261,7 +1740,7 @@
     "id": "https://recogito.pelagios.org/annotation/52717f9a-ab74-4147-ae4b-372c49b97bdf",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/52717f9a-ab74-4147-ae4b-372c49b97bdf.jpg",
+    "thumbnail": "../../thumbnails/52717f9a-ab74-4147-ae4b-372c49b97bdf.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/465678417",
@@ -1274,7 +1753,7 @@
     "id": "https://recogito.pelagios.org/annotation/5d3f887c-ac0d-4d03-a0c3-2bdf17e4bc25",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/5d3f887c-ac0d-4d03-a0c3-2bdf17e4bc25.jpg",
+    "thumbnail": "../../thumbnails/5d3f887c-ac0d-4d03-a0c3-2bdf17e4bc25.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3269212881",
@@ -1287,7 +1766,7 @@
     "id": "https://recogito.pelagios.org/annotation/4c966a6c-dfcb-4889-976b-3aa720889b56",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/4c966a6c-dfcb-4889-976b-3aa720889b56.jpg",
+    "thumbnail": "../../thumbnails/4c966a6c-dfcb-4889-976b-3aa720889b56.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -1320,7 +1799,7 @@
     "id": "https://recogito.pelagios.org/annotation/ea6130a3-0d8b-4429-879f-afe7b058ef5d",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/ea6130a3-0d8b-4429-879f-afe7b058ef5d.jpg",
+    "thumbnail": "../../thumbnails/ea6130a3-0d8b-4429-879f-afe7b058ef5d.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -1349,7 +1828,7 @@
     "id": "https://recogito.pelagios.org/annotation/006df041-eb17-4b4f-84a9-b537cc570762",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/006df041-eb17-4b4f-84a9-b537cc570762.jpg",
+    "thumbnail": "../../thumbnails/006df041-eb17-4b4f-84a9-b537cc570762.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/678702193",
@@ -1374,7 +1853,7 @@
     "id": "https://recogito.pelagios.org/annotation/f1333e58-8da2-4b8c-bcb3-e1c44349bbbf",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/f1333e58-8da2-4b8c-bcb3-e1c44349bbbf.jpg",
+    "thumbnail": "../../thumbnails/f1333e58-8da2-4b8c-bcb3-e1c44349bbbf.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3992811822",
@@ -1395,7 +1874,7 @@
     "id": "https://recogito.pelagios.org/annotation/1aabb47d-3cd0-4510-af7e-c719ddc6f96b",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/1aabb47d-3cd0-4510-af7e-c719ddc6f96b.jpg",
+    "thumbnail": "../../thumbnails/1aabb47d-3cd0-4510-af7e-c719ddc6f96b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1640017418",
@@ -1408,7 +1887,7 @@
     "id": "https://recogito.pelagios.org/annotation/38c1646d-c7a6-49a7-8c44-59a9c5c35bbe",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/38c1646d-c7a6-49a7-8c44-59a9c5c35bbe.jpg",
+    "thumbnail": "../../thumbnails/38c1646d-c7a6-49a7-8c44-59a9c5c35bbe.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/4254538884",
@@ -1441,7 +1920,7 @@
     "id": "https://recogito.pelagios.org/annotation/7fb6f01a-8ba4-4529-9ec3-01c9a5410383",
     "image": "The Bodhisattva watching sleeping women; Preparation for the great departure",
     "slug": "the-bodhisattva-watching-sleeping-women-3",
-    "thumbnail": "/thumbnails/7fb6f01a-8ba4-4529-9ec3-01c9a5410383.jpg",
+    "thumbnail": "../../thumbnails/7fb6f01a-8ba4-4529-9ec3-01c9a5410383.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1245465292",
@@ -1455,10 +1934,463 @@
   },
   {
     "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/eaabbfb7-6694-49d3-892a-645af3d2e4c4",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/eaabbfb7-6694-49d3-892a-645af3d2e4c4.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3712993116",
+        "label": "nagaradevatā (generic deities spirits mythological figures)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3617678015",
+        "label": "kapilavastu (locality)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1070685497",
+        "label": "towered crown (nagaradevatā)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/7549584282",
+        "label": "long garment (clothes and accessories)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/668d3d22-8dd1-44b8-a479-f09a01e9e803",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/668d3d22-8dd1-44b8-a479-f09a01e9e803.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1335842648",
+        "label": "footstool (furniture)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/77f059bf-b0bd-4a63-9d42-5908b493d10b",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/77f059bf-b0bd-4a63-9d42-5908b493d10b.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/69504fc2-f6c2-40c8-ba3e-da2b027ef012",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/69504fc2-f6c2-40c8-ba3e-da2b027ef012.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1809906696",
+        "label": "ceremonial umbrella (symbolic and ritual apparatus)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/baa33540-abda-4b08-ac9e-2e00a32be0e2",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/baa33540-abda-4b08-ac9e-2e00a32be0e2.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1777814046",
+        "label": "siddhārtha (bodhisattva)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1991663911",
+        "label": "ride (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/465678417",
+        "label": "turban (headdress)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3075531859",
+        "label": "right hand raised to chest with palm facing outward fingers extended and held together (one hand gesture)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4177943468",
+        "label": "long necklace with one or multiple strands (long necklace)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b1000f28-6ea3-4161-a069-39cee4337cba",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/b1000f28-6ea3-4161-a069-39cee4337cba.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1245465292",
+        "label": "the bodhisattva watching sleeping women  (the great renunciation)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/503776940",
+        "label": "preparation for the great departure (renunciation to princely life)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3617678015",
+        "label": "kapilavastu (locality)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/12feb45c-fb53-44c6-8f70-8827afbdc019",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/12feb45c-fb53-44c6-8f70-8827afbdc019.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1487763448",
+        "label": "kubera (deities spirits mythological figures)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3561400997",
+        "label": "vaiśravaṇa (human beings)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2121267291",
+        "label": "indra (deities spirits mythological figures)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2747531260",
+        "label": "standing position (body position)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c1a056ca-218f-4200-8625-82e0f89fdeba",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/c1a056ca-218f-4200-8625-82e0f89fdeba.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/4678669915",
+        "label": "vajra (attributes)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/812a9d48-9d60-4c55-be6d-a1f3a6b36a81",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/812a9d48-9d60-4c55-be6d-a1f3a6b36a81.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/8657474713",
+        "label": "kaṇṭhaka (animal characters)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4050802417",
+        "label": "horse (mammals)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/28eaca4a-db4e-4446-a96e-899577f1d5f8",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/28eaca4a-db4e-4446-a96e-899577f1d5f8.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3992811822",
+        "label": "chandaka (human beings)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/ed12a422-53c3-4215-be5e-7221d351a4c6",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/ed12a422-53c3-4215-be5e-7221d351a4c6.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1777814046",
+        "label": "siddhārtha (bodhisattva)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/986425314",
+        "label": "sit (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4177943468",
+        "label": "long necklace with one or multiple strands (long necklace)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/b4765b32-e99f-45a5-ad55-78316d10025d",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/b4765b32-e99f-45a5-ad55-78316d10025d.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/678702193",
+        "label": "bed (furniture)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/824889805",
+        "label": "mattress (bed)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1955745267",
+        "label": "turned leg (bed)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/e1957d5b-1245-4ae7-8b56-b3fa8f835d97",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/e1957d5b-1245-4ae7-8b56-b3fa8f835d97.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1760069348",
+        "label": "yakṣa (generic deities spirits mythological figures)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/143517180",
+        "label": "carry (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c5b0b87f-55db-4c78-b54e-774428e7642f",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/c5b0b87f-55db-4c78-b54e-774428e7642f.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3725714072",
+        "label": "vajrapāṇi (bodhisattva)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d29e9858-de43-4a1c-9d1a-1d3d899c8954",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/d29e9858-de43-4a1c-9d1a-1d3d899c8954.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/2c4b9a23-b038-4244-927e-47477ee9f07c",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/2c4b9a23-b038-4244-927e-47477ee9f07c.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/4108258719",
+        "label": "pillow (bed)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/9c66acf8-8383-44ef-9cd3-a853ac361dd5",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/9c66acf8-8383-44ef-9cd3-a853ac361dd5.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/2629481206",
+        "label": "great departure (renunciation to princely life)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/3617678015",
+        "label": "kapilavastu (locality)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/54f478af-8532-4132-a552-432a2e8ea8b6",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/54f478af-8532-4132-a552-432a2e8ea8b6.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3445780301",
+        "label": "yaśodharā (human beings)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2637100593",
+        "label": "sleep (actions)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/cf76de25-671b-4812-9221-afe5e1d67cf8",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/cf76de25-671b-4812-9221-afe5e1d67cf8.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/933490939",
+        "label": "barrel drum (membranophones)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/52f96196-9570-4ec6-b599-3eaa0c13772b",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/52f96196-9570-4ec6-b599-3eaa0c13772b.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1889534393",
+        "label": "female figure (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2301477931",
+        "label": "musician (generic persons)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4847234474",
+        "label": "drummer (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/1ec533a4-5aae-4b22-9298-5b6bbd30b883",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/1ec533a4-5aae-4b22-9298-5b6bbd30b883.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/1103780412",
+        "label": "barrel drum with v-crossed straps (barrel drum)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/d4e5c7a4-67ab-4004-95a5-3d5e9d22219c",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/d4e5c7a4-67ab-4004-95a5-3d5e9d22219c.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/8657474713",
+        "label": "kaṇṭhaka (animal characters)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/4050802417",
+        "label": "horse (mammals)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/86d6eb15-2eda-4b23-a5d7-3bae1c25df5a",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/86d6eb15-2eda-4b23-a5d7-3bae1c25df5a.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/3992811822",
+        "label": "chandaka (human beings)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/2747531260",
+        "label": "standing position (body position)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/1992503813",
+        "label": "hold (actions)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/9488987530",
+        "label": "paridhāna (clothes and accessories)"
+      },
+      {
+        "id": "https://w3id.org/diga/terms/929338965",
+        "label": "uttarīya (clothes and accessories)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/3dca3f13-de89-445b-a3c2-c42492d70533",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/3dca3f13-de89-445b-a3c2-c42492d70533.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "id": "https://recogito.pelagios.org/annotation/c6d1dee4-ec17-483b-8c3b-9b7a33c35f8a",
+    "image": "The Bodhisattva watching the sleeping women; Preparation for the great departure; The great departure",
+    "slug": "the-bodhisattva-watching-sleeping-women-4",
+    "thumbnail": "../../thumbnails/c6d1dee4-ec17-483b-8c3b-9b7a33c35f8a.jpg",
+    "tags": [
+      {
+        "id": "https://w3id.org/diga/terms/397870209",
+        "label": "male figure (generic persons)"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
     "id": "https://recogito.pelagios.org/annotation/8f0ee8ba-2c28-4ac3-ba0f-740c42326bcd",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/8f0ee8ba-2c28-4ac3-ba0f-740c42326bcd.jpg",
+    "thumbnail": "../../thumbnails/8f0ee8ba-2c28-4ac3-ba0f-740c42326bcd.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2121267291",
@@ -1495,7 +2427,7 @@
     "id": "https://recogito.pelagios.org/annotation/402e447e-30b6-41f7-a231-d65a1ba9127a",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/402e447e-30b6-41f7-a231-d65a1ba9127a.jpg",
+    "thumbnail": "../../thumbnails/402e447e-30b6-41f7-a231-d65a1ba9127a.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1760069348",
@@ -1512,7 +2444,7 @@
     "id": "https://recogito.pelagios.org/annotation/afcddefe-3132-48b2-9dcb-82060affc9ce",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/afcddefe-3132-48b2-9dcb-82060affc9ce.jpg",
+    "thumbnail": "../../thumbnails/afcddefe-3132-48b2-9dcb-82060affc9ce.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/8657474713",
@@ -1537,7 +2469,7 @@
     "id": "https://recogito.pelagios.org/annotation/9efd24ca-5f79-4d52-8f5d-bf269fc88aa7",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/9efd24ca-5f79-4d52-8f5d-bf269fc88aa7.jpg",
+    "thumbnail": "../../thumbnails/9efd24ca-5f79-4d52-8f5d-bf269fc88aa7.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -1574,7 +2506,7 @@
     "id": "https://recogito.pelagios.org/annotation/40dd3986-7029-483e-84f5-525265907622",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/40dd3986-7029-483e-84f5-525265907622.jpg",
+    "thumbnail": "../../thumbnails/40dd3986-7029-483e-84f5-525265907622.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/25274052",
@@ -1599,7 +2531,7 @@
     "id": "https://recogito.pelagios.org/annotation/f62d4193-b3d4-4afc-a61b-0a47dc229f54",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/f62d4193-b3d4-4afc-a61b-0a47dc229f54.jpg",
+    "thumbnail": "../../thumbnails/f62d4193-b3d4-4afc-a61b-0a47dc229f54.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1760069348",
@@ -1616,7 +2548,7 @@
     "id": "https://recogito.pelagios.org/annotation/d7607df8-d228-4f99-bc90-b33cee440696",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/d7607df8-d228-4f99-bc90-b33cee440696.jpg",
+    "thumbnail": "../../thumbnails/d7607df8-d228-4f99-bc90-b33cee440696.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/397870209",
@@ -1629,7 +2561,7 @@
     "id": "https://recogito.pelagios.org/annotation/ded741f2-2cad-42bb-b8be-b7ab2954572f",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/ded741f2-2cad-42bb-b8be-b7ab2954572f.jpg",
+    "thumbnail": "../../thumbnails/ded741f2-2cad-42bb-b8be-b7ab2954572f.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1889534393",
@@ -1650,7 +2582,7 @@
     "id": "https://recogito.pelagios.org/annotation/075ae810-ca00-4b99-85fc-c48ff68df43f",
     "image": "The great departure",
     "slug": "the-great-departure-1",
-    "thumbnail": "/thumbnails/075ae810-ca00-4b99-85fc-c48ff68df43f.jpg",
+    "thumbnail": "../../thumbnails/075ae810-ca00-4b99-85fc-c48ff68df43f.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2629481206",
@@ -1663,7 +2595,7 @@
     "id": "https://recogito.pelagios.org/annotation/3756b3d2-ac8d-41e8-9e07-eadc67fd71ff",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/3756b3d2-ac8d-41e8-9e07-eadc67fd71ff.jpg",
+    "thumbnail": "../../thumbnails/3756b3d2-ac8d-41e8-9e07-eadc67fd71ff.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3992811822",
@@ -1680,7 +2612,7 @@
     "id": "https://recogito.pelagios.org/annotation/6b2100a2-a0c8-4aa0-becc-f3783e83987b",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/6b2100a2-a0c8-4aa0-becc-f3783e83987b.jpg",
+    "thumbnail": "../../thumbnails/6b2100a2-a0c8-4aa0-becc-f3783e83987b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1809906696",
@@ -1693,7 +2625,7 @@
     "id": "https://recogito.pelagios.org/annotation/006de5f7-bfbe-409f-8768-84ac488a9a90",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/006de5f7-bfbe-409f-8768-84ac488a9a90.jpg",
+    "thumbnail": "../../thumbnails/006de5f7-bfbe-409f-8768-84ac488a9a90.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3712993116",
@@ -1718,7 +2650,7 @@
     "id": "https://recogito.pelagios.org/annotation/1e74fb4e-9221-4ce2-a870-8b6f09da2030",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/1e74fb4e-9221-4ce2-a870-8b6f09da2030.jpg",
+    "thumbnail": "../../thumbnails/1e74fb4e-9221-4ce2-a870-8b6f09da2030.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -1735,7 +2667,7 @@
     "id": "https://recogito.pelagios.org/annotation/73498535-4cf7-44d8-858a-69c103032841",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/73498535-4cf7-44d8-858a-69c103032841.jpg",
+    "thumbnail": "../../thumbnails/73498535-4cf7-44d8-858a-69c103032841.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/603559952",
@@ -1748,7 +2680,7 @@
     "id": "https://recogito.pelagios.org/annotation/5b1c5505-e044-4951-9a02-49d963c40b60",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/5b1c5505-e044-4951-9a02-49d963c40b60.jpg",
+    "thumbnail": "../../thumbnails/5b1c5505-e044-4951-9a02-49d963c40b60.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2121267291",
@@ -1781,7 +2713,7 @@
     "id": "https://recogito.pelagios.org/annotation/a8e227e8-ada6-4449-a37b-d736335bf89b",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/a8e227e8-ada6-4449-a37b-d736335bf89b.jpg",
+    "thumbnail": "../../thumbnails/a8e227e8-ada6-4449-a37b-d736335bf89b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/25274052",
@@ -1794,7 +2726,7 @@
     "id": "https://recogito.pelagios.org/annotation/7a7ed79b-bb35-41f8-ac53-838d1dd30b07",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/7a7ed79b-bb35-41f8-ac53-838d1dd30b07.jpg",
+    "thumbnail": "../../thumbnails/7a7ed79b-bb35-41f8-ac53-838d1dd30b07.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1760069348",
@@ -1811,7 +2743,7 @@
     "id": "https://recogito.pelagios.org/annotation/d594d9d6-b9e5-4481-bed2-ce2aaf203246",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/d594d9d6-b9e5-4481-bed2-ce2aaf203246.jpg",
+    "thumbnail": "../../thumbnails/d594d9d6-b9e5-4481-bed2-ce2aaf203246.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/8657474713",
@@ -1840,7 +2772,7 @@
     "id": "https://recogito.pelagios.org/annotation/375cdf9c-5835-4906-8463-99c3d750de5d",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/375cdf9c-5835-4906-8463-99c3d750de5d.jpg",
+    "thumbnail": "../../thumbnails/375cdf9c-5835-4906-8463-99c3d750de5d.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2629481206",
@@ -1853,7 +2785,7 @@
     "id": "https://recogito.pelagios.org/annotation/1df5e97b-9a36-4b5b-965a-de5fd2818fdb",
     "image": "The great departure",
     "slug": "the-great-departure-2",
-    "thumbnail": "/thumbnails/1df5e97b-9a36-4b5b-965a-de5fd2818fdb.jpg",
+    "thumbnail": "../../thumbnails/1df5e97b-9a36-4b5b-965a-de5fd2818fdb.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3127444423",
@@ -2098,7 +3030,7 @@
     "id": "https://recogito.pelagios.org/annotation/fab39461-3037-43d1-91b4-1c9138af4290",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/fab39461-3037-43d1-91b4-1c9138af4290.jpg",
+    "thumbnail": "../../thumbnails/fab39461-3037-43d1-91b4-1c9138af4290.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1809906696",
@@ -2111,7 +3043,7 @@
     "id": "https://recogito.pelagios.org/annotation/14a0ab7c-abd9-47f8-81c3-0dac571070c5",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/14a0ab7c-abd9-47f8-81c3-0dac571070c5.jpg",
+    "thumbnail": "../../thumbnails/14a0ab7c-abd9-47f8-81c3-0dac571070c5.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/397870209",
@@ -2128,7 +3060,7 @@
     "id": "https://recogito.pelagios.org/annotation/8e6a7d60-fd22-4431-aa7c-9af520edce57",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/8e6a7d60-fd22-4431-aa7c-9af520edce57.jpg",
+    "thumbnail": "../../thumbnails/8e6a7d60-fd22-4431-aa7c-9af520edce57.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1777814046",
@@ -2161,7 +3093,7 @@
     "id": "https://recogito.pelagios.org/annotation/e5e317a8-d37a-436d-b4dc-b67016b96939",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/e5e317a8-d37a-436d-b4dc-b67016b96939.jpg",
+    "thumbnail": "../../thumbnails/e5e317a8-d37a-436d-b4dc-b67016b96939.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/3992811822",
@@ -2186,7 +3118,7 @@
     "id": "https://recogito.pelagios.org/annotation/c92f993a-d157-4694-affc-4418f20917a3",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/c92f993a-d157-4694-affc-4418f20917a3.jpg",
+    "thumbnail": "../../thumbnails/c92f993a-d157-4694-affc-4418f20917a3.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1760069348",
@@ -2203,7 +3135,7 @@
     "id": "https://recogito.pelagios.org/annotation/6ba713b0-0b6d-46e8-9b44-0b06e09327c1",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/6ba713b0-0b6d-46e8-9b44-0b06e09327c1.jpg",
+    "thumbnail": "../../thumbnails/6ba713b0-0b6d-46e8-9b44-0b06e09327c1.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/8657474713",
@@ -2224,7 +3156,7 @@
     "id": "https://recogito.pelagios.org/annotation/8f09cdca-3ccc-4f82-acb4-5f662003c8c8",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/8f09cdca-3ccc-4f82-acb4-5f662003c8c8.jpg",
+    "thumbnail": "../../thumbnails/8f09cdca-3ccc-4f82-acb4-5f662003c8c8.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/2629481206",
@@ -2249,7 +3181,7 @@
     "id": "https://recogito.pelagios.org/annotation/01479441-7af6-43a3-abf2-e75a852f0e8b",
     "image": "The great departure",
     "slug": "the-great-departure-4",
-    "thumbnail": "/thumbnails/01479441-7af6-43a3-abf2-e75a852f0e8b.jpg",
+    "thumbnail": "../../thumbnails/01479441-7af6-43a3-abf2-e75a852f0e8b.jpg",
     "tags": [
       {
         "id": "https://w3id.org/diga/terms/1760069348",
