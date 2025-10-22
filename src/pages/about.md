@@ -5,7 +5,7 @@ layout: ../layouts/PageLayoutAbout.astro
 
 ## Who We Are:
 
-**A-TAG** (**A**śvaghoṣa’s **T**exts and Buddhist **A**rt from **G**andhāra) is a digital humanities initiative integrating the perspectives of textual scholars and art historians. Initiated in 2021, **A-TAG** is the result of collaboration between scholars from [CERES](https://ceres.rub.de/), Ruhr University Bochum (led by [Fredrik Elwert](https://ceres.rub.de/en/person/frederik-elwert/) and [Jessie Pons](https://ceres.rub.de/en/person/jessie-pons/)) and of "Aśvaghoṣa’s World," an Israel Science Foundation (ISF)  project at Tel Aviv University (led by [Roy Tzohar](https://roytzohar.sites.tau.ac.il/), with Abigail Penn Levy and Inbar Maor); with the technical leadership of [Rainer Simon](https://rainersimon.io), former lead developer of the Recogito annotation platform, who designed and constructed this website.
+**A-TAG** (**A**śvaghoṣa’s **T**exts and Buddhist **A**rt from **G**andhāra) is a digital humanities initiative integrating the perspectives of textual scholars and art historians. Initiated in 2021, **A-TAG** is the result of collaboration between scholars from [CERES](https://ceres.rub.de/), Ruhr University Bochum (led by [Frederik Elwert](https://ceres.rub.de/en/person/frederik-elwert/) and [Jessie Pons](https://ceres.rub.de/en/person/jessie-pons/)) and of "Aśvaghoṣa’s World," an Israel Science Foundation (ISF)  project at Tel Aviv University (led by [Roy Tzohar](https://roytzohar.sites.tau.ac.il/), with Abigail Penn Levy and Inbar Maor); with the technical leadership of [Rainer Simon](https://rainersimon.io), former lead developer of the Recogito annotation platform, who designed and constructed this website.
 
 ## What It Does:
 
