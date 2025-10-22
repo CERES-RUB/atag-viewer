@@ -60,7 +60,7 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
     tileSources: props.image.format === 'IIIF' 
       ? props.image.manifest : { 
         type: 'image',
-        url: `/images/${props.image.slug}.jpg`
+        url: `../../images/${props.image.slug}.jpg`
       },
     gestureSettingsMouse: {
       clickToZoom: false

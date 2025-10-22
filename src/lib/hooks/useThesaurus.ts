@@ -6,7 +6,7 @@ export const useThesaurus = () => {
   const [tags, setTags] = useState<Tag[] | undefined>();
 
   useEffect(() => {
-    fetch('/thesaurus/all-concepts.json')
+    fetch('../../thesaurus/all-concepts.json')
     .then(res => res.json())
     .then(terms => {
       const tags = terms

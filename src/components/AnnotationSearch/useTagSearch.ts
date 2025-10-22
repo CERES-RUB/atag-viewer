@@ -38,7 +38,7 @@ const buildTagIndexFromAnnotations = (annotations: Annotation[]) => {
 }
 
 const buildTagIndexFromThesaurus = () =>
-  fetch('/thesaurus/all-concepts-compact.json')
+  fetch('../../thesaurus/all-concepts-compact.json')
     .then(res => res.json())
     .then(labels => {
       labels.sort();
