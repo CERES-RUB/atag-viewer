@@ -58,7 +58,7 @@ export const RelatedImages = (props: RelatedImagesProps) => {
       // Image-level metadata
       return annotation.slug === props.currentSlug 
         ? '#' // Should never happen
-        : `/image/${annotation.slug}`;
+        : `../../image/${annotation.slug}`;
     }
   }
 
