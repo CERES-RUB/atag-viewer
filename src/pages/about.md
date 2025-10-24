@@ -34,48 +34,49 @@ Our aim is not to argue for a direct influence between the _Buddhacarita_ and Ga
 
 **Bibliography**
 
-Autiero, Serena, Elwert, Frederik, Moscatelli, Cristriano, and Pons, Jessie. 2023. "The Seven Steps: Building the DiGA Thesaurus". Journal of Open Humanities Data, 9/1. 
+Autiero, Serena, Elwert, Frederik, Moscatelli, Cristriano, and Pons, Jessie. 2023. "The Seven Steps: Building the DiGA Thesaurus". _Journal of Open Humanities Data_, 9/1. 
 
 Brancaccio, Pia. 2021. “The Narrative of the Buddha’s Life in Gandharan Art”, lecture held at the Tang Center for Silk Road Studies, UC Berkeley, 21 February 2021.
 
-Dehejia, Vidya. 1997. Discourses in Early Buddhist Art, Visual Narratives of India, New Delhi: Munshiram Manoharlal.
+Dehejia, Vidya. 1997. _Discourses in Early Buddhist Art, Visual Narratives of India_, New Delhi: Munshiram Manoharlal.
 
-Ducœur, Guillaume, 2014. “Le bodhisattva à la salle d’écriture: Histoire rédactionnelle et datation”. Revue de l’Histoire des religions, 231/3: 385–414.
+Ducœur, Guillaume, 2014. “Le bodhisattva à la salle d’écriture: Histoire rédactionnelle et datation”. _Revue de l’Histoire des religions, 231/3: 385–414.
 
 Elwert, Tzohar, Pons et al., forthcoming. A-TAG (Asvghosa and Buddhist Art form Gandhara) Digital Tool: Exploring Narrative Traditions through the Analysis of Text-image Relations.
 
-Faccenna, Domenico and Filigenzi, Anna. 2007. Repertorio terminologico per la schedatura delle sculture dell’arte gandharica – Sulla base dei materiali provenienti dagli scavi della Missione Archeologica Italiana dell’IsIAO nello Swat, Pakistan. Rome: IsIAO.
+Faccenna, Domenico and Filigenzi, Anna. 2007. _Repertorio terminologico per la schedatura delle sculture dell’arte gandharica – Sulla base dei materiali provenienti dagli scavi della Missione Archeologica Italiana dell’IsIAO nello Swat, Pakistan_. Rome: IsIAO.
 
-Falk, Harry. 2001. “The yuga of Sphujiddhvaja and the era of the Kushânas”. Silk Road and Archaeology, 7: 121–136.
+Falk, Harry. 2001. “The yuga of Sphujiddhvaja and the era of the Kushânas”. _Silk Road and Archaeology_, 7: 121–136.
 
-Filigenzi, Anna. 2003. “Narrative Art in Gandhara”. Ancient Civilizations from Scythia to Siberia, 9/3-4: 350–380.d
+Filigenzi, Anna. 2003. “Narrative Art in Gandhara”. _Ancient Civilizations from Scythia to Siberia_, 9/3-4: 350–380.d
 
-Johnston, E. H. 1935–1936/rep 1984. Aśvaghoṣa’s Buddhacarita or Acts of the Buddha (in three parts: Sanskrit Text of Cantos I–XIV with English Translation of Cantos I–XXVIII, Cantos I to XIV translated from the Original Sanskrit supplemented by the Tibetan Version and Cantos XV to XXVIII from the Tibetan and Chinese Versions. Delhi: Motilal Banarsidass.
+Johnston, E. H. 1935–1936/rep 1984. _Aśvaghoṣa’s Buddhacarita or Acts of the Buddha (in three parts: Sanskrit Text of Cantos I–XIV with English Translation of Cantos I–XXVIII, Cantos I to XIV translated from the Original Sanskrit supplemented by the Tibetan Version and Cantos XV to XXVIII from the Tibetan and Chinese Versions_. Delhi: Motilal Banarsidass.
 
-Lamotte, Etienne. 1988. History of Indian Buddhism: from the origins to the Śaka era. Translated from the French by Sara Webb-Boin. Publications de l’Institut Orientaliste de Louvain, 36. Louvain, Paris: Peters Press.
+Lamotte, Etienne. 1988. _History of Indian Buddhism: from the origins to the Śaka era_. Translated from the French by Sara Webb-Boin. Publications de l’Institut Orientaliste de Louvain, 36. Louvain, Paris: Peters Press.
 
-Lévi, Sylvain. 1908. “Açvaghoṣa, le Sûtrâlaṃkâra et ses sources”. Journal Asiatique 10e Série, 12 (juillet-août): 57–184.
-Lüders, Heinrich. 1911. Bruchstücke buddhistischer Dramen, Berlin. 
+Lévi, Sylvain. 1908. “Açvaghoṣa, le Sûtrâlaṃkâra et ses sources”. _Journal Asiatique_ 10e Série, 12 (juillet-août): 57–184.
 
-Olivelle, Patric. 2008. Life of the Buddha by Aśvaghoṣa. New York 2008: New York University Press/JJC Foundation (The Clay Sanskrit Library).
+Lüders, Heinrich. 1911. _Bruchstücke buddhistischer Dramen_, Berlin. 
 
-Ollett, Andrew. 2019. "Making It Nice: Kāvya in the Second Century." Journal of Indian Philosophy 47/2: 269–287.
+Olivelle, Patric. 2008. _Life of the Buddha by Aśvaghoṣa_. New York 2008: New York University Press/JJC Foundation (The Clay Sanskrit Library).
 
-Salomon, Richard. 1990. “New Evidence for a Gāndhārī Origin of the Arapacana syllabary”. Journal of the American Oriental Society, 110/2: 255–273.
+Ollett, Andrew. 2019. "Making It Nice: Kāvya in the Second Century." _Journal of Indian Philosophy_ 47/2: 269–287.
 
-Salomon, Richard. 1993. “An Additional Note on Arapacana”. Journal of the American Oriental Society, 113/2: 275–276.
+Salomon, Richard. 1990. “New Evidence for a Gāndhārī Origin of the Arapacana syllabary”. _Journal of the American Oriental Society_, 110/2: 255–273.
 
-Salomon, Richard. 2015. Narratives and long poetry: Aśvaghoṣa. Brill’s encyclopedia of Buddhism. Vol. I: Literature and Languages. Leiden: Brill (Handbook of Oriental Studies, II, 29/1), 507a–514b.
+Salomon, Richard. 1993. “An Additional Note on Arapacana”. _Journal of the American Oriental Society_, 113/2: 275–276.
 
-Schulz, Robert. 2022. “Aśvaghoṣa Between Gandhara and Kucha: The Śāriputraprakaraṇa and Its Narrative Expression in a Forgotten Slab from Mount Karamar”. Acta Orientalia Academia Scientiarum Hungaricae, 75/4: 515–547.
+Salomon, Richard. 2015. Narratives and long poetry: Aśvaghoṣa. _Brill’s encyclopedia of Buddhism. Vol. I: Literature and Languages_. Leiden: Brill (Handbook of Oriental Studies, II, 29/1), 507a–514b.
 
-Taddei, Maurizio. 1997. “Oral narrative, visual narrative, literary narrative in Ancient Buddhist India”. In: Cadonna, Alfredo (ed.), India, Tibet, China, genesis and aspects of traditional narrative, Proceedings of a conference in Venice, Venezia e l’Oriente, Istituto Venezia e l’Oriente, Florence: Orientalia Venetiana, 71–85.
+Schulz, Robert. 2022. “Aśvaghoṣa Between Gandhara and Kucha: The Śāriputraprakaraṇa and Its Narrative Expression in a Forgotten Slab from Mount Karamar”. _Acta Orientalia Academia Scientiarum Hungaricae_, 75/4: 515–547.
 
-Taddei, Maurizio. 2003. “Arte Narrativa tra India e Mondo Ellenistico”. In: Verardi Giovanni and Filigenzi, Anna (ed.), On Gandhara, Collected Articles, Naples: Università degli Studi di Napoli “L’Orientale”, vol. 2, 335–380.
+Taddei, Maurizio. 1997. “Oral narrative, visual narrative, literary narrative in Ancient Buddhist India”. In: Cadonna, Alfredo (ed.), _India, Tibet, China, genesis and aspects of traditional narrative, Proceedings of a conference in Venice, Venezia e l’Oriente, Istituto Venezia e l’Oriente_, Florence: Orientalia Venetiana, 71–85.
 
-Tournier, Vincent and Strong, John. 2019. “Śākyamuni: South Asia (Introduction &) Part II: Śākyamuni and the Hagiographic Process”, in: Silk Jonathan (ed.), Encyclopedia of Buddhism, volume II — Lives, Leiden: Brill, 3–38.
+Taddei, Maurizio. 2003. “Arte Narrativa tra India e Mondo Ellenistico”. In: Verardi Giovanni and Filigenzi, Anna (ed.), _On Gandhara, Collected Articles_, Naples: Università degli Studi di Napoli “L’Orientale”, vol. 2, 335–380.
 
-Zin, Monika. 2006. Mitleid und Wunderkraft. Schwierige Bekehrungen und ihre Ikonographie im indischen, Buddhismus. Wiesbaden: Harrassowitz.
+Tournier, Vincent and Strong, John. 2019. “Śākyamuni: South Asia (Introduction &) Part II: Śākyamuni and the Hagiographic Process”, in: Silk Jonathan (ed.), _Encyclopedia of Buddhism, volume II_ — Lives, Leiden: Brill, 3–38.
+
+Zin, Monika. 2006. _Mitleid und Wunderkraft. Schwierige Bekehrungen und ihre Ikonographie im indischen, Buddhismus_. Wiesbaden: Harrassowitz.
 
 ## Development and Methodology:
 
