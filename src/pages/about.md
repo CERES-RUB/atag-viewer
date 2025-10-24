@@ -24,7 +24,7 @@ Buddhist traditional sources link Aśvaghoṣa to Kaniṣka, a patron of Buddhis
 
 For the current, initial phase of the project, Aśvaghoṣa’s works and Gandharan art provide particularly suitable materials for comparison, both for practical and structural reasons. First, Aśvaghoṣa’s writings are the earliest extant examples of extensive Sanskrit poetry (_mahākāvya_) as well as early Buddhist drama. While they offer a rich source of information on Buddhist themes, they are relatively limited in number, unified in authorial voice and style, and therefore more manageable for a consistent tagging procedure.
 
-Second, Aśvaghoṣa’s _Buddhacarita_ constitutes a rare example of a self-contained Buddha biography, recounting his life in full from conception to the division of relics, and standing in contrast to "incomplete" biographies such as the _Lalitavistara_, the _Mahāvastu_ or the _Nidānakathā_ (Lamotte 1958; Strong & Tournier 2019). In addition, the _Buddhacarita_’s strict narrative sequencing contrasts with the more fragmentary and interwoven storytelling techniques characteristic of other corpora, such as the Vinayas (von Hinüber 1996).
+Second, Aśvaghoṣa’s _Buddhacarita_ constitutes a rare example of a self-contained Buddha biography, recounting his life in full from conception to the division of relics, and standing in contrast to "incomplete" biographies such as the _Lalitavistara_, the _Mahāvastu_ or the _Nidānakathā_ (Lamotte 1958; Strong & Tournier 2019). In addition, the _Buddhacarita_’s strict narrative sequencing contrasts with the more fragmentary and interwoven storytelling techniques characteristic of other corpora, such as the Vinayas.
 
 As scholars have noted, this comprehensive and sequential narrative arc offers a strong parallel to Gandharan art, which likewise marks an important stage in the establishment of a "reasoned" hagiography (Taddei 1999; 2003; Filigenzi 2003). So for instance, the arrangement of episodes in a chronological sequence unfolding from right to left around stūpas in Gandhara represents a mode of narration distinct from earlier Buddhist art traditions at Sanchi, Bharhut, and in the Andhra region (although not all Gandharan stūpas, it should be noted, aimed at a complete narration of the Buddha’s life, nor was a chronological order the only logic governing the scenes). 
 
@@ -34,27 +34,48 @@ Our aim is not to argue for a direct influence between the _Buddhacarita_ and Ga
 
 **Bibliography**
 
-Brancaccio, Pia, 2021. "The Narrative of the Buddha’s Life in Gandharan Art", lecture held at the Tang Center for Silk Road Studies, UC Berkeley, 21 February 2021. 
+Autiero, Serena, Elwert, Frederik, Moscatelli, Cristriano, and Pons, Jessie. 2023. "The Seven Steps: Building the DiGA Thesaurus". Journal of Open Humanities Data, 9/1. 
 
-Dehejia, Vidya. 1997. _Discourses in Early Buddhist Art, Visual Narratives of India_, New Delhi: Munshiram Manoharlal.
+Brancaccio, Pia. 2021. “The Narrative of the Buddha’s Life in Gandharan Art”, lecture held at the Tang Center for Silk Road Studies, UC Berkeley, 21 February 2021.
 
-Ducœur, Guillaume, 2014. "Le bodhisattva à la salle d’écriture: Histoire rédactionnelle et datation". _Revue de l’Histoire des religions_, 231/3: 385-414.
+Dehejia, Vidya. 1997. Discourses in Early Buddhist Art, Visual Narratives of India, New Delhi: Munshiram Manoharlal.
 
-Filigenzi, Anna. 2003. "Narrative Art in Gandhara". _Ancient Civilizations from Scythia to Siberia_, 9/3-4: 350-380.
+Ducœur, Guillaume, 2014. “Le bodhisattva à la salle d’écriture: Histoire rédactionnelle et datation”. Revue de l’Histoire des religions, 231/3: 385–414.
 
-Salomon, Richard, 1990. "New Evidence for a Gāndhārī Origin of the Arapacana Syllabary". _Journal of the American Oriental Society_, 110/2: 255-273.
+Elwert, Tzohar, Pons et al., forthcoming. A-TAG (Asvghosa and Buddhist Art form Gandhara) Digital Tool: Exploring Narrative Traditions through the Analysis of Text-image Relations.
 
-Salomon, Richard, 1993. "An Additional Note on Arapacana". _Journal of the American Oriental Society_, 113/2: 275-276.
+Faccenna, Domenico and Filigenzi, Anna. 2007. Repertorio terminologico per la schedatura delle sculture dell’arte gandharica – Sulla base dei materiali provenienti dagli scavi della Missione Archeologica Italiana dell’IsIAO nello Swat, Pakistan. Rome: IsIAO.
 
-Schulz, Robert, 2022. "Aśvaghoṣa Between Gandhara and Kucha: The Śāriputraprakaraṇa and Its Narrative Expression in a Forgotten Slab from Mount Karamar". _Acta Orientalia Academia Scientiarum Hungaricae_, 75/4: 515-547.
+Falk, Harry. 2001. “The yuga of Sphujiddhvaja and the era of the Kushânas”. Silk Road and Archaeology, 7: 121–136.
 
-Taddei, Maurizio. 1997. "Oral narrative, visual narrative, literary narrative in Ancient Buddhist India". In: Cadonna, Alfredo (ed.), _India, Tibet, China, genesis and aspects of traditional narrative, Proceedings of a conference in Venice, Venezia e l’Oriente, Istituto Venezia e l’Oriente_, Florence: Orientalia Venetiana, 71-85.
- 
-Taddei, Maurizio. 2003. "Arte Narrativa tra India e Mondo Ellenistico". In: Verardi Giovanni and Filigenzi, Anna (ed.), _On Gandhara, Collected Articles_, Naples: Università degli Studi di Napoli “L'Orientale”, vol. 2, 335-380.
+Filigenzi, Anna. 2003. “Narrative Art in Gandhara”. Ancient Civilizations from Scythia to Siberia, 9/3-4: 350–380.d
 
-Tournier, Vincent and Strong, John, 2019. "Śākyamuni : South Asia (Introduction &) Part II : Śākyamuni and the Hagiographic Process", in: Silk Jonathan (ed.), _Encyclopedia of Buddhism, volume II — Lives_, Leiden: Brill, 3-38.
+Johnston, E. H. 1935–1936/rep 1984. Aśvaghoṣa’s Buddhacarita or Acts of the Buddha (in three parts: Sanskrit Text of Cantos I–XIV with English Translation of Cantos I–XXVIII, Cantos I to XIV translated from the Original Sanskrit supplemented by the Tibetan Version and Cantos XV to XXVIII from the Tibetan and Chinese Versions. Delhi: Motilal Banarsidass.
 
-Zin, Monika. 2006. _Mitleid und Wunderkraft. Schwierige Bekehrungen und ihre Ikonographie im indischen, Buddhismus_. Wiesbaden: Harrassowitz
+Lamotte, Etienne. 1988. History of Indian Buddhism: from the origins to the Śaka era. Translated from the French by Sara Webb-Boin. Publications de l’Institut Orientaliste de Louvain, 36. Louvain, Paris: Peters Press.
+
+Lévi, Sylvain. 1908. “Açvaghoṣa, le Sûtrâlaṃkâra et ses sources”. Journal Asiatique 10e Série, 12 (juillet-août): 57–184.
+Lüders, Heinrich. 1911. Bruchstücke buddhistischer Dramen, Berlin. 
+
+Olivelle, Patric. 2008. Life of the Buddha by Aśvaghoṣa. New York 2008: New York University Press/JJC Foundation (The Clay Sanskrit Library).
+
+Ollett, Andrew. 2019. "Making It Nice: Kāvya in the Second Century." Journal of Indian Philosophy 47/2: 269–287.
+
+Salomon, Richard. 1990. “New Evidence for a Gāndhārī Origin of the Arapacana syllabary”. Journal of the American Oriental Society, 110/2: 255–273.
+
+Salomon, Richard. 1993. “An Additional Note on Arapacana”. Journal of the American Oriental Society, 113/2: 275–276.
+
+Salomon, Richard. 2015. Narratives and long poetry: Aśvaghoṣa. Brill’s encyclopedia of Buddhism. Vol. I: Literature and Languages. Leiden: Brill (Handbook of Oriental Studies, II, 29/1), 507a–514b.
+
+Schulz, Robert. 2022. “Aśvaghoṣa Between Gandhara and Kucha: The Śāriputraprakaraṇa and Its Narrative Expression in a Forgotten Slab from Mount Karamar”. Acta Orientalia Academia Scientiarum Hungaricae, 75/4: 515–547.
+
+Taddei, Maurizio. 1997. “Oral narrative, visual narrative, literary narrative in Ancient Buddhist India”. In: Cadonna, Alfredo (ed.), India, Tibet, China, genesis and aspects of traditional narrative, Proceedings of a conference in Venice, Venezia e l’Oriente, Istituto Venezia e l’Oriente, Florence: Orientalia Venetiana, 71–85.
+
+Taddei, Maurizio. 2003. “Arte Narrativa tra India e Mondo Ellenistico”. In: Verardi Giovanni and Filigenzi, Anna (ed.), On Gandhara, Collected Articles, Naples: Università degli Studi di Napoli “L’Orientale”, vol. 2, 335–380.
+
+Tournier, Vincent and Strong, John. 2019. “Śākyamuni: South Asia (Introduction &) Part II: Śākyamuni and the Hagiographic Process”, in: Silk Jonathan (ed.), Encyclopedia of Buddhism, volume II — Lives, Leiden: Brill, 3–38.
+
+Zin, Monika. 2006. Mitleid und Wunderkraft. Schwierige Bekehrungen und ihre Ikonographie im indischen, Buddhismus. Wiesbaden: Harrassowitz.
 
 ## Development and Methodology:
 
