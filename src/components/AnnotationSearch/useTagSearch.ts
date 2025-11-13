@@ -81,6 +81,7 @@ export const useTagSearch = (annotations: Annotation[], mode: 'FROM_ANNOTATIONS'
     }).filter(d => d.tags.length > 0);
 
     return new Fuse<FuseAnnotationDocument>(documents, { 
+      ignoreLocation: true,
       keys: ['tags.normalized'],
       shouldSort: true,
       threshold: 0
