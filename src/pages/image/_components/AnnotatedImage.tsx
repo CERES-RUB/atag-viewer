@@ -100,8 +100,11 @@ export const AnnotatedImage = (props: AnnotatedImageProps) => {
   }, [props.searchResults]);
 
   useEffect(() => {
-    if (props.highlightedSearchResult)
-      anno.setSelected(props.highlightedSearchResult.id);
+    if (props.highlightedSearchResult) {
+      anno?.setSelected(props.highlightedSearchResult.id);
+    } else {
+      anno?.cancelSelected();
+    }
   }, [props.highlightedSearchResult]);
 
   return (

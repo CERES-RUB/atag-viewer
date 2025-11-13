@@ -14,7 +14,7 @@ interface AnnotationSearchProps {
 
   onClear(): void;
 
-  onHighlightResult(a: Annotation): void;
+  onHighlightResult(a?: Annotation): void;
 
   onSearch(hits: Annotation[]): void;
 
@@ -72,10 +72,12 @@ export const AnnotationSearch = (props: AnnotationSearchProps) => {
   }, [query, props.sorter]);
 
   useEffect(() => {
-    if (!highlightedIdx || !hits) return;
-
-    const annotation = hits[highlightedIdx - 1];
-    props.onHighlightResult(annotation);
+    if (!highlightedIdx || !hits) {
+      props.onHighlightResult();
+    } else {
+      const annotation = hits[highlightedIdx - 1];
+      props.onHighlightResult(annotation);
+    }
   }, [hits, highlightedIdx]);
 
   const onStep = (inc: number) => {

@@ -83,8 +83,10 @@ export const AnnotatedVerse = (props: AnnotatedVerseProps) => {
 
   useEffect(() => {
     if (props.highlightedSearchResult) {
-      anno.setSelected(props.highlightedSearchResult.id);
-      anno.scrollIntoView(props.highlightedSearchResult);
+      anno?.setSelected(props.highlightedSearchResult.id);
+      anno?.scrollIntoView(props.highlightedSearchResult);
+    } else {
+      anno?.cancelSelected();
     }
   }, [props.highlightedSearchResult]);
 
